@@ -1,0 +1,142 @@
+
+
+
+window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app40.us.archive.org';v.server_ms=905;archive_analytics.send_pageview({});});
+
+__wbhack.init('https://web.archive.org/web');
+
+
+
+
+SCW
+
+
+
+
+
+
+
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+
+
+
+
+
+
+
+
+
+
+success
+fail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feb
+NOV
+Nov
+
+
+
+
+03
+
+
+
+
+2011
+2012
+2013
+
+
+
+
+
+
+
+
+27 captures
+07 Nov 2005 - 03 Jul 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+ About this capture
+
+
+
+COLLECTED BY
+
+
+
+		Organization: Alexa Crawls
+
+
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+
+
+
+Collection: Alexa Crawls
+
+
+	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	
+
+
+TIMESTAMPS
+
+
+
+
+
+__wm.bt(575,27,25,2,"web","http://www.scientific-computing.com/scwmayjun03computingmachines.html","2012-11-03",1996);
+
+
+This page has moved.
+If you haven't been automatically redirected, please click here.
+
+

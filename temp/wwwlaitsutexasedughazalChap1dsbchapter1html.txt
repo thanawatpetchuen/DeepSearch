@@ -1,0 +1,678 @@
+<html>
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app40.us.archive.org';v.server_ms=826;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1524808784.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1524808784.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1524808784.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Generator" content="Microsoft Word 97/98">
+   <meta name="GENERATOR" content="Mozilla/4.05 (Macintosh; I; PPC) [Netscape]">
+   <title>Chapter 1</title>
+</head>
+<body background="/web/20120130084757im_/http://www.laits.utexas.edu/ghazal/Chap1/dsb/tan_paper.gif"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1524808784.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1524808784.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1524808784.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1524808784.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('http://www.laits.utexas.edu/ghazal/Chap1/dsb/chapter1.html', '20120130084757')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20120130084757/http://www.laits.utexas.edu/ghazal/Chap1/dsb/chapter1.html', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20120130084757/http://www.laits.utexas.edu/ghazal/Chap1/dsb/chapter1.html&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.laits.utexas.edu/ghazal/Chap1/dsb/chapter1.html" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20120130084757" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20110928220449/http://www.laits.utexas.edu/ghazal/Chap1/dsb/chapter1.html" title="28 Sep 2011"><strong>Sep</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 08:47:57 Jan 30, 2012">JAN</td>
+		  <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20130627041051/http://www.laits.utexas.edu/ghazal/Chap1/dsb/chapter1.html" title="27 Jun 2013"><strong>Jun</strong></a></td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20110928220449/http://www.laits.utexas.edu/ghazal/Chap1/dsb/chapter1.html" title="22:04:49 Sep 28, 2011"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 08:47:57 Jan 30, 2012">30</td>
+		  <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20130627041051/http://www.laits.utexas.edu/ghazal/Chap1/dsb/chapter1.html" title="04:10:51 Jun 27, 2013"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2011</td>
+		  <td class="c" id="displayYearEl" title="You are here: 08:47:57 Jan 30, 2012">2012</td>
+		  <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20130627041051/http://www.laits.utexas.edu/ghazal/Chap1/dsb/chapter1.html" title="27 Jun 2013"><strong>2013</strong></a></td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20120130084757*/http://www.laits.utexas.edu/ghazal/Chap1/dsb/chapter1.html" title="See a list of every capture for this URL">17 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">28 Sep 2011 - 06 Jan 2017</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/webwidecrawl);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/webwidecrawl" target="_new"><span class="wm-title">Internet Archive</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the <a href="http://archive.org/web/web.php">Wayback Machine</a>.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/wide00004)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/wide00004" target="_new"><span class="wm-title">Wide Crawl started January 2012</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Web wide crawl with initial seedlist and crawler configuration from January 2012 using HQ software.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","http://www.laits.utexas.edu/ghazal/Chap1/dsb/chapter1.html","2012-01-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+<center><img src="/web/20120130084757im_/http://www.laits.utexas.edu/ghazal/Chap1/dsb/rule13.gif" border="0" height="22" width="680"></center>
+
+<center><b><font face="Times"><font size="+3">TOKENS: THE COGNITIVE SIGNIFICANCE</font></font></b></center>
+
+<center><img src="/web/20120130084757im_/http://www.laits.utexas.edu/ghazal/Chap1/dsb/rule13.gif" border="0" height="22" width="680"></center>
+
+<center><font face="Times"><font size="+2">Denise Schmandt-Besserat</font></font></center>
+
+<blockquote>
+<dt>
+<font face="Times"><font size="+1"><i>The article was delivered in Ljubljana,
+Slovenia, at the 6<sup>th</sup> Neolithic Studies conference in May1998.
+It is published in <u>Documenta Praehistorica </u>Vol. XXVI, 1999, p.</i></font></font></dt>
+</blockquote>
+<font face="Times"><font size="+2">I</font><font size="+1">n the fifties, Marshall
+McLuhan of the University of Toronto alerted the world that media are not
+passive conduits of information but deeply affect the human mind. He made
+a compelling case that "the medium is the message" by demonstrating that
+writing and oral communication required, and therefore instigated, the
+creation of different cognitive skills (McLuhan 1962. 27-39; 1964. 81-90;
+Moos 1997). Following in McLuhanís footsteps, I argue that the token system,
+a Neolithic medium of communication, provoked profound cognitive changes
+(Schmandt-Besserat 1992.1996)</font></font>
+<br>&nbsp;
+
+<p><b><font face="Times"><font size="+2">I. The Token System: A Neolithic
+Medium Of Communication</font></font></b>
+<br><font face="Times"><font size="+2">T</font><font size="+1">okens are recovered
+in Middle Eastern archaeological sites dating 8000-3000 BC, from Syria
+to Persia and from Anatolia to Palestine as well as in parts of Eurasia
+ca 5000-4000 BC (Budja 1998). These clay artifacts, about 1-2 cm across,
+are modeled in multiple shapes. Some have geometric forms such as cones,
+spheres, disks, cylinders, tetrahedrons, ovoids, triangles and quadrangles
+(<a href="fig1.jpg">Fig.1</a>). Others take naturalistic shapes such as
+miniature animal heads, vessels, tools and furniture (<a href="fig2.jpg">Fig.
+2</a>). Many bear markings in the form of incised lines (Schmandt-Besserat
+1996. 15-20) (<a href="fig3.jpg">Fig.3</a>).</font></font>
+
+<p><font face="Times"><font size="+1">Tokens were counters used to keep track
+of goods with each token form standing for one specific unit of a commodity.
+For example, a cone and a sphere represented respectively a small and a
+large measure of grain (Fig. 1) and a disk with an incised cross, a sheep
+(Fig. 3). The number of units of merchandise was shown in one-to-one correspondence.
+In other words, two small units of grain were shown with two cones, three
+cones stood for three small units of grain, and so on. It is now well established
+that, in the fourth millennium BC, the tokens were an accounting device
+used by the Mesopotamian temple administration to record entries or expenditures
+of goods offered by worshippers during monthly religious festivals. Presumably,
+their function was similar in prehistory, when they served to collect and
+administer communal goods and, as such, were the backbone of a redistribution
+economy (Schmandt-Besserat 1992. 170-183).</font></font>
+
+<p><font face="Times"><font size="+1">The token system was a medium of communication.
+(Schmandt-Besserat 1992. 161-165). Each counter can be termed an "ideogram"
+or sign standing for a concept ó a unit of merchandise. There was moreover
+not only one type of token carrying a discrete meaning but an entire repertory
+of interrelated types of tokens, each with a corresponding discrete meaning.
+The tokens, therefore, represent the earliest non-verbal code, or sign
+system for transmitting economic information. The token system is furthermore
+the immediate forerunner of the first writing system, the Mesopotamian
+cuneiform script. The transition from counters to script occurred about
+3300 BC when tokens, probably representing a debt, were stored in an envelope
+until payment. These envelopes in the shape of a hollow clay ball hid the
+tokens held inside. The accountants, therefore, impressed the tokens on
+the surface of the envelope before enclosing them, so that the shape and
+number of counters could be checked at all times without breaking the envelope
+(<a href="fig4.jpg">Fig. 4</a>). The cones and spheres, representing measures
+of grain, for example, appeared respectively as wedge-shaped and circular
+impressed markings. About 3200 BC, once the system of impressed signs was
+understood, clay tablets - solid cushion-shaped clay artifacts bearing
+the impressions of tokens - replaced the token-filled envelopes (<a href="fig5.jpg">Fig.
+5</a>). At that point, the three-dimensional tokens had been replaced by
+two-dimensional impressed signs, that conveyed the same meaning.</font></font>
+
+<p><font face="Times"><font size="+1">For the first three to five hundred
+years, writing continued in the wake of tokens. It is only about 2700 BC
+that, finally, the cuneiform script broke away from its forerunner to emulate
+spoken language. Writing borrowed the syntax of speech and, as a result,
+texts were no longer restricted to itemizing goods but opened to various
+fields of human experience. Progressively it became phonetic (Roch Lecours
+1995. 219). Logograms, referring to the sound of monosyllabic words, gave
+way to syllabograms representing fragments of words. Finally, after the
+invention of the alphabet, about 1500 BC, letters reached the ultimate
+segmentation of sound (Tzeng, Hung1981. 237).</font></font>
+
+<p><font face="Times"><font size="+1">The tokens were not a marginal or esoteric
+medium. On the contrary, the considerable number of counters and their
+widespread distribution within settlements prove that, during no less than
+five millennia, the clay tokens were household items for keeping track
+of everyday mundane commodities, and in particular, of dues to the collectivity.
+Their pervasiveness in all parts of the Middle East and their spread into
+Eurasia is good evidence of their importance in pre- and proto-history.
+Finally, they played a crucial role in the evolution of communication (Vygotsky
+1978. 46). The fact that the token system was the first code to supplement
+speech and that it is the immediate precursor of western writing makes
+it an important medium to be reckoned with.</font></font>
+<br>&nbsp;
+
+<p><b><font face="Times"><font size="+2">II. Tokens and Neolithic Media</font></font></b>
+<br><font face="Times"><font size="+2">T</font><font size="+1">he token system
+originated in the Neolithic period, about 5000 years before civilization,
+and in particular, before the invention of writing. The tokens, therefore,
+were the creation of an oral world, when information was exchanged face
+to face, by word of mouth. In this part of the paper, I compare and contrast
+the tokens to the spoken word.</font></font>
+
+<p><font face="Times"><font size="+1">Both tokens and words were symbols.
+Tokens were artifacts and words were strings of sounds that stood for something
+else. That is to say, words and tokens were "signifiants" standing for
+a "signifi&eacute;" (Baron 1981. 168-169). As symbols, spoken words have
+semantic values (Goldwasser 1995. 27). A word, such as "sheep," refers
+to a single, discrete, unequivocal entity, here a ruminant mammal of genus
+Ovis. Likewise each token shape was endowed with a single, discrete, unequivocal
+meaning. For instance, a disk incised with a cross meant "sheep". Whenever
+repeated, the disk with a cross always referred to the same item, "sheep,"
+and only to that item.</font></font>
+
+<p><font face="Times"><font size="+1">Because they were symbols, the form
+of a token is arbitrary, much as the sound of words are arbitrary (White
+1949. 25-30). There was no fundamental reason why the disk bearing a cross
+meant "sheep." Similarly, there is no fundamental reason why the assembled
+sounds "sh-ee-p" refer to a ruminant mammal of genus Ovis. In fact, any
+other shape or sound would do, as long as it was adopted by a society.
+The naturalistic tokens were similarly arbitrary. For instance "dog" signified
+by a dogís head (<a href="fig3.jpg">Fig. 3</a>) was an arbitrary choice
+since the animal "dog" could be represented, just as well, by a dogís tail
+or the representation of the entire animal.</font></font>
+
+<p><font face="Times"><font size="+1">Tokens, like words, were part of comprehensive,
+integrated systems. In other words, just as each society has enough words
+to communicate all useful items: the Inuits have words to describe all
+possible snow conditions and Arabic has a vocabulary to denote all varieties
+of camel hair, so there were as many token forms as there were goods to
+administer. The assemblage of tokens from Tepe Asiab, an early agricultural
+community ca. 7500 BC in western Iran, yielded multiple subtypes of tokens
+(sixteen) standing for products of the farm. But the token repertory grew
+in time because, like spoken language, the system was open. That is to
+say, when the inventory of merchandize expanded, so did the number of token
+types. For instance, in the fourth millennium BC, in the Sumerian city
+of Uruk, the token repertory reached 250 shapes to represent products manufactured
+in the urban workshops, which included textiles, garments, jewelry, perfume,
+vessels, furniture and tools.</font></font>
+
+<p><font face="Times"><font size="+1">The token system and spoken language,
+however, shared only fundamental features of symbolism. Needless to say,
+the tokens were a rudimentary medium compared to spoken words. Unlike speech,
+they were restricted to one type of information only, namely, real goods.
+Furthermore, the counters were "ideograms" standing exclusively for noun
+concepts. The system had no symbols for verbs, pronouns, articles or prepositions.
+Unlike spoken language, the token system made no use of syntax. That is
+to say, the meaning of a token was independent of its placement order.
+" Jane likes Bob" has a meaning different from "Bob likes Jane," but three
+cones and three spheres arranged in any possible way, were always to be
+translated "three small and three large baskets of grain." Furthermore,
+the token system had no way to express numerosity other than in one-to-one
+correspondence, i.e., by matching the number of counters to the number
+of units counted (Justus 1996). Most importantly, the fact that the same
+token shapes were used in a large area of the Near East, where many dialects
+would have been spoken, shows that a same type of counter always referred
+to the same goods even though the words for these goods differed. In other
+words, the tokens were truly ideograms, not logograms, corresponding to
+language specific words. Unlike spoken language, the counters were not
+based on phonetics.</font></font>
+
+<p><font face="Times"><font size="+1">It may be added here that the token
+system also differed from the rare manifestations of Neolithic symbolic
+art. The overriding function of art is to stimulate or express emotions
+rather than communicating concrete information (Scheffler 1997. 112). Therefore,
+although the tokens and art were two visual media, they greatly differed
+in contents. Whereas the counters conveyed specific economic data, statues,
+figurines, amulets, wall paintings or plastered skulls dealt with intangibles
+(Cauvin 1997). Whereas the images probably evoked nebulous supernatural
+religious or magical powers, the tokens referred to precise units of a
+specific daily life commodity. Finally, whereas the meaning of some of
+the counters can be traced through the cuneiform signs that replaced them,
+the significance of Neolithic images will always remain enigmatic and,
+therefore, art is beyond the scope of this paper.</font></font>
+
+<p><font face="Times"><font size="+1">The tokens constituted an original
+medium of communication to collect, process, store, and retrieve information.
+The system of counters differed fundamentally from other Neolithic symbolic
+media such as art and spoken language. Namely, they differed from art in
+contents and from the spoken word in form.</font></font>
+<br>&nbsp;
+
+<p><b><font face="Times"><font size="+2">III. Tokens: The New Cognitive Skills</font></font></b>
+<br><font face="Times"><font size="+2">T</font><font size="+1">he tokens were
+a radical departure from oral communication because they relied on a different
+sensory mode: words were aural and tokens were visual. In the following
+part of this paper, I discuss how, as McLuhan would have predicted it,
+shifting communication from the ear to the eye had irrevocable cognitive
+consequences.</font></font>
+
+<p><font face="Times"><font size="+1">The first notable outcome of a visual
+communication system was abstracting knowledge from knower. Aural information
+was stored in individualsí brains, requiring willingness and certain physiological
+conditions in order to be retrieved. But tokens were extra-somatic. As
+a result, information stored by tokens could be decoded at all times by
+anyone initiated in the system (Olson 1980. 3).</font></font>
+
+<p><font face="Times"><font size="+1">The tokens transmitted bare data. For
+example, three cones stated "3 small measures of grain" in the most concise,
+explicit and unambiguous manner. This differed from oral information which,
+in order to facilitate memorization, was often couched in a flowery style,
+in narratives, allegories or metaphors and used rhythmic devices, such
+as repetition and alliteration (Ong 1982. 37-41). Tokens abstracted data
+from verbal context (Goody 1977. 88).</font></font>
+
+<p><font face="Times"><font size="+1">There are more than 50 ways to say
+"to-night," because, as described by McLuhan (1964. 82), oral communication
+is "hot," involving gestures, facial expressions, intonation and inflexion.
+But the tokens were "cold" because they abstracted data from body language.
+A cone was a cone and its significance, namely, a small measure of grain,
+never varied.</font></font>
+
+<p><font face="Times"><font size="+1">Moreover, oral communication, also
+in McLuhanís word, was "vibrant" because it was meant for and tuned to
+an audience, constantly adjusting to its reactions. In contrast, the tokens
+were "static." Whatever the circumstances, the value of the cone, or any
+other token, remained unchanged. Tokens abstracted data from subjectivity.</font></font>
+
+<p><font face="Times"><font size="+1">The shift from ear to eye was of great
+importance because it made it possible for individuals to touch and visualize
+information. In other words, tokens prompted new cognitive skills to manipulate,
+scan, evaluate, scrutinize and analyze an account. This in turn, allowed
+new ways of abstracting data.</font></font>
+
+<p><font face="Times"><font size="+1">Whereas words consist of immaterial
+sounds, the tokens were concrete, solid, tangible artifacts, which could
+be handled, arranged and rearranged at will. For instance, the tokens could
+be ordered in special columns according to types of merchandise, entries
+and expenditures; donors or recipients. The token system thus encouraged
+manipulating data by abstracting all possible variables. (Harth 1983. 19)</font></font>
+
+<p><font face="Times"><font size="+1">No doubt patterning, the presentation
+of data in a particular configuration, was developed to highlight special
+items (Luria 1976. 20). For instance, organizing units of a same kind in
+lines became possible with tokens. Furthermore, these lines, as is illustrated
+by the signs impressed on envelopes and tablets, were organized hierarchically,
+the units of greater value being placed above the lesser ones. For instance,
+spheres, standing for large measures of grain were systematically lined
+up above the cones, representing small measures of grain (<a href="fig5.jpg">Fig.
+5</a>). The token system provided strategies to abstract the relative value
+of merchandise.</font></font>
+
+<p><font face="Times"><font size="+1">Tokens facilitated counting. They made
+it easy to add, subtract, multiply and divide by manually moving and removing
+counters. The geometric lay out of operations such as adding two tokens
+to two tokens, and three tokens to three tokens, and so on, helped the
+conceptualization of abstract numbers. (Justus 1999. 56, 64. Hoyrup 1994.
+70)</font></font>
+
+<p><font face="Times"><font size="+1">Whereas words can only be uttered one
+at a time, groups of any number of tokens could be handled at the same
+time. This made possible to deal simultaneously with the multiple components
+of a comprehensive budget. The system stretched human cognition to cope
+with new levels of complexity.</font></font>
+
+<p><font face="Times"><font size="+1">Compared to the spoken word that fades
+instantly, the single most important advantage of solid tokens was permanence.
+The artifacts could be stored for any length of time. For example, the
+record of a debt could be kept until it was repaid. The tokens were mnemonic:
+they liberated memory.</font></font>
+
+<p><font face="Times"><font size="+1">Finally, because the tokens provided
+the physical proof of an agreement and because they were small, light and
+sturdy, the counters could be transported to conduct transactions in the
+absence of a party involved. Communication over distance expanded the sphere
+and scope of human interaction.</font></font>
+
+<p><font face="Times"><font size="+1">In sum, the substitution of tokens
+for real goods introduced multiple new ways of handling data in abstraction
+(van Gigch 1991. 234). A word like "sheep" and the corresponding token,
+a disk bearing a cross, abstracted data from their context in a similar
+way: the sheep could be accounted for orally, in a conversation, or visually,
+on the accountantís table, independently of the status or location of the
+animals. But tokens further abstracted information from any human source
+and from verbal and body language. As a result, the Neolithic accountant
+was no longer the passive recipient of someone elseís knowledge, but took
+an active part in decoding the visual information encoded in the counters.
+This necessitated the acquisition of new cognitive skills that capitalized
+upon the visualization and physical manipulation of data. In turn, these
+new techniques fostered further abstraction of the data according to such
+variables as type of goods, value and number. As a result, the Neolithic
+society was able to handle larger amounts of more complex information with
+greater efficiency and objectivity. Finally, tokens removed data from the
+contingency of place and time and, by doing so, they expanded the sphere
+of human interaction and liberated human memory from tedious lists of data,
+difficult to memorize.</font></font>
+<br>&nbsp;
+
+<p><b><font face="Times"><font size="+2">Conclusion</font></font></b>
+
+<p><font face="Times"><font size="+2">T</font><font size="+1">he Paleolithic
+medium of communication was speech. Spoken language is the natural, universal
+form of human communication that mankind has the inborn ability to acquire.
+As McLuhan eloquently argued (1964: 83), the directness, freshness and
+subtleness of a face to face transaction, which combines voice intonations
+with facial expressions and body-language has never been surpassed.</font></font>
+
+<p><font face="Times"><font size="+1">The Neolithic farmers of the Middle
+East invented a system of clay tokens to count and account for units of
+goods. As McLuhan would have predicted it, the switch to a radically different
+medium, based on visual and tangible artifacts, spurred significant cognitive
+changes. The major outcome was to increase the human capacity for dealing
+with actual things in abstraction.</font></font>
+
+<p><font face="Times"><font size="+1">The token system set media on a visual
+course that incessantly challenged the human mind to deal with the real
+world in greater abstraction. In short, tokens paved the way for writing
+to translate aural communication into a visual form and the two-dimensional
+written signs were further removed from the goods represented than the
+previous three-dimensional tokens. Then, phonetic signs no longer represented
+commodities, but the sounds of the corresponding words. Ultimately, the
+alphabet with semantically meaningless letters standing for semantically
+meaningless sounds created yet another double level of abstraction (McLuhan
+1964. 86). Now, writing in electronic form further removes humans from
+the real world. McLuhan referred to the effect of media on the human mind
+as powerful vortices. The metaphor certainly suits the token effect.</font></font>
+<br>&nbsp;
+<br>&nbsp;
+<center><img src="/web/20120130084757im_/http://www.laits.utexas.edu/ghazal/Chap1/dsb/rule13.gif" border="0" height="22" width="680"></center>
+
+<center><b><font face="Times"><font size="+2">BIBLIOGRAPHY</font></font></b></center>
+
+<center><img src="/web/20120130084757im_/http://www.laits.utexas.edu/ghazal/Chap1/dsb/rule13.gif" border="0" height="22" width="680"></center>
+
+
+<p><b><font size="+1"><font face="Times">BARON N S</font>.</font></b>
+<blockquote><font size="+1"><b>1981. </b><i>Speech, Writing and Sign, A Functional
+View of Linguistic Representation.</i> Bloomington.</font></blockquote>
+<b><font size="+1">BUDJA M.</font></b>
+<blockquote>&nbsp;<font size="+1"><b>1998. </b>Clay tokens ó accounting before
+writing in Eurasia. <i>Documenta Praehistorica</i> XXV: 219-235.</font></blockquote>
+<b><font size="+1">CAUVIN J.</font></b>
+<blockquote><b><font size="+1">1997.</font></b> <font size="+1"><i>Naissance
+des Divinit&eacute;s, Naissance de líAgriculture.</i> Paris.</font></blockquote>
+<b><font size="+1">GIGCH van J.P.</font></b>
+<blockquote>&nbsp;<font size="+1"><b>1991. </b><i>System Design Modeling
+and Metamodeling.</i>New York.</font></blockquote>
+<b><font size="+1">GOLDWASSER O.</font></b>
+<blockquote>&nbsp;<font size="+1"><b>1995. </b><i>From Icon to Metaphor,
+Studies in the Semiotics of the Hieroglyphs.</i> Fribourg.</font></blockquote>
+<b><font size="+1">GOODY J.</font></b>
+<blockquote>&nbsp;<font size="+1"><b>1977. </b><i>TheDomestication of the
+Savage Mind.</i> Cambridge.</font></blockquote>
+<b><font size="+1">HARTH E.</font></b>
+<blockquote>&nbsp;<font size="+1"><b>1983. </b><i>Windows on the Mind. Reflections
+on the Physical Basis of Consciousness.</i> New York.</font></blockquote>
+<b><font size="+1">HOYRUP J.</font></b>
+<blockquote>&nbsp;<font size="+1"><b>1994. </b><i>In Measure, Number, and
+Weight.</i> New York.</font></blockquote>
+<b><font size="+1">JUSTUS C.</font></b>
+<blockquote>&nbsp;<font size="+1"><b>1999. </b>Pre-decimal Structures in
+Counting and Metrology. In Gvozdanovic J. (ed), <i>Numeral Typesand Changes
+Worldwide:</i> 55-79. Berlin.</font></blockquote>
+<b><font size="+1">LURIA A.R.</font></b>
+<blockquote>&nbsp;<font size="+1"><b>1976. </b><i>Cognitive Development.
+Its Cultural and Social Foundations.</i> Cambridge, Mass.</font></blockquote>
+<b><font size="+1">McLUHAN M.</font></b>
+<blockquote><font size="+1"><b>1964.</b><i>Understanding Media.</i> New York.</font>
+<br><font size="+1"><b>1962. </b><i>The Gutenberg Galaxy.</i> Toronto.</font></blockquote>
+<b><font size="+1">MOOS M. A.</font></b>
+<blockquote>&nbsp;<font size="+1"><b>1997. </b>(Ed.) <i>Marshall McLuhan
+essays. Media Research,</i>Amsterdam.</font></blockquote>
+<b><font size="+1">OLSON D. R.</font></b>
+<blockquote>&nbsp;<font size="+1"><b>1980. </b>Introduction. In Olson D.R.
+(ed.), <i>The Social Foundations of Language and Thought,</i> 1-6. New
+York.</font></blockquote>
+<b><font size="+1">ONG W. J.</font></b>
+<blockquote>&nbsp;<font size="+1"><b>1982. </b><i>Orality and Literacy.</i>
+New York.</font></blockquote>
+<b><font size="+1">ROCH LECOURS A.</font></b>
+<blockquote>&nbsp;<font size="+1"><b>1995. </b>The origins and evolution
+of writing. In Changeux J-P., Chavaillon J. (edits.), <i>Origins of the
+Human Brain:</i> 213-235. Oxford.</font></blockquote>
+<b><font size="+1">SCHEFFLER I.</font></b>
+<blockquote><font size="+1"><b>1997. </b><i>Symbolic Worlds, art, science,
+language, ritual.</i> Cambridge.</font></blockquote>
+<b><font size="+1">SCHMANDT-BESSERAT D.</font></b>
+<blockquote><font size="+1"><b>1996. </b><i>How Writing Came About.</i>Austin.</font>
+<br><font size="+1"><b>1992. </b><i>Before Writing.</i>2 vols. Austin.</font></blockquote>
+<b><font size="+1">TZENG O. J. L. , HUNG D.L.</font></b>
+<blockquote><font size="+1"><b>1981. </b>Linguistic Determinism: A Written
+Language Perspective. In Tzeng O.J.L., Singer H. (edits.), <i>Perception
+of Print, Reading Research in Experimental Psycholocy</i>: 237-255. Hillsdale,
+New Jersey.</font></blockquote>
+<b><font size="+1">L. S. VYGOTSKY.</font></b>
+<blockquote>&nbsp;<font size="+1"><b>1978. </b><i>Mind in Society, The Development
+of Higher Psychological Processes.</i> Cambridge, Mass.</font></blockquote>
+&nbsp;<b><font size="+1">WHITE L A.</font></b>
+<blockquote>&nbsp;<font size="+1"><b>1949. </b><i>The Science of Culture,
+A Study of Man and Civilization.</i> New York.</font></blockquote>
+
+<dd>
+&nbsp;</dd>
+
+<center><img src="/web/20120130084757im_/http://www.laits.utexas.edu/ghazal/Chap1/dsb/rule13.gif" border="0" height="22" width="680"></center>
+
+<center><b><font face="Times"><font size="+2">ILLUSTRATIONS</font></font></b></center>
+
+<center><img src="/web/20120130084757im_/http://www.laits.utexas.edu/ghazal/Chap1/dsb/rule13.gif" border="0" height="22" width="680"></center>
+
+<center><table>
+<tr>
+
+<td width="50%">
+<img src="/web/20120130084757im_/http://www.laits.utexas.edu/ghazal/Chap1/dsb/fig1.jpg">
+</td>
+
+<td width="50%">
+<img src="/web/20120130084757im_/http://www.laits.utexas.edu/ghazal/Chap1/dsb/fig2.jpg">
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<p><font face="Times"><font size="+1">Figure 1.</font></font>
+
+<p><font face="Times"><font size="+1">Plain tokens, Mesopotamia, present
+day Iraq, ca. 4000 B.C. The cone, spheres and disk represented various
+grain measures; the tetrahedron stood for a unit of labor. Courtesy Denise
+Schmandt-Besserat, The University of Texas at Austin.</font></font>
+</td>
+
+<td width="50%">
+
+
+<p><font face="Times"><font size="+1">Figure 2.</font></font>
+
+<p><font face="Times"><font size="+1">Naturalistic tokens representing animals
+(above left: dog; center: trussed duck, below right: ox); a vessel (above
+right) and a fruit: (below left: pomegranate); from Susa, Iran, ca. 3300
+B.C. Courtesy Mus&eacute;e du Louvre, D&eacute;partement des Antiquit&eacute;s
+Orientales, Paris.</font></font>
+</td>
+</tr>
+
+<tr>
+
+<td width="50%">
+<img src="/web/20120130084757im_/http://www.laits.utexas.edu/ghazal/Chap1/dsb/fig3.jpg">
+</td>
+<td width="50%">
+<img src="/web/20120130084757im_/http://www.laits.utexas.edu/ghazal/Chap1/dsb/fig4.jpg">
+</td>
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<p><font face="Times"><font size="+1">Figure 3.</font></font>
+
+<p><font face="Times"><font size="+1">Complex tokens representing (above,
+from right to left) one sheep, one unit of a particular textile, one measure
+of honey and, one jar of oil. (Below, from right to left,) (?), one fleece
+of wool, one ingot of metal. from Susa, Iran, ca. 3300 B.C. Courtesy Mus&eacute;e
+du Louvre, D&eacute;partement des Antiquit&eacute;s Orientales, Paris.</font></font>
+</td>
+
+<td width="50%">
+<p><font face="Times"><font size="+1">Figure 4.</font></font>
+
+<p><font face="Times"><font size="+1">Envelope and its content of tokens
+and the corresponding markings, from Susa, Iran, ca. 3300 B.C. Courtesy
+Mus&eacute;e du Louvre, D&eacute;partement des Antiquit&eacute;s Orientales,
+Paris.</font></font>
+</td>
+</tr>
+
+<tr>
+
+
+<td width="50%">
+<img src="/web/20120130084757im_/http://www.laits.utexas.edu/ghazal/Chap1/dsb/fig5.jpg">
+</td>
+<td width="50%">
+</td>
+</tr>
+
+<tr>
+
+
+<td width="50%">
+<p><font face="Times"><font size="+1">Figure 5.</font></font>
+
+<p><font face="Times"><font size="+1">Impressed tablet featuring an account
+of grain, from Godin Tepe, Iran, ca. 3100 B.C. Courtesy Dr. T. Cuyler Young,
+Royal Ontario Museum, Toronto, CANADA</font></font>
+</td>
+
+<td width="50%">
+</td>
+</tr>
+</table>
+</center>
+
+
+<p><img src="/web/20120130084757im_/http://www.laits.utexas.edu/ghazal/Chap1/dsb/rule13.gif" border="0" height="22" width="680">
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 08:47:57 Jan 30, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:00:01 Apr 30, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 308.608 (3)
+  esindex: 0.01
+  captures_list: 581.474
+  CDXLines.iter: 9.393 (3)
+  PetaboxLoader3.datanode: 125.485 (4)
+  exclusion.robots: 0.351
+  exclusion.robots.policy: 0.323
+  RedisCDXSource: 259.579
+  PetaboxLoader3.resolve: 124.014
+  load_resource: 226.955
+-->

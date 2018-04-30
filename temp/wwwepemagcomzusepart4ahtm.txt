@@ -1,0 +1,340 @@
+<html>
+
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app29.us.archive.org';v.server_ms=1174;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1524808784.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1524808784.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1524808784.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+<meta name="description" content="The Life and Work of Konrad Zuse">
+<meta name="keywords" content="EPE Online, Konrad Zuse, Horst Zuse, Zuse, Zuse KG, Z2, Z3">
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+<title>Konrad Zuse's Z2 and Z3 Computers</title>
+
+
+<meta name="Microsoft Theme" content="none, default"><meta name="Microsoft Border" content="none, default"></head>
+
+<body bgcolor="#FFFFFF"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1524808784.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1524808784.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1524808784.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1524808784.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('http://www.epemag.com/zuse/part4a.htm', '20080601210541')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20080601210541/http://www.epemag.com:80/zuse/part4a.htm', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20080601210541/http://www.epemag.com:80/zuse/part4a.htm&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.epemag.com/zuse/part4a.htm" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20080601210541" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20080402012839/http://www.epemag.com:80/zuse/part4a.htm" title="02 Apr 2008"><strong>Apr</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 21:05:41 Jun 01, 2008">JUN</td>
+		  <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20080926123410/http://www.epemag.com:80/zuse/part4a.htm" title="26 Sep 2008"><strong>Sep</strong></a></td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20080513164323/http://www.epemag.com/zuse/part4a.htm" title="16:43:23 May 13, 2008"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 21:05:41 Jun 01, 2008">01</td>
+		  <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20080926123410/http://www.epemag.com:80/zuse/part4a.htm" title="12:34:10 Sep 26, 2008"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20070514042046/http://www.epemag.com:80/zuse/part4a.htm" title="14 May 2007"><strong>2007</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 21:05:41 Jun 01, 2008">2008</td>
+		  <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20090801080412/http://www.epemag.com:80/zuse/part4a.htm" title="01 Aug 2009"><strong>2009</strong></a></td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20080601210541*/http://www.epemag.com/zuse/part4a.htm" title="See a list of every capture for this URL">118 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">23 Aug 2000 - 30 Nov 2017</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/alexacrawls);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/alexacrawls" target="_new"><span class="wm-title">Alexa Crawls</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Starting in 1996, <a href="http://www.alexa.com/">Alexa Internet</a> has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the <a href="http://web.archive.org/">Wayback Machine</a> after an embargo period.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/51_crawl)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/51_crawl" target="_new"><span class="wm-title">51_crawl</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  this data is currently not publicly accessible.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","http://www.epemag.com/zuse/part4a.htm","2008-06-01",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+<table border="0" width="600">
+  <tr>
+    <td width="596" height="10" colspan="2"><p align="left"><big><font face="Arial" color="#800000">The Life and Work of Konrad Zuse (by Horst Zuse)</font></big></td>
+  </tr>
+  <tr>
+    <td width="85" height="10" valign="top"><font face="Arial" color="#800000"><big><big><strong>Part
+    4: </strong></big></big></font></td>
+    <td width="515" height="10" valign="top"><font face="Arial" color="#800000"><big><big><strong>Konrad
+    Zuse's Z1 and Z3 Computers</strong></big></big></font></td>
+  </tr>
+  <tr>
+    <td width="596" height="20" colspan="2"></td>
+  </tr>
+</table>
+
+<table border="0" width="600">
+  <tr>
+    <td width="600" height="10"><font face="Arial" size="3" color="#000080"><b>The Z2 Computer</b><br>
+    Unsatisfied with the reliability of the binary switching metal sheets used in the Z1,
+    Konrad Zuse next constructed the Z2 computer. The Z2 used the same type of mechanical
+    memory as the Z1, but he used 800 old relays from phone companies to construct the
+    arithmetic and control units. The Z2&#146;s arithmetic unit consisted of a 16-bit
+    fixed-point engine, because he wanted to test the reliability of relays for arithmetic
+    calculations. Unfortunately, photos and plans of the Z2 were destroyed by allied air raids
+    during the war. However, the Z2 served its purpose, because it convinced my father that
+    relays were indeed reliable, and he subsequently built his Z3 computer completely out of
+    relays (600 for the arithmetic unit and 1,800 for the memory and control units).</font><p><font face="Arial" size="3" color="#000080"><b>The Z3 Computer (1939-1941)</b><br>
+    Helped by friends and with some small support from the government, Konrad Zuse constructed
+    his Z3 machine from 1939 to 1941 in the Methfesselstraße 7 in Berlin-Kreuzberg. He wanted
+    to use the Z3 to demonstrate that it was possible to build a reliable, freely programmable
+    computer based on a binary floating point number and switching system, which could be used
+    for very complicated arithmetic calculations. For reliability reasons he used relays for
+    the entire machine.</font></td>
+  </tr>
+  <tr>
+    <td width="600" height="10"></td>
+  </tr>
+</table>
+
+<table border="0" width="600">
+  <tr>
+    <td align="center" width="280" height="10" valign="top"><a target="_blank" href="Images/fig24b.jpg"><img src="/web/20080601210541im_/http://www.epemag.com/zuse/Images/fig24.jpg" alt="The original design of the Z3 drawn by Konrad Zuse in 1939" border="0" width="275" height="224"></a><font face="Arial" size="2" color="#008080"><br>
+    Fig.24. The original design of the Z3 <br>
+    drawn by Konrad Zuse in 1939.</font></td>
+    <td align="center" width="320" height="10" valign="top"><a href="Images/fig25b.jpg" target="_blank"><img src="/web/20080601210541im_/http://www.epemag.com/zuse/Images/fig25.jpg" alt="The Z3 that was rebuilt in 1960/61" border="0" width="315" height="224"></a><font face="Arial" size="2" color="#008080"><br>
+    Fig.25. The Z3 that was rebuilt by <br>
+    Konrad Zuse in 1960/61.</font></td>
+  </tr>
+</table>
+
+<table border="0" width="600">
+  <tr>
+    <td width="600" height="10" colspan="2"></td>
+  </tr>
+  <tr>
+    <td width="392" height="10" valign="top" align="center"><p align="left"><font face="Arial" size="3" color="#000080">The original design of the Z3 is illustrated in Fig.24.
+    Unfortunately no photos of the original Z3 exist, because all documents and photographs
+    were destroyed by allied air raids during the Second World War. </font></p>
+    <p align="left"><font face="Arial" size="3" color="#000080">Konrad Zuse rebuilt the Z3 at
+    his Zuse KG</font><font face="Arial" color="#000080" size="2"><sup>(3)</sup></font><font face="Arial" size="3" color="#000080"> company between 1960 and 1961 (Fig.25)&nbsp; in
+    order to demonstrate the performance of this machine to justify his patents and to show
+    the world his creation (and also to demonstrate the machine for advertising purposes).
+    Like the original machine, the rebuilt Z3 is completely constructed from relays. The Z3's
+    memory (64 words, each comprising 22 bits) is seen on the left-hand side of Fig.25. The
+    console is at the front, while the binary floating point arithmetic unit appears on the
+    right-hand side. The Z3 is about five meters long, two meters high, and 80cm wide.</font></td>
+    <td width="208" height="10" valign="top" align="center" bgcolor="#FEDCFD"><font face="Arial" size="2" color="#008080"><p align="left"></font><font face="Arial" size="2" color="#800080"><sup>(3)</sup></font><font face="Arial" size="3" color="#800080">The Zuse
+    KG (where &quot;KG&quot; means a special type of company in the form of a limited
+    partnership) was founded in 1949 in Neukirchen (Kreis Hünfeld). This is about 120km north
+    of Frankfurt. </font></p>
+    <p align="left"><font face="Arial" size="3" color="#800080">In 1957, the Zuse KG was moved
+    to Bad Hersfeld, which lies 15km north of Neukirchen. This move was prompted by the lack
+    of space for rooms and the cramped production facilities.</font></td>
+  </tr>
+  <tr>
+    <td width="392" height="10" valign="top" align="center"></td>
+    <td width="208" height="10" valign="top" align="center"></td>
+  </tr>
+  <tr>
+    <td width="392" height="10" valign="top" align="center"><a href="Images/fig26b.jpg" target="_blank"><img src="/web/20080601210541im_/http://www.epemag.com/zuse/Images/fig26.jpg" alt="Konrad Zuse with the rebuilt Z3 in 1961" border="0" width="385" height="280"></a><br>
+    <font face="Arial" size="2" color="#008080">Fig.26. Konrad Zuse with the rebuilt Z3 in
+    1961. The memory is <br>
+    on the left (note the &quot;Z&quot; logo Z of the Zuse KG company). The arithmetic unit
+    with the stepwise relays are on the right, and <br>
+    the console with punch tape reader is on the front left.</font></td>
+    <td width="208" height="10" valign="top" align="center"><a href="Images/fig27b.jpg" target="_blank"><img src="/web/20080601210541im_/http://www.epemag.com/zuse/Images/fig27.jpg" alt="A page from Konrad Zuse's diary (May 12, 1941)" border="0" width="201" height="280"></a><br>
+    <font face="Arial" size="2" color="#008080">Fig.27. A page from Konrad <br>
+    Zuse&#146;s diary from May 12, 1941, when he presented the working <br>
+    Z3 to scientists in Berlin.</font></td>
+  </tr>
+  <tr>
+    <td width="392" height="10" align="center"></td>
+    <td height="10" width="208" align="center"></td>
+  </tr>
+</table>
+
+<table border="0" width="600">
+  <tr>
+    <td width="600" height="10" colspan="2"><font face="Arial" size="3" color="#000080">It is
+    now undisputed that the Z3 was the first reliable, freely programmable, working computer
+    in the world based on a binary floating-point number and switching system. In 1941, the Z3
+    contained almost all of the features of a modern computer as defined by John von Neumann
+    and his colleagues in 1946 </font><font face="Arial" size="2" color="#0000FF">[</font><font face="Arial" size="2"><a href="Bgraphy.htm#BURK46" target="_blank">BURK46</a></font><font face="Arial" size="2" color="#0000FF">]</font><font face="Arial" size="3" color="#000080">.
+    The only exception was the ability to store the program in the memory together with the
+    data. Konrad Zuse did not implement this feature in the Z3, because his 64-word memory was
+    too small to support this mode of operation. Due to the fact that he wanted to calculate
+    thousands of instructions in a meaningful order, he only used the memory to store values
+    or numbers.</font></td>
+  </tr>
+  <tr>
+    <td width="600" height="10" colspan="2"></td>
+  </tr>
+  <tr>
+    <td width="300" height="10" valign="top" align="center"><img src="/web/20080601210541im_/http://www.epemag.com/zuse/Images/fig28.gif" alt="A block diagram of the Z3" width="294" height="299"><br>
+    <font face="Arial" size="2" color="#008080">Fig.28. A block diagram of the Z3.</font></td>
+    <td width="300" height="10" valign="top" align="center"><a href="Images/fig29b.jpg" target="_blank"><img src="/web/20080601210541im_/http://www.epemag.com/zuse/Images/fig29.jpg" alt="The rebuilt Z3" border="0" width="295" height="299"></a><br>
+    <font face="Arial" size="2" color="#008080">Fig.29. The rebuilt Z3 (1961).</font></td>
+  </tr>
+  <tr>
+    <td width="300" height="10"></td>
+    <td height="10" width="300"></td>
+  </tr>
+</table>
+
+<table border="0" width="600">
+  <tr>
+    <td width="600" height="10"><font face="Arial" size="3" color="#000080">The block
+    structure of the Z3 is very similar to a modern computer. The Z3 consisted of separate
+    units, such as a punch tape reader, control unit, floating-point arithmetic unit, and
+    input/output devices. With respect to this theme, Burks et al. </font><font face="Arial" size="2" color="#0000FF">[</font><font face="Arial" size="2"><a href="Bgraphy.htm#BURK46" target="_blank">BURK46</a></font><font face="Arial" size="2" color="#0000FF">]</font><font face="Arial" size="3" color="#000080"> wrote as late as 1946, &quot;<i>In as much as the
+    completed device will be a general-purpose computing machine it should contain main organs
+    relating to arithmetic, memory-storage, control and connection with the human operator. It
+    is intended that the machine be fully automatic in character, i.e. independent of the
+    human operator after the computation starts.&quot; </i></font><p><font face="Arial" size="3" color="#000080">It is important to note that the Z3 fully met Burks&#146;
+    requirements. Also, the Z3 supported a special operating mode, because the <i>Lu</i>
+    instruction stopped the program and activated the input device. The human operator could
+    check, among other things, the contents of the Registers R1 and R2 in the arithmetic unit,
+    he or she could perform intermediate calculations using the Registers R1 and R2, then the
+    operator could continue running the program.</font></td>
+  </tr>
+</table>
+
+<table border="0" width="600">
+  <tr>
+    <td width="600" height="20"></td>
+  </tr>
+  <tr>
+    <td width="600" height="30"><p align="center"><font face="Arial" size="3"><a target="_top" href="part3c.htm">Previous Section</a>&nbsp;&nbsp;&nbsp; <a target="_top" href="default.htm#index">Return to Index</a>&nbsp;&nbsp;&nbsp; <a target="_top" href="part4b.htm">Next Section</a></font></td>
+  </tr>
+</table>
+
+<table border="0" width="600">
+  <tr>
+    <td width="600" height="30" colspan="2">&nbsp;<hr>
+    </td>
+  </tr>
+  <tr>
+    <td width="170" align="center" valign="middle"><p align="left"><a href="copyrite.htm" target="_top"><font face="Arial" size="1">Copyright &amp; Contact Info</font></a></td>
+    <td width="430" align="center" valign="middle"><font face="Arial" size="3"><a href="/web/20080601210541/http://www.epemag.com/" target="_top">Return</a> <font color="#800080">to EPE Online Home Page</font></font></td>
+  </tr>
+</table>
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 21:05:41 Jun 01, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:00:31 Apr 30, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 748.484 (3)
+  esindex: 0.009
+  captures_list: 821.137
+  CDXLines.iter: 9.77 (3)
+  PetaboxLoader3.datanode: 39.412 (4)
+  exclusion.robots.fetch: 52.608 (4)
+  exclusion.robots: 53.377
+  exclusion.robots.policy: 0.339
+  RedisCDXSource: 2.074
+  PetaboxLoader3.resolve: 977.447 (3)
+  load_resource: 315.921
+-->

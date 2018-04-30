@@ -1,0 +1,551 @@
+
+
+
+
+
+
+
+
+
+
+
+Project Overview | Antikythera Mechanism Research Project
+
+@import url("http://www.antikythera-mechanism.gr/modules/system/system.base.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/modules/system/system.menus.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/modules/system/system.messages.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/modules/system/system.theme.css?p7oyii");
+
+
+@import url("http://www.antikythera-mechanism.gr/sites/all/modules/simplenews/simplenews.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/modules/comment/comment.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/sites/all/modules/date/date_api/date.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/modules/field/theme/field.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/sites/all/modules/mollom/mollom.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/modules/node/node.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/modules/search/search.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/modules/user/user.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/sites/all/modules/calendar/css/calendar_multiday.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/modules/forum/forum.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/sites/all/modules/views/css/views.css?p7oyii");
+
+
+@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/shortcodes/buttons.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/sites/all/modules/ctools/css/ctools.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/sites/all/modules/wysiwyg_linebreaks/wysiwyg_linebreaks.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/sites/all/modules/biblio/biblio.css?p7oyii");
+
+
+@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/main-css.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/normalize.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/plugins/flexslider.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/local.css?p7oyii");
+
+
+@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/768.css?p7oyii");
+
+
+@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/480.css?p7oyii");
+
+
+@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/320.css?p7oyii");
+
+
+@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/shortcodes/columns.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/shortcodes/lists.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/shortcodes/boxes.css?p7oyii");
+@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/color-schemes/light-gray/styles.css?p7oyii");
+
+
+
+
+
+
+
+
+
+
+
+
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1788143-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+
+
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","simplecorp":{"responsive_menu_topoptiontext":"Select a page"},"ajaxPageState":{"theme":"simplecorp","theme_token":"Q-sSn3m2fvx-KDNdbs1OvP-M8P1yiqfCpBHEM_F9gBw","js":{"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/simplecorp\/js\/plugins\/jquery.flexslider-min.js":1,"sites\/all\/themes\/simplecorp\/js\/plugins\/jquery.jcarousel.min.js":1,"sites\/all\/themes\/simplecorp\/js\/jquery.easing-1.3.min.js":1,"sites\/all\/themes\/simplecorp\/js\/plugins\/jquery.tipsy.js":1,"sites\/all\/themes\/simplecorp\/js\/plugins\/jquery.mobilemenu.min.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"6":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/simplenews\/simplenews.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/themes\/simplecorp\/css\/shortcodes\/buttons.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/wysiwyg_linebreaks\/wysiwyg_linebreaks.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/themes\/simplecorp\/css\/main-css.css":1,"sites\/all\/themes\/simplecorp\/css\/normalize.css":1,"sites\/all\/themes\/simplecorp\/css\/plugins\/flexslider.css":1,"sites\/all\/themes\/simplecorp\/css\/local.css":1,"sites\/all\/themes\/simplecorp\/css\/768.css":1,"sites\/all\/themes\/simplecorp\/css\/480.css":1,"sites\/all\/themes\/simplecorp\/css\/320.css":1,"sites\/all\/themes\/simplecorp\/css\/shortcodes\/columns.css":1,"sites\/all\/themes\/simplecorp\/css\/shortcodes\/lists.css":1,"sites\/all\/themes\/simplecorp\/css\/shortcodes\/boxes.css":1,"sites\/all\/themes\/simplecorp\/css\/color-schemes\/light-gray\/styles.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+Facebook
+Twitter
+
+RSS Feeds
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ProjectOverview
+Institutions
+Team
+Publications
+Bibliography
+FAQ
+
+DataThe Fragments
+PTMs
+CT Data
+Radiographs
+ModelsSolid Models
+Computer Models
+
+
+HistoryPeople
+
+MediaMovies
+Educational
+Media clips
+Press releases
+
+Events & NewsList of events
+ExhibitionsMuseum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home / Project / Project Overview 
+
+
+
+
+
+
+
+
+
+
+Project Overview  
+
+
+
+
+
+More than a hundred years ago an extraordinary mechanism was found by sponge divers at the bottom of the sea near the island of Antikythera. It astonished the whole international community of experts on the ancient world. Was it an astrolabe? Was it an orrery or an astronomical clock? Or something else?For decades, scientific investigation failed to yield much light and relied more on imagination than the facts. However research over the last half century has begun to reveal its secrets. The machine dates from around the end of the 2nd century B.C. and is the most sophisticated mechanism known from the ancient world. Nothing as complex is known for the next thousand years. The Antikythera Mechanism is now understood to be dedicated to astronomical phenomena and operates as a complex mechanical "computer" which tracks the cycles of the Solar System.
+Previous Antikythera researchers have used the latest technologies available to them -such as x-ray analysis- to try to begin to unravel its complex mysteries. From 2005, a new initiative is building on this previous work, using the very latest techniques available today. The Antikythera Mechanism Research Project is an international collaboration of academic researchers, supported by some of the world's best high-technology companies, which aims to completely reassess the function and significance of the Antikythera Mechanism.
+The project is under the aegis of the Hellenic Ministry of Culture and was initially supported by a grant from the Leverhulme Trust, UK. More details about subsequent funding are here and the full acknowledgement list is here. The project has received strong backing from the National Archaeological Museum in Athens, which is custodian of this unique artefact. Two of the Museum's senior staff, Head of Chemistry, Eleni Magou, and Archaeologist-museologist, Mary Zafeiropoulou, have co-ordinated the Museum's side of the project and were actively involved with the research.
+One UK and two Greek universities were the core of the academic research group in 2005 -the astronomer Mike Edmunds and the mathematician and filmmaker Tony Freeth (University of Cardiff), the astronomer John Seiradakis (University of Thessalonica), the astronomer Xenophon Moussas and the physicist and historian of science Yanis Bitsakis (University of Athens). And last, but not least, the philologist and palaeographer Agamemnon Tselikas (NBG Cultural Foundation). After the first results were published in 2006, the AMRP began an important collaboration with Alexander Jones (Institute for the Study of the Ancient World, New York, USA) and John Steele (Brown University, USA). The full list of subsequent collaborations is available on the team page.
+During the first data-gathering phase in the autumn of 2005, the most innovative technologies were used to reveal unknown elements of the mechanism. This research was carried out by two world-class high technology companies, Hewlett Packard (US) and X-Tek Systems (UK). X-Tek's superb three-dimensional x-rays were imaged using software from the leading German company, Volume Graphics. Technical support was also provided by the University of Keele (UK). The whole process was filmed by Tony Freeth's Film and Television production company, Images First, for the TV documentary "The World's First Computer".
+During September 2005, three specialized scientists from Hewlett-Packard's Mobile and Media Systems Laboratory came to Athens with their innovative digital imaging system to examine the surface inscriptions and other features on the Antikythera Mechanism. The HP team, Tom Malzbender, Dan Gelb and Bill Ambrisco-brought with them a remarkable piece of specialist equipment: a Dome that surrounds the sample under examination and takes a series of still photos to analyze the three-dimensional structure of the surface. This enables astonishingly detailed examination of fine details such as faded and worn inscriptions. It has been a revelation for the research team. See here for this data.
+During October 2005, another team of specialists from the cutting-edge company, X-Tek Systems, came to Athens. Led by the company's pioneering proprietor, Roger Hadland, the group of experts consisted of David Bate, Andrew Ramsey, Martin Allen, Alan Crawley and Peter Hockley. Their aim was to use the very latest x-ray technology to look at the internal structure of the mechanism with its complex and confusing gear trains. With them they brought the prototype of a very powerful new x-ray machine, the eight-tonne "Bladerunner". Originally designed to search for minute cracks in turbine blades, this machine gives astonishingly detailed three-dimensional x-rays, using the latest "microfocus" x-ray techniques. It has opened a remarkable window on microscopic internal details of inscriptions and gearing at a resolution better than a tenth of a millimeter. Inscriptions can now be read that have not been seen for more than two thousand years and this is helping to build a comprehensive picture of the functions of the Antikythera Mechanism. [weblink:187|Browse here] some of the initial images from the Blade Runner.
+
+This is work-in-progress and results are emerging on a stable basis as the data is analyzed:
+
+At the autumn of 2006, the Antikythera Mechanism Research Project has organized a major conference in Athens to present their research findings. These results opened a new chapter in the understanding of this extraordinary mechanism. The conference coincided with the publication of the first results at the journal "Nature".
+
+
+In July 2008, new results were published in Nature. These were focused on the functions of Back Dials of the Mechanism.
+
+
+In July-August 2009, a major symposium was organized within the scope of the 23rd International Congress of History of Science and Technology. Members and collaborators of the research project and leading historians of science and technology discussed the position of the Antikythera Mechanism within the history of science, technology and ideas.
+
+
+A workshop took place in Athens (July 2011), in order to discuss new data about the front plate inscriptions and planetary data. Results are being processed and should soon be made public. Some partial results about inscriptions and planetary data were integrated into the Antikythera wreck exhibition and the documentary The World's First Computer".
+
+
+A workshop is organized in Leiden (June 2013), where members of the AMRP, collaborators and specialists of the ancient world will discuss the trheme "The Antikythera Mechanism: Science and Innovation in the Ancient World ".
+
+A new survey on the Antikythera wreck site is ongoing since 2014. Stay tuned!
+
+
+In June 2016, publication of the full corpus of inscriptions of the Antikythera Mechanism.
+
+ 
+Ελληνικά
+Français
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Random FAQs
+
+
+
+  
+ Why is it so important? 
+
+ When was the ship wrecked? 
+
+ Who made it? 
+
+ Is the Antikythera Mechanism a fake? 
+
+ Was it left by aliens? 
+ 
+
+
+    View all FAQs  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Contact and follow us
+
+Contact the Project TeamFollow our Twitter accountLike our Facebook page
+
+
+
+
+
+
+
+Recent Publications
+
+Our current knowledge of the Antikythera MechanismThe Calendar on the Antikythera Mechanism and the Corinthian Family of CalendarsΟ μηχανισμός των ΑντικυθήρωνA Portable Cosmos: Revealing the Antikythera Mechanism, Scientific Wonder of the Ancient WorldMore... 
+
+
+
+
+
+
+
+
+
+
+
+ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬Ëœ
+
+
+
+FAQ
+CreditsAbout this website
+
+Acknowledgments
+Terms of use
+Contact
+Sitemap
+ 
+
+
+
+
+<!--
+google_ad_client = "ca-pub-5957195847215612";
+/* 728x90 */
+google_ad_slot = "9656504001";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+
+ 
+
+
+
+Powered by Drupal 
+
+
+
+                    Ported to Drupal by Drupalizing a Project of More than Themes. Designed by Site5 WordPress Themes. 
+                    
+
+
+
+
+
+
+
+
+ 
+<!--//--><![CDATA[//><!--
+
+		jQuery(document).ready(function($) {
+
+		    $(window).load(function() {
+
+		        $(".flexslider").fadeIn("slow");
+
+		        $(".flexslider").flexslider({
+		            useCSS: false,
+		            animation: "slide",
+		            controlNav: 1,
+		            directionNav: 1,
+		            animationLoop: true,
+		            touch: 1,
+		            pauseOnHover: 1,
+		            nextText: "&rsaquo;",
+		            prevText: "&lsaquo;",
+		            keyboard: true,
+		            slideshowSpeed: 5000,
+		            randomize: 0,
+		            start: function(slider) {
+		                slider.removeClass("loading");
+		            }
+		        });
+		    });
+		});
+//--><!]]>
+
+
+<!--//--><![CDATA[//><!--
+
+		jQuery(document).ready(function($) {
+
+		    if (jQuery("#main-navigation, #main-navigation .content").length && jQuery()) {
+		        var arrowimages = {
+		            down: ["downarrowclass", "./images/plus.png", 23],
+		            right: ["rightarrowclass", "./images/plus-white.png"]
+		        }
+		        var jqueryslidemenu = {
+		            animateduration: {
+		                over: 200,
+		                out: 100
+		            },
+		            //duration of slide in/ out animation, in milliseconds
+		            buildmenu: function(menuid, arrowsvar) {
+
+		                jQuery(document).ready(function(jQuery) {
+		                    var jQuerymainmenu = jQuery("#" + menuid + ">ul.menu:not(.sf-menu)")
+		                    var jQueryheaders = jQuerymainmenu.find("ul").parent()
+
+		                    jQueryheaders.each(function(i) {
+		                        var jQuerycurobj = jQuery(this)
+		                        var jQuerysubul = jQuery(this).find("ul:eq(0)")
+		                        this._dimensions = {
+		                            w: this.offsetWidth,
+		                            h: this.offsetHeight,
+		                            subulw: jQuerysubul.outerWidth(),
+		                            subulh: jQuerysubul.outerHeight()
+		                        }
+		                        this.istopheader = jQuerycurobj.parents("ul").length == 1 ? true : false
+		                        jQuerysubul.css({
+		                            top: this.istopheader ? this._dimensions.h + "px" : 0
+		                        })
+		                        jQuerycurobj.children("a:eq(0)").css(this.istopheader ? {
+		                            paddingRight: arrowsvar.down[2]
+		                        } : {}).append("<span class=" + (this.istopheader ? arrowsvar.down[0] : arrowsvar.right[0]) + " />")
+
+		                        jQuerycurobj.hover(
+
+		                        function(e) {
+		                            var jQuerytargetul = jQuery(this).children("ul:eq(0)")
+		                            this._offsets = {
+		                                left: jQuery(this).offset().left,
+		                                top: jQuery(this).offset().top
+		                            }
+		                            var menuleft = this.istopheader ? 0 : this._dimensions.w
+		                            menuleft = (this._offsets.left + menuleft + this._dimensions.subulw > jQuery(window).width()) ? (this.istopheader ? -this._dimensions.subulw + this._dimensions.w : -this._dimensions.w) : menuleft
+		                            if (jQuerytargetul.queue().length <= 1) //if 1 or less queued animations
+		                            jQuerytargetul.css({
+		                                left: menuleft + "px",
+		                                width: this._dimensions.subulw + "px"
+		                            }).slideDown(jqueryslidemenu.animateduration.over)
+		                        }, function(e) {
+		                            var jQuerytargetul = jQuery(this).children("ul:eq(0)")
+		                            jQuerytargetul.slideUp(jqueryslidemenu.animateduration.out)
+		                        }) //end hover
+		                        jQuerycurobj.click(function() {
+		                            jQuery(this).children("ul:eq(0)").hide()
+		                        })
+		                    }) //end jQueryheaders.each()
+
+		                    jQuerymainmenu.find("ul").css({
+		                        display: "none",
+		                        visibility: "visible"
+		                    })
+
+		                }) //end document.ready
+		            }
+		        }
+
+		        jqueryslidemenu.buildmenu("main-navigation .content", arrowimages)
+		        jqueryslidemenu.buildmenu("main-navigation", arrowimages)
+
+		    }
+		});
+//--><!]]>
+
+
+<!--//--><![CDATA[//><!--
+
+		jQuery(document).ready(function($) {
+
+		    var currentWindowWidth = jQuery(window).width();
+		    jQuery(window).resize(function() {
+		        currentWindowWidth = jQuery(window).width();
+		    });
+
+		    $(window).load(function() {
+
+		        $("ul#projects-carousel").fadeIn("fast");
+
+		        if (jQuery(".portfolio-item-hover-content").length && jQuery()) {
+		            function hover_effect() {
+		                jQuery(".portfolio-item-hover-content").hover(function() {
+		                    jQuery(this).find("div,a").stop(0, 0).removeAttr("style");
+		                    jQuery(this).find(".hover-options").animate({
+		                        opacity: 0.9
+		                    }, "fast");
+		                    jQuery(this).find("a").animate({
+		                        "top": "60%"
+		                    });
+		                }, function() {
+		                    jQuery(this).find(".hover-options").stop(0, 0).animate({
+		                        opacity: 0
+		                    }, "fast");
+		                    jQuery(this).find("a").stop(0, 0).animate({
+		                        "top": "150%"
+		                    }, "slow");
+		                    jQuery(this).find("a.zoom").stop(0, 0).animate({
+		                        "top": "150%"
+		                    }, "slow");
+		                });
+		            }
+		            hover_effect();
+		        }
+				
+		        (function() {
+		            var jQuerycarousel = jQuery("#projects-carousel");
+		            if (jQuerycarousel.length) {
+		                var scrollCount;
+		                if (jQuery(window).width() < 480) {
+		                    scrollCount = 1;
+		                } else if (jQuery(window).width() < 768) {
+		                    scrollCount = 1;
+		                } else if (jQuery(window).width() < 960) {
+		                    scrollCount = 3;
+		                } else {
+		                    scrollCount = 4;
+		                }
+		                jQuerycarousel.jcarousel({
+		                    animation: 600,
+		                    easing: "easeOutCirc",
+		                    scroll: scrollCount,
+		                    initCallback: function() {
+		                        jQuerycarousel.removeClass("loading")
+		                    },
+		                });
+		            }
+		        })();
+		    });
+		});
+//--><!]]>
+
+
+<!--//--><![CDATA[//><!--
+
+		jQuery(document).ready(function($) {
+		    if (jQuery().tipsy) {
+		        jQuery("#social-01").tipsy({ gravity: "n" });
+		        jQuery("#social-02").tipsy({ gravity: "n" });
+		        jQuery("#social-03").tipsy({ gravity: "n" });
+		        jQuery("#social-04").tipsy({ gravity: "n" });
+		        jQuery("#social-05").tipsy({ gravity: "n" });
+		        jQuery("#social-06").tipsy({ gravity: "n" });
+		        jQuery("#social-07").tipsy({ gravity: "n" });
+		        jQuery("#social-07").tipsy({ gravity: "n" });
+		        jQuery("#social-08").tipsy({ gravity: "n" });
+		        jQuery("#social-09").tipsy({ gravity: "n" });
+		        jQuery("#social-10").tipsy({ gravity: "n" });
+		        jQuery("#social-11").tipsy({ gravity: "n" });
+		        jQuery("#team-01").tipsy({ gravity: "s" });
+		    }
+		});
+//--><!]]>
+
+
+<!--//--><![CDATA[//><!--
+
+jQuery(document).ready(function() { jQuery(".backtotop").click(function(){ jQuery("html, body").animate({scrollTop:0}, "slow"); return false; }); });
+
+//--><!]]>
+
+
+<!--//--><![CDATA[//><!--
+
+jQuery(document).ready(function($) {
+
+	$("#main-navigation > ul, #main-navigation .content > ul").mobileMenu({
+	prependTo: "#navigation-wrapper",
+	combine: false,
+	switchWidth: 960,
+	topOptionText: Drupal.settings.simplecorp['responsive_menu_topoptiontext']
+	});
+
+});
+//--><!]]>
+
+
+
