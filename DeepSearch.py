@@ -4,7 +4,7 @@ import urllib.request
 from bs4 import BeautifulSoup
 # from martinluther import martinLuther
 import sys
-
+import re
 
 class wordCount:
     def __init__(self, file):
@@ -30,16 +30,18 @@ class wordCount:
         return result
 
     def Count2(self):
-        self.readword = open("clean_{}".format(self.file), 'r+', encoding='utf-8')
-        self.readword2 = self.readword.readlines()
-        self.wordlist = [x.split() for x in self.readword2]
+        words = re.findall(r'\w+', open("clean_{}".format(self.file), encoding='utf-8').read())
+        # self.readword = open("clean_{}".format(self.file), 'r+', encoding='utf-8')
+        # self.readword2 = self.readword.readlines()
+        # self.wordlist = [x.split() for x in self.readword2]
+        #
+        # flat_list = [item for self.wordlist in self.wordlist for item in self.wordlist]
 
-        flat_list = [item for self.wordlist in self.wordlist for item in self.wordlist]
-
-        c = Counter(flat_list)
+        c = Counter(words)
+        print(c)
         try:
-            print(c['computer'])
-            return c['computer'] + c['Computer']
+            # print(c['computer'])
+            return int(c['computer']) + int(c['Computer'])
         except:
             print("Not have computer!")
         # return result
@@ -87,7 +89,8 @@ if __name__ == '__main__':
     html.setup()
     html_dict = dict()
     temp = html.beauiful_soup()
-    print(temp)
+    print(len(temp))
+
     print(html.Count2())
 
     for link in temp:
@@ -100,4 +103,7 @@ if __name__ == '__main__':
         except:
             print(sys.exc_info())
 
+    f = open('final.txt', 'w+', encoding='utf-8')
+    f.write(str(html_dict))
+    f.close()
     print(html_dict)
