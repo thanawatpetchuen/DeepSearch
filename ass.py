@@ -20,17 +20,19 @@ t2j = tree.to_json(with_data=True)
 t2j_load = json.loads(t2j)
 
 # print(t2j_load['Root']['children'])
-try:
-    print([tree[node].data for node in \
-            tree.expand_tree(mode=Tree.DEPTH, filter=np.sum)])
-except TypeError:
-    pass
+node_temp = tree.expand_tree(mode=Tree.DEPTH)
+# print(node_temp)
+# for item in node_temp:
+#     if tree[item].data is not None:
+#         print(tree[item].data, type(tree[item]))
+print([tree[node].data for node in tree.expand_tree(mode=Tree.DEPTH) if (tree[node].data is not None) and (tree[node].data['count'] > 60)])
+
 
 
 # print(tree.get_node('link5').data)
-for nodes in tree.all_nodes_itr():
-    dat = nodes.data
-    try:
-        print(dat['related_link'], dat['count'])
-    except TypeError:
-        print("This is ROOT!")
+# for nodes in tree.all_nodes_itr():
+#     dat = nodes.data
+#     try:
+#         print(dat['related_link'], dat['count'])
+#     except TypeError:
+#         print("This is ROOT!")
