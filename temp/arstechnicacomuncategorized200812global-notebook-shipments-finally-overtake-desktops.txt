@@ -1,0 +1,1764 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="//d2auhg88b162pf.cloudfront.net/assets/favicon/arstechnica-339bf8116741a97371e05bfab741c90e.png" />
+
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="//d2auhg88b162pf.cloudfront.net/assets/apple_touch/arstechnica_57x57-803ff05177a836cbb984a538698971fc.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//d2auhg88b162pf.cloudfront.net/assets/apple_touch/arstechnica_72x72-16af9d3fc39604fc54f497efbf4069c1.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//d2auhg88b162pf.cloudfront.net/assets/apple_touch/arstechnica_114x114-f60327e063e959e386e2f6a70e0eb81b.png" />
+
+    <title>Ars Technica Videos</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-ui">
+
+  <meta name="msapplication-tap-highlight" content="no" />
+
+    <meta name="title" content="Ars Technica Videos">
+    <meta name="description" content="Watch Ars Technica videos on video.ars technica.com. Serving the Technologist for more than a decade. IT news, reviews, and analysis.">
+    <link rel="canonical" href="http://video.arstechnica.com/">
+  <meta name="keywords" content="Technology,gears and gadgets,product reviews,information technology,gaming and entertainment,automotive,science and exploration">
+
+  
+
+  <link rel="stylesheet" media="all" href="//d2auhg88b162pf.cloudfront.net/assets/application-d602793993bd4f163d3b103b7cc2e3f4.css" />
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type="text/css">
+    <link rel="stylesheet" href="/main/carousel.css?items=58050bd2b57ac3162b00000c,58050a4bb57ac3162f000010,5805027bfd2e61651a00000b,5805093fb57ac3162b00000a,58050b06fd2e616514000008" type="text/css" >
+
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="G+YdEkqEqElAe60hWfNvBDpCnXkkSQ34eH9x3NZJqafZug4VAZPtmqV5s9sLOBRENfaE8q2XTn0qZNFNU/SS8g==" />
+
+  <script src="//assets.adobedtm.com/6372cf21ef88ee60bc2977a4898dcb5c7945a212/satelliteLib-b6ad1512721e6b5d6cd169905d1aa9e5e87acb10.js"></script>
+
+  <script src="https://pixel.condenastdigital.com/sparrow.min.js"></script>
+
+  <script src="//d2auhg88b162pf.cloudfront.net/assets/application-86e001eedafa00d784a27ae4d563f642.js"></script>
+  
+  <script type="text/javascript">
+    _cne.pageInfo['Brand'] = "arstechnica";
+    _cne.pageInfo['Environment'] = "production";
+    _cne.pageInfo['Context'] = "";
+  </script>
+  <script>
+      _cne.pageInfo["PageType"] = "Home";
+
+    _cne.pageInfo['App-Route'] = 'main/index';
+    _cne.pageInfo['Feedback-Url'] = 'https://api.cnevids.com/v2/feedback';
+  </script>
+
+
+  <script>
+    <!-- For Chartbeat -->
+    var _sf_startpt=(new Date()).getTime()
+  </script>
+  <!--[if (gte IE 6)&(lte IE 8)]>
+    <link rel="stylesheet" media="screen" href="//d2auhg88b162pf.cloudfront.net/assets/ie-c91d6dcf19682aad0d1984321dfa18ec.css" />
+    <script src="//d2auhg88b162pf.cloudfront.net/assets/html5shiv-7fd9a9ebdc133246b22a423bdfeb2195.js"></script>
+  <![endif]-->
+</head>
+<body id="cne-arstechnica" class="cne-mobile-nav-open" data-controller="main" data-action="index">
+<a
+  class="cne-main-skip-link offscreen"
+  href="#maincontent"
+  tabindex="0"
+>Skip to main content</a>
+<div id="fb-root"></div>
+<section id="cne-main-content" class="cne-page-wrapper js-page">
+  <div class="js-page-helper cne-page-wrapper--helper"></div>
+  <header class="cne-wrapper--header js-nav the-nav" role="banner" tabindex="-1">
+  <div class="cne-mobile-nav__coffin-landmark js-nav-coffin-landmark" aria-label="Main" role="navigation" tabindex="-1">
+    <button class="js-nav-coffin-trigger cne-nav__menu cne-nav-icon cne-icon--nav-menu" aria-expanded="false" aria-label="Toggle Menu"></button>
+    <div class="cne-mobile-nav js-nav-coffin">
+  <a class="cne-mobile-nav__link js-nav-coffin-menu-item" href="http://arstechnica.com/">ArsTechnica.com</a>
+  <span class="cne-mobile cne-mobile-nav__section-title" role="heading" aria-level="2">Videos</span>
+  <ul class="cne-mobile-nav__videos-list">
+    <li>
+      <a class="cne-mobile-nav__link js-nav-coffin-menu-item" href="/new">New</a>
+    </li>
+    <li>
+      <a class="cne-mobile-nav__link js-nav-coffin-menu-item" href="/popular">Popular</a>
+    </li>
+    <li>
+      <a class="cne-mobile-nav__link js-nav-coffin-menu-item" href="/series">Series</a>
+    </li>
+    <li>
+      <a class="cne-mobile-nav__link js-nav-coffin-menu-item" href="/genres">Genres</a>
+    </li>
+  </ul>
+  <span class="cne-mobile cne-mobile-nav__section-title" role="heading" aria-level="2">Elsewhere</span>
+  <ul class="cne-mobile-nav__elsewhere-list">
+    <li>
+      <a class="cne-mobile-nav__link js-nav-social-icon js-nav-coffin-menu-item" target="_blank" data-social-platform="youtube" href="http://www.youtube.com/arstechnicavideos">Youtube</a>
+    </li>
+    <li>
+      <a class="cne-mobile-nav__link js-nav-social-icon js-nav-coffin-menu-item" target="_blank" data-social-platform="facebook" href="http://www.facebook.com/arstechnica">Facebook</a>
+    </li>
+    <li>
+      <a class="cne-mobile-nav__link js-nav-social-icon js-nav-coffin-menu-item" target="_blank" data-social-platform="twitter" href="http://www.twitter.com/arstechnica">Twitter</a>
+    </li>
+    <li>
+      <a class="cne-mobile-nav__link js-nav-social-icon js-nav-coffin-menu-item" target="_blank" data-social-platform="google_plus" href="http://plus.google.com/+ArsTechnica">Google +</a>
+    </li>
+    <!-- <div class="cne-mobile-nav__background"></div> -->
+  </ul>
+</div>
+
+  </div>
+  <div class="cne-container">
+    <div class="cne-nav cne-nav-links">
+        <h1 class="cne-nav__brand--wrapper">
+          <a class="cne-nav__brand cne-brand" href="/">
+            Ars Technica Videos
+          </a>
+        </h1>
+      <div class="cne-nav__main-navigation-landmark" aria-label="Main" role="navigation" tabindex="-1">
+        <ul class="cne-nav__links-container">
+          <li class="cne-nav__link-list-item">
+            <a class="cne-nav__link" href="/new">New</a>
+          </li>
+          <li class="cne-nav__link-list-item">
+            <a class="cne-nav__link" href="/popular">Popular</a>
+          </li>
+          <li class="cne-nav__link-list-item js-nav-series-container">
+            <a class="cne-nav__link js-nav-trigger js-nav-series" data-drawer="series" href="/series">Series</a>
+            <div class="cne-nav--drawer js-nav-drawer js-nav-drawer--series">
+  <div class="cne-nav--drawer__open-tip js-open-tip"></div>
+  <div class="cne-container">
+    <ul class="cne-nav--drawer__item-container">
+      <li class="cne-nav--drawer__item--series">
+        <a class="cne-nav--drawer__item--series__link js-nav-drawer-menu-item" data-drawer="series" aria-label="Science, 70 episodes" href="/series/science-and-exploration">
+          <img image_type="hero" width="270" height="152" brand="#&lt;Brand:0x000000093f6b60&gt;" alt="Scientific Method" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_152,q_80,w_270/v1440625162/arstechnica_hero_science-and-exploration-scientific-method.jpg" />
+          <span class="cne-nav--drawer__title--series" role="presentation">Science</span>
+          <span class="cne-nav--drawer__title--sub" role="presentation">70 episodes</span>
+</a>      </li>
+      <li class="cne-nav--drawer__item--series">
+        <a class="cne-nav--drawer__item--series__link js-nav-drawer-menu-item" data-drawer="series" aria-label="Cars, 72 episodes" href="/series/cars-technica">
+          <img image_type="hero" width="270" height="152" brand="#&lt;Brand:0x000000093f6b60&gt;" alt="Cars Technica" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_152,q_80,w_270/v1440625106/arstechnica_hero_cars-technica-cars-technica.jpg" />
+          <span class="cne-nav--drawer__title--series" role="presentation">Cars</span>
+          <span class="cne-nav--drawer__title--sub" role="presentation">72 episodes</span>
+</a>      </li>
+      <li class="cne-nav--drawer__item--series">
+        <a class="cne-nav--drawer__item--series__link js-nav-drawer-menu-item" data-drawer="series" aria-label="Tech, 183 episodes" href="/series/gear-gadgets">
+          <img image_type="hero" width="270" height="152" brand="#&lt;Brand:0x000000093f6b60&gt;" alt="Gear &amp; Gadgets" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_152,q_80,w_270/v1447899221/arstechnica_hero_gear-gadgets-gear-gadgets.jpg" />
+          <span class="cne-nav--drawer__title--series" role="presentation">Tech</span>
+          <span class="cne-nav--drawer__title--sub" role="presentation">183 episodes</span>
+</a>      </li>
+      <li class="cne-nav--drawer__item--series">
+        <a class="cne-nav--drawer__item--series__link js-nav-drawer-menu-item" data-drawer="series" aria-label="Games and Culture, 181 episodes" href="/series/all-things-gaming">
+          <img image_type="hero" width="270" height="152" brand="#&lt;Brand:0x000000093f6b60&gt;" alt="Culture" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_152,q_80,w_270/v1488072569/arstechnica_hero_all-things-gaming-culture.jpg" />
+          <span class="cne-nav--drawer__title--series" role="presentation">Games and Culture</span>
+          <span class="cne-nav--drawer__title--sub" role="presentation">181 episodes</span>
+</a>      </li>
+      <li class="cne-nav--drawer__footer">
+        <a class="cne-nav--drawer__footer__link js-nav-drawer-menu-item" data-drawer="series" aria-label="See all series" href="/series">
+            <div role="presentation">See All Series <span class="cne-icon cne-icon--arrow--right" role="presentation"></span></div>
+</a>      </li>
+    </ul>
+  </div>
+</div>
+
+          </li>
+          <li class="cne-nav__link-list-item js-nav-genres-container">
+            <a class="cne-nav__link js-nav-trigger js-nav-genres" data-drawer="genres" href="/genres">Genres</a>
+            <div class="cne-nav--drawer js-nav-drawer js-nav-drawer--genres">
+  <div class="cne-nav--drawer__open-tip js-open-tip"></div>
+  <div class="cne-container">
+    <ul class="cne-nav--drawer__item-container">
+      <li class="cne-nav--drawer__item--categories">
+        <a class="js-nav-drawer-menu-item" data-drawer="genres" aria-label="automotive" href="/genres/automotive">
+          <div class="cne-image" role="presentation">
+            <img src="//d2auhg88b162pf.cloudfront.net/assets/categories/arstechnica/arstechnica_category_automotive-21857f44577b1c7d951ada3ab2a682ea.jpg" alt="Category: automotive" role="presentation">
+          </div>
+          <span class="cne-nav--drawer__title-gradient" role="presentation">
+            <span class="cne-nav--drawer__title--categories" role="presentation">automotive</span>
+          </span>
+</a>      </li>
+      <li class="cne-nav--drawer__item--categories">
+        <a class="js-nav-drawer-menu-item" data-drawer="genres" aria-label="business" href="/genres/business">
+          <div class="cne-image" role="presentation">
+            <img src="//d2auhg88b162pf.cloudfront.net/assets/categories/arstechnica/arstechnica_category_business-58665c18b16b2966f98a85a05939123b.jpg" alt="Category: business" role="presentation">
+          </div>
+          <span class="cne-nav--drawer__title-gradient" role="presentation">
+            <span class="cne-nav--drawer__title--categories" role="presentation">business</span>
+          </span>
+</a>      </li>
+      <li class="cne-nav--drawer__item--categories">
+        <a class="js-nav-drawer-menu-item" data-drawer="genres" aria-label="gaming &amp; entertainment" href="/genres/gaming%20&amp;%20entertainment">
+          <div class="cne-image" role="presentation">
+            <img src="//d2auhg88b162pf.cloudfront.net/assets/categories/arstechnica/arstechnica_category_gaming_entertainment-a78c0c14e12cf8b8094bbfb5fe7908fe.jpg" alt="Category: gaming &amp; entertainment" role="presentation">
+          </div>
+          <span class="cne-nav--drawer__title-gradient" role="presentation">
+            <span class="cne-nav--drawer__title--categories" role="presentation">gaming &amp; entertainment</span>
+          </span>
+</a>      </li>
+      <li class="cne-nav--drawer__item--categories">
+        <a class="js-nav-drawer-menu-item" data-drawer="genres" aria-label="gear &amp; gadgets" href="/genres/gear%20&amp;%20gadgets">
+          <div class="cne-image" role="presentation">
+            <img src="//d2auhg88b162pf.cloudfront.net/assets/categories/arstechnica/arstechnica_category_gear_gadgets-32d4d375ecd8756f394d56061a7c351f.jpg" alt="Category: gear &amp; gadgets" role="presentation">
+          </div>
+          <span class="cne-nav--drawer__title-gradient" role="presentation">
+            <span class="cne-nav--drawer__title--categories" role="presentation">gear &amp; gadgets</span>
+          </span>
+</a>      </li>
+      <li class="cne-nav--drawer__item--categories">
+        <a class="js-nav-drawer-menu-item" data-drawer="genres" aria-label="product reviews" href="/genres/product%20reviews">
+          <div class="cne-image" role="presentation">
+            <img src="//d2auhg88b162pf.cloudfront.net/assets/categories/arstechnica/arstechnica_category_product_reviews-2804f814d767dc64ea42240b69ef8f9c.jpg" alt="Category: product reviews" role="presentation">
+          </div>
+          <span class="cne-nav--drawer__title-gradient" role="presentation">
+            <span class="cne-nav--drawer__title--categories" role="presentation">product reviews</span>
+          </span>
+</a>      </li>
+      <li class="cne-nav--drawer__item--categories">
+        <a class="js-nav-drawer-menu-item" data-drawer="genres" aria-label="science" href="/genres/science">
+          <div class="cne-image" role="presentation">
+            <img src="//d2auhg88b162pf.cloudfront.net/assets/categories/arstechnica/arstechnica_category_science-8b4a328a4147a8f6e90ec967b2bbe49e.jpg" alt="Category: science" role="presentation">
+          </div>
+          <span class="cne-nav--drawer__title-gradient" role="presentation">
+            <span class="cne-nav--drawer__title--categories" role="presentation">science</span>
+          </span>
+</a>      </li>
+      <li class="cne-nav--drawer__item--categories">
+        <a class="js-nav-drawer-menu-item" data-drawer="genres" aria-label="security &amp; hacktivism" href="/genres/security%20&amp;%20hacktivism">
+          <div class="cne-image" role="presentation">
+            <img src="//d2auhg88b162pf.cloudfront.net/assets/categories/arstechnica/arstechnica_category_security_hacktivism-ca7db19387d2e3633029574223f936e9.jpg" alt="Category: security &amp; hacktivism" role="presentation">
+          </div>
+          <span class="cne-nav--drawer__title-gradient" role="presentation">
+            <span class="cne-nav--drawer__title--categories" role="presentation">security &amp; hacktivism</span>
+          </span>
+</a>      </li>
+      <li class="cne-nav--drawer__item--categories">
+        <a class="js-nav-drawer-menu-item" data-drawer="genres" aria-label="sponsored" href="/genres/sponsored">
+          <div class="cne-image" role="presentation">
+            <img src="//d2auhg88b162pf.cloudfront.net/assets/categories/arstechnica/arstechnica_category_sponsored-14772883a1e3779728d26e0417aa6b76.jpg" alt="Category: sponsored" role="presentation">
+          </div>
+          <span class="cne-nav--drawer__title-gradient" role="presentation">
+            <span class="cne-nav--drawer__title--categories" role="presentation">sponsored</span>
+          </span>
+</a>      </li>
+      <li class="cne-nav--drawer__item--categories">
+        <a class="js-nav-drawer-menu-item" data-drawer="genres" aria-label="technology" href="/genres/technology">
+          <div class="cne-image" role="presentation">
+            <img src="//d2auhg88b162pf.cloudfront.net/assets/categories/arstechnica/arstechnica_category_technology-589273812aaab66769999e3ff3a0a5a0.jpg" alt="Category: technology" role="presentation">
+          </div>
+          <span class="cne-nav--drawer__title-gradient" role="presentation">
+            <span class="cne-nav--drawer__title--categories" role="presentation">technology</span>
+          </span>
+</a>      </li>
+    </ul>
+  </div>
+</div>
+
+          </li>
+        </ul>
+      </div>
+      <div class="js-nav-social-container cne-nav__external-links-container" role="navigation" aria-label="Social Media" tabindex="-1">
+        <ul class="cne-nav__icon-group">
+          <li class="cne-nav__link-list-item">
+            <a class="cne-nav__link" href="http://arstechnica.com/">Go to ArsTechnica.com</a>
+          </li>
+          <li class="cne-nav__link-list-item" role="presentation">
+            <div class="cne-nav__link-divider" role="presentation"></div>
+          </li>
+          <li class="cne-nav__link-list-item js-nav-youtube-container">
+            <a class="cne-nav-icon cne-icon--social--youtube js-nav-trigger js-nav-youtube js-nav-social-icon" target="_blank" data-drawer="youtube" data-social-platform="youtube" aria-haspopup="true" aria-expanded="false" aria-label="Ars Technica&#39;s Youtube channel." href="http://www.youtube.com/arstechnicavideos">
+              <span class="keyboard-focus" tabindex="-1"></span>
+</a>            <div class="cne-nav--drawer--small js-nav-drawer js-nav-drawer-small js-nav-drawer--youtube">
+              <div class="cne-nav--drawer__open-tip js-open-tip"></div>
+              <div class="cne-nav--drawer--small__container">
+                <p aria-live="polite">
+                  Subscribe to 'Ars Technica'
+                  on YouTube to keep up with all of
+                  our latest videos and shows.
+                </p>
+                <div class="g-ytsubscribe" data-channel="arstechnicavideos" data-layout="default" data-count="default" data-onytevent="onYoutubeAction"></div>
+              </div>
+            </div>
+          </li>
+          <li class="cne-nav__link-list-item">
+            <a class="cne-nav-icon cne-icon--social--facebook js-nav-social-icon" target="_blank" data-social-platform="facebook" aria-label="Ars Technica&#39;s Facebook page" href="http://www.facebook.com/arstechnica">
+              <span class="keyboard-focus" tabindex="-1"></span>
+</a>          </li>
+          <li class="cne-nav__link-list-item">
+            <a class="cne-nav-icon cne-icon--social--twitter js-nav-social-icon" target="_blank" data-social-platform="twitter" aria-label="Ars Technica&#39;s Twitter profile" href="http://www.twitter.com/arstechnica">
+              <span class="keyboard-focus" tabindex="-1"></span>
+</a>          </li>
+          <li class="cne-nav__link-list-item">
+            <a class="cne-nav-icon cne-icon--social--google-plus js-nav-social-icon" target="_blank" data-social-platform="google_plus" aria-label="Ars Technica&#39;s Google Plus page" href="http://plus.google.com/+ArsTechnica">
+              <span class="keyboard-focus" tabindex="-1"></span>
+</a>          </li>
+          <li class="cne-nav__link-list-item" role="presentation">
+            <div class="cne-nav__link-divider" role="presentation"></div>
+          </li>
+        </ul>
+      </div>
+
+      <div class="cne-nav__search js-nav-search-container" role='search'>
+        <button
+          aria-label="Search"
+          class="js-nav-open-search cne-nav-icon cne-icon--search">
+          <span class="keyboard-focus" tabindex="-1"></span>
+        </button>
+        <input
+          class="cne-input--search js-nav-search-input js-swiftype"
+          placeholder="Search for videos."
+          type="text"
+          role="combobox"
+          aria-label="Search"
+          aria-describedby="inputDesc"
+          aria-autocomplete="list"
+          aria-expanded="false"
+        >
+        <span id="inputDesc" style="display:none">When autocomplete results are available use up and down arrows to review and enter to select.</span>
+        <button
+          aria-label="Close Search"
+          class="js-nav-close-search cne-nav-icon cne-icon--close">
+          <span class="keyboard-focus" tabindex="-1"></span>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div class="cne-nav__mobile-search js-nav-mobile-search-container" role="search">
+    <button aria-label="Search" class="js-nav-open-mobile-search cne-nav-icon cne-icon--search"></button>
+    <button aria-label="Close Search" class="js-nav-close-mobile-search cne-nav-icon cne-icon--close"></button>
+  </div>
+</header>
+
+<div class="cne-nav__mobile-search-bar js-nav-mobile-search-bar">
+  <span class="cne-nav-icon cne-icon--search"></span>
+  <input class="cne-input--search js-nav-mobile-search-input js-swiftype--mobile"
+    placeholder="Search for videos."
+    aria-label="Search">
+</div>
+
+  
+
+
+
+<main id="maincontent" class="cne-main-landmark" role="main" tabindex="-1">
+  
+
+<div class="cne-wrapper cne-main-carousel-wrapper" role="region" aria-labelledBy="carousel-title" tabindex="-1">
+  <h2 id="carousel-title" class="hide-carousel-item">Video Highlights</h2>
+  <div class="cne-main-carousel-container">
+    <a role="button" aria-labelledby="cne-carousel-previous" href="javascript:void(0)" class="cne-main-nav cne-main-prev">
+      <span class="keyboard-focus" tabindex="-1"></span>
+    </a>
+    <span id="cne-carousel-previous" tabindex="-1" class="hide-carousel-item">Previous video.  Screen reader users do not need to use these controls. All of the content is already presented to you on the page.</span>
+    <ul class="cne-main-carousel" id="slider-carousel" data-automove="true" data-context="main">
+      <li
+  tabindex="0"
+  class="cne-carousel-item"
+  data-url="http://video.arstechnica.com/watch/ps4-slim-video-review-hands-on"
+  data-adtargetingid="58050b3db57ac3162b00000b"
+  data-index="0"
+  data-series-id="55cd008f61646d097400001e"
+  data-target="_self"
+>
+  <a href="http://video.arstechnica.com/watch/ps4-slim-video-review-hands-on" target="_self">
+    <div class="cne-carousel-item-gradient"></div>
+    <div class="cne-carousel-item-image cne-carousel-style-1" data-cne-main-carousel-item="58050bd2b57ac3162b00000c"></div>
+    <div class="cne-text-block">
+      <span class="cne-tagline">Games and Culture</span>
+      <p>PS4 Slim: A Smaller, Sexier Console with Few Compromises </p>
+    </div>
+  </a>
+  <a class="cne-sponsor-ad" target="_blank"><img alt="Sponsored Content" src="#" class="cne-sponsor-ad" style="display: none;"></a>
+</li>
+<li
+  tabindex="0"
+  class="cne-carousel-item"
+  data-url="http://video.arstechnica.com/watch/best-vr-headset-review-psvr-vive-oculus"
+  data-adtargetingid="580509ecb57ac3161f00001a"
+  data-index="1"
+  data-series-id="55cd008f61646d097400001e"
+  data-target="_self"
+>
+  <a href="http://video.arstechnica.com/watch/best-vr-headset-review-psvr-vive-oculus" target="_self">
+    <div class="cne-carousel-item-gradient"></div>
+    <div class="cne-carousel-item-image cne-carousel-style-1" data-cne-main-carousel-item="58050a4bb57ac3162f000010"></div>
+    <div class="cne-text-block">
+      <span class="cne-tagline">Games and Culture</span>
+      <p>Vive, Rift, PSVR, or Gear: What&#39;s the best VR headset? </p>
+    </div>
+  </a>
+  <a class="cne-sponsor-ad" target="_blank"><img alt="Sponsored Content" src="#" class="cne-sponsor-ad" style="display: none;"></a>
+</li>
+<li
+  tabindex="0"
+  class="cne-carousel-item"
+  data-url="http://video.arstechnica.com/watch/gear-gadgets-reviewing-the-pebble-2-watch"
+  data-adtargetingid="580501d2fd2e6164f8000016"
+  data-index="2"
+  data-series-id="55ccff6661646d7f13000025"
+  data-target="_self"
+>
+  <a href="http://video.arstechnica.com/watch/gear-gadgets-reviewing-the-pebble-2-watch" target="_self">
+    <div class="cne-carousel-item-gradient"></div>
+    <div class="cne-carousel-item-image cne-carousel-style-1" data-cne-main-carousel-item="5805027bfd2e61651a00000b"></div>
+    <div class="cne-text-block">
+      <span class="cne-tagline">Tech</span>
+      <p>Reviewing the Pebble 2 Watch</p>
+    </div>
+  </a>
+  <a class="cne-sponsor-ad" target="_blank"><img alt="Sponsored Content" src="#" class="cne-sponsor-ad" style="display: none;"></a>
+</li>
+<li
+  tabindex="0"
+  class="cne-carousel-item"
+  data-url="http://video.arstechnica.com/watch/all-things-gaming-microsoft-opens-the-doors-to-its-gears-of-war-4-studio"
+  data-adtargetingid="5805083cb57ac3163400000f"
+  data-index="3"
+  data-series-id="55cd008f61646d097400001e"
+  data-target="_self"
+>
+  <a href="http://video.arstechnica.com/watch/all-things-gaming-microsoft-opens-the-doors-to-its-gears-of-war-4-studio" target="_self">
+    <div class="cne-carousel-item-gradient"></div>
+    <div class="cne-carousel-item-image cne-carousel-style-1" data-cne-main-carousel-item="5805093fb57ac3162b00000a"></div>
+    <div class="cne-text-block">
+      <span class="cne-tagline">Games and Culture</span>
+      <p>Microsoft Opens the Doors to Its Gears of War 4 Studio</p>
+    </div>
+  </a>
+  <a class="cne-sponsor-ad" target="_blank"><img alt="Sponsored Content" src="#" class="cne-sponsor-ad" style="display: none;"></a>
+</li>
+<li
+  tabindex="0"
+  class="cne-carousel-item"
+  data-url="http://video.arstechnica.com/watch/gear-gadgets-fitbit-charge-2-review"
+  data-adtargetingid="58050aa8fd2e616514000007"
+  data-index="4"
+  data-series-id="55ccff6661646d7f13000025"
+  data-target="_self"
+>
+  <a href="http://video.arstechnica.com/watch/gear-gadgets-fitbit-charge-2-review" target="_self">
+    <div class="cne-carousel-item-gradient"></div>
+    <div class="cne-carousel-item-image cne-carousel-style-1" data-cne-main-carousel-item="58050b06fd2e616514000008"></div>
+    <div class="cne-text-block">
+      <span class="cne-tagline">Tech</span>
+      <p>Fitbit Charge 2 Review</p>
+    </div>
+  </a>
+  <a class="cne-sponsor-ad" target="_blank"><img alt="Sponsored Content" src="#" class="cne-sponsor-ad" style="display: none;"></a>
+</li>
+
+    </ul>
+    <a role="button" aria-labelledby="cne-carousel-next" href="javascript:void(0)" class="cne-main-nav cne-main-next">
+      <span class="keyboard-focus" tabindex="-1"></span>
+    </a>
+    <span id="cne-carousel-next" tabindex="-1" class="hide-carousel-item">Next video.  Screen reader users do not need to use these controls. All of the content is already presented to you on the page.</span>
+  </div>
+</div>
+
+<div class="cne-wrapper cne-mobile-carousel" role="region" aria-label="Video Highlights" tabindex="-1">
+  <ul class="cne-container">
+    <li
+  tabindex="0"
+  class="cne-carousel-item"
+  data-url="http://video.arstechnica.com/watch/ps4-slim-video-review-hands-on"
+  data-adtargetingid="58050b3db57ac3162b00000b"
+  data-index="0"
+  data-series-id="55cd008f61646d097400001e"
+  data-target="_self"
+>
+  <a href="http://video.arstechnica.com/watch/ps4-slim-video-review-hands-on" target="_self">
+    <div class="cne-carousel-item-gradient"></div>
+    <div class="cne-carousel-item-image cne-carousel-style-1" data-cne-main-carousel-item="58050bd2b57ac3162b00000c"></div>
+    <div class="cne-text-block">
+      <span class="cne-tagline">Games and Culture</span>
+      <p>PS4 Slim: A Smaller, Sexier Console with Few Compromises </p>
+    </div>
+  </a>
+  <a class="cne-sponsor-ad" target="_blank"><img alt="Sponsored Content" src="#" class="cne-sponsor-ad" style="display: none;"></a>
+</li>
+<li
+  tabindex="0"
+  class="cne-carousel-item"
+  data-url="http://video.arstechnica.com/watch/best-vr-headset-review-psvr-vive-oculus"
+  data-adtargetingid="580509ecb57ac3161f00001a"
+  data-index="1"
+  data-series-id="55cd008f61646d097400001e"
+  data-target="_self"
+>
+  <a href="http://video.arstechnica.com/watch/best-vr-headset-review-psvr-vive-oculus" target="_self">
+    <div class="cne-carousel-item-gradient"></div>
+    <div class="cne-carousel-item-image cne-carousel-style-1" data-cne-main-carousel-item="58050a4bb57ac3162f000010"></div>
+    <div class="cne-text-block">
+      <span class="cne-tagline">Games and Culture</span>
+      <p>Vive, Rift, PSVR, or Gear: What&#39;s the best VR headset? </p>
+    </div>
+  </a>
+  <a class="cne-sponsor-ad" target="_blank"><img alt="Sponsored Content" src="#" class="cne-sponsor-ad" style="display: none;"></a>
+</li>
+<li
+  tabindex="0"
+  class="cne-carousel-item"
+  data-url="http://video.arstechnica.com/watch/gear-gadgets-reviewing-the-pebble-2-watch"
+  data-adtargetingid="580501d2fd2e6164f8000016"
+  data-index="2"
+  data-series-id="55ccff6661646d7f13000025"
+  data-target="_self"
+>
+  <a href="http://video.arstechnica.com/watch/gear-gadgets-reviewing-the-pebble-2-watch" target="_self">
+    <div class="cne-carousel-item-gradient"></div>
+    <div class="cne-carousel-item-image cne-carousel-style-1" data-cne-main-carousel-item="5805027bfd2e61651a00000b"></div>
+    <div class="cne-text-block">
+      <span class="cne-tagline">Tech</span>
+      <p>Reviewing the Pebble 2 Watch</p>
+    </div>
+  </a>
+  <a class="cne-sponsor-ad" target="_blank"><img alt="Sponsored Content" src="#" class="cne-sponsor-ad" style="display: none;"></a>
+</li>
+<li
+  tabindex="0"
+  class="cne-carousel-item"
+  data-url="http://video.arstechnica.com/watch/all-things-gaming-microsoft-opens-the-doors-to-its-gears-of-war-4-studio"
+  data-adtargetingid="5805083cb57ac3163400000f"
+  data-index="3"
+  data-series-id="55cd008f61646d097400001e"
+  data-target="_self"
+>
+  <a href="http://video.arstechnica.com/watch/all-things-gaming-microsoft-opens-the-doors-to-its-gears-of-war-4-studio" target="_self">
+    <div class="cne-carousel-item-gradient"></div>
+    <div class="cne-carousel-item-image cne-carousel-style-1" data-cne-main-carousel-item="5805093fb57ac3162b00000a"></div>
+    <div class="cne-text-block">
+      <span class="cne-tagline">Games and Culture</span>
+      <p>Microsoft Opens the Doors to Its Gears of War 4 Studio</p>
+    </div>
+  </a>
+  <a class="cne-sponsor-ad" target="_blank"><img alt="Sponsored Content" src="#" class="cne-sponsor-ad" style="display: none;"></a>
+</li>
+<li
+  tabindex="0"
+  class="cne-carousel-item"
+  data-url="http://video.arstechnica.com/watch/gear-gadgets-fitbit-charge-2-review"
+  data-adtargetingid="58050aa8fd2e616514000007"
+  data-index="4"
+  data-series-id="55ccff6661646d7f13000025"
+  data-target="_self"
+>
+  <a href="http://video.arstechnica.com/watch/gear-gadgets-fitbit-charge-2-review" target="_self">
+    <div class="cne-carousel-item-gradient"></div>
+    <div class="cne-carousel-item-image cne-carousel-style-1" data-cne-main-carousel-item="58050b06fd2e616514000008"></div>
+    <div class="cne-text-block">
+      <span class="cne-tagline">Tech</span>
+      <p>Fitbit Charge 2 Review</p>
+    </div>
+  </a>
+  <a class="cne-sponsor-ad" target="_blank"><img alt="Sponsored Content" src="#" class="cne-sponsor-ad" style="display: none;"></a>
+</li>
+
+  </ul>
+</div>
+
+
+    
+<div class="cne-wrapper cne-grid cne-mobile-subcarousel" role="region" aria-labelledBy="mobile-subcarousel-title" tabindex="-1">
+  <div class="cne-subcarousel-wrapper">
+    <div class="cne-container">
+      <div class="cne-thumb-grid">
+        <h2 id="mobile-subcarousel-title">Tech Reviews</h2>
+        <div class="cne-thumb-grid-container">
+            <div class="cne-thumb cne-episode-block" style="display: block" data-videoid="5771d21e33948c1a3700000f">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="5771d21e33948c1a3700000f">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-huawei-matebook-pricey-tablet">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Huawei Matebook: luxury tablet, pricey hybrid" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1467081115/arstechnica_gear-gadgets-huawei-matebook-pricey-tablet-average-performance.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="5771d21e33948c1a3700000f" aria-label="Play. Huawei Matebook: luxury tablet, pricey hybrid" aria-describedby="5771d21e33948c1a3700000f-description" href="/watch/gear-gadgets-huawei-matebook-pricey-tablet">Huawei Matebook: luxury tablet, pricey hybrid</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="5771d21e33948c1a3700000f-mobile">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="5771d21e33948c1a3700000f-description-mobile" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the Huawei Matebook, a stylish, luxury tablet with some optional accessories that can make it a pseudo-hybrid laptop, but at a high price.
+Read the article: http://arstechnica.com/gadgets/2016/06/huawei-matebook-reviewed-a-surface-clone-that-puts-style-first-work-second/
+      </span>
+    </div>
+  </div>
+</div>
+
+            <div class="cne-thumb cne-episode-block" style="display: block" data-videoid="576f4bd933948c17b5000000">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="576f4bd933948c17b5000000">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-sony-xperia-x-performance-smartphone-fast-great-for-selfies-not-much-else">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Sony Xperia X Performance smartphone: fast, great for selfies, very pricey" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1466912550/arstechnica_gear-gadgets-sony-xperia-x-performance-smartphone-fast-great-for-selfies-not-much-else.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="576f4bd933948c17b5000000" aria-label="Play. Sony Xperia X Performance smartphone: fast, great..." aria-describedby="576f4bd933948c17b5000000-description" href="/watch/gear-gadgets-sony-xperia-x-performance-smartphone-fast-great-for-selfies-not-much-else">Sony Xperia X Performance smartphone: fast, great...</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="576f4bd933948c17b5000000-mobile">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="576f4bd933948c17b5000000-description-mobile" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the Sony Xperia X Performance smartphone. With a 23MP selfie cam, Snapdragon 820, SD expansion slot, but no 4K or fingerprint security, we try to determine if the glitz is worth the high price.
+      </span>
+    </div>
+  </div>
+</div>
+
+            <div class="cne-thumb cne-episode-block" style="display: block" data-videoid="5759db73ba4aa10e71000013">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="5759db73ba4aa10e71000013">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-ars-review-samsung-s-gear-fit-2">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars Review: Samsung&#39;s Gear Fit 2" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1465509168/arstechnica_gear-gadgets-ars-review-samsung-s-gear-fit-2.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="5759db73ba4aa10e71000013" aria-label="Play. Ars Review: Samsung&#39;s Gear Fit 2" aria-describedby="5759db73ba4aa10e71000013-description" href="/watch/gear-gadgets-ars-review-samsung-s-gear-fit-2">Ars Review: Samsung&#39;s Gear Fit 2</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="5759db73ba4aa10e71000013-mobile">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="5759db73ba4aa10e71000013-description-mobile" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews Samsung's new Gear Fit 2 activity tracker and its companion apps.
+Read the article: http://arstechnica.com/gadgets/2016/06/gear-fit-2-review-a-thoughtful-marriage-of-smartwatch-and-fitness-band/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+            <div class="cne-thumb cne-episode-block" style="display: block" data-videoid="573dd64e33948c274e00000f">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="573dd64e33948c274e00000f">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-garmin-vivoactive-hr-activity-tracker">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Garmin Vivoactive HR activity tracker" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1463672529/arstechnica_gear-gadgets-garmin-vivoactive-hr-activity-tracker.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="573dd64e33948c274e00000f" aria-label="Play. Garmin Vivoactive HR activity tracker" aria-describedby="573dd64e33948c274e00000f-description" href="/watch/gear-gadgets-garmin-vivoactive-hr-activity-tracker">Garmin Vivoactive HR activity tracker</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="573dd64e33948c274e00000f-mobile">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="573dd64e33948c274e00000f-description-mobile" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the Garmin Vivoactive HR activity tracker.
+Read the article: http://arstechnica.com/gadgets/2016/05/review-garmins-vivoactive-hr-is-more-hardcore-than-fitbits-surge/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+            <div class="cne-thumb cne-episode-block" style="display: block" data-videoid="5735eb7933948c1a15000002">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="5735eb7933948c1a15000002">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-lenovo-s-thinkpad-x1-tablet-laptop-combo">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Lenovo&#39;s Thinkpad X1 tablet/laptop device" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1463159767/arstechnica_gear-gadgets-lenovo-s-thinkpad-x1-tablet-laptop-combo.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="5735eb7933948c1a15000002" aria-label="Play. Lenovo&#39;s Thinkpad X1 tablet/laptop device" aria-describedby="5735eb7933948c1a15000002-description" href="/watch/gear-gadgets-lenovo-s-thinkpad-x1-tablet-laptop-combo">Lenovo&#39;s Thinkpad X1 tablet/laptop device</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="5735eb7933948c1a15000002-mobile">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="5735eb7933948c1a15000002-description-mobile" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews Lenovo's Thinkpad X1 tablet/laptop combo, which fares pretty well against the Microsoft Surface Book.
+Read the article: http://arstechnica.com/gadgets/2016/05/lenovo-thinkpad-x1-reviewed-a-hybrid-for-the-workaholics-among-us
+
+      </span>
+    </div>
+  </div>
+</div>
+
+            <div class="cne-thumb cne-episode-block" style="display: block" data-videoid="572ceb2733948c32f3000010">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="572ceb2733948c32f3000010">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-withings-go-a-simple-and-affordably-priced-activity-tracker">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Withings Go - a simple, affordably priced activity tracker" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1462563566/arstechnica_gear-gadgets-withings-go-a-simple-and-affordably-priced-activity-tracker.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="572ceb2733948c32f3000010" aria-label="Play. Withings Go - a simple, affordably priced activity..." aria-describedby="572ceb2733948c32f3000010-description" href="/watch/gear-gadgets-withings-go-a-simple-and-affordably-priced-activity-tracker">Withings Go - a simple, affordably priced activity...</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="572ceb2733948c32f3000010-mobile">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="572ceb2733948c32f3000010-description-mobile" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the Withings' first affordably priced activity tracker, the Withings Go. 
+Read the article: http://arstechnica.com/gadgets/2016/05/withings-go-reviewed-this-button-sized-fitness-tracker-left-me-wanting-more/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+            <div class="cne-thumb cne-episode-block" style="display: block" data-videoid="5722396833055407d4000003">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="5722396833055407d4000003">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-chatting-with-the-amazon-echo-s-alexa">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Chatting with the Amazon Echo&#39;s Alexa" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1461866602/arstechnica_gear-gadgets-chatting-with-the-amazon-echo-s-alexa.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="5722396833055407d4000003" aria-label="Play. Chatting with the Amazon Echo&#39;s Alexa" aria-describedby="5722396833055407d4000003-description" href="/watch/gear-gadgets-chatting-with-the-amazon-echo-s-alexa">Chatting with the Amazon Echo&#39;s Alexa</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="5722396833055407d4000003-mobile">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="5722396833055407d4000003-description-mobile" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the Amazon Echo's voice component, Alexa.
+Read the article: http://arstechnica.com/gadgets/2016/05/one-year-after-alexa-amazons-echo-has-found-a-small-but-smart-niche/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+            <div class="cne-thumb cne-episode-block" style="display: block" data-videoid="5716b9d894c05f4dc2000020">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="5716b9d894c05f4dc2000020">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-misfit-ray-activity-tracker-review">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews the Misfit Ray activity tracker" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1461108255/arstechnica_gear-gadgets-misfit-ray-activity-tracker-review.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="5716b9d894c05f4dc2000020" aria-label="Play. Ars reviews the Misfit Ray activity tracker" aria-describedby="5716b9d894c05f4dc2000020-description" href="/watch/gear-gadgets-misfit-ray-activity-tracker-review">Ars reviews the Misfit Ray activity tracker</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="5716b9d894c05f4dc2000020-mobile">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="5716b9d894c05f4dc2000020-description-mobile" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the stylish Misfit Ray activity tracker and its companion apps.
+Read the article: http://arstechnica.com/gadgets/2016/04/misfit-ray-fitness-tracker-review-putting-style-ahead-of-fancy-features/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+            <div class="cne-thumb cne-episode-block" style="display: none" data-videoid="5705cc51ff2afb6f8e000071">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="5705cc51ff2afb6f8e000071">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-ars-reviews-the-skulpt-chisel">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews the Skulpt Chisel" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1459999260/arstechnica_gear-gadgets-ars-reviews-the-skulpt-chisel.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="5705cc51ff2afb6f8e000071" aria-label="Play. Ars reviews the Skulpt Chisel" aria-describedby="5705cc51ff2afb6f8e000071-description" href="/watch/gear-gadgets-ars-reviews-the-skulpt-chisel">Ars reviews the Skulpt Chisel</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="5705cc51ff2afb6f8e000071-mobile">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="5705cc51ff2afb6f8e000071-description-mobile" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the Skulpt Chisel, a fitness assessment device that measures muscle quality/composition and body fat percentage.
+Read the article: http://arstechnica.com/gadgets/2016/04/skulpt-chisel-delivers-the-hard-truth-about-your-muscle-and-fat-levels/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+            <div class="cne-thumb cne-episode-block" style="display: none" data-videoid="56f1fde394c05f6b1f00001f">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="56f1fde394c05f6b1f00001f">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-ars-reviews-the-polar-a360-fitness-tracker">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews the Polar A360 fitness tracker" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1458701240/arstechnica_gear-gadgets-ars-reviews-the-polar-a360-fitness-tracker.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="56f1fde394c05f6b1f00001f" aria-label="Play. Ars reviews the Polar A360 fitness tracker" aria-describedby="56f1fde394c05f6b1f00001f-description" href="/watch/gear-gadgets-ars-reviews-the-polar-a360-fitness-tracker">Ars reviews the Polar A360 fitness tracker</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="56f1fde394c05f6b1f00001f-mobile">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="56f1fde394c05f6b1f00001f-description-mobile" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the Polar A360 fitness tracker, which has some comparable features to the Garmin Vivosmart HR.
+Read the article: http://arstechnica.com/gadgets/2016/03/polar-a360-reviewed-another-fitness-tracker-with-smartwatch-envy/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+            <div class="cne-thumb cne-episode-block" style="display: none" data-videoid="56eacf5894c05f58c8000000">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="56eacf5894c05f58c8000000">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-ars-reviews-the-fitbit-blaze">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews the Fitbit Blaze" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1458231008/arstechnica_gear-gadgets-ars-reviews-the-fitbit-blaze.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="56eacf5894c05f58c8000000" aria-label="Play. Ars reviews the Fitbit Blaze" aria-describedby="56eacf5894c05f58c8000000-description" href="/watch/gear-gadgets-ars-reviews-the-fitbit-blaze">Ars reviews the Fitbit Blaze</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="56eacf5894c05f58c8000000-mobile">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="56eacf5894c05f58c8000000-description-mobile" role="tooltip">
+        <span class="cne-rollover-category">product reviews</span>
+        Ars Technica's Valentina Palladino reviews the new Fitbit Blaze, a new fitness smart watch. 
+Read the article: http://arstechnica.com/gadgets/2016/03/fitbit-blaze-reviewed-a-totally-unnecessary-tracker-with-a-few-cool-features/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+            <div class="cne-thumb cne-episode-block" style="display: none" data-videoid="56cfa6f7ff2afb033200000f">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="56cfa6f7ff2afb033200000f">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-hexoskin-smart-clothing-review">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Hexoskin smart clothing review" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1456543571/arstechnica_gear-gadgets-hexoskin-smart-clothing-review.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="56cfa6f7ff2afb033200000f" aria-label="Play. Hexoskin smart clothing review" aria-describedby="56cfa6f7ff2afb033200000f-description" href="/watch/gear-gadgets-hexoskin-smart-clothing-review">Hexoskin smart clothing review</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="56cfa6f7ff2afb033200000f-mobile">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="56cfa6f7ff2afb033200000f-description-mobile" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews Hexoskin's new smart fitness clothing.
+      </span>
+    </div>
+  </div>
+</div>
+
+            <div class="cne-thumb cne-episode-block" style="display: none" data-videoid="56243ef361646d3f08000000">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="56243ef361646d3f08000000">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/product-reviews-ars-reviews-the-microsoft-surface-book">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews the Microsoft Surface Book" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1445218335/arstechnica_product-reviews-ars-reviews-the-microsoft-surface-book.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="56243ef361646d3f08000000" aria-label="Play. Ars reviews the Microsoft Surface Book" aria-describedby="56243ef361646d3f08000000-description" href="/watch/product-reviews-ars-reviews-the-microsoft-surface-book">Ars reviews the Microsoft Surface Book</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="56243ef361646d3f08000000-mobile">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="56243ef361646d3f08000000-description-mobile" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars' Peter Bright reviews Microsoft's new Surface Book hybrid laptop.
+
+Read the article: http://arstechnica.com/gadgets/2015/10/surface-book-review-the-laptop-that-replaces-your-tablet/
+      </span>
+    </div>
+  </div>
+</div>
+
+            <div class="cne-thumb cne-episode-block" style="display: none" data-videoid="56be0e62ff2afb50ec000002">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="56be0e62ff2afb50ec000002">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-ars-reviews-the-jaybird-reign-active-recovery-band">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews the Jaybird Reign active recovery band" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1455306585/arstechnica_gear-gadgets-ars-reviews-the-jaybird-reign-active-recovery-band.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="56be0e62ff2afb50ec000002" aria-label="Play. Ars reviews the Jaybird Reign active recovery band" aria-describedby="56be0e62ff2afb50ec000002-description" href="/watch/gear-gadgets-ars-reviews-the-jaybird-reign-active-recovery-band">Ars reviews the Jaybird Reign active recovery band</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="56be0e62ff2afb50ec000002-mobile">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="56be0e62ff2afb50ec000002-description-mobile" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the Jaybird Reign active recovery band.
+Read the article: http://arstechnica.com/gadgets/2016/02/jaybird-reign-fitness-tracker-review-keeping-you-honest-with-heart-rate-variability/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+            <div class="cne-thumb cne-episode-block" style="display: none" data-videoid="56a0104e94c05f331300000f">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="56a0104e94c05f331300000f">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-ars-reviews-the-atlas-wristband">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews the Atlas Wristband" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1453332403/arstechnica_gear-gadgets-ars-reviews-the-atlas-wristband.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="56a0104e94c05f331300000f" aria-label="Play. Ars reviews the Atlas Wristband" aria-describedby="56a0104e94c05f331300000f-description" href="/watch/gear-gadgets-ars-reviews-the-atlas-wristband">Ars reviews the Atlas Wristband</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="56a0104e94c05f331300000f-mobile">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="56a0104e94c05f331300000f-description-mobile" role="tooltip">
+        <span class="cne-rollover-category">product reviews</span>
+        Ars Technica's Valentina Palladino reviews the Atlas Wristband, the workout and heart monitor functions and the Atlas companion app.
+
+Read the article: http://arstechnica.com/gadgets/2016/01/atlas-wristband-review-finally-a-fitness-tracker-for-the-gym-rats-among-us/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+            <div class="cne-thumb cne-episode-block" style="display: none" data-videoid="56952d6bff2afb4d9400000b">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="56952d6bff2afb4d9400000b">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-ars-reviews-sensoria-fitness-smart-socks-and-smart-bra">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews Sensoria Fitness smart socks and smart bra" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1452619922/arstechnica_gear-gadgets-ars-reviews-sensoria-fitness-smart-socks-and-smart-bra.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="56952d6bff2afb4d9400000b" aria-label="Play. Ars reviews Sensoria Fitness smart socks and smart..." aria-describedby="56952d6bff2afb4d9400000b-description" href="/watch/gear-gadgets-ars-reviews-sensoria-fitness-smart-socks-and-smart-bra">Ars reviews Sensoria Fitness smart socks and smart...</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="56952d6bff2afb4d9400000b-mobile">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="56952d6bff2afb4d9400000b-description-mobile" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews smart socks, a smart bra and their companion app by Sensoria Fitness.
+
+Read the article: http://arstechnica.com/gadgets/2016/01/sensoria-smart-clothing-reviewed-a-ton-of-running-data-at-your-toe-tips/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+            <div class="cne-thumb cne-episode-block" style="display: none" data-videoid="566b7a14ff2afb3e38000064">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="566b7a14ff2afb3e38000064">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/ars-reviews-the-fossil-q-founder-android-smart-watch">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews the Fossil Q Founder Android smart watch" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1449885821/arstechnica_ars-reviews-the-fossil-q-founder-android-smart-watch.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="566b7a14ff2afb3e38000064" aria-label="Play. Ars reviews the Fossil Q Founder Android smart watch" aria-describedby="566b7a14ff2afb3e38000064-description" href="/watch/ars-reviews-the-fossil-q-founder-android-smart-watch">Ars reviews the Fossil Q Founder Android smart watch</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="566b7a14ff2afb3e38000064-mobile">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="566b7a14ff2afb3e38000064-description-mobile" role="tooltip">
+        <span class="cne-rollover-category">product reviews</span>
+        Ars Technica's Valentina Palladino reviews Fossil's Q Founder Android smart watch.
+
+Read the article: http://arstechnica.com/gadgets/2015/12/fossil-q-founder-review-bold-beautiful-but-average-with-android-wear/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+            <div class="cne-thumb cne-episode-block" style="display: none" data-videoid="564caa9e94c05f45e900000c">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="564caa9e94c05f45e900000c">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-ars-reviews-the-pebble-time-round-smart-watch">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews the Pebble Time Round smart watch" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1447866229/arstechnica_gear-gadgets-ars-reviews-the-pebble-time-round-smart-watch.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="564caa9e94c05f45e900000c" aria-label="Play. Ars reviews the Pebble Time Round smart watch" aria-describedby="564caa9e94c05f45e900000c-description" href="/watch/gear-gadgets-ars-reviews-the-pebble-time-round-smart-watch">Ars reviews the Pebble Time Round smart watch</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="564caa9e94c05f45e900000c-mobile">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="564caa9e94c05f45e900000c-description-mobile" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the new, ultra-thin Pebble Time Round smart watch and its companion app.
+
+Read the article: http://arstechnica.com/gadgets/2015/11/pebble-time-round-reviewed-you-can-judge-this-book-by-its-cover/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+          <a class="cne-light-button" href="javascript:void(0)">More</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="cne-wrapper cne-subcarousel" role="region" aria-labelledBy="subcarousel-title" tabindex="-1">
+  <div class="cne-container">
+    <a role="button" aria-label="previous video" class="carousel-nav cne-subcarousel-prev" href="javascript:void(0)">
+      <span class="keyboard-focus" tabindex="-1"></span>
+    </a>
+    <div class="cne-carousel-wrapper">
+      <h2 id="subcarousel-title">Tech Reviews</h2>
+      <div class="cne-subcarousel-container">
+        <ul class="slides">
+    <li class="cne-slide">
+      <div class="cne-grid">
+        <div class="cne-thumb-grid">
+          <div class="cne-thumb-grid-container">
+              <div class="cne-thumb cne-episode-block" style="display: true" data-videoid="5771d21e33948c1a3700000f">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="5771d21e33948c1a3700000f">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-huawei-matebook-pricey-tablet">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Huawei Matebook: luxury tablet, pricey hybrid" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1467081115/arstechnica_gear-gadgets-huawei-matebook-pricey-tablet-average-performance.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="5771d21e33948c1a3700000f" aria-label="Play. Huawei Matebook: luxury tablet, pricey hybrid" aria-describedby="5771d21e33948c1a3700000f-description" href="/watch/gear-gadgets-huawei-matebook-pricey-tablet">Huawei Matebook: luxury tablet, pricey hybrid</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="5771d21e33948c1a3700000f">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="5771d21e33948c1a3700000f-description" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the Huawei Matebook, a stylish, luxury tablet with some optional accessories that can make it a pseudo-hybrid laptop, but at a high price.
+Read the article: http://arstechnica.com/gadgets/2016/06/huawei-matebook-reviewed-a-surface-clone-that-puts-style-first-work-second/
+      </span>
+    </div>
+  </div>
+</div>
+
+              <div class="cne-thumb cne-episode-block" style="display: true" data-videoid="576f4bd933948c17b5000000">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="576f4bd933948c17b5000000">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-sony-xperia-x-performance-smartphone-fast-great-for-selfies-not-much-else">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Sony Xperia X Performance smartphone: fast, great for selfies, very pricey" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1466912550/arstechnica_gear-gadgets-sony-xperia-x-performance-smartphone-fast-great-for-selfies-not-much-else.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="576f4bd933948c17b5000000" aria-label="Play. Sony Xperia X Performance smartphone: fast, great..." aria-describedby="576f4bd933948c17b5000000-description" href="/watch/gear-gadgets-sony-xperia-x-performance-smartphone-fast-great-for-selfies-not-much-else">Sony Xperia X Performance smartphone: fast, great...</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="576f4bd933948c17b5000000">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="576f4bd933948c17b5000000-description" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the Sony Xperia X Performance smartphone. With a 23MP selfie cam, Snapdragon 820, SD expansion slot, but no 4K or fingerprint security, we try to determine if the glitz is worth the high price.
+      </span>
+    </div>
+  </div>
+</div>
+
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="cne-slide">
+      <div class="cne-grid">
+        <div class="cne-thumb-grid">
+          <div class="cne-thumb-grid-container">
+              <div class="cne-thumb cne-episode-block" style="display: true" data-videoid="5759db73ba4aa10e71000013">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="5759db73ba4aa10e71000013">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-ars-review-samsung-s-gear-fit-2">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars Review: Samsung&#39;s Gear Fit 2" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1465509168/arstechnica_gear-gadgets-ars-review-samsung-s-gear-fit-2.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="5759db73ba4aa10e71000013" aria-label="Play. Ars Review: Samsung&#39;s Gear Fit 2" aria-describedby="5759db73ba4aa10e71000013-description" href="/watch/gear-gadgets-ars-review-samsung-s-gear-fit-2">Ars Review: Samsung&#39;s Gear Fit 2</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="5759db73ba4aa10e71000013">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="5759db73ba4aa10e71000013-description" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews Samsung's new Gear Fit 2 activity tracker and its companion apps.
+Read the article: http://arstechnica.com/gadgets/2016/06/gear-fit-2-review-a-thoughtful-marriage-of-smartwatch-and-fitness-band/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+              <div class="cne-thumb cne-episode-block" style="display: true" data-videoid="573dd64e33948c274e00000f">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="573dd64e33948c274e00000f">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-garmin-vivoactive-hr-activity-tracker">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Garmin Vivoactive HR activity tracker" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1463672529/arstechnica_gear-gadgets-garmin-vivoactive-hr-activity-tracker.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="573dd64e33948c274e00000f" aria-label="Play. Garmin Vivoactive HR activity tracker" aria-describedby="573dd64e33948c274e00000f-description" href="/watch/gear-gadgets-garmin-vivoactive-hr-activity-tracker">Garmin Vivoactive HR activity tracker</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="573dd64e33948c274e00000f">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="573dd64e33948c274e00000f-description" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the Garmin Vivoactive HR activity tracker.
+Read the article: http://arstechnica.com/gadgets/2016/05/review-garmins-vivoactive-hr-is-more-hardcore-than-fitbits-surge/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="cne-slide">
+      <div class="cne-grid">
+        <div class="cne-thumb-grid">
+          <div class="cne-thumb-grid-container">
+              <div class="cne-thumb cne-episode-block" style="display: true" data-videoid="5735eb7933948c1a15000002">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="5735eb7933948c1a15000002">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-lenovo-s-thinkpad-x1-tablet-laptop-combo">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Lenovo&#39;s Thinkpad X1 tablet/laptop device" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1463159767/arstechnica_gear-gadgets-lenovo-s-thinkpad-x1-tablet-laptop-combo.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="5735eb7933948c1a15000002" aria-label="Play. Lenovo&#39;s Thinkpad X1 tablet/laptop device" aria-describedby="5735eb7933948c1a15000002-description" href="/watch/gear-gadgets-lenovo-s-thinkpad-x1-tablet-laptop-combo">Lenovo&#39;s Thinkpad X1 tablet/laptop device</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="5735eb7933948c1a15000002">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="5735eb7933948c1a15000002-description" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews Lenovo's Thinkpad X1 tablet/laptop combo, which fares pretty well against the Microsoft Surface Book.
+Read the article: http://arstechnica.com/gadgets/2016/05/lenovo-thinkpad-x1-reviewed-a-hybrid-for-the-workaholics-among-us
+
+      </span>
+    </div>
+  </div>
+</div>
+
+              <div class="cne-thumb cne-episode-block" style="display: true" data-videoid="572ceb2733948c32f3000010">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="572ceb2733948c32f3000010">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-withings-go-a-simple-and-affordably-priced-activity-tracker">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Withings Go - a simple, affordably priced activity tracker" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1462563566/arstechnica_gear-gadgets-withings-go-a-simple-and-affordably-priced-activity-tracker.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="572ceb2733948c32f3000010" aria-label="Play. Withings Go - a simple, affordably priced activity..." aria-describedby="572ceb2733948c32f3000010-description" href="/watch/gear-gadgets-withings-go-a-simple-and-affordably-priced-activity-tracker">Withings Go - a simple, affordably priced activity...</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="572ceb2733948c32f3000010">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="572ceb2733948c32f3000010-description" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the Withings' first affordably priced activity tracker, the Withings Go. 
+Read the article: http://arstechnica.com/gadgets/2016/05/withings-go-reviewed-this-button-sized-fitness-tracker-left-me-wanting-more/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="cne-slide">
+      <div class="cne-grid">
+        <div class="cne-thumb-grid">
+          <div class="cne-thumb-grid-container">
+              <div class="cne-thumb cne-episode-block" style="display: true" data-videoid="5722396833055407d4000003">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="5722396833055407d4000003">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-chatting-with-the-amazon-echo-s-alexa">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Chatting with the Amazon Echo&#39;s Alexa" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1461866602/arstechnica_gear-gadgets-chatting-with-the-amazon-echo-s-alexa.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="5722396833055407d4000003" aria-label="Play. Chatting with the Amazon Echo&#39;s Alexa" aria-describedby="5722396833055407d4000003-description" href="/watch/gear-gadgets-chatting-with-the-amazon-echo-s-alexa">Chatting with the Amazon Echo&#39;s Alexa</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="5722396833055407d4000003">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="5722396833055407d4000003-description" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the Amazon Echo's voice component, Alexa.
+Read the article: http://arstechnica.com/gadgets/2016/05/one-year-after-alexa-amazons-echo-has-found-a-small-but-smart-niche/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+              <div class="cne-thumb cne-episode-block" style="display: true" data-videoid="5716b9d894c05f4dc2000020">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="5716b9d894c05f4dc2000020">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-misfit-ray-activity-tracker-review">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews the Misfit Ray activity tracker" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1461108255/arstechnica_gear-gadgets-misfit-ray-activity-tracker-review.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="5716b9d894c05f4dc2000020" aria-label="Play. Ars reviews the Misfit Ray activity tracker" aria-describedby="5716b9d894c05f4dc2000020-description" href="/watch/gear-gadgets-misfit-ray-activity-tracker-review">Ars reviews the Misfit Ray activity tracker</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="5716b9d894c05f4dc2000020">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="5716b9d894c05f4dc2000020-description" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the stylish Misfit Ray activity tracker and its companion apps.
+Read the article: http://arstechnica.com/gadgets/2016/04/misfit-ray-fitness-tracker-review-putting-style-ahead-of-fancy-features/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="cne-slide">
+      <div class="cne-grid">
+        <div class="cne-thumb-grid">
+          <div class="cne-thumb-grid-container">
+              <div class="cne-thumb cne-episode-block" style="display: true" data-videoid="5705cc51ff2afb6f8e000071">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="5705cc51ff2afb6f8e000071">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-ars-reviews-the-skulpt-chisel">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews the Skulpt Chisel" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1459999260/arstechnica_gear-gadgets-ars-reviews-the-skulpt-chisel.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="5705cc51ff2afb6f8e000071" aria-label="Play. Ars reviews the Skulpt Chisel" aria-describedby="5705cc51ff2afb6f8e000071-description" href="/watch/gear-gadgets-ars-reviews-the-skulpt-chisel">Ars reviews the Skulpt Chisel</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="5705cc51ff2afb6f8e000071">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="5705cc51ff2afb6f8e000071-description" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the Skulpt Chisel, a fitness assessment device that measures muscle quality/composition and body fat percentage.
+Read the article: http://arstechnica.com/gadgets/2016/04/skulpt-chisel-delivers-the-hard-truth-about-your-muscle-and-fat-levels/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+              <div class="cne-thumb cne-episode-block" style="display: true" data-videoid="56f1fde394c05f6b1f00001f">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="56f1fde394c05f6b1f00001f">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-ars-reviews-the-polar-a360-fitness-tracker">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews the Polar A360 fitness tracker" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1458701240/arstechnica_gear-gadgets-ars-reviews-the-polar-a360-fitness-tracker.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="56f1fde394c05f6b1f00001f" aria-label="Play. Ars reviews the Polar A360 fitness tracker" aria-describedby="56f1fde394c05f6b1f00001f-description" href="/watch/gear-gadgets-ars-reviews-the-polar-a360-fitness-tracker">Ars reviews the Polar A360 fitness tracker</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="56f1fde394c05f6b1f00001f">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="56f1fde394c05f6b1f00001f-description" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the Polar A360 fitness tracker, which has some comparable features to the Garmin Vivosmart HR.
+Read the article: http://arstechnica.com/gadgets/2016/03/polar-a360-reviewed-another-fitness-tracker-with-smartwatch-envy/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="cne-slide">
+      <div class="cne-grid">
+        <div class="cne-thumb-grid">
+          <div class="cne-thumb-grid-container">
+              <div class="cne-thumb cne-episode-block" style="display: true" data-videoid="56eacf5894c05f58c8000000">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="56eacf5894c05f58c8000000">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-ars-reviews-the-fitbit-blaze">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews the Fitbit Blaze" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1458231008/arstechnica_gear-gadgets-ars-reviews-the-fitbit-blaze.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="56eacf5894c05f58c8000000" aria-label="Play. Ars reviews the Fitbit Blaze" aria-describedby="56eacf5894c05f58c8000000-description" href="/watch/gear-gadgets-ars-reviews-the-fitbit-blaze">Ars reviews the Fitbit Blaze</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="56eacf5894c05f58c8000000">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="56eacf5894c05f58c8000000-description" role="tooltip">
+        <span class="cne-rollover-category">product reviews</span>
+        Ars Technica's Valentina Palladino reviews the new Fitbit Blaze, a new fitness smart watch. 
+Read the article: http://arstechnica.com/gadgets/2016/03/fitbit-blaze-reviewed-a-totally-unnecessary-tracker-with-a-few-cool-features/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+              <div class="cne-thumb cne-episode-block" style="display: true" data-videoid="56cfa6f7ff2afb033200000f">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="56cfa6f7ff2afb033200000f">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-hexoskin-smart-clothing-review">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Hexoskin smart clothing review" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1456543571/arstechnica_gear-gadgets-hexoskin-smart-clothing-review.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="56cfa6f7ff2afb033200000f" aria-label="Play. Hexoskin smart clothing review" aria-describedby="56cfa6f7ff2afb033200000f-description" href="/watch/gear-gadgets-hexoskin-smart-clothing-review">Hexoskin smart clothing review</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="56cfa6f7ff2afb033200000f">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="56cfa6f7ff2afb033200000f-description" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews Hexoskin's new smart fitness clothing.
+      </span>
+    </div>
+  </div>
+</div>
+
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="cne-slide">
+      <div class="cne-grid">
+        <div class="cne-thumb-grid">
+          <div class="cne-thumb-grid-container">
+              <div class="cne-thumb cne-episode-block" style="display: true" data-videoid="56243ef361646d3f08000000">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="56243ef361646d3f08000000">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/product-reviews-ars-reviews-the-microsoft-surface-book">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews the Microsoft Surface Book" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1445218335/arstechnica_product-reviews-ars-reviews-the-microsoft-surface-book.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="56243ef361646d3f08000000" aria-label="Play. Ars reviews the Microsoft Surface Book" aria-describedby="56243ef361646d3f08000000-description" href="/watch/product-reviews-ars-reviews-the-microsoft-surface-book">Ars reviews the Microsoft Surface Book</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="56243ef361646d3f08000000">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="56243ef361646d3f08000000-description" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars' Peter Bright reviews Microsoft's new Surface Book hybrid laptop.
+
+Read the article: http://arstechnica.com/gadgets/2015/10/surface-book-review-the-laptop-that-replaces-your-tablet/
+      </span>
+    </div>
+  </div>
+</div>
+
+              <div class="cne-thumb cne-episode-block" style="display: true" data-videoid="56be0e62ff2afb50ec000002">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="56be0e62ff2afb50ec000002">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-ars-reviews-the-jaybird-reign-active-recovery-band">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews the Jaybird Reign active recovery band" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1455306585/arstechnica_gear-gadgets-ars-reviews-the-jaybird-reign-active-recovery-band.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="56be0e62ff2afb50ec000002" aria-label="Play. Ars reviews the Jaybird Reign active recovery band" aria-describedby="56be0e62ff2afb50ec000002-description" href="/watch/gear-gadgets-ars-reviews-the-jaybird-reign-active-recovery-band">Ars reviews the Jaybird Reign active recovery band</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="56be0e62ff2afb50ec000002">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="56be0e62ff2afb50ec000002-description" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the Jaybird Reign active recovery band.
+Read the article: http://arstechnica.com/gadgets/2016/02/jaybird-reign-fitness-tracker-review-keeping-you-honest-with-heart-rate-variability/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="cne-slide">
+      <div class="cne-grid">
+        <div class="cne-thumb-grid">
+          <div class="cne-thumb-grid-container">
+              <div class="cne-thumb cne-episode-block" style="display: true" data-videoid="56a0104e94c05f331300000f">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="56a0104e94c05f331300000f">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-ars-reviews-the-atlas-wristband">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews the Atlas Wristband" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1453332403/arstechnica_gear-gadgets-ars-reviews-the-atlas-wristband.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="56a0104e94c05f331300000f" aria-label="Play. Ars reviews the Atlas Wristband" aria-describedby="56a0104e94c05f331300000f-description" href="/watch/gear-gadgets-ars-reviews-the-atlas-wristband">Ars reviews the Atlas Wristband</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="56a0104e94c05f331300000f">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="56a0104e94c05f331300000f-description" role="tooltip">
+        <span class="cne-rollover-category">product reviews</span>
+        Ars Technica's Valentina Palladino reviews the Atlas Wristband, the workout and heart monitor functions and the Atlas companion app.
+
+Read the article: http://arstechnica.com/gadgets/2016/01/atlas-wristband-review-finally-a-fitness-tracker-for-the-gym-rats-among-us/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+              <div class="cne-thumb cne-episode-block" style="display: true" data-videoid="56952d6bff2afb4d9400000b">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="56952d6bff2afb4d9400000b">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-ars-reviews-sensoria-fitness-smart-socks-and-smart-bra">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews Sensoria Fitness smart socks and smart bra" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1452619922/arstechnica_gear-gadgets-ars-reviews-sensoria-fitness-smart-socks-and-smart-bra.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="56952d6bff2afb4d9400000b" aria-label="Play. Ars reviews Sensoria Fitness smart socks and smart..." aria-describedby="56952d6bff2afb4d9400000b-description" href="/watch/gear-gadgets-ars-reviews-sensoria-fitness-smart-socks-and-smart-bra">Ars reviews Sensoria Fitness smart socks and smart...</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="56952d6bff2afb4d9400000b">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="56952d6bff2afb4d9400000b-description" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews smart socks, a smart bra and their companion app by Sensoria Fitness.
+
+Read the article: http://arstechnica.com/gadgets/2016/01/sensoria-smart-clothing-reviewed-a-ton-of-running-data-at-your-toe-tips/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="cne-slide">
+      <div class="cne-grid">
+        <div class="cne-thumb-grid">
+          <div class="cne-thumb-grid-container">
+              <div class="cne-thumb cne-episode-block" style="display: true" data-videoid="566b7a14ff2afb3e38000064">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="566b7a14ff2afb3e38000064">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/ars-reviews-the-fossil-q-founder-android-smart-watch">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews the Fossil Q Founder Android smart watch" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1449885821/arstechnica_ars-reviews-the-fossil-q-founder-android-smart-watch.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="566b7a14ff2afb3e38000064" aria-label="Play. Ars reviews the Fossil Q Founder Android smart watch" aria-describedby="566b7a14ff2afb3e38000064-description" href="/watch/ars-reviews-the-fossil-q-founder-android-smart-watch">Ars reviews the Fossil Q Founder Android smart watch</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="566b7a14ff2afb3e38000064">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="566b7a14ff2afb3e38000064-description" role="tooltip">
+        <span class="cne-rollover-category">product reviews</span>
+        Ars Technica's Valentina Palladino reviews Fossil's Q Founder Android smart watch.
+
+Read the article: http://arstechnica.com/gadgets/2015/12/fossil-q-founder-review-bold-beautiful-but-average-with-android-wear/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+              <div class="cne-thumb cne-episode-block" style="display: true" data-videoid="564caa9e94c05f45e900000c">
+  <div class="cne-thumb-image cne-rollover" data-powertiptarget="564caa9e94c05f45e900000c">
+
+    <a class="cne-thumbnail" tabindex="-1" href="/watch/gear-gadgets-ars-reviews-the-pebble-time-round-smart-watch">
+        <img brand="#&lt;Brand:0x000000093f6b60&gt;" class="cne-video-thumb" alt="Ars reviews the Pebble Time Round smart watch" src="http://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_thescene.jpg,fl_progressive,g_face,h_265,q_80,w_470/v1447866229/arstechnica_gear-gadgets-ars-reviews-the-pebble-time-round-smart-watch.jpg" />
+      <div class="cne-thumbnail-play">Play</div>
+</a>
+  </div>
+  <div class="cne-thumb-title the-thumb-title">
+    <a class="js-ajax-video-load" data-video-id="564caa9e94c05f45e900000c" aria-label="Play. Ars reviews the Pebble Time Round smart watch" aria-describedby="564caa9e94c05f45e900000c-description" href="/watch/gear-gadgets-ars-reviews-the-pebble-time-round-smart-watch">Ars reviews the Pebble Time Round smart watch</a>
+
+<div class="cne-thumb-subtitle">
+      <a aria-label="series: Tech" href="/series/gear-gadgets">Tech</a>
+</div>
+
+  </div>
+  <div class="cne-thumb-rollover" id="564caa9e94c05f45e900000c">
+    <div class="cne-thumb-rollover-box">
+      <span class="cne-rollover-description" id="564caa9e94c05f45e900000c-description" role="tooltip">
+        <span class="cne-rollover-category">technology</span>
+        Ars Technica's Valentina Palladino reviews the new, ultra-thin Pebble Time Round smart watch and its companion app.
+
+Read the article: http://arstechnica.com/gadgets/2015/11/pebble-time-round-reviewed-you-can-judge-this-book-by-its-cover/
+
+      </span>
+    </div>
+  </div>
+</div>
+
+          </div>
+        </div>
+      </div>
+    </li>
+</ul>
+
+      </div>
+    </div>
+    <a role="button" aria-label"next video" class="carousel-nav cne-subcarousel-next" href="javascript:void(0)">
+      <span class="keyboard-focus" tabindex="-1"></span>
+    </a>
+      <div class="cne-subcarousel-controls"></div>
+  </div>
+</div>
+
+
+  <div class="js-async-load the-video-grid" data-asyncurl="/videos/index_browse"></div>
+</main>
+
+  <!-- FOOTER -->
+<footer class="cne-wrapper" id="cne-footer" role="contentinfo">
+	<div class="cne-container">
+		<img src="//d2auhg88b162pf.cloudfront.net/assets/cne-footer-logo-15e199b7899b44c705f425e082e1a16e.png" alt="Cne footer logo" width="185" height="28" />
+		<h3>1 World Trade Center, New York, NY 10007 Tel (212) 286-2860</h3>
+		<p>&copy; 2018 <a href="http://www.condenast.com/" target="_blank">Condé Nast</a>. All rights reserved.<br>
+			Use of this Site constitutes acceptance of<br>
+
+      our
+      <a href="http://www.condenast.com/privacy-policy" target="_blank">User Agreement</a>
+      (effective 3/21/2012)
+
+      and
+
+      our
+      <a href="http://www.condenast.com/privacy-policy#privacypolicy" target="_blank">Privacy Policy</a>
+      (effective 3/21/2012).<br>
+
+			<a href="http://www.condenast.com/privacy-policy#privacypolicy-california" target="_blank">Your California Privacy Rights</a>.
+      <br>
+			The material on this site may not be reproduced, distributed, transmitted, cached
+      or otherwise used, except with the prior written permission of Condé Nast.
+      <br>
+      <br>
+		</p>
+	</div>
+  <div class="cne-filters">
+    <a
+      class="cne-general-filters cne-light-button"
+      data-dropdown="#dropdown-brands"
+      tabindex="0"
+      role="combobox"
+      aria-expanded="false"
+      aria-disabled="true"
+      aria-labelledby="cne-brand-websites"
+      aria-owns="dropdown-brands"
+    >
+      <span class="cne-filter" id="cne-brand-websites">Condé Nast Websites</span>
+    </a>
+    <div id="dropdown-brands" class="dropdown-menu">
+      <ul class="cne-brand-select" role=listbox>
+        <li role="option"><a class="js-brand-option" id="site-allure" href="http://allure.com" target="_blank">Allure</a></li>
+        <li role="option"><a class="js-brand-option" id="site-architecturaldigest" href="http://architecturaldigest.com" target="_blank">Architectural Digest</a></li>
+        <li role="option"><a class="js-brand-option" id="site-arstechnica" href="http://arstechnica.com" target="_blank">Ars Technica</a></li>
+        <li role="option"><a class="js-brand-option" id="site-backchannel" href="http://www.wired.com/category/backchannel/" target="_blank">Backchannel</a></li>
+        <li role="option"><a class="js-brand-option" id="site-bonappetit" href="http://bonappetit.com" target="_blank">Bon Appétit</a></li>
+        <li role="option"><a class="js-brand-option" id="site-brides" href="http://brides.com" target="_blank">Brides</a></li>
+        <li role="option"><a class="js-brand-option" id="site-epicurious" href="http://epicurious.com" target="_blank">Epicurious</a></li>
+        <li role="option"><a class="js-brand-option" id="site-gq" href="http://gq.com" target="_blank">GQ</a></li>
+        <li role="option"><a class="js-brand-option" id="site-gqstyle" href="http://www.gq.com/gqstyle" target="_blank">GQ Style</a></li>
+        <li role="option"><a class="js-brand-option" id="site-glamour" href="http://glamour.com" target="_blank">Glamour</a></li>
+        <li role="option"><a class="js-brand-option" id="site-golfdigest" href="http://golfdigest.com" target="_blank">Golf Digest</a></li>
+        <li role="option"><a class="js-brand-option" id="site-golfworld" href="http://golfworld.com" target="_blank">Golf World</a></li>
+        <li role="option"><a class="js-brand-option" id="site-pitchfork" href="http://pitchfork.com" target="_blank">Pitchfork</a></li>
+        <li role="option"><a class="js-brand-option" id="site-self" href="http://self.com" target="_blank">SELF</a></li>
+        <li role="option"><a class="js-brand-option" id="site-teenvogue" href="http://teenvogue.com" target="_blank">Teen Vogue</a></li>
+        <li role="option"><a class="js-brand-option" id="site-them" href="http://www.them.us/" target="_blank">Them.</a></li>
+        <li role="option"><a class="js-brand-option" id="site-newyorker" href="http://newyorker.com" target="_blank">The New Yorker</a></li>
+        <li role="option"><a class="js-brand-option" id="site-thescene" href="http://thescene.com" target="_blank">The Scene</a></li>
+        <li role="option"><a class="js-brand-option" id="site-cntraveler" href="http://cntraveler.com" target="_blank">Condé Nast Traveler</a></li>
+        <li role="option"><a class="js-brand-option" id="site-vanityfair" href="http://vanityfair.com" target="_blank">Vanity Fair</a></li>
+        <li role="option"><a class="js-brand-option" id="site-vogue" href="http://vogue.com" target="_blank">Vogue</a></li>
+        <li role="option"><a class="js-brand-option" id="site-wmagazine" href="http://wmagazine.com" target="_blank">W</a></li>
+        <li role="option"><a class="js-brand-option" id="site-wired" href="http://wired.com" target="_blank">Wired</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+  <button id="cne-feedback-button" data-url="/feedback">
+    <span class="keyboard-focus" tabindex="-1">
+      Send Feedback
+</span>  </button>
+</section>
+
+<div class="cne-lightbox">
+  <div class="cne-lightbox__fill js-lightbox-close"></div>
+  <div class="cne-lightbox__content-area js-center">
+    <div class="cne-lightbox__close js-lightbox-close cne-icon--close"></div>
+    <div class="cne-lightbox__content js-lightbox-content">
+    </div>
+  </div>
+</div>
+
+<script src="//d2auhg88b162pf.cloudfront.net/assets/application-postload-af4bd5ea2d488b903297259d848b230f.js"></script>
+  <script src="//d2auhg88b162pf.cloudfront.net/assets/carousel-bd7fc169ca597244ca94b358e60e91f6.js"></script>
+  <script src="//d2auhg88b162pf.cloudfront.net/assets/subcarousel-5a96ce5ce8b3213afbd05d32bb579d48.js"></script>
+
+<script type="text/javascript" src="/vendor.js"></script>
+
+
+<script type="text/javascript">_satellite.pageBottom();</script>
+</body>
+</html>

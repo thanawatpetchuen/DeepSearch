@@ -1,0 +1,183 @@
+
+
+
+
+གློག་ཀླད། - Wikipedia
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"གློག་ཀླད།","wgTitle":"གློག་ཀླད།","wgCurRevisionId":123542,"wgRevisionId":123542,"wgArticleId":3744,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"bo","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["0\t1\t2\t3\t4\t5\t6\t7\t8\t9","༠\t༡\t༢\t༣\t༤\t༥\t༦\t༧\t༨\t༩"],"wgDefaultDateFormat":"dmy","wgMonthNames":["","ཟླ་དང་པོ།","ཟླ་གཉིས་པ།","ཟླ་གསུམ།","ཟླ་བཞི་བ།","ཟླ་ལྔ་བ།","ཟླ་དྲུག་པ།","ཟླ་བདུན་པ།","ཟླ་བརྒྱད་པ།","ཟླ་དགུ་བ།","ཟླ་བཅུ་བ།","ཟླ་བཅུ་གཅིག་པ།","ཟླ་བཅུ་གཉིས་པ།"],"wgMonthNamesShort":["","ཟླ་དང་པོ།","ཟླ་གཉིས་པ།","ཟླ་གསུམ།","ཟླ་བཞི་བ།","ཟླ་ལྔ་བ།","ཟླ་དྲུག་པ།","ཟླ་བདུན་པ།","ཟླ་བརྒྱད་པ།","ཟླ་དགུ་བ།","ཟླ་བཅུ་བ།","ཟླ་བཅུ་གཅིག་པ།","ཟླ་བཅུ་གཉིས་པ།"],"wgRelevantPageName":"གློག་ཀླད།","wgRelevantArticleId":3744,"wgRequestId":"WuTdPApAICIAAA6LAiQAAAAM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"bo","pageLanguageDir":"ltr","pageVariantFallbacks":"bo","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"bo","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"བོད་ཡིག","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q68","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","site":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0lfkjo1",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"bo"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+གློག་ཀླད། 
+ཡོང་ཁུངས་Wikipedia 
+
+					གནས་སྤོ།					དཀར་ཆག, 					འཚོལ།
+
+ 
+གློག་ཀླད་ནི་འཕྲུལ་འཁོར་གྱི་མ་ལག་ལ་གཞིགས་ནས་གཞི་གྲངས་བཀོལ་སྤྱོད་བྱས་པར་ཟེར།
+
+ནང་དོན།
+
+༡ ལོ་རྒྱུས།
+༢ ཟིན་ཐོ་འམ་དཔྱད་གཞི།
+༣ དཔྱད་གཞིའི་དཀར་ཆག།
+༤ ད་དུང་གཟིགས།
+༥ ཕྱི་ཕྱོགས་དྲ་མཐུད།
+
+
+ལོ་རྒྱུས།[རྩོམ་སྒྲིག]
+ཟིན་ཐོ་འམ་དཔྱད་གཞི།[རྩོམ་སྒྲིག]
+དཔྱད་གཞིའི་དཀར་ཆག།[རྩོམ་སྒྲིག]
+ད་དུང་གཟིགས།[རྩོམ་སྒྲིག]
+ཕྱི་ཕྱོགས་དྲ་མཐུད།[རྩོམ་སྒྲིག]
+
+
+
+
+ 
+						"https://bo.wikipedia.org/w/index.php?title=གློག་ཀླད།&oldid=123542"ལས་སླར་རྙེད་སོང།					
+ 
+
+
+
+ཕྱོགས་ཁྲིད་འདེམས་བྱང།
+
+
+སྒེར་ཀྱི་ལག་ཆ།
+
+ནང་འཛུལ་བྱས་མེད།IP གནས་ཡུལ་འདི་ལ་གླེང་མོལ།ContributionsCreate accountནང་འཛུ། 
+
+
+
+མིང་གནས།
+
+རྩོམ་ཡིགགྲོས་བསྡུར། 
+
+
+
+
+འགྱུར་ཚད།
+
+
+
+
+
+
+
+
+
+ལྟ་ཞིབ།
+
+ཀློག་པ།རྩོམ་སྒྲིགལོ་རྒྱུས་ལ་ལྟ་བ། 
+
+
+
+དེ་ལས་མང་བ།
+
+
+
+
+
+
+
+འཚོལ།
+
+
+
+ 
+
+
+
+
+
+
+
+དཀར་ཆག
+
+
+གཙོ་གནད་ཤོག་ངོས།ཁོངས་མི་འདུ་ར།ད་ལྟའི་བྱ་བ།ཉེ་བའི་བཟོ་བཅོས།རང་མོས་ཤོག་ངོས།རོགས་རམ།ཞལ་འདེབས། 
+
+
+
+Print/export
+
+
+དེབ་ཅིག་སྒྲིག་པ།Download as PDFདཔར་ཐུབ་པའི་དྲ་ངོས། 
+
+
+
+ལས་གཞི་གཞན་དག།
+
+
+Wikimedia Commons 
+
+
+
+ལག་ཆ།
+
+
+གང་དག་ལ་སྦྲེལ་ཡོད།འབྲེལ་བའི་བཟོ་བཅོས།ཡར་འཇོགདམིཊ་བསལ་གྱི་བཟོ་བཅོས།རྟག་བརྟན་གྱི་དྲ་འབྲེལ།Page informationWikidata itemརྩོམ་འདི་འདྲེན་པ། 
+
+
+
+སྐད་རིགས་གཞན་ཐོག།
+
+
+АҧсшәаAcèhAfrikaansAlemannischአማርኛAragonésÆngliscالعربيةܐܪܡܝܐمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)‎БългарскиभोजपुरीBislamaবাংলাবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiᨅᨔ ᨕᨘᨁᨗБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoTsetsêhestâheseکوردیQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiडोटेलीΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisFurlanGaeilge贛語GàidhligGalegoAvañe'ẽ𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHausa客家語/Hak-kâ-ngîעבריתहिन्दीFiji HindiHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIgboIñupiakIlokanoIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ/inuktitut日本語PatoisLa .lojban.Basa JawaქართულიQaraqalpaqshaKabɩyɛKongoGĩkũyũҚазақшаភាសាខ្មែរಕನ್ನಡ한국어Къарачай-малкъарकॉशुर / کٲشُرKurdîКомиKernowekКыргызчаLatinaLadinoLëtzebuergeschЛезгиLingua Franca NovaLimburgsLumbaartLingálaລາວLietuviųLatviešuमैथिलीMalagasyОлык марийМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorskOccitanLivvinkarjalaOromooଓଡ଼ିଆਪੰਜਾਬੀKapampanganPolskiPiemontèisپنجابیΠοντιακάپښتوPortuguêsRuna SimiRomaniRomânăРусскийРусиньскыйसंस्कृतम्Саха тылаSarduSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSesothoSeelterskBasa SundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeXitsongaТатарча/tatarçaئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsWalonWinarayWolof吴语IsiXhosaმარგალურიייִדישYorùbáVahcuengh中文文言Bân-lâm-gú粵語IsiZulu 
+Edit links 
+
+
+
+
+
+ ཤོག་ངོས་འདི་ཡི་བཟོ་བཅོས་མཐའ་མ་༡༡ ཟླ་གསུམ། ༢༠༡༣ ཀྱི་ ༠༨:༥༣ ལ་རེད།
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+གསང་དོན་གན་རྒྱ།
+Wikipediaཡི་སྐོར།
+བདག་སྤྲོད་འདོར་མཁན།
+Developers
+Cookie statement
+ཁ་པར་ལྟ་རྣམ།
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.008","walltime":"0.011","ppvisitednodes":{"value":16,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"origin":"mw1336","timestamp":"20180426095800","ttl":1900800,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw1332"});});
+
+

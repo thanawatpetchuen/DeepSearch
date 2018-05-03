@@ -1,0 +1,186 @@
+
+
+
+
+Spearctelle - Wikipǣdia, sēo frēo wīsdōmbōc
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Spearctelle","wgTitle":"Spearctelle","wgCurRevisionId":191411,"wgRevisionId":191411,"wgArticleId":2258,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Styccelicu gewritu","Searucræft","Spærcletellas","Nīwlicu Word"],"wgBreakFrames":false,"wgPageContentLanguage":"ang","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Se Æfterra Gēola","Solmōnaþ","Hrēþmōnaþ","Ēastermōnaþ","Þrimilcemōnaþ","Sēremōnaþ","Mǣdmōnaþ","Wēodmōnaþ","Hāligmōnaþ","Winterfylleþ","Blōtmōnaþ","Gēolmōnaþ"],"wgMonthNamesShort":["","ÆGē","Sol","Hrē","Ēas","Þri","Sēr","Mǣd","Wēo","Hāl","Win","Blō","Gēo"],"wgRelevantPageName":"Spearctelle","wgRelevantArticleId":2258,"wgRequestId":"WuchYgpAAEMAAH-1T10AAABC","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"ang","pageLanguageDir":"ltr","pageVariantFallbacks":"ang","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"ang","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"Ænglisc","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q68","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@1cs0kzi",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"ang"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Spearctelle 
+Fram Wikipǣdian 
+
+					Gān tō:					þurhfōr, 					sēcan
+
+
+
+
+
+Cildru mid spærcletellum
+
+
+Se Spearcletelle, ēac hātte Circolƿyrde, (Nīƿenglisce: computer), is searu geƿisses mid helpe sumes āƿendendlices rīmbebodes geæfnan mæg.
+Spearcletellas nimaþ syndriga ansīena. Ǣrran electronisce spearcletellas ƿǣron þǣre micelnesse miceles rūmes, þegdon sƿā micel cræft sƿā sumu hundredu menniscra spearcletella. [1] Tōdæg cunnon circolƿyrdas bēon genōg smale tō sittenne in ƿyrstdægmǣle and tō nimenne cræft of dægmǣles cræfthorde.
+
+↑ In 1946, fræt ENIAC hƿæthƿēgu 174 kW. Ƿiþ hēodæges spærcletellas brȳcþ sum ymbe 400 W; ofer fēoƿer hundredum sīðum lǣs þonne þæt. Bysen:Ref harvard
+
+
+
+
+
+ Þis geƿrit is stycce. Þū mōst Ƿikipǣdie mid ætīecunge hire helpan.
+
+
+
+
+
+
+
+ 
+						Fram "https://ang.wikipedia.org/w/index.php?title=Spearctelle&oldid=191411" begeten					
+Floccas: Styccelicu gewrituSearucræftSpærcletellasNīwlicu Word 
+
+
+
+Sōcne getæl
+
+
+Āgnu tōl
+
+Ne ingemeldodMōtung for þissum IPforðungaŪtmeldianInmeldian 
+
+
+
+Namstedas
+
+GewritMōtung 
+
+
+
+
+Missenlīcnessa
+
+
+
+
+
+
+
+
+
+Sihþa
+
+RǣdanĀdihtanĀdihtan frumanStǣr 
+
+
+
+Mā
+
+
+
+
+
+
+
+Sēcan
+
+
+
+ 
+
+
+
+
+
+
+
+Þurhfōr
+
+
+HēafodtrametGemǣnscipes IngangEfenealde belimpasSe Þorpes WellaBewitendasNīwlica andwendungaHlīetlic trametGiefan feohHelp 
+
+
+
+Atēfran oþþe forþasendan
+
+
+Wyrcan bōcHladan on rīmere tō PDFGemǣlendlicu fadung 
+
+
+
+Ōðru weorc
+
+
+Wikimedia Commons 
+
+
+
+Tōl
+
+
+Hwæt bindaþ hiderSibba andwendungaHladan ymelan forþSyndrige trametasFæst bendTrametes cȳþþuWikidata wihtÞisne tramet meldian 
+
+
+
+Ōðera sprǣca
+
+
+АҧсшәаAcèhAfrikaansAlemannischአማርኛAragonésالعربيةܐܪܡܝܐمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)‎БългарскиभोजपुरीBislamaবাংলাབོད་ཡིགবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiᨅᨔ ᨕᨘᨁᨗБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoTsetsêhestâheseکوردیQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiडोटेलीΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisFurlanGaeilge贛語GàidhligGalegoAvañe'ẽ𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHausa客家語/Hak-kâ-ngîעבריתहिन्दीFiji HindiHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIgboIñupiakIlokanoIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ/inuktitut日本語PatoisLa .lojban.Basa JawaქართულიQaraqalpaqshaKabɩyɛKongoGĩkũyũҚазақшаភាសាខ្មែរಕನ್ನಡ한국어Къарачай-малкъарकॉशुर / کٲشُرKurdîКомиKernowekКыргызчаLatinaLadinoLëtzebuergeschЛезгиLingua Franca NovaLimburgsLumbaartLingálaລາວLietuviųLatviešuमैथिलीMalagasyОлык марийМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorskOccitanLivvinkarjalaOromooଓଡ଼ିଆਪੰਜਾਬੀKapampanganPolskiPiemontèisپنجابیΠοντιακάپښتوPortuguêsRuna SimiRomaniRomânăРусскийРусиньскыйसंस्कृतम्Саха тылаSarduSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSesothoSeelterskBasa SundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeXitsongaТатарча/tatarçaئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsWalonWinarayWolof吴语IsiXhosaმარგალურიייִדישYorùbáVahcuengh中文文言Bân-lâm-gú粵語IsiZulu 
+Ādihtan hlencan 
+
+
+
+
+
+ Man nīwanost wende þisne tramet on þǣre 00:57 tīde þæs 6 Ēastermōnaþ 2018.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+See Terms of Use for details.
+
+
+Ānlēpnesse rǣd
+Ymbe Wikipǣdian
+Ætsacunga
+Wyrhtan
+Cookie statement
+Handrīmeres sihþ
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.012","walltime":"0.021","ppvisitednodes":{"value":38,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":680,"limit":2097152},"templateargumentsize":{"value":11,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":424,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    4.791      1 -total"," 59.86%    2.868      1 Bysen:Stycce"," 34.63%    1.659      1 Bysen:Adihtan"," 17.20%    0.824      1 Bysen:Ref_harvard"]},"cachereport":{"origin":"mw1305","timestamp":"20180426095731","ttl":1900800,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1272"});});
+
+

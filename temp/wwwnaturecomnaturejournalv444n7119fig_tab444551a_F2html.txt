@@ -1,0 +1,1160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>High tech from Ancient Greece | Nature</title>
+    
+        <link rel="dns-prefetch" href="//nexus.ensighten.com"/>
+<link rel="preload" href="/static/fonts/Lora-Regular.woff2" as="font" type="font/woff2" crossorigin>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=2.5,user-scalable=yes"/>
+
+
+<script>
+    (function(e){var t=e.documentElement,n=e.implementation;t.className='js';if(n&&n.hasFeature('http://www.w3.org/TR/SVG11/feature#Image','1.1')){t.className+=' svg'}})(document)
+</script>
+
+
+    <link rel="apple-touch-icon" sizes="114x114" href="/static/images/favicons/nature/favicon-114x114.1431047068.png"/>
+    <link rel="apple-touch-icon" sizes="144x144" href="/static/images/favicons/nature/favicon-144x144.3e61d1f755.png"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="/static/images/favicons/nature/favicon-180x180.5789768d66.png"/>
+    <link rel="icon" type="image/png" href="/static/images/favicons/nature/favicon-16x16.bfd0e25c74.png" sizes="16x16"/>
+    <link rel="icon" type="image/png" href="/static/images/favicons/nature/favicon-32x32.1c4a03347a.png" sizes="32x32"/>
+    <link rel="icon" type="image/png" href="/static/images/favicons/nature/favicon-96x96.14ff9c7f48.png" sizes="96x96"/>
+    <link rel="icon" type="image/png" href="/static/images/favicons/nature/favicon-194x194.5789768d66.png" sizes="194x194"/>
+    <link rel="shortcut icon" href="/static/images/favicons/nature/favicon.14515a9f85.ico"/>
+    <meta name="msapplication-TileColor" content="#940720"/>
+    <meta name="msapplication-TileImage" content="/static/images/favicons/nature/favicon-144x144.3e61d1f755.png">
+    <meta name="theme-color" content="#940720">
+
+
+    <link href="/static/css/mosaic-grade-c.b3d9a02c86.css" rel="stylesheet"/>
+    <link id="mustard" href="/static/css/journal-mosaic.a0bc48e989.css" rel="stylesheet"  media="only screen and (-webkit-min-device-pixel-ratio:0), (min-color-index:0), (-ms-high-contrast: none)" />
+
+
+
+  <style>
+        .background-brand-primary {
+            background-color: #920B24;
+            color: #fff;
+        }
+
+        .background-brand-secondary {
+            background-color: #a12a3f;
+            color: #fff;
+        }
+
+        .background-brand-tertiary {
+            background-color: #d7c8c8;
+            color: #222;
+        }
+
+        .background-gradient-brand-primary {
+            background-image: linear-gradient(to right, #920B24, #920B24 50%, transparent 50%);
+        }
+
+        .background-gradient-brand-secondary-tertiary {
+            background-image: linear-gradient(to right, #a12a3f, #a12a3f 50%, #d7c8c8 50%);
+        }
+
+        .background-gradient-brand-gray {
+            background-image: linear-gradient(to right, #e0e0e0, #e0e0e0 50%, transparent 50%);
+        }
+
+        .background-gradient-brand-gray-light {
+            background-image: linear-gradient(to right, #eee, #eee 50%, transparent 50%);
+        }
+
+
+        
+            .background-brand-primary a {
+                color: #fff;
+            }
+        
+
+        
+            .background-brand-secondary a {
+                color: #fff;
+            }
+        
+
+        
+
+
+        .nav-border {
+            border-bottom: 4px solid #a12a3f;
+        }
+
+        /* less than or equal to 875px */
+        @media only screen and (max-width: 54.688em) {
+            .banner {
+                background-color: #920B24;
+            }
+
+            .nav-border .menu-cell li {
+                border-bottom: 1px solid #a12a3f;
+            }
+        }
+
+        .ie7 .small-header-main,
+        .ie8 .small-header-main {
+            background-color: #920B24;
+        }
+
+        .sticky-header .inner-banner,
+        .header-primary-color {
+            background-color: #920B24;
+        }
+
+        
+            .menu-button,
+            .menu-button-clone {
+                border: 1px solid #fff;
+                border: 1px solid rgba(255, 255, 255, 0.75);
+                color: #fff;
+            }
+
+            .ie7 .tools-menu-button-icon,
+            .ie8 .tools-menu-button-icon,
+            .icon-rotate.tools-menu-button-icon:after,
+            .menu-button-icon:after {
+                background-image: url("/static/images/icons/icon-arrow-down-12x7-white.e10aedb54f.svg"), none;
+            }
+
+            .nature-research-logo {
+                background-image: url("/static/images/product-logos/nature-research-logo-white.a9028dbd21.svg"), none;
+            }
+        
+
+    </style>
+
+
+<script>
+    dataLayer = [{"content":{"category":{"contentType":"news & views","legacy":{"webtrendsPrimaryArticleType":"news and views","webtrendsSubjectTerms":null,"webtrendsContentCategory":null,"webtrendsContentCollection":null,"webtrendsContentGroup":"Nature","webtrendsContentGroupType":null,"webtrendsContentSubGroup":"News & Views"}},"article":{"doi":"10.1038/444551a"},"attributes":{"cms":null,"deliveryPlatform":"oscar","copyright":{"legacy":{"webtrendsLicenceType":null}}},"contentInfo":{"authors":["François Charette"],"publishedAt":1164758400,"publishedAtString":"2006-11-29","title":"Archaeology: High tech from Ancient Greece","legacy":null,"publishedAtTime":null},"journal":{"pcode":"nature","title":"nature","volume":"444","issue":"7119"},"authorization":{"status":false}},"page":{"category":{"pageType":"article"},"attributes":{"template":"mosaic","featureFlags":[]}},"privacy":{},"version":"1.0.0","product":null,"session":null,"user":null}];
+</script>
+<script>
+    (function(d,c){if(c){var s = d.createElement('script');s.async = true;s.src = '//nexus.ensighten.com/npg/Bootstrap.js';d.getElementsByTagName('head')[0].appendChild(s);}})(document, !window.location.search.match(/(\?|&)hide_ensighten=true/));
+</script>
+
+
+    <meta name="description" content="News &amp; Views"/>
+
+<meta name="robots" content="noarchive">
+<meta name="access" content="No">
+<meta name="WT.cg_s" content="Article"/>
+<meta name="WT.z_bandiera_abtest" content="a"/>
+<meta name="WT.page_categorisation" content="Article_HTML"/>
+
+    <meta name="WT.template" content="oscar"/>
+    <meta name="WT.z_cg_type" content="Nature Research Journals"/>
+    <meta name="WT.cg_n" content="Nature"/>
+    <meta name="dc.rights" content="©2018 Macmillan Publishers Limited. All Rights Reserved."/>
+    <meta name="prism.issn" content="1476-4687"/>
+
+
+<link rel="search" href="http://www.nature.com/search">
+<link rel="search" href="http://www.nature.com/opensearch/opensearch.xml" type="application/opensearchdescription+xml" title="nature.com">
+<link rel="search" href="http://www.nature.com/opensearch/request" type="application/sru+xml" title="nature.com">
+
+
+    
+    
+
+    <meta name="journal_id" content="nature"/>
+
+    <meta name="dc.title" content="Archaeology: High tech from Ancient Greece"/>
+
+    <meta name="dc.source" content="Nature 2006 444:7119"/>
+
+    <meta name="dc.format" content="text/html"/>
+
+    <meta name="dc.publisher" content="Nature Publishing Group"/>
+
+    <meta name="dc.date" content="2006-11-29"/>
+
+    <meta name="dc.type" content="News and Views"/>
+
+    <meta name="dc.language" content="En"/>
+
+    <meta name="dc.copyright" content="2006 Nature Publishing Group"/>
+
+    <meta name="dc.rightsAgent" content="permissions@nature.com"/>
+
+    <meta name="dc.description" content="The Antikythera Mechanism is an intricate bronze construction discovered damaged and fragmented in the wreck of a cargo ship off the Greek island of Antikythera in 1900. Made towards the end of the second century BC, it contains 30 bronze gear wheels and many astronomical inscriptions. The mechanism is technically more complex than any known device for at least a millennium afterwards. It acted as a lunarsolar calendar, but its specific functions have remained controversial. Now a joint BritishGreek team has reconstructed the device based on surface imaging and X-ray tomography of the surviving fragments. The reconstruction shows how the gears worked, and doubles the number of deciphered inscriptions. The Mechanism seems to have been a sophisticated predictor for the Sun/Moon/Earth system, and can justifiably be claimed as the world&#39;s oldest known analogue computer."/>
+
+    <meta name="prism.issn" content="1476-4687"/>
+
+    <meta name="prism.publicationName" content="Nature"/>
+
+    <meta name="prism.publicationDate" content="2006-11-29"/>
+
+    <meta name="prism.volume" content="444"/>
+
+    <meta name="prism.number" content="7119"/>
+
+    <meta name="prism.section" content="News and Views"/>
+
+    <meta name="prism.startingPage" content="551"/>
+
+    <meta name="prism.copyright" content="2006 Nature Publishing Group"/>
+
+    <meta name="prism.rightsAgent" content="permissions@nature.com"/>
+
+    <meta name="prism.url" content="https://www.nature.com/articles/444551a"/>
+
+    <meta name="prism.doi" content="doi:10.1038/444551a"/>
+
+    <meta name="citation_pdf_url" content="https://www.nature.com/articles/444551a.pdf"/>
+
+    <meta name="citation_fulltext_html_url" content="https://www.nature.com/articles/444551a"/>
+
+    <meta name="citation_journal_title" content="Nature"/>
+
+    <meta name="citation_publisher" content="Nature Publishing Group"/>
+
+    <meta name="citation_issn" content="1476-4687"/>
+
+    <meta name="citation_title" content="Archaeology: High tech from Ancient Greece"/>
+
+    <meta name="citation_volume" content="444"/>
+
+    <meta name="citation_issue" content="7119"/>
+
+    <meta name="citation_publication_date" content="2006/11"/>
+
+    <meta name="citation_online_date" content="2006/11/29"/>
+
+    <meta name="citation_firstpage" content="551"/>
+
+    <meta name="citation_article_type" content="News & Views"/>
+
+    <meta name="dc.identifier" content="doi:10.1038/444551a"/>
+
+    <meta name="DOI" content="10.1038/444551a"/>
+
+    <meta name="citation_doi" content="10.1038/444551a"/>
+
+    <meta name="dc.creator" content="Fran&#231;ois Charette"/>
+
+    <meta name="citation_author" content="Fran&#231;ois Charette"/>
+
+    <meta name="access_endpoint" content="https://www.nature.com/platform/readcube-access"/>
+
+    <meta name="twitter:card" content="summary"/>
+
+    <meta name="twitter:title" content="Archaeology: High tech from Ancient Greece"/>
+
+    <meta name="twitter:site" content="@naturenews"/>
+
+    <meta name="twitter:description" content="The Antikythera Mechanism is an intricate bronze construction discovered damaged and fragmented in the wreck of a cargo ship off the Greek island of Antikythera in 1900. Made towards the end of the second century BC, it contains 30 bronze gear wheels and many astronomical inscriptions. The mechanism is technically more complex than any known device for at least a millennium afterwards. It acted as a lunarsolar calendar, but its specific functions have remained controversial. Now a joint BritishGreek team has reconstructed the device based on surface imaging and X-ray tomography of the surviving fragments. The reconstruction shows how the gears worked, and doubles the number of deciphered inscriptions. The Mechanism seems to have been a sophisticated predictor for the Sun/Moon/Earth system, and can justifiably be claimed as the world&#39;s oldest known analogue computer."/>
+
+    <meta name="twitter:image" content="https://media.springernature.com/full/nature-static/assets/v1/image-assets/444551a-f1.2.jpg"/>
+
+    <meta name="WT.z_primary_atype" content="News and Views"/>
+
+
+    
+        <meta property="og:url" content="https://www.nature.com/articles/444551a"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:site_name" content="Nature"/>
+        <meta property="og:title" content="Archaeology: High tech from Ancient Greece"/>
+        <meta property="og:description" content="The Antikythera Mechanism, salvaged 100 years ago from an ancient shipwreck, was long known to be some sort of mechanical calendar. But modern analysis is only now revealing just how sophisticated it was."/>
+        <meta property="og:image" content="https://media.springernature.com/m685/nature-static/assets/v1/image-assets/444551a-f1.2.jpg"/>
+    
+</head>
+<!--[if IE 9]><body class="ie9 article-page"><![endif]-->
+<!--[if gt IE 9]><!--><body class="article-page"><!--<![endif]-->
+<div role="banner" class="position-relative cleared z-index-50" data-test="top-containers">
+    <div class="hide-print container background-gray-dark">
+    <div class="content mq1200-padded">
+        <a href="#content" id="skiplink" class="skiplink contrast-text js-no-scroll" data-track="click"
+           data-track-action="skip to content" data-track-category="header" data-track-label="link">Skip to main content</a>
+    </div>
+</div>
+
+
+<div class="container cleared container-type-cookies-usage" data-container-type="cookies-usage">
+    <div class="cookie-banner hide-print position-relative z-index-100">
+        <div class="content cleared mq1200-padded">
+            <form class="suppress-bottom-margin text-center mb10 mt10" action="/platform/accept-cookies" method="post">
+                <p class="contrast-text text13 hide-overflow"><span class="icon">We use cookies to improve your experience with our site.</span>
+                    <button type="submit" name="cookies" value="accepted" class="accept-btn contrast-text text13 ml10">
+                        Accept and close
+                    </button>
+                    <span class="pl6 pr6"> | </span><a href="/info/cookies.html" class="contrast-text text13">More
+                        info.</a></p>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<div class="container cleared container-type-banner-advert inline-group" data-container-type="banner-advert">
+    <div class="hide-print pt10 pb10 mq875-pa0 position-relative z-index-100 clear-float cleared leaderboard-or-billboard-container">
+        <div class="leaderboard-or-billboard-inner ad-with-label">
+            
+                
+    <div id="div-gpt-ad-top-1"
+         class="div-gpt-ad advert leaderboard js-ad text-center hide-print grade-c-hide hide-overflow"
+         data-gpt-unitpath="/285/nature.com/article"
+         data-gpt-sizes="728x90"
+         data-gpt-targeting="type=article;pos=top;artid=444551a;doi=10.1038/444551a">
+        <noscript>
+            <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/article&amp;sz=728x90&amp;c=-1224679791&amp;t=pos%3Dtop%26type%3Darticle%26artid%3D444551a%26doi%3D10.1038/444551a">
+                <img data-test="gpt-advert-fallback-img"
+                     src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&amp;sz=728x90&amp;c=-1224679791&amp;t=pos%3Dtop%26type%3Darticle%26artid%3D444551a%26doi%3D10.1038/444551a"
+                     alt="Advertisement"
+                     width="728"
+                     height="90"></a>
+        </noscript>
+    </div>
+
+            
+        </div>
+    </div>
+</div>
+
+<div class="text-orange content grade-c-show"><p>Thank you for visiting nature.com. You are using a browser version with
+    limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off
+    compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site
+    without styles and JavaScript.</p></div>
+
+    <div class="hide-print container background-bluegray contrast-text text14 strong lower mq640-hide position-relative z-index-100"
+     data-test="header-breadcrumbs">
+     <div class="content cleared mq1200-padded">
+         <div class="breadcrumbs pin-left">
+             
+                 <ol class="ma0 cleared clean-list inline-list"><li id="breadcrumb0" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb"
+                                     itemref="breadcrumb1"><a href="/" itemprop="url" class="icon icon-right icon-arrow-right-6x10-white pr15"
+                                                                                                                 data-track="click" data-track-action="breadcrumb" data-track-category="header" data-track-label="link"><span itemprop="title">nature.com</span></a></li><li id="breadcrumb1" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb"
+                                     itemref="breadcrumb2" class="ml6"><a href="/nature" itemprop="url" class="icon icon-right icon-arrow-right-6x10-white pr15"
+                                                                                                                 data-track="click" data-track-action="breadcrumb" data-track-category="header" data-track-label="link"><span itemprop="title">nature</span></a></li><li id="breadcrumb2" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb"
+                                     itemref="breadcrumb3" class="ml6"><a href="/nature/articles?type&#x3D;news-and-views" itemprop="url" class="icon icon-right icon-arrow-right-6x10-white pr15"
+                                                                                                                 data-track="click" data-track-action="breadcrumb" data-track-category="header" data-track-label="link"><span itemprop="title">news &amp; views</span></a></li><li id="breadcrumb3" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/articles/444551a" itemprop="url" data-track="click" data-track-action="breadcrumb" data-track-category="header" data-track-label="link" class="ml6"><span itemprop="title">article</span></a></li></ol>
+             
+        </div>
+         
+        <p class="pin-right box-sizing header-primary-color nature-research-logo ma0 pa6 hide-text grade-c-hide">A Nature Research Journal</p>
+        
+     </div>
+</div>
+
+    
+    <div class="container js-header-container mb20 position-relative z-index-50" data-ui="header-container"
+         data-container-type="header">
+        <div class="cleared clear hide-print position-relative background-gradient-brand-primary js-header default-header z-index-100 composite-layer tighten-line-height">
+            <div class="banner js-banner content mq1200-padded position-relative">
+                <div class="inner-banner cleared">
+                    <div class="main-column small-header-main pin-left">
+                        <div class="header-logo-container header-primary-color">
+                            <a href="#menu" id="menu-button" class="js-header-menu-button menu-button js-no-scroll"
+                               data-test="menu-button">
+										<span class="menu-button-icon icon-rotate">
+											<span class="menu-button-label">Menu</span>
+										</span>
+                            </a>
+                                <h1 class="inline-block"><a href="/nature" class="header-logo inline-block"
+                                    data-track="click" data-track-action="home"
+                                    data-track-category="header" data-track-label="image"><img alt="Nature"
+                                                           src="//media.springernature.com/full/nature-cms/uploads/product/nature/header-9a912abb419d552ac49f29390d1ad819.svg"
+                                                           class="grade-c-invisible header-logo-primary js-svg"
+                                                           data-png="//media.springernature.com/full/nature-cms/uploads/product/nature/header-7ba808809b424669810535098d74fd18.png"><img
+                                        alt="" src="//media.springernature.com/full/nature-cms/uploads/product/nature/header-845e39177b477cf5e943d89f42d3442c.svg"
+                                        class="grade-c-invisible header-logo-secondary js-svg"
+                                        data-png="//media.springernature.com/full/nature-cms/uploads/product/nature/header-7f0f25a8bece4e5a955988c0c521db53.png"></a></h1>
+                        </div>
+                    </div>
+                    <div class="position-absolute position-right small-header-side">
+                        <div class="pin-right">
+                            <a href="#search-menu" data-component="tray-button"
+                               class="pin-left inline-group-top pa10 pr15 pl15 small-header-icons background-bluegray-translucent text11 contrast-text mr1"
+                               data-test="search-link" data-track="click" data-track-category="header"
+                               data-track-action="open tray"  data-track-label="button">
+										<span class="icon icon-above icon-search-25x25-white icon-search-25x25-gray block text-center">
+											<span class="block mt6 mq875-hide small-header-hide">Search</span>
+										</span>
+                            </a>
+                            
+                                <a href="http://www.nature.com/nams/svc/myaccount/save/alert?list_id&#x3D;1"
+                                   class="mq640-hide pin-left inline-group-top pa10 small-header-icons background-bluegray-translucent text11 contrast-text mr1"
+                                   data-test="ealert-link" data-track="click" data-track-action="ealert" data-track-category="header" data-track-label="link">
+										<span class="icon icon-above icon-ealert-25x25-white icon-ealert-25x25-gray block text-center">
+											<span class="block mt6 mq875-hide small-header-hide">E-alert</span>
+										</span>
+                                </a>
+                            
+                            
+                                <a href="http://mts-nature.nature.com/"
+                                   class="mq640-hide inline-block pin-left inline-group-top pa10 pr15 pl15 small-header-icons background-bluegray-translucent text11 contrast-text mr1"
+                                   data-test="submit-link" data-track="click" data-track-action="submit" data-track-category="header" data-track-label="link">
+										<span class="icon icon-above icon-submit-25x25-white icon-submit-25x25-gray block text-center">
+											<span class="block mt6 mq875-hide small-header-hide">Submit</span>
+										</span>
+                                </a>
+                            
+                              <a href="/nams/svc/myaccount"
+       id="my-account"
+       class="placeholder inline-block pin-left inline-group-top pa10 pr15 pl15 small-header-icons background-bluegray-translucent text11 contrast-text"
+       data-test="login-link" data-track="click" data-track-action="my account" data-track-category="header" data-track-label="link">
+            <span class="icon icon-above icon-login-25x25-white icon-login-25x25-gray block text-center">
+                <span class="block mt6 mq875-hide small-header-hide">My Account</span>
+            </span>
+    </a>
+    <a href="https://idp.nature.com/authorize/natureuser?client_id&#x3D;grover&amp;redirect_uri&#x3D;https%3A%2F%2Fwww.nature.com%2Farticles%2F444551a"
+       id="login-button"
+       style="display: none;"
+       class="placeholder inline-block pin-left inline-group-top pa10 pr15 pl15 small-header-icons background-bluegray-translucent text11 contrast-text"
+       data-test="login-link" data-track="click" data-track-action="login" data-track-category="header" data-track-label="link">
+            <span class="icon icon-above icon-login-25x25-white icon-login-25x25-gray block text-center">
+                <span class="block mt6 mq875-hide small-header-hide">Login</span>
+            </span>
+    </a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    
+
+</div>
+
+<div id="content" class="position-relative z-index-1">
+    <div class="container cleared container-type-article" data-container-type="article">
+        <div class="content position-relative cleared clear mq1200-padded" data-component="article-container">
+            <article itemscope="itemscope" itemtype="http://schema.org/Article">
+                <div class="full-width-print main-column pin-left js-main-column highlighter" role="main">
+                    <header>
+                        <div class="grid grid-12 last pb20">
+                            
+    
+    <ul class="grade-c-hide hide-print mq875-metrics-summary mq480-metrics-summary background-steelblue-light clean-list tighten-line-height standard-space-below cleared clear text14">
+        
+            
+                <li class="pa10 pin-left"><!--[if lte IE 8]><img
+                        src="https://badges.altmetric.com/?size&#x3D;100&amp;score&#x3D;4&amp;types&#x3D;twwwwwww&amp;style&#x3D;bar"
+                        class=altmetric-summary-bar alt=""><![endif]--><!--[if gt IE 8]><!--><img
+                        src="https://badges.altmetric.com/?size&#x3D;100&amp;score&#x3D;4&amp;types&#x3D;twwwwwww&amp;style&#x3D;bar"
+                        class="altmetric-summary-bar" alt=""><!--<![endif]--></li>
+            
+            
+                <li data-test="altmetric-score" class="pa10 pin-left">Altmetric: 4</li>
+            
+        
+
+        
+            <li data-test="citation-count" class="pa10 pin-left">Citations: 5</li>
+        
+
+        
+            
+                <li class="pa10 pin-right">
+                    <a aria-label="More detail about citations and metrics for this article" data-test="metrics-link" href="/articles/444551a/metrics"
+                       class="strong icon icon-right icon-double-chevron-right-10x10-blue pr15 inline-block"
+                       data-track="click" data-track-action="view metrics" data-track-category="article body" data-track-label="link">More detail</a>
+                </li>
+        
+    </ul>
+
+                            <p class="text13 text-gray-light tiny-space-below" data-test="article-identifier">
+                                News &amp; Views
+                                
+                            </p>
+                            
+                            <h1 class="tighten-line-height small-space-below" data-article-title="" itemprop="name headline">Archaeology: High tech from Ancient Greece</h1>
+                            <ul class="grid grid-12 last clean-list inline-list js-list-authors text14 mb0" data-etal=25 data-etal-small=3><li itemprop=author itemscope itemtype=http://schema.org/Person><span class=js-separator></span><a href=#auth-1 data-track=click data-track-category="article body" data-track-action="open author" data-track-label=link><span itemprop=name>François Charette</span></a><sup class=js-hide><a href=#a1>1</a><span itemprop=affiliation itemscope itemtype=http://schema.org/Organization class=hide><meta itemprop=name content="François Charette is at the Lehrstuhl für Geschichte der Naturwissenschaften, Ludwig-Maximilians-Universität, Museumsinsel 1"><meta itemprop=address content="François Charette is at the Lehrstuhl für Geschichte der Naturwissenschaften, Ludwig-Maximilians-Universität, Museumsinsel 1, D-80538 München, Germany. &lt;a href=&quot;mailto:fcharette@ankabut.net&quot;&gt;fcharette@ankabut.net&lt;/a&gt;"></span></sup></ul>
+                            
+                              
+                            
+                            
+                            
+                        </div>
+                    </header>
+                    
+    <ul class="mb0 pa0 tiny-space-above inline-list text14 js-hide" data-component="article-subject-links">
+        
+    </ul>
+
+                    
+    <ul class="clean-list mb0 tiny-space-above js-hide" data-component="article-relations">
+        
+            
+                <li><a href="/articles/444699b" class="relation-link" data-track="click" data-track-action="view linked article" data-track-category="article body" data-track-label="link">Correction: 06 December 2006</a></li>
+            
+        
+    </ul>
+
+
+                    <div data-article-body="true" data-track-component="article body" class="article-body clear">
+                        <div class="pl20 mq875-pl0 serif"><div class=strong itemprop=description><p>The Antikythera Mechanism, salvaged 100 years ago from an ancient shipwreck, was long known to be some sort of mechanical calendar. But modern analysis is only now revealing just how sophisticated it was.</p></div></div>
+
+                        
+                            
+                            <div class="pl20 mq875-pl0 serif">
+                                <div class="cleared background-cornsilk border-linkblue border-all-1 standard-space-below" data-track-component="mop">
+    <div class="hide-overflow pa20 pt30 pb30">
+        
+        
+    <ul class="access-options-list clean-list standard-space-below mq640-mb0 cleared flex-box mq640-kill-flex">
+        
+            <li class="sans-serif access-option flex-box-item position-relative pb40">
+                <div class="text-center pa10 pb20 mq640-pb30 mq640-pt20">
+                    <div class="access-option-body cleared">
+                        <h2 class="text14 strong sans-serif tighten-line-height tiny-space-below" data-test="subscribeText">Subscribe to <i>Nature</i> for full access:</h2>
+                        <p class="text48 sans-ultra-light tighten-line-height small-space-below nowrap" data-test="subscriptionPrice">$199</p>
+                    </div>
+                </div>
+                <p class="position-absolute position-bottom position-left position-right text-center">
+                    <a href="/nature/subscribe" class="general-button" data-track="click"
+                       data-track-action="subscribe" data-track-label="link">Subscribe</a>
+                </p>
+            </li>
+        
+        <li class="sans-serif last access-option-readcube flex-box-item position-relative pb40">
+            <div class="text-center pa10 pb20 access-option readcube-purchase" data-doi="10.1038/444551a" data-type="maestro_mosaic"></div>
+        </li>
+    </ul>
+
+
+        <h2 class="text13 sans-serif strong">Additional access options:</h2>
+
+        <p class="sans-serif text13 mb0" id="access-login" data-test="access-login">
+            Already a subscriber?&nbsp;
+            <a href="https://idp.nature.com/authorize/natureuser?client_id&#x3D;grover&amp;redirect_uri&#x3D;http%3A%2F%2Fwww.nature.com%2Farticles%2F444551a" data-test="subscribe-prompt-log-in" data-track="click" data-track-action="login" data-track-label="link">Log in</a>&nbsp; now or&nbsp;
+            <a href="/register" data-test="subscribe-prompt-register" data-track="click" data-track-action="register" data-track-label="link">Register</a>&nbsp; for online access.
+        </p>
+        <nav>
+            <ul class="text13 ma0 clean-list inline-list">
+                <li class="sans-serif identifier"><a
+                        href="https://idp-saml-nature-federated-login.live.cf.public.nature.com/saml/login?idp&#x3D;https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&amp;targetUrl&#x3D;http%3A%2F%2Fwww.nature.com%2Farticles%2F444551a"
+                        data-track="click" data-track-action="athens" data-track-label="link">Login via Athens</a> |
+                </li>
+                <li class="sans-serif identifier"><a
+                        href="https://idp.nature.com/login/federated?redirect_uri&#x3D;http%3A%2F%2Fwww.nature.com%2Farticles%2F444551a"
+                        data-track="click" data-track-action="shibboleth" data-track-label="link">Login via Shibboleth</a> |
+                </li>
+                <li class="sans-serif identifier">
+                    <a href="http://www.bl.uk/reshelp/atyourdesk/docsupply/searchandorderadocument/order/index.html"
+                       data-track="click" data-track-action="document delivery" data-track-label="link">Use a document delivery service</a> |
+                </li>
+                <li class="sans-serif identifier">
+                    <a href="/libraries/site_licenses/index.html"
+                       data-track="click" data-track-action="purchase site license" data-track-label="link">Purchase
+                        a site license</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
+                            </div>
+                        
+                        <section aria-labelledby=references><div class="serif article-section js-article-section cleared clear" id=references-section><h2 class="js-section-title section-title position-relative strong tighten-line-height background-gray-light pt20 pb6 pl0 pr20 standard-space-below mq640-pt20 mq640-pb10 mq640-pl20 mq640-mt0 extend-left small-space-above" id=references>References</h2><div class="pl20 mq875-pl0 js-collapsible-section" id=references-content><div data-container-section=references><ol class="clean-list ma0 standard-space-below indented-list" data-component=reading-companion-references><li class="small-space-below border-gray-medium border-bottom-1 position-relative js-ref-item" itemprop=citation itemscope itemtype=http://schema.org/Article><span class="indented-counter serif h2 tighten-line-height text-right position-absolute">1.</span><p id=ref1 class=tiny-space-below><span itemprop=author itemscope itemtype=http://schema.org/Person><span itemprop=name>Freeth, T.</span></span> <i>et al.</i> <i>Nature</i> <b>444</b>, 587–591 (2006).</p><ul class="js-ref-links clean-list cleared strong sans-serif text13 hide-print"><li class=pin-right><ul class="clean-list ma0"><li class="pin-left pl20"><a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD28Xht1KjurnI&amp;md5=d75ec7b387047ccdeb5588e0b928d196" data-track=click data-track-category="article body" data-track-action="outbound reference" data-track-label=link aria-label="View reference 1 on CAS">CAS</a><li class="pin-left pl20"><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;cmd=Retrieve&amp;db=PubMed&amp;list_uids=17136087&amp;dopt=Abstract" data-track=click data-track-category="article body" data-track-action="outbound reference" data-track-label=link aria-label="View reference 1 on PubMed">PubMed</a><li class="pin-left pl20"><a href=http://dx.doi.org/10.1038/nature05357 data-track=click data-track-category="article body" data-track-action="outbound reference" data-track-label=link itemprop=url aria-label="View reference 1">Article</a><li class="pin-left pl20"><a href="http://scholar.google.com/scholar_lookup?&amp;author=Freeth%2CT.&amp;journal=Nature&amp;volume=444&amp;pages=587-591&amp;publication_year=2006" data-track=click data-track-category="article body" data-track-action="outbound reference" data-track-label=link aria-label="Search for reference 1 on Google Scholar">Google Scholar</a></ul></ul><li class="small-space-below border-gray-medium border-bottom-1 position-relative js-ref-item" itemprop=citation itemscope itemtype=http://schema.org/Article><span class="indented-counter serif h2 tighten-line-height text-right position-absolute">2.</span><p id=ref2 class=tiny-space-below><span itemprop=author itemscope itemtype=http://schema.org/Person><span itemprop=name>Price, D. de S.</span></span> <i>Trans. Am. Phil. Soc.</i> <b>64</b>(7), 1–70 (1974).</p><ul class="js-ref-links clean-list cleared strong sans-serif text13 hide-print"><li class=pin-right><ul class="clean-list ma0"><li class="pin-left pl20"><a href="http://scholar.google.com/scholar_lookup?&amp;author=Price%2CD.%20de%20S.&amp;journal=Trans.%20Am.%20Phil.%20Soc.&amp;volume=64&amp;pages=1-70&amp;publication_year=1974" data-track=click data-track-category="article body" data-track-action="outbound reference" data-track-label=link aria-label="Search for reference 2 on Google Scholar">Google Scholar</a></ul></ul><li class="small-space-below border-gray-medium border-bottom-1 position-relative js-ref-item" itemprop=citation itemscope itemtype=http://schema.org/Book><span class="indented-counter serif h2 tighten-line-height text-right position-absolute">3.</span><p id=ref3 class=tiny-space-below><span itemprop=author itemscope itemtype=http://schema.org/Person><span itemprop=name>Price, D. de S.</span></span> <i itemprop="name headline">Science Since Babylon</i> <b>48</b> (Yale Univ. Press, 1975).</p><ul class="js-ref-links clean-list cleared strong sans-serif text13 hide-print"><li class=pin-right><ul class="clean-list ma0"><li class="pin-left pl20"><a href="http://scholar.google.com/scholar_lookup?&amp;author=Price%2CD.%20de%20S.&amp;journal=Science%20Since%20Babylon&amp;volume=48&amp;publication_year=1975" data-track=click data-track-category="article body" data-track-action="outbound reference" data-track-label=link aria-label="Search for reference 3 on Google Scholar">Google Scholar</a></ul></ul><li class="small-space-below border-gray-medium border-bottom-1 position-relative js-ref-item" itemprop=citation itemscope itemtype=http://schema.org/Book><span class="indented-counter serif h2 tighten-line-height text-right position-absolute">4.</span><p id=ref4 class=tiny-space-below><span itemprop=author itemscope itemtype=http://schema.org/Person><span itemprop=name>Wright, M. T.</span></span> in <i itemprop="name headline">Proc. 2nd Int. Conf. Ancient Greek Technol.</i> (ed. Tassios, Th.) 49–60 (Technical Chamber of Greece, Athens, 2006).</p><ul class="js-ref-links clean-list cleared strong sans-serif text13 hide-print"><li class=pin-right><ul class="clean-list ma0"><li class="pin-left pl20"><a href="http://scholar.google.com/scholar_lookup?&amp;author=Wright%2CM.%20T.&amp;journal=Proc.%202nd%20Int.%20Conf.%20Ancient%20Greek%20Technol.&amp;pages=49-60&amp;publication_year=2006" data-track=click data-track-category="article body" data-track-action="outbound reference" data-track-label=link aria-label="Search for reference 4 on Google Scholar">Google Scholar</a></ul></ul><li class="small-space-below border-gray-medium border-bottom-1 position-relative js-ref-item" itemprop=citation itemscope itemtype=http://schema.org/Article><span class="indented-counter serif h2 tighten-line-height text-right position-absolute">5.</span><p id=ref5 class=tiny-space-below><span itemprop=author itemscope itemtype=http://schema.org/Person><span itemprop=name>Wright, M.</span></span> &amp; <span itemprop=author itemscope itemtype=http://schema.org/Person><span itemprop=name>Fields, J.</span></span> <i>Ann. Sci.</i> <b>42</b>, 87–138 (1985).</p><ul class="js-ref-links clean-list cleared strong sans-serif text13 hide-print"><li class=pin-right><ul class="clean-list ma0"><li class="pin-left pl20"><a href="http://scholar.google.com/scholar_lookup?&amp;author=Wright%2CM.&amp;author=Fields%2CJ.&amp;journal=Ann.%20Sci.&amp;volume=42&amp;pages=87-138&amp;publication_year=1985" data-track=click data-track-category="article body" data-track-action="outbound reference" data-track-label=link aria-label="Search for reference 5 on Google Scholar">Google Scholar</a></ul></ul><li class="small-space-below border-gray-medium border-bottom-1 position-relative js-ref-item" itemprop=citation itemscope itemtype=http://schema.org/Article><span class="indented-counter serif h2 tighten-line-height text-right position-absolute">6.</span><p id=ref6 class=tiny-space-below><span itemprop=author itemscope itemtype=http://schema.org/Person><span itemprop=name>Hill, D.</span></span> <i>Ann. Sci.</i> <b>42</b>, 139–163 (1985).</p><ul class="js-ref-links clean-list cleared strong sans-serif text13 hide-print"><li class=pin-right><ul class="clean-list ma0"><li class="pin-left pl20"><a href=http://dx.doi.org/10.1080/00033798500200141 data-track=click data-track-category="article body" data-track-action="outbound reference" data-track-label=link itemprop=url aria-label="View reference 6">Article</a><li class="pin-left pl20"><a href="http://scholar.google.com/scholar_lookup?&amp;author=Hill%2CD.&amp;journal=Ann.%20Sci.&amp;volume=42&amp;pages=139-163&amp;publication_year=1985" data-track=click data-track-category="article body" data-track-action="outbound reference" data-track-label=link aria-label="Search for reference 6 on Google Scholar">Google Scholar</a></ul></ul></ol><p class="hide-print text-right"><a href=/articles/444551a-references.ris class="text14 sans-serif strong" data-track=click data-track-category="article body" data-track-action="download citation references" data-track-label=link>Download references</a></p></div></div></div></section><section aria-labelledby=author-information><div class="serif article-section js-article-section cleared clear" id=author-information-section><h2 class="js-section-title section-title position-relative strong tighten-line-height background-gray-light pt20 pb6 pl0 pr20 standard-space-below mq640-pt20 mq640-pb10 mq640-pl20 mq640-mt0 extend-left small-space-above" id=author-information>Author information</h2><div class="pl20 mq875-pl0 js-collapsible-section" id=author-information-content><h2 class="h3 strong mb4" id=affiliations>Affiliations</h2><ol class=clean-list><li id=a1><h3 class=emphasis>François Charette is at the Lehrstuhl für Geschichte der Naturwissenschaften, Ludwig-Maximilians-Universität, Museumsinsel 1, D-80538 München, Germany. <a href=mailto:fcharette@ankabut.net>fcharette@ankabut.net</a></h3><ul class="small-space-below clean-list inline-list"><li><span class=js-separator></span><span>François Charette</span></ul></ol><div class=js-hide><h2 class="h3 strong">Authors</h2><ol class=clean-list><li id=auth-1><h3 class="sans-serif strong text-gray-light js-search-name">Search for François Charette in:</h3><ul class="text13 clean-list inline-list strong small-space-below"><li><a href="/search/executeSearch?sp-q=%22Fran%C3%A7ois+Charette%22&amp;sp-p=all&amp;pag-start=1&amp;sp-c=25&amp;sp-m=1&amp;sp-s=date_descending">Nature Research journals</a> <span class=bullet>&bull;</span> <li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&amp;term=Fran%C3%A7ois+Charette">PubMed</a> <span class=bullet>&bull;</span> <li><a href="http://scholar.google.co.uk/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=%22Fran%C3%A7ois+Charette%22&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_allsubj=all&amp;hl=en">Google Scholar</a></ul></ol></div></div></div></section><section aria-labelledby=rightslink><div class="serif article-section js-article-section cleared clear" id=rightslink-section><h2 class="js-section-title section-title position-relative strong tighten-line-height background-gray-light pt20 pb6 pl0 pr20 standard-space-below mq640-pt20 mq640-pb10 mq640-pl20 mq640-mt0 extend-left small-space-above" id=rightslink>Rights and permissions</h2><div class="pl20 mq875-pl0 js-collapsible-section" id=rightslink-content><p>To obtain permission to re-use content from this article visit <a href="https://s100.copyright.com/AppDispatchServlet?author=Fran%C3%A7ois%20Charette&amp;contentID=10.1038%2F444551a&amp;imprint=Nature&amp;issueNum=7119&amp;orderBeanReset=true&amp;publication=Nature&amp;publicationDate=2006-11-29&amp;publisherName=SpringerNature&amp;title=Archaeology%3A%20High%20tech%20from%20Ancient%20Greece&amp;volumeNum=444" data-track=click data-track-category="article body" data-track-action="view rights and permissions" data-track-label=link>RightsLink</a>.</p></div></div></section>
+                        <span data-recommended="jobs"></span>
+                        
+                        <section aria-labelledby=article-comments><div class="serif article-section js-article-section cleared clear" id=article-comments-section><h2 class="js-section-title section-title position-relative strong tighten-line-height background-gray-light pt20 pb6 pl0 pr20 standard-space-below mq640-pt20 mq640-pb10 mq640-pl20 mq640-mt0 extend-left small-space-above" id=article-comments>Comments</h2><div class="pl20 mq875-pl0 js-collapsible-section" id=article-comments-content><p>By submitting a comment you agree to abide by our <a href=/info/tandc.html>Terms</a> and <a href=/info/community-guidelines.html>Community Guidelines</a>. If you find something abusive or that does not comply with our terms or guidelines please flag it as inappropriate.</p></div></div></section>
+                        <div id="inject-comments">
+                        <div class="placeholder" data-replace="true"
+                              data-placeholder="/platform/disqus?doi=10.1038/444551a #article-comments-container">
+                        </div>
+                        </div>
+                        
+
+                        
+                    </div>
+                </div>
+
+                <div class="hide-print reading-companion js-reading-companion position-relative cleared pin-left"
+                     role="complementary">
+                    <div data-container-type="reading-companion" data-track-component="reading companion">
+                        
+                            <h2 class="h3 sans-serif strong visually-hidden">Article Tools</h2><div class="tighten-line-height cleared text14 position-relative z-index-1 standard-space-below pb20 border-gray-light border-bottom-1" data-article-tools data-container-section=tools><ul class="clean-list ie11-list-hack ma0 flex-box flex-space-between"><li class="pin-left position-relative"><a href=#tools class="inline-block block-link pa10 background-white position-relative z-index-50" data-tools-link data-track=click data-track-category="reading companion" data-track-action="more tools" data-track-dest=link><span class="inline-block position-relative icon icon-right pr20 icon-arrow-down-12x7-blue icon-rotate">Tools</span></a></ul></div><div id=tools class="js-hide standard-space-below tools-shadow tools-popup"><div class="cleared border-gray-medium border-all-1 background-white pa20"><h3 class="text13 text-gray-light strong upper sans-serif small-space-below">Tools</h3><ul class="clean-list ie11-list-hack text13 standard-space-below tighten-line-height"><li class="hide js-show small-space-below"><a href=javascript:window.print(); class="inline-block icon icon-left icon-tools-print-16x16-blue pl20" data-track=click data-track-category="reading companion" data-track-action=print data-track-label=link>Print</a></ul><h3 class="text13 text-gray-light strong upper sans-serif small-space-below clear">Share</h3><ul class="clean-list ie11-list-hack text13 small-space-below tighten-line-height"><li class="pin-left grid-1of2 small-space-below hide mq875-show header-tools-show"><a href="http://twitter.com/home/?status=High+tech+from+Ancient+Greece+http%3A%2F%2Fwww.nature.com%2Farticles%2F444551a" data-track=click data-track-category="reading companion" data-track-action="share on twitter" data-track-label=link class="inline-block icon icon-left icon-twitter-16x16-color pl20">Twitter</a><li class="pin-left grid-1of2 small-space-below hide mq875-show header-tools-show"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.nature.com%2Farticles%2F444551a&amp;t=High+tech+from+Ancient+Greece" data-track=click data-track-category="reading companion" data-track-action="share on facebook" data-track-label=link class="inline-block icon icon-left icon-facebook-16x16-color pl20">Facebook</a></ul></div></div>
+                        
+
+                        
+                        
+    
+        <aside>
+            <div class="grid grid-12 last mb10 clear cleared"><h1 class="h3 tighten-line-height small-space-below">
+                Associated Content</h1>
+                
+                
+                    <div class="standard-space-below">
+                        <article>
+    <div class="cleared" itemscope itemtype="http://schema.org/ScholarlyArticle">
+        <p class="mb4 text13 tighten-line-height text-gray-light">
+            
+                <i>Nature</i><span class="pl6 pr6"> | </span>
+            
+            <span data-test="article.type">Letter</span>
+            
+            
+        </p>
+        <h3 class="mb10 extra-tight-line-height" itemprop="name headline">
+            <a href="/articles/nature05357" itemprop="url" data-track="click" data-track-action="view article" data-track-label="link">
+                
+                    
+                
+                Decoding the ancient Greek astronomical calculator known as the Antikythera Mechanism</a>
+        </h3>
+
+        
+
+        
+
+        
+            <ul data-test="author-list" class="ma0 mt6 pa0 clean-list inline-list text13 tighten-line-height text-gray-light js-list-authors-3 js-etal-collapsed">
+                <li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span class="js-separator"></span><span itemprop="name">T. Freeth</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span class="js-separator">, </span><span itemprop="name">Y. Bitsakis</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span class="js-separator">, </span><span itemprop="name">X. Moussas</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span class="js-separator">, </span><span itemprop="name">J. H. Seiradakis</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span class="js-separator">, </span><span itemprop="name">A. Tselikas</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span class="js-separator">, </span><span itemprop="name">H. Mangou</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span class="js-separator">, </span><span itemprop="name">M. Zafeiropoulou</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span class="js-separator">, </span><span itemprop="name">R. Hadland</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span class="js-separator">, </span><span itemprop="name">D. Bate</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span class="js-separator">, </span><span itemprop="name">A. Ramsey</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span class="js-separator">, </span><span itemprop="name">M. Allen</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span class="js-separator">, </span><span itemprop="name">A. Crawley</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span class="js-separator">, </span><span itemprop="name">P. Hockley</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span class="js-separator">, </span><span itemprop="name">T. Malzbender</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span class="js-separator">, </span><span itemprop="name">D. Gelb</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span class="js-separator">, </span><span itemprop="name">W. Ambrisco</span></li><li itemprop="creator" itemscope="" itemtype="http://schema.org/Person"><span class="js-separator">&nbsp;&amp;&nbsp;</span><span itemprop="name">M. G. Edmunds</span></li>
+            </ul>
+        
+
+        
+    </div>
+</article>
+
+                    </div>
+                
+                
+            </div>
+        </aside>
+    
+
+
+                        <div class="clear cleared" data-component="reading-companion-placeholder">
+                            <div class="animate-width" data-component="reading-companion-sticky">
+                                
+                                <div class="grid grid-12 last cleared clear standard-space-below js-hide rc-pane" data-component=reading-companion-info><h1 class="js-hide h3 tighten-line-height small-space-below">Article Information</h1><div class=scroll-wrapper><dl class="text13 grid-inline-wrapper cleared" data-component=article-info-list><dt class="grid-inline grid-4 clear-float text-gray-light">Journal<dd class="grid-inline grid-8 clear-float last"><i>Nature</i> <b>444</b>, <span itemprop=pageStart>551</span>&ndash;<span itemprop=pageEnd>552</span> (30 November 2006)<dt class="grid-inline grid-4 clear-float text-gray-light">DOI<dd class="grid-inline grid-8 clear-float last"><abbr title="Digital Object Identifier">doi</abbr>:10.1038/444551a<dt class="grid-inline grid-4 clear-float text-gray-light"><span class=hide-text>Citation</span><dd class="grid-inline grid-8 clear-float last"><a href=/articles/444551a.ris data-track=click data-track-category="reading companion" data-track-action="download article citation" data-track-label=link>Download Citation</a><dt class="grid-inline grid-4 clear-float text-gray-light mt20">Published<dd class="grid-inline grid-8 clear-float last mt20"><time datetime=2006-11-29 itemprop=datePublished>29 November 2006</time></dl></div></div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="grid grid-4 mq875-grid-12 pb30 last">
+                    
+    <div id="div-gpt-ad-right-2"
+         class="div-gpt-ad advert medium-rectangle js-ad text-center hide-print grade-c-hide hide-overflow"
+         data-gpt-unitpath="/285/nature.com/article"
+         data-gpt-sizes="300x250"
+         data-gpt-targeting="type=article;pos=right;artid=444551a;doi=10.1038/444551a">
+        <noscript>
+            <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/article&amp;sz=300x250&amp;c=464908846&amp;t=pos%3Dright%26type%3Darticle%26artid%3D444551a%26doi%3D10.1038/444551a">
+                <img data-test="gpt-advert-fallback-img"
+                     src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&amp;sz=300x250&amp;c=464908846&amp;t=pos%3Dright%26type%3Darticle%26artid%3D444551a%26doi%3D10.1038/444551a"
+                     alt="Advertisement"
+                     width="300"
+                     height="250"></a>
+        </noscript>
+    </div>
+
+                </div>
+            </article>
+        </div>
+    </div>
+</div>
+
+<div class="js-header-menu menu mb20 z-index-50 composite-layer background-gray-light animate-opacity-top tighten-line-height" id="menu" data-track-component="menu">
+    <div class="menu-inner js-hide">
+        <nav>
+            <h3 class="visually-hidden">Menu</h3>
+            <div class="nav-border">
+                <div class="background-gradient-brand-secondary-tertiary">
+                    <div class="content table grid-12 box-sizing pl20 menu-row">
+                        <div class="table-row" data-test="menu-row-branded">
+                            <div class="background-brand-secondary grid-1of5 table-cell v-middle menu-cell mq875-hide">
+                                <h2 class="h3 pt20 pb20 pr20 mt6 mb6">
+                                    <a href="/nature" data-track="click" data-track-action="journal home" data-track-label="link">Nature</a>
+                                </h2>
+                            </div>
+                            
+    <div class="background-brand-tertiary grid-4of5 table-cell v-middle menu-cell mq875-grid-12 mq875-block">
+        <ul class="cleared clean-list horizontal-list text13 ma20">
+            
+                <li class="pr30">
+                    <a href="/nature/current-issue" data-track="click" data-track-action="current issue" data-track-label="link">Current Issue</a>
+                </li>
+            
+                <li class="pr30">
+                    <a href="/nature/browse-issues" data-track="click" data-track-action="browse issues" data-track-label="link">Browse Issues</a>
+                </li>
+            
+                <li class="pr30">
+                    <a href="/nature/news-and-comment" data-track="click" data-track-action="news &amp; comment" data-track-label="link">News &amp; Comment</a>
+                </li>
+            
+                <li class="pr30">
+                    <a href="/nature/research" data-track="click" data-track-action="research" data-track-label="link">Research</a>
+                </li>
+            
+                <li class="pr30">
+                    <a href="/nature/articles" data-track="click" data-track-action="browse articles" data-track-label="link">Browse Articles</a>
+                </li>
+            
+                <li class="pr30">
+                    <a href="/nature/browse-subjects" data-track="click" data-track-action="browse subjects" data-track-label="link">Browse Subjects</a>
+                </li>
+            
+                <li class="pr30">
+                    <a href="/nature/about" data-track="click" data-track-action="about the journal" data-track-label="link">About the Journal</a>
+                </li>
+            
+                <li class="pr30">
+                    <a href="/nature/for-authors" data-track="click" data-track-action="for authors" data-track-label="link">For Authors</a>
+                </li>
+            
+                <li class="pr30">
+                    <a href="/nature/for-referees" data-track="click" data-track-action="for referees" data-track-label="link">For Referees</a>
+                </li>
+            
+                <li class="pr30">
+                    <a href="/nature/specials-and-supplements" data-track="click" data-track-action="specials &amp; supplements" data-track-label="link">Specials &amp; Supplements</a>
+                </li>
+            
+                <li class="pr30">
+                    <a href="/nature/podcast" data-track="click" data-track-action="podcasts" data-track-label="link">Podcasts</a>
+                </li>
+            
+                <li class="pr30">
+                    <a href="/nature/videoarchive" data-track="click" data-track-action="videos" data-track-label="link">Videos</a>
+                </li>
+            
+                <li class="pr30">
+                    <a href="/nature/history" data-track="click" data-track-action="history of nature" data-track-label="link">History of Nature</a>
+                </li>
+            
+                <li class="pr30">
+                    <a href="/nature/awards" data-track="click" data-track-action="awards" data-track-label="link">Awards</a>
+                </li>
+            
+        </ul>
+    </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div>
+    <div class="background-gradient-brand-gray">
+        <div class="content table grid-12 box-sizing pl20 menu-row">
+            <div class="table-row" data-test="menu-row">
+                <div class="background-gray-medium-light grid-1of5 table-cell v-middle menu-cell mq875-grid-12 mq875-block">
+                    <h2 class="h3 pt20 pb20 pr20 mt6 mb6">
+                        <a href="/siteindex" class="js-mq875-hide" data-track="click" data-track-action="journals a-z" data-track-label="link" aria-label="A to Z">Journals A-Z</a>
+                        <a class="js-accordion-toggle hide js-mq875-show-inline" aria-label="A to Z">Journals A-Z<span class="position-relative icon icon-right icon-arrow-down-12x7-gray icon-rotate pr20"></span></a>
+                    </h2>
+                </div>
+                <div class="background-gray-light grid-4of5 table-cell v-middle menu-cell js-mq875-hide mq875-grid-12 mq875-block">
+                    <ul class="cleared clean-list horizontal-list text13 ma20">
+                        <li class="pr30">
+                            <a href="/nature" data-track="click" data-track-action="nature" data-track-label="link">Nature</a>
+                        </li>
+                        <li class="pr30">
+                            <a href="/ncomms" data-track="click" data-track-action="nature communications" data-track-label="link">Nature Communications</a>
+                        </li>
+                        <li class="pr30">
+                            <a href="/nprot" data-track="click" data-track-action="nature protocols" data-track-label="link">Nature Protocols</a>
+                        </li>
+                        <li class="pr30">
+                            <a href="/reviews" data-track="click" data-track-action="review journals" data-track-label="link">Review journals</a>
+                        </li>
+                        <li class="pr30">
+                            <a href="/srep" data-track="click" data-track-action="scientific reports" data-track-label="link">Scientific Reports</a>
+                        </li>
+                        <li class="pr30">
+                            <a href="/siteindex" class="right-arrow strong" data-track="click" data-track-action="journal a-z view all" data-track-label="link"">View all<span class="visually-hidden"> journals</span></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+    <div class="background-gradient-brand-gray">
+        <div class="content table grid-12 box-sizing pl20 menu-row">
+            <div class="table-row" data-test="menu-row">
+                <div class="background-gray-medium-light grid-1of5 table-cell v-middle menu-cell mq875-grid-12 mq875-block">
+                    <h2 class="h3 pt20 pb20 pr20 mt6 mb6">
+                        <a href="/subjects" class="js-mq875-hide" data-track="click" data-track-action="all subjects" data-track-label="link">All Subjects</a>
+                        <a class="js-accordion-toggle hide js-mq875-show-inline">All Subjects<span class="position-relative icon icon-right icon-arrow-down-12x7-gray icon-rotate pr20"></span></a>
+                    </h2>
+                </div>
+                <div class="background-gray-light grid-4of5 table-cell v-middle menu-cell js-mq875-hide mq875-grid-12 mq875-block">
+                    <ul class="cleared clean-list horizontal-list text13 ma20">
+                        <li class="pr30">
+                            <a href="/subjects/biological-sciences" data-track="click" data-track-action="biological sciences" data-track-label="link">Biological Sciences</a>
+                        </li>
+                        <li class="pr30">
+                            <a href="/subjects/earth-and-environmental-sciences" data-track="click" data-track-action="earth and environmental sciences" data-track-label="link">Earth &amp; Environmental Sciences</a>
+                        </li>
+                        <li class="pr30">
+                            <a href="/subjects/health-sciences" data-track="click" data-track-action="health sciences" data-track-label="link">Health Sciences</a>
+                        </li>
+                        <li class="pr30">
+                            <a href="/subjects/physical-sciences" data-track="click" data-track-action="physical sciences" data-track-label="link">Physical Sciences</a>
+                        </li>
+                        <li class="pr30">
+                            <a href="/subjects/scientific-community-and-society" data-track="click" data-track-action="scientific community and society" data-track-label="link">Scientific Community &amp; Society</a>
+                        </li>
+                        <li class="pr30">
+                            <a href="/subjects" class="right-arrow strong" data-track="click" data-track-action="subjects view all" data-track-label="link">View all<span class="visually-hidden"> subjects</span></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+    <div class="background-gradient-brand-gray">
+        <div class="content table grid-12 box-sizing pl20 menu-row">
+            <div class="table-row" data-test="menu-row">
+                <div class="background-gray-medium-light grid-1of5 table-cell v-middle menu-cell mq875-grid-12 mq875-block">
+                    <h2 class="h3 pt20 pb20 pr20 mt6 mb6">
+                        <a href="/" class="js-mq875-hide" data-track="click" data-track-action="nature.com" data-track-label="link">nature.com</a>
+                        <a class="js-accordion-toggle hide js-mq875-show-inline">nature.com<span class="position-relative icon icon-right icon-arrow-down-12x7-gray icon-rotate pr20"></span></a>
+                    </h2>
+                </div>
+                <div class="background-gray-light grid-4of5 table-cell v-middle menu-cell js-mq875-hide mq875-grid-12 mq875-block">
+                    <ul class="cleared clean-list horizontal-list text13 ma20">
+                        <li class="pr30">
+                            <a href="/subscriptions/index.html" data-track="click" data-track-action="subscriptions" data-track-label="link">Subscriptions</a>
+                        </li>
+                        <li class="pr30">
+                            <a href="/authors/index.html" data-track="click" data-track-action="authors and referees" data-track-label="link">Authors &amp; Referees</a>
+                        </li>
+                        <li class="pr30">
+                            <a href="/libraries/index.html" data-track="click" data-track-action="librarians" data-track-label="link">Librarians</a>
+                        </li>
+                        <li class="pr30">
+                            <a href="/advertising/index.html" data-track="click" data-track-action="advertisers" data-track-label="link">Advertisers</a>
+                        </li>
+                        <li class="pr30">
+                            <a href="/npg_/press_room/index.html" data-track="click" data-track-action="press" data-track-label="link">Press</a>
+                        </li>
+                        <li class="pr30">
+                            <a href="/npg_/index_npg.html" data-track="click" data-track-action="about" data-track-label="link">About</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        </nav>
+    </div>
+</div>
+
+<div id="search-menu" class="menu pt20 mb20 z-index-50 composite-layer background-white animate-opacity-top" data-component="tray" data-track-component="header">
+    <div class="menu-inner js-hide">
+        <section>
+            <h2 class="visually-hidden">Search</h2>
+            <div class="hide-print content mb40 mq1200-padded position-relative" data-test="inline-search">
+                <div class="pb30 pt30 cleared background-white">
+                    <div class="grid grid-8 grid-left-2 mq875-grid-12 mq875-ml0 mq640-pb30">
+                        <form action="/search" method="get" role="search" autocomplete="off" class="mq875-pr20 mq875-pl20" data-track="submit" data-track-action="search" data-track-label="form">
+                            <div class="position-relative">
+                                <div class="background-gray-medium cleared">
+                                    <div class="search-input-box background-white cleared">
+                                        <div class="search-input-layout pin-left grid-12">
+                                            <div class="search-input-field pr4 serif">
+                                                <label for="keywords" class="visually-hidden">Search Nature.com</label>
+                                                <input type="search" id="keywords" class="serif" name="q" value="" placeholder="Search Nature.com" data-test="search-keywords">
+                                            </div>
+                                        </div>
+                                        <span class="search-input-suffix inline-block text13 equalize-line-height text-right">
+                                            <span class="search-input-suffix-inner block">
+                                                <a href="/search/advanced" data-test="search-suffix-link" class="color-blue" data-track="click" data-track-action="advanced search" data-track-label="link">advanced</a>
+                                            </span>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="position-absolute search-input-btn">
+                                    <button type="submit" class="icon icon-center search-btn" data-test="search-submit">
+                                        Search
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+
+<footer>
+    <div class="content mq1200-padded mt70 mb30 cleared" itemscope itemtype="http://schema.org/Periodical">
+        <meta itemprop="publisher" content="Springer Nature">
+        <div class="grid grid-12 last clear-float cleared mb15 text-gray-light text13 flex-box flex-wrap-reverse">
+            <h2 aria-level="2" class="text13 strong emphasis ma0 sans-serif" itemprop="name">Nature</h2>
+            <p class="pt0 pr10 pb0 pl10 ma0"><abbr title="International Standard Serial Number">ISSN</abbr> <span itemprop="issn">1476-4687</span> (online)</p>
+            
+                
+    
+    <p class="pt0 pr0 pl10 ma0 text-right flex-box-item">Issue Cover Cover image: AXS Studio, Inc.</p>
+    
+
+            
+        </div>
+
+        <hr class="separator mb30">
+
+        <div class="grid grid-12 last" data-track-component="footer">
+    <h2 aria-level="2" class="hide">nature.com sitemap</h2>
+
+    <div class="cleared z-index-1 text13 hide-print">
+        <div class="grid grid-3 mq875-grid-4 mq640-grid-6 mq480-grid-12 mb20">
+            <h3 class="h4">For authors and referees</h3>
+            <ul class="clean-list ma0 mt10 mb6">
+                <li class="pb4"><a href="https://www.nature.com/authors/index.html" data-track="click" data-track-action="guide to authors" data-track-label="link">Guide to Authors</a></li>
+                <li class="pb4"><a href="https://www.nature.com/authors/peer_review/" data-track="click" data-track-action="guide to referees" data-track-label="link">Guide to Referees</a></li>
+                <li class="pb4"><a href="https://www.nature.com/authors/editorial_policies/" data-track="click" data-track-action="editorial policies" data-track-label="link">Editorial policies</a></li>
+                <li class="pb4"><a href="https://authorservices.springernature.com/language-editing/?utm_source=natureAuthors&amp;utm_medium=referral&amp;utm_campaign=natureAuthors"
+                       data-track="click" data-track-action="language editing" data-track-label="link"Language editing</a></li>
+                <li class="pb4"><a href="https://authorservices.springernature.com/scientific-editing/?utm_source=natureAuthors&amp;utm_medium=referral&amp;utm_campaign=natureAuthors"
+                       data-track="click" data-track-action="scientific editing" data-track-label="link">Scientific editing</a></li>
+                <li class="pb4" ><a href="https://www.nature.com/reprints/" data-track="click" data-track-action="reprints and permissions" data-track-label="link">Reprints &amp; permissions</a></li>
+            </ul>
+        </div>
+        <div class="grid grid-3 mq875-grid-4 mq640-grid-6 mq480-grid-12 mb20 just-mq640-last">
+            <h3 class="h4">For readers</h3>
+            <ul class="clean-list ma0 mt10 mb6">
+                <li class="pb4"><a href="https://www.nature.com/siteindex/" data-track="click" data-track-action="journals a-z" data-track-label="link">Journals A-Z</a></li>
+                <li class="pb4"><a href="https://www.nature.com/browse/" data-track="click" data-track-action="all subjects" data-track-label="link">Subject Pages</a></li>
+                <li class="pb4"><a href="https://www.nature.com/protocolexchange/" data-track="click" data-track-action="protocol exchange" data-track-label="link">Protocol Exchange</a></li>
+                <li class="pb4"><a href="https://blogs.nature.com" data-track="click" data-track-action="blogs" data-track-label="link">Blogs</a></li>
+                <li class="pb4"><a href="https://www.nature.com/nature/podcast/index.html" data-track="click" data-track-action="podcasts" data-track-label="link">Podcasts</a></li>
+                <li class="pb4"><a href="https://www.nature.com/webcasts/index.html" data-track="click" data-track-action="webcasts" data-track-label="link">Webcasts</a></li>
+                <li class="pb4"><a href="https://www.nature.com/nature/subscribe" data-track="click" data-track-action="subscriptions" data-track-label="link">Subscriptions</a></li>
+                <li class="pb4"><a href="https://www.nature.com/mobile" data-track="click" data-track-action="mobile apps" data-track-label="link">Mobile apps</a></li>
+                <li class="pb4"><a href="https://www.nature.com/webfeeds/" data-track="click" data-track-action="rss" data-track-label="link">RSS</a></li>
+            </ul>
+        </div>
+        <div class="grid grid-3 mq875-grid-4 mq640-grid-6 mq480-grid-12 mb20 just-mq875-last">
+            <h3 class="h4">For librarians</h3>
+            <ul class="clean-list ma0 mt10 mb6">
+                <li class="pb4"><a href="https://www.springernature.com/gp/librarians/manage-your-account" data-track="click" data-track-action="account administration" data-track-label="link">Account administration</a></li>
+                <li class="pb4"><a href="https://www.springernature.com/gp/librarians/licensing" data-track="click" data-track-action="site licenses" data-track-label="link">Site licenses</a></li>
+                <li class="pb4"><a href="https://www.nature.com/libraries/catalog/" data-track="click" data-track-action="catalogs" data-track-label="link">Catalogs</a></li>
+                <li class="pb4"><a href="https://www.nature.com/libraries/print_subscription/" data-track="click" data-track-action="print subscriptions" data-track-label="link">Print subscriptions</a></li>
+                <li class="pb4"><a href="https://www.springernature.com/gp/librarians/licensing" data-track="click" data-track-action="pay per view" data-track-label="link">Pay per view</a></li>
+                <li class="pb4"><a href="https://www.nature.com/libraries/open_access/" data-track="click" data-track-action="open access" data-track-label="link">Open access</a></li>
+                <li class="pb4"><a href="https://www.springernature.com/gp/librarians/tools-services/promote-your-content" data-track="click" data-track-action="promotion tools" data-track-label="link">Promotion tools</a></li>
+                <li class="pb4"><a href="https://www.nature.com/libraries/public_interfaces/" data-track="click" data-track-action="public interfaces" data-track-label="link">Public interfaces</a></li>
+                <li class="pb4"><a href="https://www.springernature.com/gp/librarians/tools-services/promote-your-content/user-guides" data-track="click" data-track-action="user guides" data-track-label="link">User guides</a> </li>
+                <li class="pb4"><a href="https://www.springernature.com/gp/librarians/tools-services" data-track="click" data-track-action="library relations" data-track-label="link">Library relations</a></li>
+                <li class="pb4"><a href="https://www.springernature.com/gp/librarians/manage-your-account/discovery" data-track="click" data-track-action="publisher collaborations" data-track-label="link">Publisher collaborations</a></li>
+            </ul>
+        </div>
+        <div class="grid grid-3 mq875-grid-4 mq640-grid-6 mq480-grid-12 mb20 just-mq640-last full-size-last just-mq1200-last just-mq480-last">
+            <h3 class="h4">Careers and events</h3>
+            <ul class="clean-list ma0 mt10 mb6">
+              <li class="pb4"><a href="https://www.nature.com/natureconferences/" data-track="click" data-track-action="nature conferences" data-track-label="link">Nature<span class="visually-hidden"> </span>conferences</a></li>
+              <li class="pb4"><a href="https://www.nature.com/natureevents/" data-track="click" data-track-action="nature events" data-track-label="link">Nature<span class="visually-hidden"> </span>events</a></li>
+              <li class="pb4"><a href="https://www.nature.com/naturejobs/" data-track="click" data-track-action="nature jobs" data-track-label="link">Nature<span class="visually-hidden"> </span>jobs.com</a></li>
+            </ul>
+        </div>
+        <div class="grid grid-3 mq875-grid-4 mq640-grid-6 mq480-grid-12 mb20">
+            <h3 class="h4">Regional websites</h3>
+            <ul class="clean-list ma0 mt10 mb6">
+                <li class="pb4"><a href="https://www.natureasia.com/" data-track="click" data-track-action="nature asia" data-track-label="link">Nature<span class="visually-hidden"> </span>asia</a></li>
+                <li class="pb4"><a href="http://www.naturechina.com" data-track="click" data-track-action="nature china" data-track-label="link">Nature China</a></li>
+                <li class="pb4"><a href="https://www.nature.com/nindia" data-track="click" data-track-action="nature india" data-track-label="link">Nature India</a></li>
+                <li class="pb4"><a href="https://www.natureasia.com/ja-jp/" data-track="click" data-track-action="nature japan" data-track-label="link">Nature Japan</a></li>
+                <li class="pb4"><a href="https://www.natureasia.com/ko-kr/" data-track="click" data-track-action="nature korea" data-track-label="link">Nature Korea</a></li>
+                <li class="pb4"><a href="https://www.nature.com/nmiddleeast/" data-track="click" data-track-action="nature middle east" data-track-label="link">Nature Middle East</a></li>
+            </ul>
+        </div>
+        <div class="grid grid-3 mq875-grid-4 mq640-grid-6 mq480-grid-12 mb20 just-mq640-last just-mq875-last">
+            <h3 class="h4">Nature Research</h3>
+            <ul class="clean-list ma0 mt10 mb6">
+              <li class="pb4"><a href="https://www.nature.com/npg_/index_npg.html" data-track="click" data-track-action="about us" data-track-label="link">About us</a></li>
+              <li class="pb4"><a href="https://www.nature.com/npg_/work" data-track="click" data-track-action="work for us" data-track-label="link">Work for us</a></li>
+              <li class="pb4"><a href="https://www.nature.com/help/" data-track="click" data-track-action="help" data-track-label="link">Help</a></li>
+              <li class="pb4"><a href="https://www.nature.com/npg_/contact/" data-track="click" data-track-action="contact us" data-track-label="link">Contact us</a></li>
+              <li class="pb4"><a href="https://www.nature.com/info/privacy.html" data-track="click" data-track-action="privacy policy" data-track-label="link">Privacy Policy</a></li>
+              <li class="pb4"><a href="https://www.nature.com/info/cookies.html" data-track="click" data-track-action="use of cookies" data-track-label="link">Use of cookies</a></li>
+              <li class="pb4"><a href="https://www.nature.com/info/legal_notice.html" data-track="click" data-track-action="legal notice" data-track-label="link">Legal notice</a></li>
+              <li class="pb4"><a href="https://www.nature.com/info/accessibility_statement.html" data-track="click" data-track-action="accessibility statement" data-track-label="link">Accessibility statement</a></li>
+              <li class="pb4"><a href="https://www.nature.com/info/tandc.html" data-track="click" data-track-action="terms and conditions" data-track-label="link">Terms &amp; Conditions</a></li>
+              <li class="pb4"><a href="https://www.nature.com/info/partners.html" data-track="click" data-track-action="partners" data-track-label="link">Partners</a></li>
+            </ul>
+        </div>
+        <div class="grid grid-3 mq875-grid-4 mq640-grid-6 mq480-grid-12 mb20">
+            <h3 class="h4">For advertisers</h3>
+            <ul class="clean-list ma0 mt10 mb6">
+                <li class="pb4"><a href="https://www.nature.com/advertising" data-track="click" data-track-action="advertising options" data-track-label="link">Advertising options</a></li>
+                <li class="pb4"><a href="https://www.nature.com/advertising/audience" data-track="click" data-track-action="journal audience" data-track-label="link">Journal audience</a></li>
+                <li class="pb4"><a href="https://www.nature.com/natureevents/science/organizers" data-track="click" data-track-action="event advertising" data-track-label="link">Event advertising</a></li>
+                <li class="pb4"><a href="https://www.nature.com/naturejobs/science/orders/new" data-track="click" data-track-action="job posts" data-track-label="link">Job posts</a></li>
+                <li class="pb4"><a href="https://www.nature.com/advertising/contact" data-track="click" data-track-action="contact representative" data-track-label="link">Contact representative</a></li>
+            </ul>
+        </div>
+        <div class="grid grid-3 mq875-grid-4 mq640-grid-6 mq480-grid-12 mb20 just-mq640-last full-size-last just-mq1200-last just-mq480-last">
+            <h3 class="h4">For press</h3>
+            <ul class="clean-list ma0 mt10 mb6">
+                <li class="pb4"><a href="http://press.nature.com/" data-track="click" data-track-action="press site" data-track-label="link">Press site</a></li>
+                <li class="pb4"><a href="https://www.nature.com/npg_/press_room/index.html" data-track="click" data-track-action="press room" data-track-label="link">Press room</a></li>
+                <li class="pb4"><a href="http://press.nature.com/contact-us" data-track="click" data-track-action="contact press office" data-track-label="link">Contact press office</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="grid grid-12 last mb30">
+        <img src="/static/images/sn-logo.4368f3b177.svg" alt="Springer Nature"/>
+        <small class="block pt15 pb6 ma0 text-gray-light text11">© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</small>
+    </div>
+</div>
+
+
+    </div>
+</footer>
+
+
+    <script>
+        var readingCompanionData = {
+  "sections" : [ {
+    "id" : "references",
+    "title" : "References"
+  }, {
+    "id" : "author-information",
+    "title" : "Author information"
+  }, {
+    "id" : "rightslink",
+    "title" : "Rights and permissions"
+  }, {
+    "id" : "article-comments",
+    "title" : "Comments",
+    "extraClass" : "hide"
+  } ],
+  "figures" : [ {
+    "num" : 1,
+    "index" : 1,
+    "imagePaths" : [ "//media.springernature.com/m685/nature-assets/nature/journal/v444/n7119/images/444551a-f1.2.jpg" ],
+    "title" : "Figure 1: Wheels within wheels.",
+    "link" : "/articles/444551a/figures/1",
+    "anchor" : "#f1",
+    "extendedData" : false
+  }, {
+    "num" : 2,
+    "index" : 2,
+    "imagePaths" : [ "//media.springernature.com/m685/nature-assets/nature/journal/v444/n7119/images/444551a-f2.2.jpg" ],
+    "title" : "Figure 2: Islamic descendant.",
+    "link" : "/articles/444551a/figures/2",
+    "anchor" : "#f2",
+    "extendedData" : false
+  } ],
+  "references" : [ {
+    "id" : "1",
+    "title" : "<span><span itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Person\"><span itemprop=\"name\">Freeth, T.</span></span> <i>et al.</i> <i>Nature</i> <b>444</b>, <span>587</span>–<span>591</span> (<span>2006</span>).</span>",
+    "schemaType" : "Article"
+  }, {
+    "id" : "2",
+    "title" : "<span><span itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Person\"><span itemprop=\"name\">Price, D. de S.</span></span> <i>Trans. Am. Phil. Soc.</i> <b>64</b>(<span>7</span>), <span>1</span>–<span>70</span> (<span>1974</span>).</span>",
+    "schemaType" : "Article"
+  }, {
+    "id" : "3",
+    "title" : "<span><span itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Person\"><span itemprop=\"name\">Price, D. de S.</span></span> <i>Science Since Babylon</i> <b>48</b> (Yale Univ. Press, <span>1975</span>).</span>",
+    "schemaType" : "Book"
+  }, {
+    "id" : "4",
+    "title" : "<span><span itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Person\"><span itemprop=\"name\">Wright, M. T.</span></span> in <i>Proc. 2nd Int. Conf. Ancient Greek Technol.</i> (ed. Tassios, Th.) <span>49</span>–<span>60</span> (Technical Chamber of Greece, Athens, <span>2006</span>).</span>",
+    "schemaType" : "Book"
+  }, {
+    "id" : "5",
+    "title" : "<span><span itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Person\"><span itemprop=\"name\">Wright, M.</span></span> &amp; <span itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Person\"><span itemprop=\"name\">Fields, J.</span></span> <i>Ann. Sci.</i> <b>42</b>, <span>87</span>–<span>138</span> (<span>1985</span>).</span>",
+    "schemaType" : "Article"
+  }, {
+    "id" : "6",
+    "title" : "<span><span itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Person\"><span itemprop=\"name\">Hill, D.</span></span> <i>Ann. Sci.</i> <b>42</b>, <span>139</span>–<span>163</span> (<span>1985</span>).</span>",
+    "schemaType" : "Article"
+  } ],
+  "hasAccess" : false,
+  "hasNumericReferences" : true
+};
+    </script>
+
+
+
+<script src="/static/js/mosaic.586cfa4820.js"></script>
+<script>
+
+    var idp = {
+        onProofChanged: function () {
+            location.reload()
+        },
+         institutionalLogin: function (names) {
+             if (names.length && false) {
+                if (document.querySelector('.js-main-column')) {
+                    var accessMessage = document.createElement('div');
+                    accessMessage.innerHTML = '<p style="transform: translateY(-5px)" class="text14 block mb0 pb10 text-center">Access provided by ' + names[0] + '</p>';
+                    document.querySelector('.js-main-column').prepend(accessMessage);
+                }
+            }
+        },
+        hasNatureUserProof: function (hasProof) {
+            if (!hasProof) {
+                document.getElementById("my-account").setAttribute("style", "display: none;");
+                document.getElementById("login-button").setAttribute("style", "");
+            }
+        }
+    }
+</script>
+<script src="https://verify.nature.com/verify/nature.min.js"></script>
+<noscript>
+    <img src="https://verify.nature.com/verify/nature.png" alt="" width="0" height="0"/>
+    <img alt="" id="DCSIMG" width="1" height="1" src="//statse.webtrendslive.com/dcs0zztfg00000s969s37qoal_2f6z/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.55">
+</noscript>
+<script>
+    var appendExtraFlagsToLinks = function(params) {
+        $('a').filter(function(_, x) {
+            var href = $(x).attr('href');
+            return href && href.startsWith('/');
+        }).each(function(_, x) {
+            var $x = $(x);
+            var url = new URL('http://temp.com' + $x.attr('href'));
+            params.forEach(function(param) {
+                url.searchParams.set(param[0], param[1]);
+            });
+            $x.attr('href', url.pathname + url.search + url.hash);
+        });
+    };
+
+    var transformNatureAssetSourcesToDraft = function() {
+        var regex = /\/nature-assets\//;
+
+        var targets = [['img', 'src'], ['a', 'href']];
+
+        targets.forEach(function(target) {
+            $(target[0]).filter(function(_, x) {
+                return regex.test($(x).attr(target[1]));
+            }).each(function(_, x) {
+                var $x = $(x);
+                $x.attr(target[1], $x.attr(target[1]).replace('nature-assets', 'nature-assets-draft'));
+            });
+        });
+    };
+
+    if (window.URLSearchParams) {
+        var params = new URLSearchParams(location.search.slice(1));
+        var proof = params.get('proof');
+        var platform = params.get('platform');
+        var draft = params.get('draft');
+        if (proof || platform || draft) {
+            appendExtraFlagsToLinks(
+                [['proof', proof], ['platform', platform], ['draft', draft]].filter(function(pair) {
+                    return pair[1];
+                }));
+        }
+        if (proof || draft) {
+            transformNatureAssetSourcesToDraft();
+        }
+    }
+</script>
+
+<script src="//content.readcube.com/ping?doi=10.1038/444551a&amp;format=js&amp;last_modified=2017-06-27" async></script>
+<img src="/platform/track/preview/444551a" width="1" height="1" alt="" class="visually-hidden"/>
+</body>
+</html>

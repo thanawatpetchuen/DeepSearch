@@ -1,0 +1,142 @@
+<!--[if IE 5]> Vignette StoryServer 5.0 Fri Mar 21 10:04:14 2014 <![endif]-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+	      
+	  			
+	
+		
+		  
+						
+			
+				     	 
+		
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+        <title>The Wizard Inside The Machine -- Printout -- TIME</title>
+ <meta name="description" content="COVER STORY  Software is the magic carpet to the future  Hardware or software? the child of today&#39;s computer age might ask.  His world is divided into two parts: hardware, the machinery that makes..." />
+<meta name="keywords" content="" />
+<meta name="byline" content="Alexander L. Taylor III" /><meta name="srce" content="/time Magazine" />
+<meta name="head" content="The Wizard Inside The Machine" />
+<meta name="path" content="/time/printout/0,8816,954266,00.html" />
+<meta name="date" content="Monday, Apr. 16, 1984" />
+<meta name="word_count" content="98" />
+<meta name="robots" content="noarchive" /> 
+
+ <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		
+		
+		<link rel="stylesheet" type="text/css" href="http://img.timeinc.net/time/css/print.css" />
+	<script type="text/javascript" language="javascript" src="http://img.timeinc.net/time/js/tii_browser_sniffing.js"></script>
+	<script type="text/javascript" language="javascript" src="http://img.timeinc.net/time/js/tii_utils.js"></script>
+	<script type="text/javascript" language="javascript" src="http://tiads.time.com/ads/tgx.js"></script>
+	<script type="text/javascript" language="javascript" src="http://cdn.optimizely.com/js/230919112.js"></script>
+	<script type="text/javascript" language="javascript" src="http://img.timeinc.net/time/js/global.js"></script>
+	<script type="text/javascript" language="javascript" src="http://img.timeinc.net/time/js/ad_util.js"></script>
+	<script type="text/javascript" language="javascript" src="http://img.timeinc.net/time/js/print.js"></script>
+		<link rel="icon" href="http://img.timeinc.net/time/favicon.ico" type="image/x-icon" />
+		<link rel="shortcut icon" href="http://img.timeinc.net/time/favicon.ico" type="image/x-icon" />
+		
+
+
+</head>
+<body> 	
+<script type="text/javascript" language="javascript">
+var adFactory = new TiiAdFactory(adConfig, "printerfriendly");
+adFactory.setChannel("u.s.");
+adFactory.setSubchannel("");
+adFactory.setChannelPage();
+</script>
+
+
+<div id="omniture" style="display:none">
+<script type="text/javascript">
+var s_account="timecom";
+</script>
+	<script type="text/javascript" src="http://img.timeinc.net/tii/omniture/h/config/time_s_code.js"></script>
+<script type="text/javascript">
+
+s_time.channel = 'time';
+s_time.pageName = 'us|the wizard inside the machine|print';
+s_time.prop6 = 'nation';
+s_time.prop7 = 'print version';
+s_time.prop16 = 'us';
+
+s_time.prop17 = location.href;
+
+
+if (typeof(catsCSV) == "string") s_time.prop13 = catsCSV;
+if (typeof(omnitureHookFunction) == "function") eval("omnitureHookFunction();");
+var s_code=s_time.t();if(s_code)document.write(s_code)
+</script>
+</div>
+<div id="print">
+<!-- Begin Content Main -->
+<div class="contentMain">	
+	<!-- Begin Consumer Marketing -->
+	<div id="topBannerWrap">
+	<div id="topBanner"><script type="text/javascript">
+adFactory.getAd(728, 90).write();
+</script></div>
+	</div>
+	<!-- End Consumer Marketing -->
+	<!-- Begin Buttons -->
+	<ul class="button">
+
+	   <li class="lt"></li>
+	   <li class="icon"><a href="/time/magazine/article/0,9171,954266,00.html"><img src="http://img.timeinc.net/time/i/btn_arrow.gif" width="6" height="15" alt="" /></a></li>					   
+	   <li class="ct"><a href="/time/magazine/article/0,9171,954266,00.html">Back to Article</a></li>
+ 	   <li class="rt"></li>
+	</ul>		
+	<ul class="button">
+	   <li class="lt"></li>
+	   <li class="icon"><a href="#"><img src="http://img.timeinc.net/time/i/btn_print.gif" width="15" height="15" alt="" /></a></li>					   
+	   <li class="ct"><a id="print1" href="#">Click to Print</a></li>
+
+ 	   <li class="rt"></li>
+	</ul>					
+	<!-- End Buttons -->			 
+ 	<!-- Begin Tout1 -->  
+	<div class="tout1">
+		<div class="thumbnail"><a href="/time"><img src="http://img.timeinc.net/time/i/logo_time_print.gif" width="212" height="106" alt="" /></a></div>
+		<div id="date2">Monday, Apr. 16, 1984</div>
+	    <h1>The Wizard Inside The Machine</h1>
+		
+		<div class="byline">By Alexander L. Taylor III</div>
+		<p>
+<p>COVER STORY </p> <p>Software is the magic carpet to the future </p> <p>Hardware or software? the child of today&#39;s computer age might ask. </p> <p>His world is divided into two parts: hardware, the machinery that makes up a computer, and software, the programs of instructions that tell computers what to do. And while the hardware is visible and tangible, the child knows that software is the soul of the machine. Without software, a computer is little more than a hunk of plastic and silicon that might as well be used as a doorstop. A computer without software is like a car... <!-- Begin Buttons -->
+
+		<ul class="button">
+		   <li class="lt"></li>
+		   <li class="icon"><a href="#"><img src="http://img.timeinc.net/time/i/btn_print.gif" width="15" height="15" alt="" /></a></li>					   
+		   <li class="ct"><a id="print2" href="#">Click to Print</a></li>
+  			   <li class="rt"></li>
+		</ul>
+		<!-- End Buttons -->		
+		<!-- Begin Find this article -->
+		<ul class="find">
+
+		   <li><span>Find this article at:</span></li>
+		   <li><a href="/time/magazine/article/0,9171,954266,00.html">http://content.time.com/time/magazine/article/0,9171,954266,00.html</a></li>
+		</ul>
+		<!-- End Find this article -->		
+	</div>		
+ 	<!-- End Tout1 -->  
+	<!-- Begin: Footer -->
+	<div id="footer">
+		<div class="copyright">Copyright &copy 2014 Time Inc. All rights reserved. Reproduction in whole or in part without permission is prohibited.</div>	
+		<dl id="links">
+
+			<dt></dt>
+			<dd><a href="/time/documents/privacy/">Privacy Policy</a>|<a href="/time/rss/">Add TIME Headlines to your Site</a>|<a href="/time/contactus/">Contact Us</a>|<a href="https://secure.customersvc.com/servlet/Show?WESPAGE=td/home.html&MSRSMAG=TD">Customer Service</a></dd>
+		</dl>
+	</div>
+
+	<!-- End: Footer -->
+ </div>
+<!-- End Content Main -->
+</div>
+
+</body>
+</html>

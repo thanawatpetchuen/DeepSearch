@@ -1,0 +1,1015 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+/** Theme Name: ISOC Theme Theme URI: http://www.internetsociety.org Version: 2.0 Author: ATTCK Author URI: http://www.attck.com Tags: attck License: Nope Description: ISOC Layout Theme for internetsociety.org*/Events Archive | Internet Society
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var wpml_cookies = {"_icl_current_language":{"value":"en","expires":1,"path":"\/"}};
+var wpml_cookies = {"_icl_current_language":{"value":"en","expires":1,"path":"\/"}};
+/* ]]> */
+
+
+
+
+
+
+
+
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+	dataLayer.push({"pageTitle":"Events Archive | Internet Society","pagePostType":"events"});
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5LKZWMW');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Member Login
+
+
+ 
+
+The Internet
+
+About the Internet
+
+History of the Internet Facts & Figures Who Makes the Internet Work Glossary of Internet Terms 
+
+What we’re doing
+
+Key Issues
+
+Community Networks Internet Governance Internet of Things (IoT) Mutually Agreed Norms for Routing Security (MANRS) 
+ Other Issues
+
+Building Trust in the Internet Connecting the Unconnected Development DNSSEC Encryption Human Rights Identity IPv6 
+ Other Issues
+
+Internet Exchange Points (IXPs) Open Internet Standards and the IETF Privacy Public Policy Security Securing Border Gateway Protocol (BGP) Technology Women In Tech 
+
+What you can do
+
+Take Action
+
+Attend an event Grants and awards Become a member Find a chapter Become a partner organization Donate 
+ Education
+
+Watch tutorials Take an online course 
+
+Resources
+
+Resource library
+
+All resources Policy Briefs 
+ Publications
+
+Global Internet Report IETF Journal 
+ Programs
+
+Deploy360 IXP Toolkit MANRS Online Trust Alliance (OTA) 
+
+About Us
+
+About Internet Society
+
+Mission Board of Trustees Chapters Organization Members Team Action Plan: 2018 Organization Reports & Policies Become a member About the IETF 
+ Regions
+
+Africa Asia Pacific Europe Latin America & Caribbean Middle East North America 
+ Events
+
+All Events African Peering and Interconnection Forum (AfPIF) IETF Meetings InterCommunity ION Conferences NDSS Symposium Regional Internet and Development Dialogues (RIDD) 
+
+News
+
+News
+
+Press Releases Internet Society in the news Blog Statements Speeches 
+ For journalists:
+
+Media center 
+
+ 
+
+Learn more
+
+Learn more
+Did you know that the open standards that power the Internet are created by the Internet Engineering Task Force (IETF)?
+
+
+
+
+
+
+
+Member Login
+
+
+
+ 
+
+
+en
+enfresMore languages 
+Donate
+
+
+
+
+
+                              (function() {
+                                var cx = '015267653312545538371:nexkswtg5_g';
+                                var gcse = document.createElement('script');
+                                gcse.type = 'text/javascript';
+                                gcse.async = true;
+                                gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                                var s = document.getElementsByTagName('script')[0];
+                                s.parentNode.insertBefore(gcse, s);
+                              })();
+                            
+
+
+
+Donate
+
+ 
+
+
+
+
+
+
+
+
+
+Attend an event
+
+The Internet Society is at the heart of the Internet community and active in conferences and events around the world, many of which it organizes or supports directly.
+
+
+
+
+
+
+
+
+
+
+Featured events
+
+
+
+
+
+Africa Internet Summit (AIS) 2018
+
+
+Dakar, Senegal
+Sunday 29 April 2018 Africa Internet Summit (AIS) 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Events in
+
+
+all regions
+
+
+ 
+
+All regions
+
+
+								Africa							
+
+
+
+								Asia Pacific							
+
+
+
+								Europe							
+
+
+
+								Latin America & Caribbean							
+
+
+
+								Middle East							
+
+
+
+								North America							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Africa Internet Summit (AIS) 2018
+
+
+
+29
+                                        April                                    
+
+
+
+Dakar, Senegal Sunday 29 April 2018 – Friday 11 May 2018
+
+
+
+
+
+Africa Internet Summit (AIS) 2018
+The Africa Internet Summit (AIS) is an annual, regional, multistakeholder ICT conference.
+
+
+
+
+
+
+
+
+LACNIC 29
+
+
+
+30
+                                        April                                    
+
+
+
+Panama Monday 30 April 2018 – Friday 04 May 2018
+
+
+
+
+
+LACNIC 29
+LACNIC 29 is one of the most important Internet events in Latin America and the Caribbean that brings together experts...
+
+
+
+
+
+
+
+
+RIPE 76
+
+
+
+14
+                                        May                                    
+
+
+
+Marseille, France Monday 14 May 2018 – Friday 18 May 2018
+
+
+
+
+
+RIPE 76
+RIPE 76 will take place at Palais du Pharo in Marseille, France from 14-18 May, 2018.
+
+
+
+
+
+
+
+
+9th Annual IoT European Summit
+
+
+
+15
+                                        May                                    
+
+
+
+Brussels, Belgium Tuesday 15 May 2018 – Wednesday 16 May 2018
+
+
+
+
+
+9th Annual IoT European Summit
+The Internet of Things European Summit is the leading event focusing on the current policy and industry developments affecting the...
+
+
+
+
+
+
+
+
+RightsCon Toronto
+
+
+
+16
+                                        May                                    
+
+
+
+Toronto, Canada Wednesday 16 May 2018 – Friday 18 May 2018
+
+
+
+
+
+RightsCon Toronto
+The seventh edition of RightsCon, the world’s leading event on human rights in the digital age, will take place from 16-18...
+
+
+
+
+
+
+
+
+2018 African Chapters’ Advocacy Meeting
+
+
+
+19
+                                        June                                    
+
+
+
+Addis Ababa, Ethiopia Tuesday 19 June 2018 – Thursday 21 June 2018
+
+
+
+
+
+2018 African Chapters’ Advocacy Meeting
+Strengthening and mobilizing our chapters to advocate and support innovative ways to connect the unconnected.
+
+
+
+
+
+
+
+
+AfPIF2018@iWeek
+
+
+
+21
+                                        August                                    
+
+
+
+Cape Town, South Africa Tuesday 21 August 2018 – Thursday 23 August 2018
+
+
+
+
+
+AfPIF2018@iWeek
+The 9th African Peering and Interconnection Forum (AfPIF) will be held over a 3-day period from 21-23 August 2018 in...
+
+
+
+
+
+
+
+
+ITU Plenipotentiary Conference 2018
+
+
+
+29
+                                        October                                    
+
+
+
+Dubai, United Arab Emirates Monday 29 October 2018 – Friday 16 November 2018
+
+
+
+
+
+ITU Plenipotentiary Conference 2018
+The 2018 ITU Plenipotentiary Conference will be held 29 October – 16 November in Dubai, United Arab Emirates.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conferences
+
+
+Africa Domain Name System (DNS) Forum
+
+
+
+
+
+Africa Domain Name System (DNS) Forum
+
+
+
+
+Africa Internet Summit (AIS)
+
+
+
+
+
+Africa Internet Summit (AIS)
+
+
+
+
+African Peering and Interconnection Forum (AfPIF)
+
+
+
+
+
+African Peering and Interconnection Forum (AfPIF)
+
+
+
+
+Asia Internet Symposium
+
+
+
+
+
+Asia Internet Symposium
+
+
+
+
+Community Forums
+
+
+
+
+
+Community Forums
+
+
+
+
+IETF Meetings
+
+
+
+
+
+IETF Meetings
+
+
+
+
+INET Conferences
+
+
+
+
+
+INET Conferences
+
+
+
+
+InterCommunity
+
+
+
+
+
+InterCommunity
+
+
+
+
+Internet Governance Forum (IGF)
+
+
+
+
+
+Internet Governance Forum (IGF)
+
+
+
+
+ION Conferences
+
+
+
+
+
+ION Conferences
+
+
+
+
+NDSS Symposium
+
+
+
+
+
+NDSS Symposium
+
+
+
+
+Regional Internet and Development Dialogues (RIDD)
+
+
+
+
+
+Regional Internet and Development Dialogues (RIDD)
+
+
+
+
+Summit on Community Networks in Africa
+
+
+
+
+
+Summit on Community Networks in Africa
+
+
+
+
+UN
+
+
+
+
+
+UN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Past events 
+
+
+
+LACNIC 29
+
+
+
+30
+                                        April                                    
+
+
+
+Panama Monday 30 April 2018 – Friday 04 May 2018
+
+
+
+
+
+LACNIC 29
+LACNIC 29 is one of the most important Internet events in Latin America and the Caribbean that brings together experts...
+
+
+
+
+
+
+
+
+Cyber South School on Internet Governance 2018
+
+
+
+30
+                                        April                                    
+
+
+
+Washington, DC, United States Monday 30 April 2018 – Wednesday 02 May 2018
+
+
+
+
+
+Cyber South School on Internet Governance 2018
+The main objective of the South School on Internet Governance is to train new leaders of opinion in all aspects...
+
+
+
+
+
+
+
+
+Africa Internet Summit (AIS) 2018
+
+
+
+29
+                                        April                                    
+
+
+
+Dakar, Senegal Sunday 29 April 2018 – Friday 11 May 2018
+
+
+
+
+
+Africa Internet Summit (AIS) 2018
+The Africa Internet Summit (AIS) is an annual, regional, multistakeholder ICT conference.
+
+
+
+
+
+
+
+
+Fund your idea: Beyond the Net – Information Session
+
+
+
+17
+                                        April                                    
+
+
+
+Tuesday 17 April 2018
+
+
+
+
+
+Fund your idea: Beyond the Net – Information Session
+Got a great idea to empower your community? You can make the change.
+
+
+
+
+
+
+
+
+RSA Conference 2018
+
+
+
+16
+                                        April                                    
+
+
+
+San Francisco, CA, USA Monday 16 April 2018 – Friday 20 April 2018
+
+
+
+
+
+RSA Conference 2018
+RSA Conference conducts information security events around the globe that connect you to industry leaders and highly relevant information.
+
+
+
+
+
+
+
+
+Euro-IX Forum
+
+
+
+15
+                                        April                                    
+
+
+
+Galway, Ireland Sunday 15 April 2018 – Tuesday 17 April 2018
+
+
+
+
+
+Euro-IX Forum
+The European Internet Exchange Association (Euro-IX) gathers 83 IXPs from around the world.
+
+
+
+
+
+
+
+
+Canadian Multistakeholder Process: Enhancing IoT Security
+
+
+
+04
+                                        April                                    
+
+
+
+Ottawa, Canada Wednesday 04 April 2018
+
+
+
+
+
+Canadian Multistakeholder Process: Enhancing IoT Security
+The Internet Society has partnered with Innovation, Science and Economic Development, the Canadian Internet Registration Authority, CANARIE, and CIPPIC to...
+
+
+
+
+
+
+
+
+G7 Ministerial Meeting: Preparing for jobs of the future
+
+
+
+27
+                                        March                                    
+
+
+
+Montreal, Quebec Tuesday 27 March 2018 – Wednesday 28 March 2018
+
+
+
+
+
+G7 Ministerial Meeting: Preparing for jobs of the future
+G7 Employment and Innovation Ministers will meet on the theme of Preparing for jobs of the future from March 27-28, in Montreal, Quebec....
+
+
+
+
+
+
+
+
+APAN 45
+
+
+
+25
+                                        March                                    
+
+
+
+Singapore Sunday 25 March 2018 – Thursday 29 March 2018
+
+
+
+
+
+APAN 45
+The APAN45 Meeting is an excellent platform for leading network staff, academics and scientists in the Asia Pacific region to...
+
+
+
+
+
+
+
+
+
+Load more
+
+
+
+
+
+
+
+
+
+
+
+Questions? Get in touch.
+
+
+Contact us
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+About the Internet Society
+About the IETF
+Careers
+Contact Us
+Follow Us
+Sharing Our Content
+Affiliated Sites
+Privacy policy
+
+
+
+
+USA
+							1775 Wiehle Avenue 
+Reston, VA 20190
+							+1-703-439-2120
+
+
+Switzerland
+							Galerie Jean-Malbuisson 15 
+CH-1204 Geneva, Switzerland
+							+41 22 807 1444
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2018 Internet Society | isoc@isoc.org
+
+
+
+
+
+
+/* <![CDATA[ */
+var afp_vars = {"afp_nonce":"d1cf3bac9e","afp_ajax_url":"https:\/\/www.internetsociety.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+
+
+
+
+
+

@@ -1,0 +1,508 @@
+
+
+
+
+Computer - Alemannische Wikipedia
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Computer","wgTitle":"Computer","wgCurRevisionId":813575,"wgRevisionId":813575,"wgArticleId":25478,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Computer"],"wgBreakFrames":false,"wgPageContentLanguage":"gsw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Jänner","Februar","März","April","Mai","Juni","Juli","Augschte","Septämber","Oktober","Novämber","Dezämber"],"wgMonthNamesShort":["","Jan.","Feb.","Mär.","Apr.","Mai","Jun.","Jul.","Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Computer","wgRelevantArticleId":25478,"wgRequestId":"WudPmApAMFoAAC8QMOgAAABM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2,"quality":2,"pristine":4}}},"wgStableRevisionId":813575,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"gsw","pageLanguageDir":"ltr","pageVariantFallbacks":"gsw","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"gsw","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"Alemannisch","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q68","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.0"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.flaggedRevs.basic":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@01jwmad",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"gsw"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","skins.vector.js","ext.dismissableSiteNotice"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca href=\"#\"\u003Eusblände\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"gsw\" dir=\"ltr\"\u003E\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003E\u003Cbig\u003E\u003Cb\u003E\u003Ca href=\"/wiki/Wikipedia:Tutorial\" title=\"Wikipedia:Tutorial\"\u003ESchriib doch au mol en Artikel!\u003C/a\u003E\u003C/b\u003E\u003C/big\u003E\n\u003C/p\u003E\n\u003Cdiv class=\"layout plainlinks\"\u003EBsuech is uf \u003Ca href=\"https://www.facebook.com/AlemannischeWikipedia\" rel=\"nofollow\"\u003E\u003Cimg alt=\"Facebook icon.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/14px-Facebook_icon.svg.png\" width=\"14\" height=\"14\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/21px-Facebook_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/28px-Facebook_icon.svg.png 2x\" data-file-width=\"256\" data-file-height=\"256\" /\u003E\u003C/a\u003E \u003Cb\u003E\u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://www.facebook.com/AlemannischeWikipedia\"\u003EFacebook\u003C/a\u003E\u003C/b\u003E!\n\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());
+
+Computer 
+Us der alemannische Wikipedia, der freie Dialäkt-Enzyklopedy 
+
+					Hops zue:					Navigation, 					Suech
+
+
+
+
+
+
+
+Laptop (Notebook)
+
+
+
+
+IBM Blue Gene
+
+
+
+
+E Tablet PC
+
+
+
+
+PDP-7
+
+
+
+
+Macintosh SE
+
+
+E Computer, au Rächner, isch en Apparat, wo Date mithilf vo programmierbare Algorithme cha verarbeite.
+Am Afang isch d Informationsverarbeitig mit Computer uf d Verarbeitg vo Zahle beschränggt gsi. Wie aber d Leistigsfähikeit zuegnoh het, hai sech neuji Iisatzberiich ufdo. Computer findet me hüte in allne Beriich vom däglige Läbe: Si diene zur Verarbeitig und Usgob vo Informatione in dr Wirtschaft und Verwaltig, zur Berächnig vo dr Statik vo Bauwärk bis zur Stüürig vo Wöschmaschine und Auti. Die leistigsfähigste Computer wärden iigsetzt, für zum komplexi Vorgäng z simuliere: Bispil si d Klimaforschig, thermodynamischi Froge, medizinischi Berächnige – bis ane zu militärische Ufgobe, bspw. dr Simulation vom ene Iisatz vo nukleare Waffe. Vili Alldagsgrät, vom Delifon über e Videorekorder bis zur Münzprüfig in Warenautomate, wärde hüt vo integrierte Chliinstcomputer gstüürt (iibetteti System).
+
+
+
+Inhaltsverzeichnis
+
+
+1 Härkumft vom Begriff
+2 Grundlage
+
+2.1 Digitalcomputer
+2.2 Analogcomputer
+2.3 Hardwarearchitektur
+2.4 Softwarearchitektur
+
+
+3 Gschicht
+
+3.1 Zahle as Grundlag vo dr Computergschicht
+3.2 Früechi Entwicklig vo Rächemaschine und -hilfsmittel
+
+3.2.1 D Entwicklig vo mechanische Rächehilfe
+
+
+3.3 Dr Siigeszug vom elektronische Digitalcomputer
+
+3.3.1 Vom Afang vom 20. Johrhundert bis zum Ändi vom Zweite Wältchrieg
+3.3.2 Nochchriegsziit
+3.3.3 1960er
+3.3.4 1970er
+3.3.5 1980er
+3.3.6 1990er
+
+
+3.4 Entwicklig im 21. Johrhundert
+
+
+4 Zuekumftsperspektive
+5 Computermuseä
+6 Weblingg
+7 Nowiis
+
+
+
+Härkumft vom Begriff[ändere | Quälltäxt bearbeite]
+Dr änglisch Begriff computer, abgleitet vom Värb (to) compute (uf Latiinisch: computare, com + putare = „zsämmerächne“), het ursprünglig Lüt bezeichnet, wo Berächnige usgfüehrt hai wo hüfig langwiirig gsi si, zum Bispil Berächnige vo Blanetebahne für Astronome im Middelalter. 1938 het dr Konrad Zuse dr erst mechanisch Rächner baut, wo brogrammierbar gsi isch und im Begriff im hütige Sinn entsproche het. In dr Namensgäbig vom Electronic Numerical Integrator and Computer (churz ENIAC), wo 1946 dr Öffentlichkeit vorgstellt worden isch, daucht s Wort zum erste Mol as Namensbestandeil uf. Spöter het sech Computer as Gattigsbegriff für die neuartige Maschine etabliert.
+Grundlage[ändere | Quälltäxt bearbeite]
+Grundsätzlig unterscheide sich zwei Bauwiise: E Computer isch e Digitalcomputer, wenn er mit digitale Gräteiheite digitali Date verarbeitet; er isch e Analogcomputer, wenn er mit analoge Grätiheite analogi Date verarbeitet.
+Digitalcomputer[ändere | Quälltäxt bearbeite]
+Hüte wärde fast usschliesslig Digitalcomputer iigsetzt. Die folge gmeinsame Grundprinzipie, wo ihri freiji Programmierig möglig mache. Bim ene Digitalcomputer wärde drbii zwei grundsetzligi Baustei underschiide: D Hardware, wo us de elektronische, physisch afassbare Deil vom Computer bildet wird, und d Software, wo d Programmierig vom Computer beschriibt.
+E Digitalcomputer bestoht zerst emol nume us Hardware. Die Hardware het erstens e so genannte Speicher, wo d Date drin wie in Schublade chönne gspeicheret und zu jeder Ziit zur Verarbeitig bzw. Usgobe chönne abgrüeft wärde. Zweitens verfüegt s Rächewärk vo dr Hardware über grundlegendi Baustei für e freiji Programmierig, wo jedi beliebigi Verarbeitigslogik für Date drmit cha dargstellt wärde: Die Baustei si im Prinzip d Berächnig, dr Vergliich und dr bedingt Sprung. E Digitalcomputer cha bispilswiis zwei Zahle addiere, s Ergäbnis mit ere dritte Zahl vergliiche und denn, abhängig vom Resultat, entwäder an dr einte oder ere andere Stell im Programm furtfahre. In dr Informatik wird das Modäll theoretisch dur d Turing-Maschine abbildet, wo die grundsetzlige Überlegige zur Berächebarkeit darstellt.
+Erst dur e Software wird dr Digitalcomputer nützlig. Jedi Software isch im Prinzip e definierti, funktionali Aaornig vo de Baustei, wo obe beschriibe si: Berächnug, Vergliich und dr Bedingt Sprung, wobii d Baustei beliebig hüfig chönne bruucht wärde. Die Aaornig vo de Baustei, wo as Programm bezeichnet wird, wird in dr Form vo Date im Spiicher vom Computer abgleit. Vo dört cha si vo dr Hardware usgläse und abgarbeitet wärde. Das Funktionsprinzip vo dr Digitalcomputer het sech sit siine Ursprüng in dr Mitti vom 20. Johrhundert nit wäsentlig veränderet, wenn au d Details vo dr Technologii erheblig verbesseret worde si.
+Analogcomputer[ändere | Quälltäxt bearbeite]
+Analogcomputer funktioniere noch eme andere Brinzip. Bi ihne ersetze analogi Bauelemänt (Versterker, Kondensatore) d Logikprogrammierig. Analogrächner si früehner hüfiger zur Simulation vo Regelvorgäng iigsetzt worde (lueg: Regligstechnik), si si hüte aber fast vollständig vo Digitalcomputer verdrängt worde. In ere Übergangszuit het s au Hybridrächner ge, wo en analoge mit eme digitale Computer kombiniert hai.
+Hardwarearchitektur[ändere | Quälltäxt bearbeite]
+S Prinzip, wo hüt allgemein aagwändet wird und wo noch siiner Beschriibig dur e John von Neumann vo 1946 as „Von-Neumann-Architektur“ bezeichnet wird, definiert für e Computer fümf Hauptkomponänte:
+
+d Rächeneiheit (Arithmetisch-Logischi Eiheit (ALU)),
+d Stüüreiheit,
+d Buseiheit
+dr Spiicher und
+d Iigob- und Usgobeiheit(e) (Input/Output).
+
+In de hütige Computer si d ALU und d Stüüreiheit meistens zu eim Baustei verschmulze, dr so genannte CPU (Central Processing Unit, zentrale Prozässor).
+Dr Spiicher isch en Azahl vo durenummerierte „Zälle“; jedi von ene cha e chliins Stück Information ufneh. Die Information wird as Binärzahl, also ere Abfolg vo jo/nei-Informatione, in dr Spiicherzälle abgleit – me cha sich s besser vorstelle as e Folg vo Nulle und Einser. Ei Charakteristikum vo dr „Von Neumann-Architektur“ isch, ass die Binärzahl (bspw.: 01000001, was dr Dezimalzahl 65 entspricht) entwäder e Deil vo de Date (also z. B. dr Buechstabe „A“) oder e Befähl für d CPU („Gump zu …“) cha si.
+Wäsentlig in dr Von-Neumann-Architektur isch, ass sich Programm und Date ei Spiicherbereich deile (drbii belege d Date im Allgemeine dr under und d Programme dr ober Spiicherberiich).
+Däm gegenüber stöhn in dr sog. Harvard-Architektur Date und Programm eigeni (physikalisch drennti) Spiicherberiich zur Verfüegig, do drdur chönne Date-Schriiboperatione keini Programm überschriibe.
+In dr Von-Neumann-Architektur isch d Stüüreiheit drfür zueständig, zu wüsse, was sich an weler Stell im Spiicher befindet. Me cha sich das so vorstelle, ass d Stüüreiheit e „Zeiger“ uf e bestimmti Spiicherzälle het, wo dr neggst Befähl drin stoht, wo si muess usfüehre. Si liist dä us em Spiicher us, erkennt zum Bispil „65“, interpretiert das as „Sprung“. Denn goht si zur neggste Spiicherzälle, wil si muess wüsse, wo ane si sött gumpe. Si liist au dä Wärt us und interpretiert d Zahl as Nummere (so genannti Adrässe) von ere Spiicherzälle. Denn setzt si dr Zeiger uf ebe die Spiicherzälle, für zum dört wider ihre neggst Befähl uszläse; dr Sprung isch vollzoge. Wenn dr Befähl zum Bispil statt „Gump“ wurd „Liis Wärt“ heisse, denn wurd si nit dr Programmzeiger verändere, sondern us dr Adresse, wo in dr Folg agee isch, eifach dr Inhalt usläse, und en denn bispilswiis an d ALU wiiterleite.
+D ALU het d Ufgob, Wärt us Spiicherzälle z kombiniere. Si bichunnt die Wärt vo dr Stüüreiheit gliiferet, verrechnet se (addiert bispilswiis zwei Zahle, wo d Stüüreiheit us zwei Spiicherzälle usgläse het) und git dr Wärt an d Stüüreiheit zrugg, won en denn für e Vergliich cha bruche oder wider in e dritti Spiicherzälle cha schriibe.
+D Ii-/Usgobeiheite (Input/Output) schliesslig si drfür zueständig, die initiale Programm in d Spiicherzälle iizgee und em Benutzer d Ergäbniss vo dr Berächnig azzeige.
+Softwarearchitektur[ändere | Quälltäxt bearbeite]
+D Von-Neumann-Architektur isch gwüssermasse die understi Ebeni vom Funktionsprinzip vom ene Computer oberhalb vo de elektrophysikalische Vorgäng in de Leiterbahne. Die erste Computer si au tatsächlig so programmiert worde, ass me d Nummere vo Befähl und vo bestimmte Spiicherzälle so, wie s s Programm erforderet, nochenander in die einzelne Spiicherzälle gschriibe het. Für zum dä Ufwand zu reduziere, si Programmiersproche entwigglet worde. Die generiere d Zahle innerhalb vo de Spiicherzälle, wo dr Computer letztlig as Programm abarbeitet, automatisch us höchere Strukture use.
+Spöter si bestimmti Prozedure, wo sech wieerhole, in so genannte Bibliotheke zsämmegfasst worde, für zum nit jedes Mol s Rad neu z erfinde, z. B.: s Interpretiere von ere druckte Tastaturtaste as Buechstabe „A“ und drmit as Zahl „65“ (im ASCII-Code). Die Bibliotheke si in übergordneti Bibliotheke bündlet worde, wo Underfunktione zu komplexe Operatione verchnüpfe (Bispil: d Azeig uf em Bildschirm vom ene Buechstabe „A“, wo us 20 einzelne schwarze und 50 einzelne wiisse Pünggt bestoht, nochdäm dr Benutzer d Taste „A“ druggt het).
+In eme modärne Computer schaffe sehr vil vo dene Programmebene über- bzw. underenander. Komplexeri Ufgobe wärde in Underufgobe zerleit, wo vo andere Programmierer scho bearbeitet worde si, und die baue ihrersiits uf d Vorarbeit vo wiitere Programmierer, wo si d Bibliotheke von ene bruuche. Uf dr underste Ebeni findet sich aber immer dr so genannti Maschinecode – sälli Folg vo Zahle, wo dr Computer au tatsächlig drmit gstüürt wird.
+Währed früehner e CPU nume mit däm Maschinecode het chönne gstüürt wärde, si jetzt au d CPUs programmierbar und drmit sälber chliini eigeständigi Computer.
+Gschicht[ändere | Quälltäxt bearbeite]
+D Computer hai sich im Vergliich zu andere Elektrogrät sehr schnäll entwickelet. D Gschicht vo dr Entwicklig vom Computer goht zrugg bis in d Antike und isch wäsentlig lenger as d Gschicht vo de modärne Computertechnologie und mechanische rsp. elektrische Hilfsmittel (Rächemaschine oder Hardware). Si umfasst au d Entwicklig vo Rächemethode, wo für eifachi Schriibgrät uf Papier und Dafele entwigglet worde si. Im Folgende wird brobiert, e Überblick über die Entwigglige z ge.
+Zahle as Grundlag vo dr Computergschicht[ändere | Quälltäxt bearbeite]
+S Konzept vo de Zahle loot sech uf keini konkrete Wurzle zruggfüehre und het sech wohrschiinlig mit de erste Notwändigkeite vo dr Kommunikation zwüsche Individue entwigglet. Me findet in alle bekannte Sprache mindestens für d Zahle eins und zwei entsprächendi Begriff. Au in dr Kommunikation vo vile Dierarte (verschiideni Primate, Vögel wie d Amsle usw.) loot sech d Möglikeit vo dr Underscheidig vo underschiidlige Mänge vo Gegeständ feststelle.
+D Wiiterentwicklig vo dene eifache numerische System het wohrschiinlig zur Entdeckig vo de erste mathematische Rächenoperatione wie dr Addition, dr Subtraktion, dr Multiplikation und dr Division bzw. au de Quadratzahle und dr Quadratwurzel gfüehrt. Die Operatione si formalisiert worde, d. h. in Formle dargestellt worde, und eso überprüefbar worde. Dodrus hai sich denn wiiterfüehrendi Betrachtige die von Euklid entwigglet, öbbe d Darstellig vom grösste gmeinsame Deiler vom Euklid.
+Im Middelalter isch s Arabische Zahlesystem noch Europa cho und het e grösseri Systematisierig bi dr Arbet mit Zahle möglig gmacht. D Darstellig vo Zahle isch eifacher und übersichtliger worde, Usdrück und Formle si uf Papier ufgschriibe worde und d Tabellierig vo mathematische Funktione wie öbbe vo de Quadratwurzle rsp. vom einfache Logarithmus und vo dr Trigonometrii het sich afo verbreite. Zur Ziit vom Isaac Newton isch Papier e bedeutends Hilfsmiddel für Rächenufgobe gsi und isch s bis in die hütig Ziit bliibe, wo Forscher wie dr Enrico Fermi siitewiis Papier mit mathematische Berächnige gfüllt hai und dr Richard Feynman jede mathematische Schritt vo Hand bis zur Lösig usgrechnet het, au wenn s zu siiner Ziit scho programmierbari Rächner ge het.
+Früechi Entwicklig vo Rächemaschine und -hilfsmittel[ändere | Quälltäxt bearbeite]
+D Entwicklig vo mechanische Rächehilfe[ändere | Quälltäxt bearbeite]
+
+
+Der Abakus
+
+
+
+
+
+
+E Woog wo nit usbalanciert isch
+
+
+S früehste Gerät, wo in rudimentäre Asätz mit eme hütige Computer cha vergliche wärde, isch dr Abakus, e mechanischi Rächehilf, wo vermuetlig um 1100 vor dr Ziitwändi im indochinesische Kulturruum erfunde worden isch. Dr Abakus isch bis ins 17. Johrhundert bruucht und denn vo de erste Rächemaschine ersetzt worde. In ermere Regione vo dr Wält wird dr Abakus immer no as Rächehilf verwändet. Eme ähnlige Zwäck het au s Rächebrätt vom Pythagoras dient. Ebefalls zu de früehje Rächemaschine ghört d Balkewoog, wo allerdings kei numerischen Asatz bietet, sondern d Möglichkeit git zwei Gwicht z vergliiche.
+
+
+
+
+Dr Mechanismus vo Antikythera
+
+
+Scho im 1. Johrhundert vor dr Ziitwändi isch mit em Computer vo Antikythera die erst Rächemaschine erfunde worde. S Grät het vermuetlig für astronomischi Berächnige dient und het mit eme Differentialgetriib funktioniert, ere Technik, wo erst im 13. Johrhundert wiiderentdeckt worden isch.
+Mit em Undergang vo dr Antike isch dr technisch Fortschritt zum ene Stillstand cho und in de Ziite vo dr Völkerwanderig isch vil Wüsse verlore gange (so bispilswiis au dr Computer vo Antikythera, wo erst 1902 wiiderentdeckt worden isch). S Middelalter het dr technisch Fortschritt ufghalte. Doch sit dr Neuziit het dr Motor vom technische Fortschritt wider agfange sich langsam z dreie mit immer grösserer Beschleunigung.
+1614 het dr John Napier siini Logarithmedafele veröffentligt und 1623 het dr Wilhelm Schickard die ersti Vier-Spezies-Maschine baut, dr erst mechanisch Rächner vo dr Neuziit, und isch so zum „Vater vo dr Computerära“ worde. Si Konstruktion het uf em Zsämmespiil vo Zahnreder basiert, wo im Wäsentlige us em Beriich vo dr Uhrmacherkunst cho si, so dass si Maschine dr Name „rächnendi Uhr“ übercho het. Praktisch agwändet het dr Johannes Kepler dä Apparat bi siine astronomische Berächnige.
+1642 het dr Blaise Pascal si Rächemaschine entwigglet, d Pascaline. 1668 het dr Samuel Morland e Rächner baut, wo as erste nit dezimal addiert het, sondern uf s änglische Gäldsystem abgstimmt gsi isch. 1673 het dr Gottfried Wilhelm Leibniz si ersti Vier-Spezies-Maschine erfunde und 1703 s binäre Zahlesystem (Dualsystem), wo spöter d Grundlag für d Digitalcomputer worden isch und vo dr digitale Revolution wo dä usglöst het.
+
+
+
+
+E mechanische Rächner vo 1914
+
+
+
+
+
+
+Dr Rächeschieber, eini vo de wichtigste mechanische Rächehilfe für d Multiplikation und Division
+
+
+1805 het dr Joseph-Marie Jacquard Lochcharte entwicklet, für zum Webstüehl z stüüre. 1820 het dr Charles Xavier Thomas de Colmar s „Arithmometer“ baut, dr erst Rächner, wo in Massebroduktion härgstellt worden isch und so dr Computer für Grossundernähme erschwinglig gmacht het. Dr Charles Babbage het vo 1820 bis 1822 d Differenzmaschine (engl. Difference Engine) entwicklet und 1833 die Analytical Engine, het se aber us Geldmangel nit chönne baue. 1843 hai dr Edvard und dr George Scheutz z Stockholm dr erst mechanisch Computer noch de Ideä vom Babbage zsämmegstellt. Im gliiche Johr het d Ada Lovelace e Methode zur Programmierig vo Computer noch em Babbage-System entwicklet und het s erste Computerprogramm gschriibe. 1890 isch d US-Volkszelig mit Hilf vom Lochchartesystem vom Herman Hollerith duregefüehrt worde. Im gliiche Johr het dr Torres y Quevedo e Schachmaschine baut, wo mit König und Durm e König het chönne matt setze, dr erst Spiilcomputer.
+
+
+
+
+ENIAC
+
+
+Mechanischi Rächner wie d Addierer, wo denn cho si, dr Comptometer, dr Monroe-Kalkulator, d Curta und dr Addo-X si bis in d 1970er Johr bruucht worde. Anders as dr Leibniz hai die meiste Rächner s Dezimalsystem bruucht, wo technisch schwiiriger umzsetzen isch. Das het für d Rächner vom Charles Babbage um 1800 gültet wie au für en ENIAC vo 1945, em erste elektronische Universalrächner überhaupt.
+Die meiste nit elektronische Computer si mechanisch gsi. Me het aber au nitmechanischi Rächner baut, wie dr Wasserintegrator.
+Dr Siigeszug vom elektronische Digitalcomputer[ändere | Quälltäxt bearbeite]
+Vom Afang vom 20. Johrhundert bis zum Ändi vom Zweite Wältchrieg[ändere | Quälltäxt bearbeite]
+1935 het IBM d IBM 601 vorgstellt, e Lochchartemaschine, wo ei Multiplikation pro Sekunde het chönne durefüehre. Öbbe 1500 Exemplar si drvo verchauft worde. 1937 het dr Konrad Zuse zwei Patänt agmäldet, wo scho alli Elemänt vo dr so genannte Von-Neumann-Architektur beschriibe hai. Im gliiche Johr het dr John Atanasoff zsämme mit em Doktorand Clifford Berry eine vo de erste Digitalrächner baut, dr Atanasoff-Berry-Computer und dr Alan Turing het en Artikel veröffentligt, wo d Turing-Maschine, en abstrakts Modäll zur Definition vom Algorithmusbegriff, beschriibt.
+1938 het dr Konrad Zuse d Zuse Z1 fertig gmacht, e frei programmierbare mechanische Rächner, wo allerdings wäge Broblem mit dr Fertigungspräzision nie voll funktionsdüchtig gsi isch. D Z1 het scho über d Gleitkommarechnig verfüegt. Si isch im Chrieg zerstört und spöter noch Originalplän neu baut worde, d Deil si uf modärne Fräs- und Dreihbänk gmacht worde. Dä Nochbau vo dr Z1, wo im Dütsche Technikmuseum z Berlin stoht, isch mechanisch voll funktionsfähig und het e Rächegschwindigkeit vo 1 Hz, das heist ei Rächenoperation pro Sekunde. Ebefalls 1938 het dr Claude Shannon en Artikel veröffentligt, wie me symbolischi Logik mit Relais cha implementiere. (Lit.: Shannon 1938)
+Währed em Zweite Wältchrieg het dr Alan Turing die entscheidende Hiiwiis zur Entschlüsslig vom ENIGMA-Code ge und het drfür e spezielle mechanische Rächner, d Turing-Bombe, konstruiert. 1941 het dr Konrad Zuse die ersti funktionsdüchtigi programmgstüürti, binäre Rächemaschine baut, wo us ere grosse Zahl vo elektro-mechanische Relais bestande het, d Zuse Z3. Die isch turingmächtig gsi und die ersti Maschine, wo – im Rahme vom verfüegbare Spiicherplatz – beliebigi Algorithme automatisch het chönne usfüehre. Ufgrund vo dene Eigeschafte wird si hüfig as dr erst funktionsfähig Computer vo dr Gschicht aagluegt. Die neggste Digitalrächner si dr amerikanisch Atanasoff-Berry-Computer (Inbetriibnahm 1941) und dr britisch Colossus (1941) gsi. Si hai spezielle Ufgobe dient und si nit turingmächtig gsi. Au Maschine uf ere analoge Basis si zu dere Ziit entwigglet worde.
+
+
+
+
+Colossus Mark II
+
+
+Vom Johr 1943 stammt au die apokryphisch Ussag „I glaub, es git e wältwiite Bedarf vo villicht fümf Computer“, wo men em IBM-Chef Thomas J. Watson nooch sait. Im gliiche Johr het dr Tommy Flowers mit siim Team in Bletchley Park dr erst „Colossus“ fertig baut. 1944 dr ASCC (Automatic Sequence Controlled Computer, „Mark I“ vom Howard H. Aiken) barat gsi und s Team um e Reinold Weber het en Entschlüssligsmaschine für s Verschlüssligsgrät M-209 vo dr US Armee fertiggmacht.[1]
+
+
+Eigeschafte vo de erste fümf Rächner
+
+Modäll
+Land
+Inbedriibnahm
+Binär
+Elektronisch
+Programmierbar
+Turingmächtig
+
+
+Zuse Z3
+Dütschland
+Mai 1941
+Ja
+Nei
+Jo, dur Lochstreife
+Jo
+
+
+Atanasoff-Berry-Computer
+USA
+Summer 1941
+Jo
+Jo
+Nei
+Nei
+
+
+Colossus
+UK
+1943
+Jo
+Jo
+Deilwiis, dur Neuverkablig
+Nei
+
+
+Mark I
+USA
+1944
+Nei
+Nei
+Jo, dur Lochstreife
+Jo
+
+
+ENIAC
+USA
+1944
+Nei
+Jo
+Deilwiis, dur Neuverkablig
+Jo
+
+
+1948
+Nei
+Jo
+Jo, dur e Matrix us Widerständ
+Jo
+
+
+Nochchriegsziit[ändere | Quälltäxt bearbeite]
+S Ändi vom Zweite Wältchrieg het s möglig gmacht, ass d Europäer und d Amerikaner sich gegesiitig über ihri Fortschritt hai chönne informiere. 1946 isch dr Electronic Numerical Integrator and Computer (ENIAC) under dr Leitig vom John Eckert und vom John Mauchly entwicklet worde. Dr ENIAC isch dr erst elektronischi digitali [[Universalrechner}Universalcomputer]]. 1947 het IBM dr Selective Sequence Electronic Calculator (SSEC), e Hybridcomputer mit Röhre und mechanische Relais baut und d Association for Computing Machinery (ACM) isch as ersti wüsseschaftligi Gsellschaft für Informatik gründet worde. Im gliiche Johr isch au dr Transistor erfunde worde, wo die modärni Technik ohni nüm cha uscho. Dr William B. Shockley, dr John Bardeen und dr Walter Brattain, wo massgäblig an dr Erfindig bedeiligt gsi si, hai 1956 dr Nobelbriis für Physik übercho. In die spoote 1940er Johr fallt au dr Bau vom Electronic Discrete Variable Automatic Computer (EDVAC), wo as erste d Von-Neumann-Architektur implementiert het.
+
+
+
+
+En UNIVAC I bi dr Franklin Life Insurance Company
+
+
+
+
+
+
+UNIVAC I Konsole
+
+
+1949 het dr Edmund C. Berkeley, dr Gründer vo dr ACM, mit em „Simon“ dr erst digital, programmierbar Computer für e Heimgebruuch vorgstellt. Er het us 50 Relais bestande und isch as Bauplän verchauft worde, in den erste zäh Johr über 400 Exemplar. Im gliiche Johr het dr Maurice Wilkes mit siim Team z Cambridge dr Electronic Delay Storage Automatic Calculator (EDSAC) vorgstellt; er het uf em John von Neumann siim EDVAC basiert und isch dr erst Rächner gsi, wo vollständig über e Spiicher het chönne programmiert wärde. Ebefalls 1949 het dr Steve Kolberg d Zuse Z4 fertig baut, wo drmit scho 1942 agfange worde isch und wo 1944 im Wäsentlige scho existiert het, aber wägem Chrieg nit het chönne fertiggstellt wärde. 1950 isch d Z4 vo dr Firma Zuse KG an d ETH Zürich gliiferet und dört in Bedriib gnoh worde.
+In de 1950er Johr het d Produktion vo kommerzielle (Serie-)Computer agfange. Under dr Leitig vom Prof. Alwin Walther isch am Institut für Praktischi Mathematik (IPM) vo dr TH Darmstadt ab 1951 der DERA (Darmstädter Elektronischer Rechenautomat) baut worde. Remington Rand het 1951 ihren erste kommerzielle Röhrerächner, dr UNIVersal Automatic Computer I (UNIVAC I) konstruiert, und 1955 het Bell Labs für d US Air Force mit em TRansistorized Airborne DIgital Computer (TRADIC) dr erst Computer baut, wo komplett mit Transistore statt mit Röhre usgrüstet gsi isch; im gliiche Johr het dr Heinz Zemanek mit dr Konstruktion vom erste Transistorrächner, wo uf em europäischem Festland baut worden isch, em Mailüfterl, agfange, und d DDR het mit dr „OPtik-REchen-MAschine“ (OPREMA) ihre erste Computer baut. 1956 het IBM s erste Magnetblattesystem (Random Access Method of Accounting and Control (RAMAC)) konstruiert. Ab 1958 isch dr Electrologica X1 as volltransistorisierte Serierächner verchauft worde. No im gliiche Johr het die Polnischi Akademii vo de Wüsseschafte in Zsämmenarbet mit em Laboratorium für mathematischi Apparät under dr Leitig vom Romuald Marczynski dr erst polnisch Digital Computer „XYZ“ vorgstellt. As siis Iisatzgebiet isch d Nuklearforschig vorgseh gsi. 1959 het Siemens mit dr Liiferig vom Siemens 2002 agfange, em erste Seriecomputer, wo vollständig uf dr Basis vo Transistore basiert isch.
+1960er[ändere | Quälltäxt bearbeite]
+1960 het IBM dr IBM 1401 baut, e transistorisierte Computer mit eme Magnetbandsystem, und DECs (Digital Equipment Corporation) ihri erst Minicomputer, d PDP-1 (Programmierbarer Datenprozessor). 1962 het d Telefunken AG die erste TR 4 usgliiferet. 1964 het DEC dr Minicomputer PDP-8 für under 20.000 Dollar afo verchaufe.
+1964 het IBM die ersti Computerarchitektur S/360 definiert, so dass Computer us verschiidene Leistigsklasse dr gliich Code hai chönne usfüehre, und bi Texas Instruments isch dr erst „integrierti Schaltkreis“ (IC) entwicklet worde. 1965 het s Moskauer Institut für Präzisionsmechanik und Computertechnologii under dr Leitig vo siim Chefentwickler Sergej Lebedjew mit em BESM-6 dr erst exportfähig Grosscomputer vo dr UdSSR vorgstellt. Dr BESM-6 isch vo 1967 aa mit eme Bedriibssystem und eme Compiler usgeliiferet und bis 1987 baut worde. 1966 isch denn au no mit em D4a e 33bit Dischcomputer vo dr TU Dresde erschiine.
+
+
+
+
+Dr Hewlett-Packard 9100A
+
+
+1968 het Hewlett-Packard (HP) em HP-9100A in dr Science-Usgob vom 4. Oktober 1968 in ere Wärbig „personal computer“ gsait. 1968 isch d Nixdorf Computer AG entstande und het zerst z Dütschland und in Europa, spöter au in Nordamerika, e neue Computermärt erschlosse: die Mittleri Datetechnik bzw. die dezentrali elektronischi Dateverarbeitig. Massehersteller wie IBM hai wiiterhi uf Grosscomputer und zentralisierti Dateverarbeitig gsetzt. Für chliini und mittleri Undernähme si die aber z düür gsi, und d Grosshersteller hai dr Märt vo dr Mittlere Datetechnik nit chönne bediene. Nixdorf het sich in dere Märtnische mit em Nixdorf 820, wo modular baut gsi isch, niiderglo und het Computer diräkt zum Arbetsblatz brocht und es chliine und mittlere Bedriib möglig gmacht, sich dr elektronische Dateverarbeitig z bediene zum ene Briis, wo si hai chönne zahle. Im Dezämber 1968 hai dr Douglas C. Engelbart und dr William English vom Stanford Research Institute (SRI) die ersti Computermuus vorgstellt. Wil s aber no keini sinnvolle Iisatzmöglichkeite ge het (die grafisch Benutzeroberflächi isch no nig erfinde gsi), het das kuum öbber intressiert.
+1970er[ändere | Quälltäxt bearbeite]
+Mit dr Erfindig vom Mikroprozässer, wo in Serie produziert worden isch, si d Computer immer chliiner und leistigsfähiger. Aber s Potential vom Computer isch de Lüt nonig klar gsi. So het no 1977 dr Ken Olson, dr Presidänt und Gründer vo DEC gsait: „Es git kei Grund, für was öbber deheim wett e Computer ha.“
+
+
+
+
+Dr Intel 8008 dr Nochfolger vom Intel 4004
+
+
+1971 het Intel dr erst Mikroprozässer, dr 4004, baut, wo seriemässig broduziert worden isch. Er het us 2250 Transistore bestande. 1971 het Telefunken dr TR 440 an s Dütsche Rächezentrum z Darmstadt und an d Universitäte Bochum und Münche usgliiferet. 1972 isch dr Illiac IV, e Supercomputer mit Array-Prozessore, in Bedriib gnoh worde. 1973 isch mit em Xerox Alto dr erst Computer mit ere Muus, ere graphische Benützeroberflächi (GUI) und ere iibaute Ethernet-Charte erschiine; und die französischi Firma R2E het agfange mit dr Liiferig vom Micral. 1974 het HP mit em HP-65 dr erst programmierbari Kalkulator vorgstellt und Motorola het dr 6800-Prozässer und Intel dr 8080 Prozässer baut. 1975 het MITS mit dr Liiferig vom Altair 8800 agfange.
+1975 isch dr Maestro I (ursprünglig s Programm-Entwickligs-Terminal-System PET) vo Softlab wältwiit die ersti Integrierti Entwiggligsumgäbig für Software worde. Dr Maestro I isch 22.000-mol installiert worde uf dr ganze Wält, 6.000-mol in dr Bundesrepublik Dütschland. Maestro I isch in de 70er und 80er Johren uf däm Gebiet füehrend gsi.
+
+
+
+
+Zilog Z80
+
+
+1976 het Apple Computer dr Apple I vorgstellt und Zilog het dr Z80-Prozässer entwigglet. Vo 1977 aa si dr Apple II, dr Commodore PET und dr Tandy TRS 80 verchauft worde, 1978 d VAX-11/780 vo DEC, e Maschine speziell für virtuelli Spiicheradressierig. 1979 het Atari siinu Computermodäll 400 und 800 usebrocht. S Revolutionäre bi dene isch gsi, ass mehreri Custom-Chips dr Hauptprozässer entlastet hai.
+1980er[ändere | Quälltäxt bearbeite]
+
+
+
+
+C64 mit 5¼″-Diskette und Laufwärk
+
+
+D 1980er si d Blüeteziit vo de Heimcomputer gsi, zerscht mit 8-Bit-Mikroprozässer und eme Arbetsspiicher bis 64 kB (Commodore VC20, C64, Sinclair ZX80/81, Sinclair ZX Spectrum, Schneider/Amstrad CPC 464/664, Atari XL/XE-Reihe), spöter au leistigsfähigeri Modäll mit 16-Bit- oder 16/32-Bit-Mikroprozässer (z. B. Amiga 1000, Atari ST). Die Entwigglig isch vo IBM in Gang gsetzt worde, wo 1981 dr IBM-PC (Personal Computer) vorgstellt het und eso entscheidend die wiiteri Entwigglig bestimmthet.
+1982 het Intel dr 80286-Prozässer und Sun Microsystems d Sun-1 Workstation entwigglet. Noch em erste Büro-Computer mit Muus, dr Lisa, wo 1983 uf e Märt cho isch, isch 1984 dr Apple Macintosh baut worde und het neuji Massstäb für Benützerfründlichkeit gsetzt. D Sowjetunion het mit ihrem „Kronos 1“ konteret, ere Bastelarbet vom Rächezentrum z Akademgorodok. Im Januar 1985 het Atari dr ST-Computer uf dr Consumer Electronics Show (CES) z Las Vegas vorgstellt. Im Juli het Commodore dr erst Amiga-Heimcomputer produziert. In Sibirie isch dr „Kronos 2“ vorgstellt worde, wo as „Kronos 2.6“ währed vier Johr in Serii produziert worden isch. 1986 het Intel dr 80386-Prozässer uf e Märt brocht, 1989 dr 80486. Au 1986 het Motorola dr 68030-Prozässer präsentiert. 1988 het NeXT mit em Steve Jobs, em Mitgründer vo Apple, e Computer mit em gliiche Name vorgstellt.
+1990er[ändere | Quälltäxt bearbeite]
+
+
+
+
+Pentium
+
+
+D 1990er si s Johrzähnt vom Internet und vom World Wide Web.
+1991 het s AIM-Konsortium (Apple, IBM, Motorola) d PowerPC-Plattform spezifiziert. 1992 het DEC die erste System mit em 64-Bit-Alpha-Prozässer vorgstellt. 1993 het Intel dr Pentium-Prozässer fertig entwigglet, 1995 dr Pentium Pro. 1994 het dr Leonard Adleman mit em TT-100 dr erst Prototyp für e DNA-Computer vorgstellt, im Johr druf Be Incorporated d BeBox. 1999 het Intel dr Supercomputer ASCI Red mit 9.472 Prozässer baut und AMD het mit em Athlon dr Nochfolger vo dr K6-Prozässerfamilie vorgstellt.
+Entwicklig im 21. Johrhundert[ändere | Quälltäxt bearbeite]
+Am Afang vom 21. Johrhundert bruucht me d Computer überall in brueflige wie in private Beriich und si wärde allgemein akzeptiert. Währed d Leistigsfähigkeit in klassische Aawändigsberiich wiiter gsteigeret wird, wärde digitali Computer under anderem in d Telekommunikation und Bildbearbeitig integriert.
+2001 het IBM dr Supercomputer ASCI White baut und 2002 isch dr NEC Earth Simulator in Bedriib gnoh worde. 2003 het Apple dr PowerMac G5 afo liifere, dr erst Computer mit 64-Bit-Prozässer für dr Massemärt. AMD het mit de Opteron und em Athlon 64 nochzooge. 2005 hai AMD und Intel die erste Dual-Core-Prozässer produziert, 2006 het Intel die erste Core 2 Quad-Prozässer uusebrocht. Sit em Ändi vo 2008 git s vo Intel au d Intel Core i7-Reihje, wo aber leistigsmässig kuum e Verbesserig gsi isch drotz dr düürere Plattform (Mainboard, DDR3-RAM, CPU) im Vergliich mit dr Core 2 Quad-Reihje. Was d Multimedia (Enkodierung &c.) aagoht, isch d Hyperthreading-Technologii, wo die gliichziitig Usfüehrig vo bis zu 8 Threads möglig macht.
+Im Bereich vo de Masseanwendige het sich en schtetige Miniaturisierigs-Trend fortgsetzt. PC's und Notebooks sind ab ca. 2007 sukzessive durch Smartphones und Tablets ersetzt resp. ergänzt worde.
+Zuekumftsperspektive[ändere | Quälltäxt bearbeite]
+Zuekümftigi Entwigglige bestöhn us dr möglige Nutzig vo biologische System (Biocomputer), dr optische Signalverarbeitig und neue physikalische Modäll (Quantecomputer). D Aasätz zur Entwigglig vo Expärtsystem und die Künstlig Intelligänz sind in voller Entwicklig: Smart Home, computergschtüüreti selbschtfahrendi Autos, 3D-Drucker zur Produktion vo dingliche Gegeschtänd, usw. sölle üüsi Zuekunft beschtimme.
+Computermuseä[ändere | Quälltäxt bearbeite]
+
+8-Bit-Museum
+Homecomputermuseum.de
+technikum29: Museum für Rechnertechnik und Computer mit funktionsfähigen Exponaten
+Reich illustriertes und kommentiertes Computermuseum (englisch)
+Computermuseum.Zanzaa.at – Linkliste
+
+Weblingg[ändere | Quälltäxt bearbeite]
+ Commons: Computer – Sammlig vo Multimediadateie
+Nowiis[ändere | Quälltäxt bearbeite]
+
+↑ http://www.heise.de/tp/deutsch/inhalt/co/18371/1.html
+
+
+
+
+Dä Artikel basiert uff ere fräie Übersetzig vu dere Version vum Artikel „Computer“ vu de dütsche Wikipedia.
+E Liste vu de Autore un Versione isch do z finde.
+
+
+
+
+
+
+
+ 
+						Vun "https://als.wikipedia.org/w/index.php?title=Computer&oldid=813575"					
+Kategori: Computer 
+
+
+
+Navigationsmenü
+
+
+Persönlichi Wärkzüg
+
+Nit aagmäldetDiskussionssyte vun derre IPByyträgNöis Benutzerkonto aalegeAamälde 
+
+
+
+Namensryym
+
+ArtikelDiskussion 
+
+
+
+
+Variante
+
+
+
+
+
+
+
+
+
+Wievylmol agluegt
+
+LäseBearbeiteQuälltäxt bearbeiteVersionsgschicht 
+
+
+
+Meh
+
+
+
+
+
+
+
+Suech
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+HouptsyteGmeinschaftsportalZuefalls-ArtikelInhaltsverzeichnisKategorie 
+
+
+
+Mitarbet un Hilf
+
+
+Mach mit!Froge?KontaktsyteStammtischArtikel wo fähleLetschti Änderige 
+
+
+
+Wärchzügchäschtli
+
+
+Was verwyst do druff?Verlinktes prüefeSpezial-SyteAafüerbari URLInformatione zue dr SyteWikidata-DatenobjäktSälle Artikel zitiere 
+
+
+
+Drucke/exportiere
+
+
+Buech aalegeAs PDF abeladeDruck-Aasicht 
+
+
+
+In andre Projäkt
+
+
+Wikimedia Commons 
+
+
+
+Anderi Sprooche
+
+
+АҧсшәаAcèhAfrikaansአማርኛAragonésÆngliscالعربيةܐܪܡܝܐمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)‎БългарскиभोजपुरीBislamaবাংলাབོད་ཡིགবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiᨅᨔ ᨕᨘᨁᨗБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoTsetsêhestâheseکوردیQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiडोटेलीΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisFurlanGaeilge贛語GàidhligGalegoAvañe'ẽ𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHausa客家語/Hak-kâ-ngîעבריתहिन्दीFiji HindiHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIgboIñupiakIlokanoIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ/inuktitut日本語PatoisLa .lojban.Basa JawaქართულიQaraqalpaqshaKabɩyɛKongoGĩkũyũҚазақшаភាសាខ្មែរಕನ್ನಡ한국어Къарачай-малкъарकॉशुर / کٲشُرKurdîКомиKernowekКыргызчаLatinaLadinoLëtzebuergeschЛезгиLingua Franca NovaLimburgsLumbaartLingálaລາວLietuviųLatviešuमैथिलीMalagasyОлык марийМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorskOccitanLivvinkarjalaOromooଓଡ଼ିଆਪੰਜਾਬੀKapampanganPolskiPiemontèisپنجابیΠοντιακάپښتوPortuguêsRuna SimiRomaniRomânăРусскийРусиньскыйसंस्कृतम्Саха тылаSarduSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSesothoSeelterskBasa SundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeXitsongaТатарча/tatarçaئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsWalonWinarayWolof吴语IsiXhosaმარგალურიייִדישYorùbáVahcuengh中文文言Bân-lâm-gú粵語IsiZulu 
+Links bearbeite 
+
+
+
+
+
+ Letschti Bearbeitig vo dere Syte: 06:44, 12. März 2018
+Abruefstatistik
+
+Tekscht isch verfiegbar unter dr „Creative Commons Attribution/Share-Alike“-Lizänz. S cha syy, ass es zuesätzligi Bedingige git; lueg d Nutzigsbedingige fir Einzelheite. Wikipedia®
+
+
+Daateschutz
+Iber Wikipedia
+Impressum
+Softwareentwickler
+Stellignahm zue Cookie
+Mobili Aasicht
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.088","walltime":"0.119","ppvisitednodes":{"value":496,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":1711,"limit":2097152},"templateargumentsize":{"value":245,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":402,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    8.612      1 -total"," 38.42%    3.309      1 Vorlage:Commonscat"," 33.35%    2.872      1 Vorlage:Übersetzungshinweis"," 24.65%    2.123      1 Vorlage:Commons"," 14.82%    1.276      1 Vorlage:Anker"," 13.31%    1.146      1 Vorlage:Bausteindesign2"]},"cachereport":{"origin":"mw1304","timestamp":"20180426095604","ttl":1900800,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1255"});});
+
+

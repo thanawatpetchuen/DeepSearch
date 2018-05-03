@@ -1,0 +1,234 @@
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src="https://www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);})(window,document,"script","dataLayer","GTM-WCT8G5M");
+
+
+Home - Learning Resources
+
+
+
+
+
+
+
+
+{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/learning-resources.sciencemuseum.org.uk\/","name":"Learning Resources","potentialAction":{"@type":"SearchAction","target":"https:\/\/learning-resources.sciencemuseum.org.uk\/?s={search_term_string}","query-input":"required name=search_term_string"}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+Menu
+
+Learning resources home
+Browse resources
+Visit our Museums
+
+National Science and Media Museum
+Science Museum
+Museum of Science and Industry
+National Railway Museum
+Locomotion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Learning ResourcesThis site brings together resources from our Museums, including activities, games and videos. Discover activities to support a range of curriculum topics for use in the classroom, in museum galleries and beyond.Browse all resources 
+
+
+
+
+
+Featured resourcesVideoks1, ks2, ks3, ks4, ks5, early-yearsSee Link Wonder: a discussion tool for teachersHow do you bring objects to life? This short animation introduces a tool to spark discussion and train students' observational skills.PDFks3, ks4Build a DomeUse straws and strong shapes to make a self-supporting dome.PDFks3No PressureSee what would happen to marshmallows, and yourself, in the low-pressure environment of space.Gameks2, ks3LaunchballSpring your way through 30 obstacle-filled levels and create your own levels to play and share with friends.
+Plan a school visit to one of our museums
+
+
+
+
+
+
+
+Science Museum
+
+
+The home of human ingenuity, exploring stories of scientific achievement
+
+
+
+
+
+
+
+
+
+National Science and Media Museum
+
+
+The science and culture of light and sound technologies, and their impact on our lives
+
+
+
+
+
+
+
+
+
+Museum of Science and Industry
+
+
+The story of Manchester’s scientific and industrial past, present and future
+
+
+
+
+
+
+
+
+
+National Railway Museum
+
+
+Bring engineering to life and explore how the railways have shaped our lives
+
+
+
+
+
+
+
+
+
+Locomotion
+
+
+See highlights of our national collection of railway vehicles in the world’s first railway town
+
+
+
+
+
+
+
+The Science Museum Group
+
+
+Science Museum
+
+
+
+National Science and Media Museum
+
+
+
+Museum of Science and Industry
+
+
+
+National Railway Museum
+
+
+
+Locomotion
+
+
+
+
+
+
+
+
+Home
+Browse resources
+Contact us
+ 
+
+Learning at SMG
+Transforming Practice blog
+ 
+
+KS1 (age 5 to 7)
+KS2 (age 7 to 11)
+KS3 (age 11 to 14)
+KS4 (age 14 to 16)
+ 
+
+Twitter (NRM Learning)
+Twitter (ScM Learning)
+YouTube (Science Museum Group Learning)
+ 
+
+
+Terms and conditions
+Privacy and cookies
+
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/learning-resources.sciencemuseum.org.uk\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+
+
+
+
+
+

@@ -1,0 +1,392 @@
+
+
+
+
+Računar - Wikipedia
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Računar","wgTitle":"Računar","wgCurRevisionId":2930040,"wgRevisionId":2930040,"wgArticleId":5541,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 greške: datumi","Računarstvo","Hardver"],"wgBreakFrames":false,"wgPageContentLanguage":"bs","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januar","februar","mart","april","maj","juni","juli","august","septembar","oktobar","novembar","decembar"],"wgMonthNamesShort":["","jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"],"wgRelevantPageName":"Računar","wgRelevantArticleId":5541,"wgRequestId":"WupZsQpAAD4AAGbikgEAAACF","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":2930040,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"bs","pageLanguageDir":"ltr","pageVariantFallbacks":"bs","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"bs","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"bosanski","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q68","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.flaggedRevs.basic":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@10qax4d",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"bs"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Računar 
+S Wikipedije, slobodne enciklopedije 
+
+					Idi na:					navigaciju, 					pretragu
+
+ 
+Računar,[1] kompjuter,[2] ili računalo[3] složeni je uređaj koji služi za izvršavanje matematičkih operacija ili kontrolnih operacija koje se mogu izraziti u numeričkom ili logičkom obliku. Računari su sastavljeni od komponenata koje obavljaju jednostavnije, jasno određene funkcije. Kompleksna interakcija tih komponenata rezultira sposobnošću računara da obrađuje informacije.
+
+Sadržaj
+
+1 Osnovni principi
+
+1.1 Neke od bitnih odrednica za konstruktivna rješenja
+
+1.1.1 Binarni ili decimalni?
+1.1.2 Mogućnost programiranja
+1.1.3 Pohrana podataka
+
+
+
+
+2 Rad računara
+
+2.1 Memorija
+2.2 Procesor
+2.3 Ulaz i izlaz
+2.4 Instrukcije
+2.5 Arhitektura
+2.6 Programi
+
+2.6.1 Operativni sistem
+
+
+
+
+3 Zanimljivosti
+4 Također pogledajte
+5 Reference
+6 Vanjski linkovi
+
+
+Osnovni principi[uredi | uredi izvor]
+Rad računara može biti zasnovan na kretanju mehaničkih dijelova, elektrona, fotona, kvantnih čestica ili neke druge fizičke pojave. Iako se računari mogu izgraditi na mnogim postojećim tehnologijama, gotovo svi današnji modeli sadrže u sebi elektroničke komponente.
+Kod većine današnjih računara zadati problemi se u biti rješavaju pretvaranjem svih relevantnih informacija u matematičke relacije korištenjem binarnog sistema (nula i jedan). (Međutim, računari ne mogu riješiti sve matematičke probleme.)
+Nakon što računar izvrši izračunavanje zadatog problema, rezultat se prikazuje na korisniku (čovjeku) pristupačan način; preko signalnih lampi, LED displeja, monitora, štampača i dr.
+Početnici u radu sa računarima, naročito djeca, često ne mogu shvatiti činjenicu da su računari samo uređaji i da ne mogu "misliti" odnosno "razumjeti", čak ni ono što prikažu kao rezultat svog "rada". Slike, boje, riječi i dr. koje vidimo na ekranu računarskog monitora su samo programirani prikazi koje ljudski mozak prepoznaje i daje im značenje i smisao. Računar prosto manipulira tokovima elektrona kojima, na svojoj osnovnoj razini funkcionisanja - tranzistoru, dodjeljuje logičke vrijednosti nula ili jedan, odnosno, stanju "nema napona" ili "ima napona". Do sada nam nije poznat način kojim bi se uspješno imitiralo ljudsko razmišljanje ili samosvjesnost.
+
+Neke od bitnih odrednica za konstruktivna rješenja[uredi | uredi izvor]
+Binarni ili decimalni?[uredi | uredi izvor]
+Važan korak naprijed u razvoju digitalnog računarstva bilo je uvođenje binarnog sistema za unutrašnje numeričke procese. Ovim je prestala potreba za kompleksnim izvršnim mehanizmima koje su računari zasnovani na drugim numeričkim sistemima, npr. decimalnom ili heksadecimalnom, zahtijevali. Usvajanje binarnog sistema rezultiralo je pojednostavljenjem konstruktivnih rješenja kod implementacije aritmetičkih funkcija i logičkih operacija, znači, i pojednostavljenjem sklopova i komponenata samog računara.
+
+Mogućnost programiranja[uredi | uredi izvor]
+Mogućnost da se računar programira, tj. opremi nizom izvršnih instrukcija bez potrebe za fizičko-konstruktivnim izmjenama, osnovna je funkcionalna karakteristika većine računara. Ova osobina je značajno unaprijeđena njihovim razvojem do stepena na kojem su bili sposobni kontrolirati redoslijed izvršavanja instrukcija na osnovu podataka dobijenih tokom samog vršenja određenog programa. Ovo konstruktivno unaprijeđenje je još više pojednostavljeno uvođenjem (v. prethodnu cjelinu) binarne aritmetike kojom se mogu predstaviti različite logičke operacije.
+
+Pohrana podataka[uredi | uredi izvor]
+Tokom računskih operacija često je potrebno pohraniti među-vrijednosti ("dva pišem a jedan pamtim") koje će se upotrijebiti u daljem računanju. Performanse nekog računara su najčešće ograničene brzinom kojom se vrijednosti čitaju/zapisuju iz/u memoriju i njenim kapacitetom. Prvobitno je zamišljeno da se memorija koristi samo za pomenute među-vrijednosti, međutim, ubrzo su se i sami programi počeli pohranjivati na ovaj način i to se uveliko primjenjuje kod današnjih kompjutera.
+
+Rad računara[uredi | uredi izvor]
+ Općeniti prikaz računarskih dijelova  Monitor Matična ploča Centralni procesor ATA utori Radna memorija Dodatne kartice Napojna jedinica Optički uređaji Hard disk Tastatura Miš 
+Iako se tehnologija izrade računara značajno izmijenila od vremena prvih elektroničkih modela sagrađenih u četrdesetim godinama 20. vijeka, još uvijek je većina današnjih rješenja zasnovano na von Neumannovoj arhitekturi. Ta arhitektura podrazumijeva računar kao sklop sastavljen od četiri glavna dijela: ALU (Arithmetic and Logic Unit) Aritmetičko-logička jedinica, kontrolna jedinica, memorija i I/O (Input and output) ulazni i izlazni sklopovi. Ovi dijelovi su međusobno povezani mnoštvom žica - "bus"; magistrala/sabirnica. Svi su obično pogonjeni vremenskim uređajem (tajmer, sat, generator takta), mada i drugi "događaji" mogu pogoniti kontrolne sklopove.
+
+Memorija[uredi | uredi izvor]
+Ovdje se podrazumijeva da je memorija niz obrojčenih/numerisanih ćelija, od kojih svaka sadrži djelić informacije. Informacija može biti instrukcija kojom se računaru zadaje neki zadatak. Ćelija može sadržavati i podatak koji je potreban računaru da bi izvršio neku instrukciju. U svakom slučaju, bilo koja od ćelija može sadržavati djelić informacije koji u datom trenutku može predstavljati podatak a već u slijedećem - instrukciju. Znači, sadržaj memorijskih ćelija se neprestano mijenja.
+Veličina svake ćelije i njihov broj, razlikuje se od računara do računara a i tehnologije izrade tokom njihovog razvoja su bile bitno različite. Tako smo imali elektromehaničke memorije - releje, cijevi ispunjene živom u kojima su se stvarali zvučni pulsevi, matrice stalnih/trajnih magneta, pojedinačnih tranzistora, sve do integralnih kola sa više miliona diskretnih i aktivnih elemenata.
+
+Procesor[uredi | uredi izvor]
+Procesor ili CPU - central processing unit je elektronički sklop koji može izvršavati računarske programe. Ovako široka definicija se može primijeniti i na rane računare koji su postojali mnogo prije nego što je izraz "CPU" dobio široku primjenu. Pojam i skraćenica se koriste u računarskoj industriji od šezdesetih godina XX stoljeća.
+Oblik, arhitektura i primjena procesora su pretrpjeli ogromne promjene od vremena prvih primjeraka ali je njihovo osnovno funkcioniranje ostalo približno isto.
+Prvi procesori su bili rađeni po narudžbi kao dio većeg računara i ponekad su bili jedini primjerci svoje vrste. Međutim, izraditi samo jedan procesor ili tek nekoliko primjeraka namijenjenih samo određenoj aplikaciji bilo je skupo te je to otvorilo put za masovnu proizvodnju procesora koji imaju višestruku primjenu. Tranzistori, a zatim i integralna kola, omogućili su minijaturizaciju procesora i danas se ugrađuju u veliki broj uređaja: automobile, mobilne telefone, dječje igračke i sl.
+Artimetičko-logička jedinica (engleski: ALU - arithmetic and logic unit) jeste sklop koji vrši osnovne aritmetičke operacije (sabiranje, oduzimanje i dr.), logičke operacije (I, ILI, NE) i upoređivanje, npr. da li se dadržaj dva bajta podudara. U ovoj jedinici se zapravo "odrađuje glavni posao".
+Kontrolna jedinica vodi računa o tome koji bajtovi u memoriji sadrže instrukciju koju računar trenutno obrađuje, određuje koje operacije će ALU izvršavati, nalazi informacije u memoriji koje su potrebne za te operacije i prenosi rezultate na odgovarajuća memorijska mjesta. Kada je to obavljeno, kontrolna jedinica ide na narednu instrukciju (obično smještenu na slijedećem memorijskom mjestu) ukoliko instrukcija ne govori računaru da je slijedeća instrukcija smještena negdje drugo.
+Kada se poziva na memoriju, data instrukcija može na različite načine odrediti odgovarajuću memorijsku adresu. Uz to, neke matične ploče podržavaju dva ili više procesora. Takve obično nalazimo kod servera.
+
+Ulaz i izlaz[uredi | uredi izvor]
+Putem ulaza i izlaza (I/O), računar dobija informacije iz vanjskog svijeta i šalje rezultate natrag. Postoji širok spektar I/O uređaja; od običnih tastatura, preko miševa, monitora, disketnih pogona, CD/DVD (optičkih) pogona, štampača, sve do skenera i kamera.
+Zajednička osobina svih ulaznih jedinica je da pretvaraju informacije određene vrste u podatke koji dalje mogu biti obrađeni u digitalnom sistemu računara. Nasuprot tome, izlazne jedinice pretvaraju podatke u informacije koje korisnik računara može razumjeti. U ovom slučaju, digitalni sistem računara predstavlja sistem za obradu podataka.
+
+ Integrirana kola su srž svakog računara
+ Laptop - prijenosni računar, bitno smanjenih dimenzija ali i često manjih mogućnosti i brzine za razliku od stolnog PC računara
+Instrukcije[uredi | uredi izvor]
+Računarske instrukcije nisu bogate kao što je ljudski jezik. Računar poznaje samo ograničen broj jasno definiranih i jednostavnih instrukcija. Evo nekoliko primjera: "kopirati sadržaj ćelije 7 u ćeliju 19", "ako je sadržaj ćelije 999 veći od 1, slijedeća instrukcija se nalazi u ćeliji 100", "sadržaj ćelije 6 oduzeti sadržaju ćelije 33 a rezultat upisati u ćeliju 50".
+Instrukcije su u računaru predstavljene binarnim sistemom brojeva. Operacija "kopiraj" je, npr. kod Intelovih mikroprocesora u binarnom sistemu predstavljena ovako: 10110000. Određeni niz instrukcija koje određeni kompjuter može razumjeti naziva se mašinski jezik. U stvarnosti, ljudi ne stvaraju instrukcije direktno u mašinskom jeziku već koriste programske jezike koje se prevode u mašinski jezik putem posebnih računarskih programa "prevodilaca" i kompajlera. Neki programski jezici su veoma bliski mašinskom jeziku, kao što je Assembler a drugi, kao Prolog, su zasnovani na apstraktnim principima koji imaju malo sličnosti sa stvarnim operacijama unutar računara.
+
+Arhitektura[uredi | uredi izvor]
+Kod današnjih računara, aritmetičko-logička i kontrolna jedinica smješteni su na jednom integralnom kolu kojeg nazivamo centralna procesorska jedinica (CPU - central processing unit). Memorija računara smještena je na nekoliko malih integralnih kola pored centralnog procesora. Nesrazmjerno veliki dio ukupne mase računara zapravo je sadržan u sistemu napajanja električnom energijom - napojna jedinica i I/O uređajima.
+Neki od većih računara razlikuju se od gore opisanog modela uglavnom po većem broju procesora i kontrolnih jedinica koji rade simultano. Dodajmo ovome da i neki računari, čija je isključiva namjena naučno istraživanje i računanje, imaju sasvim drugačiju arhitekturu i zbog drugačijeg, nestandardiziranog načina programiranja, nisu našli širu komercijalnu primjenu.
+Dakle, u biti, princip funkcionisanja računara je prilično jednostavan; kod svakog takta, računar povlači instrukcije i podatke iz svoje memorije, izvršava instrukcije, pohranjuje rezultate i ponavlja ciklus. Ponavljanje se vrši sve do nailaska na instrukciju "stop".
+
+Programi[uredi | uredi izvor]
+Računarski programi su zapravo duge liste instrukcija koje računar treba izvršiti, nekad uključujući i tabele podataka. Mnogo računarskih programa sadrži milione instrukcija i mnogo njih se neprekidno ponavlja. Tipični moderni personalni računar (PC - en. personal computer) može izvršiti nekoliko milijardi instrukcija u sekundi. Recimo i to da izvanredne sposobnosti računara nisu posljedica izvršavanja složenih instrukcija već miliona jednostavnih koje programeri uobličavaju u svrsishodne funkcije. Dobar programer, naprimjer, izradi niz instrukcija kojim se izvršava neki jednostavan zadatak kao što je iscrtavanje jedne tačke na ekranu i taj niz zatim učini dostupnim drugim programerima.
+Sadašnji računari su u stanju izvršavati nekoliko programa istovremeno. U stvarnosti, određeno kratko vrijeme procesor izvršava instrukcije jednog programa a zatim se prebacuje na drugi program i izvršava dio njegovih instrukcija. To određeno kratko vrijeme često nazivamo vremenski isječak. Ovaj način rada stvara iluziju izvršavanja nekoliko programa istovremeno a u stvarnosti se radi o tome da programi dijele procesorsko "radno vrijeme". Operativni sistem je program koji najčešće ima ulogu kontroliranja ovakvog dijeljenja procesorskog vremena.
+
+Operativni sistem[uredi | uredi izvor]
+Da bi računar radio, barem jedan program mora biti neprestano u funkciji. Pod normalnim uslovima, taj program je operativni sistem (OS - engleski: operating system). Operativni sistem odlučuje koji će program u datom trenutku biti izvršavan, koliko i kojih resursa će mu biti dodijeljeno (memorija, I/O) i sl. OS također obezbjeđuje takozvani apstraktni omotač oko hardvera i programima dozvoljava pristup preko servisa kao što su kodovi (upravljački programi - "drajveri" od engleski: driver) koji omogućavaju programerima pisanje programa bez potrebe za poznavanjem intimnih detalja o svim priključenim uređajima.
+Većina operativnih sistema koji imaju te apstraktne omotače također imaju i standardiziran korisnički interfejs. Najzastupljeniji operativni sistemi današnjice su Windows, slobodni Linux i Apple-ov Mac OS.
+
+Zanimljivosti[uredi | uredi izvor]
+ CER 10 u zgradi SKNE (Savezni komitet za nuklearnu energiju) 1963. godine. U vrijeme uključenja u rad (1960) bio je peti u Evropi a po dinamičkim osobinama drugi na svijetu.[4]
+ Galaksija, prvi jugoslavenski kućni računar.
+ Školski i kućni računar Lira 512 Ei Niš (Intel 8088 osmobitni procesor, BASIC, MS DOS) sa flopi diskom 3.5" (720Kb) iz 1988. godine.[5] Prvobitna generacija školskih YU računara bila je zasnovana na sistemu BASIC. Naredne godine izbačena je na tržište naprednija i skuplja varijanta Lira PC-AT (Intel 80286 16 bitni procesor) namijenjena za privredu i profesionalce.
+ Intel 80386 32 bitni procesor. U Ei Nišu su 1990. godine dizajnirali i zasnovali na ovom procesoru računar Iira 386.[6] Naredne 1991. godine planiran je razvoj računara zasnovan na 32 bitnom procesoru Intel 80486 (iz 1989.), prvi procesor sa preko milion tranzistora, međutim te iste godine dolazi do raspada i rata u SFRJ nakon čega je otkazan razvoj ovog računara. Varijante procesora 80486 dovele su do nastanka procesora pete generacije Intel Pentium (80586) koji je predstavljen 1993.
+Prvi elektronski digitalni programirani računar u svjetu je bio britanski Colossos Мк 1 iz januara 1944. godine.[7] Koristio je veliki broj vakumskih cijevi dok mu je osnovna namijena bila dešifrovanje njemačkih poruka odašiljanih sa kripto mašine Enigma. O postojanju ovog računara javnost je prvi put saznala 1972. godine kada je skinuta oznaka državne tajne iz perioda Drugog svjetskog rata.
+Nakon rata, 1948. godine razvija se prvi američki elektronski digatalni računar ENIAC. Nekoliko godina kasnije, sredinom 1950ih, stručnjaci u Institutu Vinča predvođeni Tihomirom Alekesićem, Ahmedom Mandžićem i Rajkom Tomovićem počinju sa radom na razvoju računarske tehnologije u Jugoslaviji.[8]
+CER (cifarski elektronski računar) model 10 prvi je digitalni računar napravljen u SFRJ. Njegova proizvodnja trajala je od 1956. do 1960. godine, jednim dijelom u Institutu „Vinča”, a dijelom u Institutu "Mihajlo Pupin". To je bio prvi računar sa elektronskim cijevima, tranzistorima i elektronskim relejima, koji su do tada u Evropi proizvodili samo Britanija, Zapadna Njemačka, Francuska i SSSR. Na čelu projekta za izradu prvog jugoslavenskog računara nalazio se profesor dr Tihomir Aleksić. Koristila ga je Savezna vlada za obradu statističkih podataka.
+Prvi mikroprocesor proizvela je firma Intel 1971. godine i to je bio četvorobitni procesor sa oznakom 4004. Godinu dana kasnije (1972) ista kompanija je proizvela novi, osmobitni procesor 8008.
+Prvi personalni računar MITS Altair 8800 u SAD-u pojavio se 1975. godine. Projektovali su ga Ed Roberts i Bill Yates, a bio je namijenjen hobistima. Prodavao se uglavnom preko časopisa u dijelovima, za sastavljanje, mada je postojala mogućnost kupovine i sastavljenog računara. Smatra se da Altair pokrenuo revoluciju mikroračunara kao prvi komercijalno uspješan kućni računar.
+Steve Jobs i Stephen Wozniak također su se iz hobija bavili računarima. Oni su u Jobsovoj garaži razvili računar koji su nazvali Apple I koji se prodavao sastavljen ili u dijelovima, sa uputstvom za sastavljanje. Godine 1977. predstavljen je novi model, Apple II, koji je uključivao tastaturu, napajanje i mogao generirati grafiku u boji; godine 1978. uvedena je i jedinica za diskete umjesto magnetnih kaseta. Do 1983. godine prodato je milion ovih računara, a naredne godine još milion. Kompanija koju su osnovali, Apple Computers, imala je najbrži rast u američkoj historiji.
+Nakon uspjeha računara Apple II, i kompanija IBM se upustila u posao s računarima zasnovanim na mikroprocesoru i razvila vlastiti mikroračunar pod imenom IBM PC. Računar je predstavljen 1981. i ubrzo je postao standard oko koga su brojne druge kompanije dizajnirale svoje računare. Godine 1984. IBM predstavlja računar AT (Advanced Technology), baziran na Intelovom procesoru 80286, kome je kasnije dodat i koprocesor 80287. Na osnovu IBM AT u Jugoslaviji je predstavljen računar Lira PC-AT 1989. godine.
+Prvi mikroračunar Lola 8 u Jugoslaviji razvijen je u Institutu ″Ivo Lola Ribar″ 1982. godine. Originalno je dizajniran kao industrijski kontroler, a nakon uspjeha "Galaksije" razvija se model Lola 8A koji je koristio standardnu tastaturu i mogao se naći i po školama. Početkom 1980ih popularni računari su britanski ZX 80 i ZX 81 (iz 1981. godine) (Clive Sinclair) i američki Commodore 64 (iz 1982. godine). Ovi računari su imali procesor, memoriju i tastaturu. Kao izlaznu jedinicu koristili su TV, za čuvanje programa kasetofon, a programski jezik bio je BASIC.
+Prvi jugoslavenski kućni računar "Galaksija" konstruisao je Voja Antonić 1983. godine.[9] "Galaksija" je postojala u dvije verzije. Komercijalnu verziju je proizvodio i prodavao školama "Zavod za učila i nastavna sredstva" u saradnji sa malom radionicom Elektronik Inženjeringom, dok je "uradi sam" verzija opisana u specijalnom izdanju časopisa "Galaksija" pod naslovom "Računari u vašoj kući". Prvi domaći samosklapajući računar je kroz časopis "Galaksija" doživio ogromnu popularnost i stigao u domove preko 8.000 ljudi.[9] Zasnovan je na osmobitnom procesoru Zilog Z80A, imao je 6 kb memorije, 4kb ROM-a a na ekranu monitora ili crno-bijelog televizora mogao je da ispiše 32x16 slova i 64x48 tačaka. Parirao je računaru Sinclair ZX81 iz 1981. Jedan primjerak ″Galaksije″ nalazi se danas izložen u Muzeju računara u Silicijskoj dolini, u Kaliforniji.[10]
+"Galaksija" je otvorila tržište kućnih računara u Jugoslaviji. Krajem 1980ih u zemlji postoje nekoliko proizvođača računara i komponenta. Počinju se praviti PC konfiguracije sa jačim procesorima. Tako 1989. godine u anketi časopisa "Svet kompjutera" nagradu "Kompjuterski Grand Prix 89″ i titulu najboljeg domaćeg računara osvaja Lira PC-AT iz Ei Niš, drugo mjesto osvaja Bimar 400 iz Birostroj Maribor, dok treće mjesto su dijelili IRIS MUV - Sarajevo i VUK Siniše Hristova sa saradnicima iz Niša.[11][12] Država je u to vrijeme uvela obavezan predmet "računarstvo i informatika" u gimnazijama i stručnim srednjim školama u kojima su novoformirani informatički kabineti bili opremljeni računarima domaće proizvodnje. Osnivaju se prvi stručni časopisi, dok se na radiju i televiziji emituju prve specijalizovane emisije o računarima.
+U doba Jugoslavije postojala su ograničenja na uvoz stranih elektronskih uređaja kako bi se zaštitila domaća elektronska industrija koja je zapošljavala veliki broj ljudi. Iako su domaći uređaji neznatno kaskali za zapadnim proizvodima domaća privreda je donekle hvatala korak sa svjetskim tehnološkim rješenjima prilagođavajući potrebe prema mogućnostima jugoslavenskih potrošača. Zahvaljujući domaćoj elektronskoj industriji tokom 1980ih u skoro svakom domu nalazio se radio gramofon i televizor, a era računara, video rekordera (završena 2016), radio kasetofona i muzičkih linija je tek počinjala.
+Upravo je mikroračunar bio nosilac digitalne revolucije, odnosno treće industrijske revolucije čije je glavno obilježje prelaz sa analogne na digitalnu tehnologiju. Ovim napretkom nastalo je informatičko doba. Glavni nosioci novih tehnološih rješenja i komercijalnog uspjeha tokom ovog razdoblja su američke kompanije.
+Godine 1992. Microsoft uvodi operativni sistem Windows 3.1 i prodaje preko 10 miliona primjeraka.
+Godine 1993. zasnivaju se računari na procesoru Pentium, a 1997. godine razvija se Pentium II. Ovaj procesor je kasnije modifikovan još u verzije Pentium III i Pentium IV, nakon čega su počeli da se proizvode računari zasnovani na procesorima koji unutar istog kućišta objedinjuju 2, 4 ili 8 procesorskih jezgara.
+U augustu 1995. Microsoft uvodi operativni sistem Windows 95 čime pokreće novu računarsku revoluciju u skladu sa sloganom njihovog osnivača Billa Gatesa: "računar na svakom stolu u svakom domu". Te godine u svijetu je prodato 60 miliona računara, a 10 godina kasnije 200 miliona. I skoro svaki je imao instaliran Microsoftov operativni sistem. Tržište računara dostiglo je vrhunac 2011, sa 360 miliona primjeraka. Od te godine tržište je u padu, jer su mnogi korisnici računara zamijenili pametnim telefonima i tabletima, odnosno Steve Jobsovim iPhone-om i iPad-om.
+Trenutno najbrži superračunar na svijetu je kineski "Sunway TaihuLight" sa 93 petaflopsa (jedan petaflops znači da računar može da izvede bilijardu ili hiljadu biliona operacija u sekundi).[13] Izgradnja ovog superračunara kao i sve potrebne infrastrukture iznosila je 273 miliona američkih dolara. Od 2015. godine najbrži superračunar na Balkanu je "Avitohol" u "Institutu za informatiku i komunikacione tehnologije" u Sofiji sa ukupnom procesorskom snagom od 264 teraflopsa (1 teraflops = bilion operacija u sekundi).[14] Kompanija IBM je tokom 2017. godine završila izradu superračunara "Summit" koji će tokom 2018. godine biti premješten u Oak nacionalnu labaratoriju u Tenneseeju gdje će zamijeniti zastarjeli superračunar "Titan" od 20 petaflopsa koji je započeo s radom 2012.[15] Summit superračunar bit će napajan električnom energijom kao i sistem za njegovo hlađenje jačine 15 megavata. Ova količina struje dovoljna je da snabde više od 12.000 domaćinstva. Očekuje se da dostigne brzinu proračuna od 150 - 300 petaflopsa. U novu tehnološku trku za razvoj superračunara značajnim sredstvima uključila se EU koja znatno zaostaje u odnosu na Kinu i SAD.[16]
+U isto vrijeme, Kina, SAD, Japan i EU svaka posebno, uveliko rade na izradi egzaskejl superračunara, prvi računar brzine 1000 petaflopsa (1 egzaflops = hiljadu bilijardi ili milion biliona (ili milijardu milijardi) operacija u sekundi).[17] Egzaskejl superračunar teoretski bit će brz kao ljudski mozak, a smatra se da za rad ovog računara biće potrebna količina električne energije koju može da proizvede manja nuklearna centrala.
+Također pogledajte[uredi | uredi izvor]
+
+Informatika
+Računarstvo
+Računarski hardver
+Računarski softver
+Historija računarstva
+Sigurnost računara
+Računarska grafika
+Internet
+Operativni sistem
+SCADA
+CER računari
+Interakcija čovjek računar
+400.perlbench
+Benchmark
+CFP2006
+CINT2006
+FLOPS
+MIPS
+SPEC
+SPEC CPU2006
+
+Reference[uredi | uredi izvor]
+
+
+^ Halilović, Senahid (1996). Pravopis bosanskoga jezika. Sarajevo: Kulturno društvo Bošnjaka "Preporod". str. 471. računar, instr. jd. računarom 
+
+^ Halilović, Senahid (1996). Pravopis bosanskoga jezika. Sarajevo: Kulturno društvo Bošnjaka "Preporod". str. 296. kompjuter, kompjuterizacija, kompjuterski 
+
+^ Halilović, Senahid (1996). Pravopis bosanskoga jezika. Sarajevo: Kulturno društvo Bošnjaka "Preporod". str. 471. računalo, instr. jd. računalom 
+
+^ Položio ispit na tajnom zadatku, Stanko Stojiljković, Politika, 19.09.2006.
+
+^ Lira - Nešto staro sa šlagom, Voja Gašić, Računari, 1989.
+
+^ 
+Stojičević, Dušan (Mart 1990). "Nova Lira 386". Svet Kompjutera. str. 5.  Provjerite vrijednost datuma kod: |date= (pomoć)
+
+^ "The Modern History of Computing". Stanford Encyclopedia of Philosophy. 
+
+^ Položio ispit na tajnom zadatku, Stanko Stojiljković,
+Politika, 19. 09. 2006.
+
+^ a b Busuladžić, Ajdin (14. 8. 2017). "GALAKSIJA: Jugoslovenski kompjuter iz 80-ih koji je mogao da pobijedi zapad!". Oslobođenje. Pristupljeno 1. 3. 2018. 
+
+^ Computer History Museum
+
+^ Kuzmanović, Miodrag (mart 2016). "Namibija, Lira i istraživanje Marsa". Vremenska mašina – Svet kompjutera. Pristupljeno 1. 3. 2018. 
+
+^ Stojičević, Dušan (1989). "Nova Lira brzine vetra". Svet kompjutera. Pristupljeno 1. 3. 2018. 
+
+^ Superkompjuteri iz Kine postali najbrži na svetu, Aleksandar Todorović,
+Politika, 05.12.2017.
+
+^ Avitohol - Bulgarian multifunctional high perfomance computing cluster
+
+^ Titan najbrži kompjuter na svetu, R.S., Politika, 05.11.2012.
+
+^ EU ulaže u superračunare, Aleksandar Todorović, Politika, 22.01.2018.
+
+^ Borba Kine i SAD za nove tehnologije, Aleksandar Todorović, Politika, 23. 03. 2018.
+
+
+Vanjski linkovi[uredi | uredi izvor]
+
+
+
+Commons ima datoteke na temu: Računar 
+Voja Antonić o videoigrama na Galaksiji, insert iz TV-emisije Kompjuterska škola RTB 1984.
+Kućni kompjuteri YU
+Elektronska industrija Niš (1986), Film na YouTubeu
+Dječija reakcija na stare računare (Kids React To Old Computers) na YouTube
+Tinejdžerska reakcija na Windows 95 (Teens React To Windows 95)
+pruHardverski dijelovi računaraUnutrašnji dijeloviOsnovni dijelovi
+Matična ploča
+procesor
+RAM memorija
+ROM memorija
+grafička kartica
+zvučna kartica
+modem
+mrežna kartica
+napojna jedinica
+Uređaji za pohranjivanje podataka
+Tvrdi disk
+DVD čitač/pisač
+CD čitač/pisač
+flopi disk
+zip uređaj
+USB flash stick
+Ulazno/Izlazni uređajiUlazni uređaji
+Miš
+tastatura
+skener
+web kamera
+gamepad
+džojstik
+mikrofon
+Izlazni uređaji
+Monitor (CRT/LCD)
+Printer (laserski/tintni)
+ploter
+projektor
+zvučnici
+Barkod printer
+
+
+
+
+
+ 
+						Preuzeto iz "https://bs.wikipedia.org/w/index.php?title=Računar&oldid=2930040"					
+Kategorije: RačunarstvoHardverSakrivena kategorija: CS1 greške: datumi 
+
+
+
+Navigacija
+
+
+Lični alati
+
+Niste prijavljeniRazgovorDoprinosiNapravi korisnički računPrijavi me 
+
+
+
+Imenski prostori
+
+StranicaRazgovor 
+
+
+
+
+Varijante
+
+
+
+
+
+
+
+
+
+Pregledi
+
+ČitajUrediUredi izvorHistorija 
+
+
+
+Više
+
+
+
+
+
+
+
+Pretraga
+
+
+
+ 
+
+
+
+
+
+
+
+Navigacija
+
+
+Početna stranaOdabrani članciPortaliKategorijeNedavne izmjeneSlučajna stranica 
+
+
+
+Interakcija
+
+
+PomoćIgrališteVrata zajedniceČaršijaNovostiDonacije 
+
+
+
+Štampaj/izvezi
+
+
+Napravi knjiguPreuzmi kao PDFZa štampanje 
+
+
+
+Na drugim projektima
+
+
+Wikimedia CommonsWikicitat 
+
+
+
+Alati
+
+
+Šta vodi ovamoSrodne izmjenePostavi datotekuPosebne straniceTrajni linkInformacije o straniciNa WikipodacimaCitiraj ovu stranicu 
+
+
+
+Drugi jezici
+
+
+АҧсшәаAcèhAfrikaansAlemannischአማርኛAragonésÆngliscالعربيةܐܪܡܝܐمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)‎БългарскиभोजपुरीBislamaবাংলাབོད་ཡིགবিষ্ণুপ্রিয়া মণিপুরীBrezhonegᨅᨔ ᨕᨘᨁᨗБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoTsetsêhestâheseکوردیQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiडोटेलीΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisFurlanGaeilge贛語GàidhligGalegoAvañe'ẽ𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHausa客家語/Hak-kâ-ngîעבריתहिन्दीFiji HindiHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIgboIñupiakIlokanoIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ/inuktitut日本語PatoisLa .lojban.Basa JawaქართულიQaraqalpaqshaKabɩyɛKongoGĩkũyũҚазақшаភាសាខ្មែរಕನ್ನಡ한국어Къарачай-малкъарकॉशुर / کٲشُرKurdîКомиKernowekКыргызчаLatinaLadinoLëtzebuergeschЛезгиLingua Franca NovaLimburgsLumbaartLingálaລາວLietuviųLatviešuमैथिलीMalagasyОлык марийМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorskOccitanLivvinkarjalaOromooଓଡ଼ିଆਪੰਜਾਬੀKapampanganPolskiPiemontèisپنجابیΠοντιακάپښتوPortuguêsRuna SimiRomaniRomânăРусскийРусиньскыйसंस्कृतम्Саха тылаSarduSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSesothoSeelterskBasa SundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeXitsongaТатарча/tatarçaئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsWalonWinarayWolof吴语IsiXhosaმარგალურიייִדישYorùbáVahcuengh中文文言Bân-lâm-gú粵語IsiZulu 
+Uredi veze 
+
+
+
+
+
+ Ova stranica je posljednji put izmijenjena na datum 24 april 2018 u 10:55.
+Tekst je dostupan pod slobodnom licencom Autorstvo-Dijeliti pod istim uvjetima;
+mogu se primijeniti i dodatni uvjeti. Korištenjem ovog sajta slažete se s uvjetima korištenja i pravilima o privatnosti. Wikipedia® je zaštitni znak neprofitne organizacije Wikimedia Foundation, Inc.
+
+
+Politika privatnosti
+O Wikipediji
+Odricanje odgovornosti
+Razvojni programeri
+Izjava o kolačićima
+Mobilni prikaz
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.287","ppvisitednodes":{"value":2415,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":34815,"limit":2097152},"templateargumentsize":{"value":3230,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":14015,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  175.488      1 -total"," 48.09%   84.397      1 Šablon:Reference"," 26.50%   46.507      3 Šablon:Cite_book"," 25.27%   44.342      3 Šablon:Navkutija"," 21.58%   37.873      1 Šablon:Hardver"," 21.13%   37.081      3 Šablon:Navbox"," 11.52%   20.217      1 Šablon:Commonscat","  9.49%   16.651      1 Šablon:Sporedni_okvir","  7.76%   13.626      1 Šablon:Side_box","  6.97%   12.224      4 Šablon:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"10.000"},"limitreport-memusage":{"value":2547478,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20180426100345","ttl":1900800,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":124,"wgHostname":"mw1267"});});
+
+

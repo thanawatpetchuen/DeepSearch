@@ -1,21 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>reddit.com: Log in</title>
+        <link rel="shortcut icon" type="image/png" sizes="512x512" href="https://www.redditstatic.com/accountmanager/favicon/favicon-512x512.png">
+        <link rel="shortcut icon" type="image/png" sizes="192x192" href="https://www.redditstatic.com/accountmanager/favicon/favicon-192x192.png">
+        <link rel="shortcut icon" type="image/png" sizes="32x32" href="https://www.redditstatic.com/accountmanager/favicon/favicon-32x32.png">
+        <link rel="shortcut icon" type="image/png" sizes="16x16" href="https://www.redditstatic.com/accountmanager/favicon/favicon-16x16.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://www.redditstatic.com/accountmanager/favicon/apple-touch-icon-180x180.png">
+        <link rel="mask-icon" href="https://www.redditstatic.com/accountmanager/favicon/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="msapplication-TileColor" content="#ffffff"/>
+        <meta name="msapplication-TileImage" content="https://www.redditstatic.com/accountmanager/favicon/mstile-310x310.png"/>
+        <meta name="msapplication-TileImage" content="https://www.redditstatic.com/accountmanager/favicon/mstile-310x150.png"/>
+        <meta name="theme-color" content="#ffffff">
+        
+        
 
-  <!DOCTYPE html>
-  <html lang="en">
-  <head>
-    <title data-react-helmet="true" property="og:title">computer | Origin and meaning of computer by Online Etymology Dictionary</title>
-    <meta data-react-helmet="true" charset="UTF-8" content="text/html;charset=utf-8;"/><meta data-react-helmet="true" http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><meta data-react-helmet="true" name="viewport" content="width=device-width, initial-scale=1"/><meta data-react-helmet="true" name="theme-color" content="#83001d"/><meta data-react-helmet="true" name="msapplication-TileColor" content="#83001d"/><meta data-react-helmet="true" name="msapplication-TileImage" content="/ms-icon-144x144.png"/><meta data-react-helmet="true" name="keywords" content="computer, online etymology dictionary, English dictionary, computer meaning, computer definition, define computer, definition of computer, computer origin, computer history, prefix, suffix, 词源, 前缀, 后缀, 語源, etymologie, этимология, 어원, etimoloji, etimologia, etymologi"/><meta data-react-helmet="true" name="description" property="og:description" content="Meaning: &quot;one who calculates, a reckoner, one whose occupation is to make arithmetical calculations,&quot; agent noun from compute (v.).… See more definitions."/><meta data-react-helmet="true" property="og:image" content="https://www.etymonline.com/graphics/header.jpg"/><meta data-react-helmet="true" name="twitter:card" content="summary"/>
-    <link data-react-helmet="true" rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/giehjnnlopapngdjbjjgddpaagoimmgl"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="57x57" href="/static/favicon/apple-icon-57x57.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="60x60" href="/static/favicon/apple-icon-60x60.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="72x72" href="/static/favicon/apple-icon-72x72.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="76x76" href="/static/favicon/apple-icon-76x76.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="114x114" href="/static/favicon/apple-icon-114x114.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="120x120" href="/static/favicon/apple-icon-120x120.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="144x144" href="/static/favicon/apple-icon-144x144.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="152x152" href="/static/favicon/apple-icon-152x152.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="180x180" href="/static/favicon/apple-icon-180x180.png"/><link data-react-helmet="true" rel="icon" type="image/png" sizes="192x192" href="/static/favicon/android-icon-192x192.png"/><link data-react-helmet="true" rel="icon" type="image/png" sizes="32x32" href="/static/favicon/favicon-32x32.png"/><link data-react-helmet="true" rel="icon" type="image/png" sizes="96x96" href="/static/favicon/favicon-96x96.png"/><link data-react-helmet="true" rel="icon" type="image/png" sizes="16x16" href="/static/favicon/favicon-16x16.png"/><link data-react-helmet="true" rel="manifest" href="/manifest.json"/><link data-react-helmet="true" href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/><link data-react-helmet="true" rel="stylesheet" href="/static/style.9cd46109e08869d7ffe7257cb22e7d04.css"/><link data-react-helmet="true" rel="canonical" href="https://www.etymonline.com/word/computer"/>
-  </head>
-  <body>
-  <div id="root"><div><div class="container--1mazc"><div class="header header--1Mejf header__vanila--2dqaM"><div class="header__vanila__container--CElq1"><div class="ant-row"><div class="ant-col-sm-17"><div class="inner--7ZeMs" data-role="header-inner"><div class="header__logo--12Lje" data-role="header-logo"><a href="/" title="Index"><div title="Online Etymology Dictionary Homepage" class="header__logo__image--2avl2 header__logo__image_modern--DysTU" data-role="header-logo-image"></div></a></div><div class="header__searchbar--3yKr5" data-role="header-searchbar"><div class="searchform"><form class="searchbar--3dK8Z" action="/search"><div class="searchbar__container--2VZd7"><input type="text" value="computer" autocomplete="off" role="combobox" aria-autocomplete="list" aria-owns="react-autowhatever-1" aria-expanded="false" aria-haspopup="false" class="searchbar__input--3L4IY" placeholder="Search" name="q" required="" autocapitalize="off" autocorrect="off" title="Type a word to search."/><div id="react-autowhatever-1"></div></div><i class="fa fa-times-circle search-clear"></i><input type="submit" title="Search" value="" class="searchbar__button--3luO1"/></form></div></div></div></div><div class="ant-col-sm-6 ant-col-sm-offset-1"></div></div></div></div><div class="bannerAd--3BIq1"><div class="bannerAd_container--2Uhkn bait"><span class="bannerad" style="display:none;"></span></div></div><div class="main main--10rAd" data-role="content-main"><div class="wordDetail--1sAHq"><div class="ant-row-flex ant-row-flex-space-around"><div class="ant-col-xs-24 ant-col-sm-24 ant-col-md-24 ant-col-lg-17"><div class="adContainer-left"><span class="adLabel">Advertisement</span><ins class="adsbygoogle desktop" style="display:inline-block;width:728px;height:90px;" data-ad-client="ca-pub-7093273770345366" data-ad-slot="7157382713"></ins></div><div class="word--C9UPa"><div><h1 class="word__name--TTbAA" title="Origin and meaning of computer">computer (n.)</h1><section class="word__defination--2q7ZH"><object><p></p><p>1640s, &quot;one who calculates, a reckoner, one whose occupation is to make arithmetical calculations,&quot; agent noun from <a href="/word/compute?ref=etymonline_crossreference" class="crossreference">compute</a> (v.).</p><p></p><p>Meaning &quot;calculating machine&quot; (of any type) is from 1897; in modern use, &quot;programmable digital electronic device for performing mathematical or logical operations,&quot; 1945 under this name (the thing itself was described by 1937 in a theoretical sense as <span class="foreign">Turing machine</span>). <a href="/word/ENIAC?ref=etymonline_crossreference" class="crossreference">ENIAC</a> (1946) usually is considered the first.</p><p></p><p><span class="foreign">Computer literacy</span> is recorded from 1970; an attempt to establish <span class="foreign">computerate</span> (adjective, on model of <span class="foreign">literate</span>) in this sense in the early 1980s didn&#x27;t catch on. <span class="foreign">Computerese</span> &quot;the jargon of programmers&quot; is from 1960, as are <span class="foreign">computerize</span> and <span class="foreign">computerization</span>.</p><p></p><p></p><ins class="adsbygoogle mobile" style="display:inline-block;width:300px;height:250px;" data-ad-slot="4000736339" data-ad-client="ca-pub-7093273770345366"></ins><blockquote>WASHINGTON (AP) -- A New York Congressman says the use of computers to record personal data on individuals, such as their credit background, &quot;is just frightening to me.&quot; [news article, March 17, 1968]</blockquote><p></p><p>Earlier words for &quot;one who calculates&quot; include <span class="foreign">computator</span> (c. 1600), from Latin <span class="foreign">computator</span>; <span class="foreign">computist</span> (late 14c.) &quot;one skilled in calendrical or chronological reckoning.&quot;</p><p></p><p></p></object></section></div></div><div class="related--32LCi"><h3 class="h3_title" title="words related to computer">Related Entries</h3><ul class="related__container--22iKI"><a target="_self" title="Origin and meaning of compute" href="/word/compute"><li class="related__word--3Si0N">compute</li></a><a target="_self" title="Origin and meaning of eniac" href="/word/eniac"><li class="related__word--3Si0N">eniac</li></a><a target="_self" title="Origin and meaning of microcomputer" href="/word/microcomputer"><li class="related__word--3Si0N">microcomputer</li></a><a target="_self" title="Origin and meaning of supercomputer" href="/word/supercomputer"><li class="related__word--3Si0N">supercomputer</li></a></ul></div><div class="share-tool socialShare--223YS"><h3 title="Share computer to social networks" class="socialShare__title--34iP2">Share</h3><a title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.etymonline.com%2Fword%2Fcomputer" data-social-target="Facebook" target="blank" class="fa share socialShare__icon--3FJac socialShare__icon__facebook--2fm3U fa-facebook"></a><a title="Share on Twitter" href="https://twitter.com/share?url=https%3A%2F%2Fwww.etymonline.com%2Fword%2Fcomputer&amp;text=computer%20%7C%20Origin%20and%20meaning%20of%20computer%20by%20Online%20Etymology%20Dictionary" data-social-target="Twitter" target="blank" class="fa share socialShare__icon--3FJac socialShare__icon__twitter--1iFxf fa-twitter"></a><a title="Share on Reddit" href="https://www.reddit.com/submit?url=https%3A%2F%2Fwww.etymonline.com%2Fword%2Fcomputer&amp;title=computer%20%7C%20Origin%20and%20meaning%20of%20computer%20by%20Online%20Etymology%20Dictionary" data-social-target="Reddit" target="blank" class="fa share socialShare__icon--3FJac socialShare__icon__reddit--30bBu fa-reddit"></a><a title="Share on Email" href="mailto:?subject=computer%20%7C%20Origin%20and%20meaning%20of%20computer%20by%20Online%20Etymology%20Dictionary&amp;body=Meaning%3A%20%22one%20who%20calculates%2C%20a%20reckoner%2C%20one%20whose%20occupation%20is%20to%20make%20arithmetical%20calculations%2C%22%20agent%20noun%20from%20compute%20(v.).%E2%80%A6%20See%20more%20definitions.%0Afrom%20https%3A%2F%2Fwww.etymonline.com%2Fword%2Fcomputer%20Find%20out%20more%20at%20etymonline.com" data-social-target="Email" target="blank" class="fa share socialShare__icon--3FJac socialShare__icon__email--3hVBm fa-email"></a></div><a class="ad extension link--3mrBs link_banner--11FDz" target="_blank"><div class="wordDetail__extensionBanner--2Qrhv"></div></a></div><div class="ant-col-xs-24 ant-col-sm-24 ant-col-md-24 ant-col-lg-6"><div class="adContainer-top"><span class="adLabel">Advertisement</span><ins class="adsbygoogle desktop bypass" style="display:inline-block;width:300px;height:250px;" data-ad-client="ca-pub-7093273770345366" data-ad-slot="3516331235"></ins></div><a class="ad peigencihui-ad link--3mrBs link_square--3tXhH" target="_blank" rel="nofollow" href="http://blog.dancite.com/peigen-app-wechat/?ref=etymonline_ad"><div class="imageBlock--2hygR"></div></a><div class="alphabetical--2oTZG"><h3 title="words in alphabetical order" class="h3_title">Alphabetical list</h3><a title="Origin and meaning of compunction" target="" href="/word/compunction"><p class="alphabetical__word--3UeP2">compunction</p></a><a title="Origin and meaning of compunctious" target="" href="/word/compunctious"><p class="alphabetical__word--3UeP2">compunctious</p></a><a title="Origin and meaning of computation" target="" href="/word/computation"><p class="alphabetical__word--3UeP2">computation</p></a><a title="Origin and meaning of computational" target="" href="/word/computational"><p class="alphabetical__word--3UeP2">computational</p></a><a title="Origin and meaning of compute" target="" href="/word/compute"><p class="alphabetical__word--3UeP2">compute</p></a><p class="alphabetical__word--3UeP2 alphabetical__active--FCYcm">computer</p><a title="Origin and meaning of comrade" target="" href="/word/comrade"><p class="alphabetical__word--3UeP2">comrade</p></a><a title="Origin and meaning of comradery" target="" href="/word/comradery"><p class="alphabetical__word--3UeP2">comradery</p></a><a title="Origin and meaning of Comstockery" target="" href="/word/Comstockery"><p class="alphabetical__word--3UeP2">Comstockery</p></a><a title="Origin and meaning of Comus" target="" href="/word/Comus"><p class="alphabetical__word--3UeP2">Comus</p></a><a title="Origin and meaning of con" target="" href="/word/con"><p class="alphabetical__word--3UeP2">con</p></a></div></div></div></div></div><div class="alphabet--3sMXd"><ul class="alphabet__inner--2NEtM"><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter A"><a href="/search?q=a">A</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter B"><a href="/search?q=b">B</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter C"><a href="/search?q=c">C</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter D"><a href="/search?q=d">D</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter E"><a href="/search?q=e">E</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter F"><a href="/search?q=f">F</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter G"><a href="/search?q=g">G</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter H"><a href="/search?q=h">H</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter I"><a href="/search?q=i">I</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter J"><a href="/search?q=j">J</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter K"><a href="/search?q=k">K</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter L"><a href="/search?q=l">L</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter M"><a href="/search?q=m">M</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter N"><a href="/search?q=n">N</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter O"><a href="/search?q=o">O</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter P"><a href="/search?q=p">P</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter Q"><a href="/search?q=q">Q</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter R"><a href="/search?q=r">R</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter S"><a href="/search?q=s">S</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter T"><a href="/search?q=t">T</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter U"><a href="/search?q=u">U</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter V"><a href="/search?q=v">V</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter W"><a href="/search?q=w">W</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter X"><a href="/search?q=x">X</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter Y"><a href="/search?q=y">Y</a></li><li class="alphabet__node--huwT8" title="Prefix, suffix and words starting with the letter Z"><a href="/search?q=z">Z</a></li></ul></div><div class="footer--zLQrv"><div class="footer__info--3VNMU"><div class="footer__info_inner--1aVeV"><div><p class="footer__info_title--3LoBd">links</p><a href="/classic?ref=etymonline_footer" class="footer__info_node--3T-ZQ classicbait">Classic Version</a><a href="/columns/post/sources?ref=etymonline_footer" class="footer__info_node--3T-ZQ">Sources</a><a href="/columns/post/links?ref=etymonline_footer" class="footer__info_node--3T-ZQ">Links</a></div><div><p class="footer__info_title--3LoBd">more</p><a href="https://chrome.google.com/webstore/detail/etymonline/giehjnnlopapngdjbjjgddpaagoimmgl?ref=link_footer" class="footer__info_node--3T-ZQ">Chrome Extension</a><a href="https://itunes.apple.com/app/apple-store/id813629612?pt=33423801&amp;ct=etymonline_footer&amp;mt=8" class="footer__info_node--3T-ZQ">词根词源词典 App</a><a href="http://blog.dancite.com/peigen-app-wechat/?ref=etymonline_footer" class="footer__info_node--3T-ZQ">培根词汇微信公众号</a></div><div><p class="footer__info_title--3LoBd">about etymonline</p><a href="/columns/post/abbr?ref=etymonline_footer" class="footer__info_node--3T-ZQ">Introduction</a><a href="/columns/post/bio?ref=etymonline_footer" class="footer__info_node--3T-ZQ">Who did this</a><a href="https://www.facebook.com/etymonline?ref=etymonline_footer" class="footer__info_node--3T-ZQ">Follow on Facebook</a></div><div><p class="footer__info_title--3LoBd">support us</p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=byronic106@yahoo.com&amp;lc=US&amp;item_name=Donation+to +Help+Keep+Etymonline+Free+and+Open&amp;no_note=0&amp;cn=&amp;curency_code=USD&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted" class="footer__info_node--3T-ZQ">Donate with PayPal</a><a href="http://www.cafepress.com/etymonline?ref=etymonline_footer" class="footer__info_node--3T-ZQ">Ye Olde Swag Shoppe</a><a href="https://www.patreon.com/etymonline?ref=etymonline.com" class="footer__info_node--3T-ZQ">Support on Patreon</a></div></div></div><div class="footer__link--1RSEJ"><div class="footer__link_inner--KP2Wz"><p>Web design and development by MaoningTech.</p><a href="mailto:etymonline@protonmail.com" title="Douglas Harper. All rights reserved.">© 2001-2018 Douglas Harper. All rights reserved.</a></div></div></div><div class="backtop"><div class="backtop-content"><i class="fa fa-arrow-up"></i></div></div></div></div></div>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-26425972-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-26425972-1');
-  </script>
-  <script data-react-helmet="true" src="/static/jquery-3.2.1.min.js"></script><script data-react-helmet="true" src="/static/plugins.8b94d9a1afab4fce8a48.js" async="true"></script><script data-react-helmet="true" async="true" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  </body>
-  </html>
-  
+  <link rel="stylesheet" href="https://www.redditstatic.com/accountmanager/vendor.02e70b0510146f5c6a8c.css">
+
+  <link rel="stylesheet" href="https://www.redditstatic.com/accountmanager/theme.f03d466e68261629ed71.css">
+
+  <link rel="stylesheet" href="https://www.redditstatic.com/accountmanager/login.cfd5d4f8575dec1c405e.css">
+
+
+    </head>
+    <body>
+        
+<div class="Container">
+    <div class="PageColumns">
+        <div class="PageColumn PageColumn__left">
+<div class="Art"></div>
+</div>
+        <div class="PageColumn PageColumn__right">
+<div class="ColumnContainer mode-auth">
+  <div class="SnooIcon"></div>
+  <h1 class="Title">Sign in</h1>
+  <p class="tfa-description hideable">
+    You have two-factor authentication enabled on this account because you're awesome.
+  </p>
+  <form class="AnimatedForm" action="/login" method="post">
+    <input type="hidden" name="redirect" value="https://www.reddit.com/submit?url=https://www.etymonline.com/word/computer">
+    <input type="hidden" name="csrf_token" value="7c7040d9e39724e14819561443b926ac29efcbdd">
+    <fieldset class="AnimatedForm__field m-required login hideable">
+      <input id="loginUsername" class="AnimatedForm__textInput" type="text" name="username">
+      <label class="AnimatedForm__textInputLabel" for="loginUsername">Username</label>
+      <div class="AnimatedForm__errorMessage"></div>
+    </fieldset>
+    <fieldset class="AnimatedForm__field m-required password hideable">
+      <input id="loginPassword" class="AnimatedForm__textInput" type="password" name="password">
+      <label class="AnimatedForm__textInputLabel" for="loginPassword">Password</label>
+      <div class="AnimatedForm__errorMessage"></div>
+    </fieldset>
+    <div class="two-modes-separator"></div>
+    <fieldset class="AnimatedForm__field m-required otp hideable">
+      <input id="loginOtp" class="AnimatedForm__textInput" type="tel" name="otp" pattern="[0-9]*">
+      <label class="AnimatedForm__textInputLabel" for="loginPassword">6 digit code</label>
+      <div class="AnimatedForm__errorMessage"></div>
+      <input type="hidden" name="otp-type" value="app">
+    </fieldset>
+    <fieldset class="AnimatedForm__field switch-otp-type hideable">
+      <span class="BottomLink switch-otp-type">Use a backup code</span>
+    </fieldset>
+    <fieldset class="AnimatedForm__field">
+      <button class="AnimatedForm__submitButton" type="submit">Sign in</button>
+      <div class="AnimatedForm__submitStatus">
+        <div class="AnimatedForm__submitStatusIcon"></div><!--
+        --><span class="AnimatedForm__submitStatusMessage"></span>
+      </div>
+    </fieldset>
+  </form>
+  <div class="BottomText login-bottom-text hideable">
+    <a class="BottomLink" href="/password">Forgot password</a>
+  </div>
+  <div class="BottomText login-bottom-text hideable">
+    New to Reddit? <a class="BottomLink" href="/register">Sign up</a>
+  </div>
+  <div class="BottomText tfa-bottom-text hideable">
+    <span class="BottomLink back-to-main">Go back to account details</span><!--
+    --><span class="LinkSeparator">•</span><!--
+    --><a class="BottomLink" target="_blank" href="https://www.reddithelp.com/en/categories/using-reddit/your-reddit-account/how-set-two-factor-authentication">Having trouble ?</a>
+  </div>
+</div>
+</div>
+    </div>
+</div>
+
+
+        <script>
+            //<![CDATA
+                
+                window.config = {"tracker_endpoint": "https://events.reddit.com/v2", "tracker_secret": "aWV0YWlnaG91dGFpZmFlc2hhY2VhZ2hpaWphYWN1", "tracker_key": "AccountManager1"};
+            //]]>
+        </script>
+        
+
+  <script type="text/javascript" src="https://www.redditstatic.com/accountmanager/common.a477f29d496267015f06.js"></script>
+
+  <script type="text/javascript" src="https://www.redditstatic.com/accountmanager/vendor.02e70b0510146f5c6a8c.js"></script>
+
+  <script type="text/javascript" src="https://www.redditstatic.com/accountmanager/theme.f03d466e68261629ed71.js"></script>
+
+  <script type="text/javascript" src="https://www.redditstatic.com/accountmanager/login.cfd5d4f8575dec1c405e.js"></script>
+
+
+    </body>
+</html>

@@ -1,0 +1,237 @@
+
+
+
+
+ውክፔዲያ - ኮምፒዩተር
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ኮምፒዩተር","wgTitle":"ኮምፒዩተር","wgCurRevisionId":344742,"wgRevisionId":344742,"wgArticleId":1841,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["ኮምፒዩተር"],"wgBreakFrames":false,"wgPageContentLanguage":"am","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","ጃንዩዌሪ","ፌብሩዌሪ","ማርች","ኤይፕርል","ሜይ","ጁን","ጁላይ","ኦገስት","ሰፕቴምበር","ኦክቶበር","ኖቬምበር","ዲሴምበር"],"wgMonthNamesShort":["","ጃንዩ.","ፌብሩ.","ማርች","ኤፕሪ.","ሜይ","ጁን","ጁላይ","ኦገስት","ሴፕቴ.","ኦክቶ.","ኖቬም.","ዲሴም."],"wgRelevantPageName":"ኮምፒዩተር","wgRelevantArticleId":1841,"wgRequestId":"WulLngpAIDEAACnSoKQAAABX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"am","pageLanguageDir":"ltr","pageVariantFallbacks":"am","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"am","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"አማርኛ","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q68","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.0"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0u68ab4",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"am"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js","ext.dismissableSiteNotice"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca href=\"#\"\u003E\u0026lt;-- ይህን አውጣ\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"am\" dir=\"ltr\"\u003E\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cdiv style=\"text-align: center; background: linear-gradient(to right, white, #f6f6f6, white);\"\u003E\u003Cb\u003E\u003Cbig\u003E«የተማረ ያስተምር፣ ያልተማረ ይማር!»\u003C/big\u003E\u003C/b\u003E\u003C/div\u003E\n\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());
+
+ኮምፒዩተር 
+ከውክፔዲያ 
+
+					ዘልለው ለመሔድ፦					የማውጫ ቁልፎች፣					ፍለጋ
+
+
+
+
+
+ኮምፒዩተር
+
+
+ኮምፕዩተር ማለት ማንኛውም ኢንፎርሜሽን ፕሮሰስ የሚያረግ ማሽን ነው። ይህም የሚደረገው በተርታ የተቀመጡ ትዕዛዞች በመፈጸም ነው። ለብዙ ሰዎች ኮምፒዩተር ሲባል ዐዕምሯቸው ላይ የሚመጣው የግል (ፐርሰናል) ኮምፒዩተር ነው። ነገር ግን ኮምፒዩተር ሲባል በጣም ብዙ ነገሮችን ያጠዋልላል። ላፕቶፕ ፣ ዴስክቶፕ ፣ ምይክሮ-ኮምፒዩተር ፣ ሱፐር-ኮምፒዩተር ፣ ካልኩሌተር ፣ዲጂታል ካሜራ አና ሌሎችንም ያጠቃልላል።
+
+
+
+ማውጫ
+
+
+1 ታሪክ
+2 የኮምፒዩተር ዐይነቶች
+3 የኮምፕዩተር ክፍሎች
+4 ኮምፕዩተሮች እንዴት እንደሚሰሩ
+5 ታዋቂ ዋና ዋና የኮምፕዩተር አምራቾች
+6 ኮምፕዩተሮችና የዓለም ፊደላት
+
+
+
+ታሪክ[ለማስተካከል | ኮድ አርም]
+ቀድሞ አስሊ ማለት አንድ በሒሳባዊ ትዕዛዝ የተለያዩ የጥንት መሣሪያዎችን እየተጠቀመ ቁጥሮችን የሚያሰላ ሰው ነበር። እስከ 20ኛው ክፍለ-ዘመን ድረስ የተለያዩ ጠቃሚ መሣሪያዎች ተሰርተዋል። ከዛ በኋላ ትልልቅ ማሸኖች መሠራት ጀመሩ። እነዚህ ማሽኖች ከዛሬው ኮምፒዩተሮች(አስሊዎች) ጋር ሲወዳደሩ በጣም ትልቅና ቀርፋፋ ናቸው።
+የኮምፒዩተር ዐይነቶች[ለማስተካከል | ኮድ አርም]
+
+ሜን ፍሪም
+ሱፐር ኮምፒዩተር
+ዎርክ ስቴሽን
+ማይክሮ ኮምፒዩተር-(ዴስክቶፕ፣ ላፕቶፕ፣ ፓልምቶፕ)
+ሚኒ ኮምፒዩተር
+
+ዋና የኮምፒየተር ዐይነቶች እንደሚከተለው ነው፦
+የኮምፕዩተር ክፍሎች[ለማስተካከል | ኮድ አርም]
+የኮምፕዩተር የውስጥ ክፍሎች የሚከተሉት ናቸው፡-
+1.ሞኒተር(የምንሰራውን ነገር እንዲያሳየን፤ምስል፣ጽሑፍ፣ ቪዲዮ ወይም ማንኛውም ነገር ሊሆን ይችላል)
+ሞኒተር 14 ኢንች፣ 15 ኢንች፣ ወዘተ. እየተባለ ይገላጻል፡፡
+14 ኢንች 15 ኢንች እያልን ስንናገር አለካኩ ከምስል ማሳያው አንድ ጥግ እስከ ሌላኛው ጥግ ያለውን ርቀት በመለካት ነው፡፡(ስዕሉን ይመልከቱ፡፡)
+በፊት የነበሩት የላፕቶፕና ዴስክቶፕ ኮምፒዩተሮች ሬሾ (ርዝመት ሲካፈል ለወርድ) 4በ3(በትክክል ሲጻፍ 4:3 ይሆናል) ነበር፡፡
+አሁን ደግሞ የቲያትር ሞድ የሚባለው ባለ 16፡9 ሬሾ ወይም ዋይድ ስክሪን (widescreen) በመጠቀም ላይ ናቸው፡፡
+2.ማዘርቦርድ(እናት ሰሌዳ)(ሁሉም የኮምፕዩተር ክፍሎች(ዕቃዎች)የሚቀዳጁበት)
+3.ሲፒዩ(የኮምፕዩተሩ አእማሮ እንደማለት ነው፡፡ይህ ሲባል ግን ሲፒዩን ከሰው አእምሮ ጋር አንድ ነው ማለት አይደለም፡፡)
+4.ሜሞሪ(ማስታወሻ)(የምንሰራውን ስራ ወይም ፋይል በጊዚያዊነት አስቀምጠንበት የምንሰራበት)
+ሜሞሪ(ማስታወሻ) በባይት (Bytes) ይለካል፡፡ ከ Bytes ፊት Kilo፣ ማለትም ኪሎባይት (kilobytes)([1,024 ባይቶች ወይም Bytes ማለት ነው፡፡ ] ፣ Mega[1,048,576 ባይቶች ወይም Bytes ] ፣ Giga [1,073,741,824 ባይቶች ወይም Bytes]፣ ወዘተ የሚሉትን ቃላት በመጠቀም ኪሎባይት(kilobyte)፣ ሜጋባይት (megabyte)፣ ጊጋባይት (gigabyte) እያልን የኮምፒዩተር ሜሞሪ መግለፅ እንገልጻለን፡፡
+ለምሳሌ 10 MegaBytes ወይም ባጭሩ ሲጸፍ 10MB ይህ ማለት 10,485,760 Bytes ይሆናል ማለት ነው፡፡
+5.ኤክስፓንሽ ስሎት
+6.የኤሌክትሪክ ሀይል ማቅረቢያ (power supply)
+7.የሲዲ ማሰሪያ (cd drive)
+8.ሀርድ ዲስክ (የምንሰራውን ወይም የምንጠቀምበትን ፋይል በቋሚነት ለማስቀመጥ)
+9. መሎጊያ (ማውስ)
+10.የፊደል ገበታ (ኪቦርድ)
+ዊኪፒዲያ ላይ ያለውን ምስል ከቁጥሩ ጋር ማነጻጸር ይቻላል፡፡
+ኮምፕዩተሮች እንዴት እንደሚሰሩ[ለማስተካከል | ኮድ አርም]
+ታዋቂ ዋና ዋና የኮምፕዩተር አምራቾች[ለማስተካከል | ኮድ አርም]
+ታዋቂ የኮምፕዩተር አምራቾች የሚከተሉት ናቸው፡፡ ይህ ማለት ግን እያንዳዱን የኮምፕዩተር ክፍል(ዕቃዎች)ይሠራሉ ማለት አይደለም፡፡
+1.አይቢኤም[IBM](አሁን እንኳ የፒሲ ክፍሉን እ.ኤ.አ. በ2004 ለቻይናው ሊኖቮ ሸጦታል)፡፡ አሁን ሜን ፍሬም[Main Frame] ኮምፒዩተር ነው በብዛት የሚያመርቱት/የሚሠሩት፡፡
+ድረ ገጽ---[ http://www.ibm.com የአይቢኤም ድረ ገጽ ]
+2.ዴል[Dell]
+ድረ ገጽ---[ http://www.dell.com የዴል ድረ ገጽ]
+በኢትዮጵያ የዴል ወኪል አልታ ኮምፒዩተር ነው፡ ፡አድራሻቸው ቦሌ መንገድ ሸዋ ሱፐርማርኬት ፊትለፊት ኔጃት ኮምፒዩተር ያለበት ፎቅ ላይ ነው፡፡
+3.ኤሰር[Acer]
+ድረ ገጽ---[ http://www.acer.com የኤሰር ድረ ገጽ]
+በኢትዮጵያ የኤሰር ወኪል ኔጃት ኮምፒዩተር ነው፡፡ አድራሻቸው ቦሌ መንገድ ሸዋ ሱፐርማርኬት ፊትለፊት አልታ ኮምፒዩተር ያለበት ፎቅ ላይ ነው፡፡
+4.ቶሺባ [Toshiba]
+ድረ ገጽ---[ http://www.toshiba.com የቶሺባ ድረ ገጽ]
+5. አፕል [Apple]
+ድረ ገጽ---[ http://www.apple.com የአፕል ድረ ገጽ]
+6.ኤችፒ[HP]
+ድረ ገጽ---[ http://www.hp.comድ የኤችፒ[ድረ ገጽ]
+ኮምፕዩተሮችና የዓለም ፊደላት[ለማስተካከል | ኮድ አርም]
+የመጀመሪያቹ ኮምፕዩተሮች የሚሠሩት በእንግሊዝኛ ፊደል ብቻ ነበር። ቀስ በቀስ ግን የተለያዩ ኣገሮች ሊቃውንት በየራሳቸው ፊደላት እንዲሠሩ ኣደረጉ። ኮምፕዩተር በእያንዳንዱ የግዕዝ ፊደል፣ ኣኃዝና ምልክት እንዲሠራ ለመጀመሪያ ጊዜ የፈጠረው ኢትዮጵያዊው ዶክተር ኣበራ ሞላ ነው። በቅርቡም አያንዳንዱ የግዕዝ ፊደል፣ ኣኃዝና ምልክት ዩኒኮድ የሚባል የዓለም ፊደላት መደብ ውስጥ መግባት ቀጥሏል።
+
+
+
+
+ 
+						ከ «https://am.wikipedia.org/w/index.php?title=ኮምፒዩተር&oldid=344742» የተወሰደ					
+መደብ: ኮምፒዩተር 
+
+
+
+Navigation menu
+
+
+የኔ መሣርያዎች
+
+አልገቡምውይይት ለዚሁ ቁ. አድራሻContributionsየብዕር ስም ለማውጣትለመግባት 
+
+
+
+ክፍለ-ዊኪዎች
+
+መጣጥፍውይይት 
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+ዕይታዎች
+
+ለማንበብአርምኮድ አርምታሪኩን አሳይ 
+
+
+
+ተጨማሪ
+
+
+
+
+
+
+
+ፍለጋ
+
+
+
+ 
+
+
+
+
+
+
+
+የማውጫ ቁልፎች
+
+
+ዋናው ገጽየተመደበ ማውጫበቅርብ ጊዜ የተለወጡማናቸውንም ለማየትእርዳታ ገጽምንጭጌወቅታዊ ጉዳዮች (ዜና)መዋጮ ለመስጠት 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFለማተሚያዎ እንዲስማማ 
+
+
+
+In other projects
+
+
+Wikimedia Commons 
+
+
+
+ጠቃሚ መሣሪያዎች
+
+
+ወዲህ የሚያያዝየተዛመዱ ለውጦችልዩ ገጾችየዕትሙ ቋሚ URLየዚህ ገጽ መረጃየውሂብ ንጥል ነገርመጥቀሻ ለዚህ መጣጥፍ 
+
+
+
+በሌሎች ቋንቋዎች
+
+
+АҧсшәаAcèhAfrikaansAlemannischAragonésÆngliscالعربيةܐܪܡܝܐمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)‎БългарскиभोजपुरीBislamaবাংলাབོད་ཡིགবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiᨅᨔ ᨕᨘᨁᨗБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoTsetsêhestâheseکوردیQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiडोटेलीΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisFurlanGaeilge贛語GàidhligGalegoAvañe'ẽ𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHausa客家語/Hak-kâ-ngîעבריתहिन्दीFiji HindiHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIgboIñupiakIlokanoIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ/inuktitut日本語PatoisLa .lojban.Basa JawaქართულიQaraqalpaqshaKabɩyɛKongoGĩkũyũҚазақшаភាសាខ្មែរಕನ್ನಡ한국어Къарачай-малкъарकॉशुर / کٲشُرKurdîКомиKernowekКыргызчаLatinaLadinoLëtzebuergeschЛезгиLingua Franca NovaLimburgsLumbaartLingálaລາວLietuviųLatviešuमैथिलीMalagasyОлык марийМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorskOccitanLivvinkarjalaOromooଓଡ଼ିଆਪੰਜਾਬੀKapampanganPolskiPiemontèisپنجابیΠοντιακάپښتوPortuguêsRuna SimiRomaniRomânăРусскийРусиньскыйसंस्कृतम्Саха тылаSarduSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSesothoSeelterskBasa SundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeXitsongaТатарча/tatarçaئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsWalonWinarayWolof吴语IsiXhosaმარგალურიייִדישYorùbáVahcuengh中文文言Bân-lâm-gú粵語IsiZulu 
+Edit links 
+
+
+
+
+
+ ይህ ገጽ መጨረሻ የተቀየረው እ.ኣ.አ በ18:56፣ 31 ዲሴምበር 2017 ዓ.ም. ነበር።
+የዚህ መዝገበ ዕውቀት ጽሁፍ በክሪኤቲቭ ኮመንስ ፈቃድ (Creative Commons Attribution/Share-Alike License) ስር ነው የተለቀቀው፣ ተጨማሪ ደንቦች ሊኖሩ ይችላሉ።
+ለበለጠ መረጃ የአጠቃቀም ደንቦችን ይዩ።
+
+
+የግልነት ድንጋጌ
+ስለ ውክፐድያ መርሃግብር
+የኃላፊነት ማስታወቂያ
+ለገንቢዎች
+Cookie statement
+የሞባይል ዕይታ
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.004","walltime":"0.014","ppvisitednodes":{"value":21,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"origin":"mw1335","timestamp":"20180426095531","ttl":1900800,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1328"});});
+
+

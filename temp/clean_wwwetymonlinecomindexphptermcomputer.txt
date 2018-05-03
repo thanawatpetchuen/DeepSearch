@@ -1,20 +1,85 @@
 
 
 
-
-computer | Origin and meaning of computer by Online Etymology Dictionary
-
+reddit.com: Log in
 
 
 
-Advertisementcomputer (n.)1640s, "one who calculates, a reckoner, one whose occupation is to make arithmetical calculations," agent noun from compute (v.).Meaning "calculating machine" (of any type) is from 1897; in modern use, "programmable digital electronic device for performing mathematical or logical operations," 1945 under this name (the thing itself was described by 1937 in a theoretical sense as Turing machine). ENIAC (1946) usually is considered the first.Computer literacy is recorded from 1970; an attempt to establish computerate (adjective, on model of literate) in this sense in the early 1980s didn't catch on. Computerese "the jargon of programmers" is from 1960, as are computerize and computerization.WASHINGTON (AP) -- A New York Congressman says the use of computers to record personal data on individuals, such as their credit background, "is just frightening to me." [news article, March 17, 1968]Earlier words for "one who calculates" include computator (c. 1600), from Latin computator; computist (late 14c.) "one skilled in calendrical or chronological reckoning."Related EntriescomputeeniacmicrocomputersupercomputerShareAdvertisementAlphabetical listcompunctioncompunctiouscomputationcomputationalcomputecomputercomradecomraderyComstockeryComusconABCDEFGHIJKLMNOPQRSTUVWXYZlinksClassic VersionSourcesLinksmoreChrome Extension词根词源词典 App培根词汇微信公众号about etymonlineIntroductionWho did thisFollow on Facebooksupport usDonate with PayPalYe Olde Swag ShoppeSupport on PatreonWeb design and development by MaoningTech.© 2001-2018 Douglas Harper. All rights reserved.
 
 
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-26425972-1');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign in
+
+    You have two-factor authentication enabled on this account because you're awesome.
   
+
+
+
+
+
+Username
+
+
+
+
+Password
+
+
+
+
+
+6 digit code
+
+
+
+
+Use a backup code
+
+
+Sign in
+
+
+
+
+
+
+Forgot password
+
+
+    New to Reddit? Sign up
+
+
+Go back to account details•Having trouble ?
+
+
+
+
+
+
+            //<![CDATA
+                
+                window.config = {"tracker_endpoint": "https://events.reddit.com/v2", "tracker_secret": "aWV0YWlnaG91dGFpZmFlc2hhY2VhZ2hpaWphYWN1", "tracker_key": "AccountManager1"};
+            //]]>
+        
+
+
 
 
 

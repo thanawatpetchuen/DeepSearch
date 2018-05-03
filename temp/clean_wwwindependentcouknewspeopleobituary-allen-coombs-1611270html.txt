@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+Subscriptions | The Independent Daily Edition
+
+
+
+        window.Krux || ((Krux = function() {
+            Krux.q.push(arguments)
+        }).q = []);
+        (function() {
+                var k = document.createElement('script');
+                k.type = 'text/javascript';
+                k.async = true;
+                k.src = (location.protocol === 'https:' ? 'https:' : 'http:') + '//cdn.krxd.net/controltag/q9ooswvdn.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(k, s);
+            }
+            ());
+    
+
+
+For full functionality of this site it is necessary to enable JavaScript...
+Please follow the instructions in the link below.
+http://enable-javascript.com/
+
+
+
+      +  function(l, y, t, i, c, s) {
+            l['LocalyticsGlobal'] = i;
+            l[i] = function() {
+                (l[i].q = l[i].q || []).push(arguments)
+            };
+            l[i].t = +new Date;
+            (s = y.createElement(t)).type = 'text/javascript';
+            s.src = '//web.localytics.com/v3/localytics.min.js';
+            (c = y.getElementsByTagName(t)[0]).parentNode.insertBefore(s, c);
+            ll('init', '027dbde3493f662b17a4445-c3722efc-26ad-11e8-c2f3-007c928ca240', {} /* Options */ );
+        }(window, document, 'script', 'll');
+    
+
+
+
+Loading...
+
+
+
+
+
+
+

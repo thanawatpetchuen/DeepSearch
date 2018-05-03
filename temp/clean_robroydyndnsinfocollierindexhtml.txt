@@ -1,0 +1,244 @@
+
+
+
+The Little Engines that Could've:
+The Calculating Machines of Charles Babbage (Full text)
+
+
+
+
+
+
+
+Preface  
+Chapter 1   
+Chapter 2  
+Chapter 3  
+Chapter 4  
+Chapter 5  
+
+
+
+
+
+The Little Engines that Could've:
+The Calculating Machines of Charles Babbage
+
+
+A thesis presented
+by
+Bruce Collier
+
+to
+The Department of History of Science
+in partial fulfillment of the requirements
+for the degree of
+Doctor of Philosophy
+in the subject of
+History of Science
+
+Harvard University
+Cambridge, Massachusetts
+
+August, 1970
+Copyright reserved by the author.
+
+
+
+Preface
+
+Charles Babbage's invention of the computer is 
+something like the weather. Everyone working with computers
+for the last two decades has been talking about it, but
+nothing has been done. Every historical introduction to
+a computer text contains a section on Babbage, often
+extensive; but they are all based on the quite scanty
+information about the Analytical Engine published during
+the nineteenth century. The immense amount of manuscript
+material concerning Babbage extant in England has remained
+essentially untouched.
+
+The one hoped for exception was Maboth Moseley's
+Irascible Genius (London, 1964). a full length biography
+of Babbage. Moseley consulted the Babbage correspondence
+at the British Museum and the unpublished biography of
+Babbage written by his friend Harry Wilmot Buxton; yet
+despite the fact that Moseley was the editor of a computer
+journal, she did not examine Babbage's notebooks and
+drawings, now in the Science Museum in South Kensington,
+and her book contains virtually nothing of interest on the
+Analytical Engine. On the whole, Irascible Genius is a
+good deal less interesting than Babbage's own volume of
+memoirs, Passages from the Life of a Philosopher (London,
+1864), and it is no more balanced, and not very much
+more accurate.
+
+Unfortunately, the publication of Buxton's biography
+
+
+
+would not solve the problem, for it is basically an
+unorganized collection of extensive extracts from some
+of Babbage's books, papers, and letters; and while many
+of these are quite interesting, they are badly in need of
+more coherent treatment, and there are many gaps in their
+coverage.
+
+Consequently, the student of Babbage's work must
+return directly to the original sources. The manuscript
+material is in three primary collections, on which this
+study is based. Twenty volumes of Babbage's correspondence
+are deposited in the British Museum; a similar quantity
+of technical material is held by the Science Museum in
+South Kensington; and the Museum of the History of Science
+at Oxford University has Buxton's manuscript biography,
+and, more important, the Babbage papers upon which it
+was based.
+
+Although Babbage's life and accomplishments 
+encompassed far more that was important than the invention
+of his two calculating machines, the Difference and
+Analytical Engines, it is on them that new research has
+most been needed; consequently, the present study is
+limited to material relevant to them. Babbage's early
+mathematical work, his role in founding or reforming
+several important scientific societies, and his many other
+activities will scarcely be touched upon. But the first
+chapter, by way of introduction, will provide a brief
+
+
+
+sketch of Babbage's life, as it is the context into which
+the calculating machines must be fitted. Likewise, this
+study will not deal with the development of calculating
+machines before or after Babbage. His work was completely
+out of the mainstream of invention and construction which
+led from the primitive desk calculators of the seventeenth
+century to their widespread commercial success by the
+beginning of the twentieth century, and later to what we
+know as computers; Babbage was neither influenced by
+what had gone before nor influential upon what followed
+him.
+
+The invention, development, attempted construction,
+and eventual abandonment of the first Difference Engine
+will be considered in the second chapter. The third chapter
+deals with the invention of the Analytical Engine and its
+period of primary development, from 1834 to 1847. The
+fourth chapter deals with three later concerns of Babbage:
+a project to interest the government in what he called his
+Difference Engine No. 2; support for the Scheutz Difference
+Engine, a simplified version of his own earlier machine;
+and his resumption of work on the Analytical Engine late
+in life, with the intention of attempting its construction.
+The final chapter will provide some observations on the
+general character of Babbage's work on the Analytical
+Engine.
+
+
+
+My own interest in Babbage was first aroused through
+a research project on the history of calculating machines
+and computers directed by Professor I.B. Cohen and Professor
+Owen Gingerich on behalf of the International Business
+Machines company for the purpose of developing an IBM
+museum on computers and their history; this project still
+continues. IBM has also provided generous financial and
+logistical support for my own work. A trip to England to
+study the manuscripts was supported by a grant from the
+National Science Foundation. Assistance and access to
+the sources has been provided by the staffs of the 
+Manuscripts Division of the British Museum, the Museum of the
+History of Science at Oxford University, and especially
+the Science Museum in South Kensington, London, where Dr.
+H.B. Calvert has long had a special interest in Babbage.
+Professor Gingerich has read this thesis and made
+valuable suggestions, as has Kenneth Manning.
+
+To all these and other individuals and institutions
+who have helped me in ways large and small, I express
+my gratitude.
+
+
+
+Note on Sources and Quotations
+
+The following abbreviations are used in the notes for
+sources frequently cited. Further information will be
+found in the Bibliography.
+
+
+
+B.M. The twenty volumes of Babbage correspondence 
+       in the British Museum manuscript collections.
+S.Kens. The Babbage manuscripts held by the Science 
+       Museum in South Kensington, London.
+S.B. The volumes called Scribbling Books, part 
+       of the South Kensington collection.
+G.S.B. The Great Scribbling Book at South Kensington.
+Buxton The collection of Babbage manuscripts, together 
+         with a manuscript biography of 
+         Babbage by H. Wilmot Buxton, deposited 
+         in the Museum of the History of Science at 
+         Oxford University.
+B.C.E. Babbage's Calculating Engines, edited by
+        Henry P. Babbage, London 1889; a volume
+        reprinting the important published material
+        concerning Babbage's calculating machines,
+        begun by Charles Babbage and completed and
+        published after his death by his son
+        Henry P. Babbage.
+P.L.Y. Passages from the Life of a Philosopher, by
+        Charles Babbage, London, 1864; a volume
+        of memoirs.
+
+
+
+Many of the quotations given in this thesis are from
+manuscript sources, often from rough notes or drafts.
+For the sake of increased intelligibility, punctuation has
+been altered to a certain extent (principally by the
+addition of commas), and spelling has been standardized;
+
+
+
+capitalization and italics have not been altered.
+Quotations from published sources are of course left
+unchanged.
+
+
+
+
+TABLE OF CONTENTS
+
+
+
+Prefaceiii
+Note on Sources and Quotationsvii
+CHAPTER ONE - Introduction1
+CHAPTER TWO - The Difference Engine12
+CHAPTER THREE- The Analytical Engine through 1846106
+CHAPTER FOUR - Babbage and Calculating Machines after 1846207
+CHAPTER FIVE - Conclusion271
+Appendix - Operation of the Difference Engine281
+Bibliography286
+
+
+
+
+Preface  
+Chapter 1   
+Chapter 2  
+Chapter 3  
+Chapter 4  
+Chapter 5  
+
+
+
+
+
+var pageTracker = _gat._getTracker("UA-826802-2");
+pageTracker._initData();
+pageTracker._trackPageview();
+
+

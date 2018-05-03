@@ -1,0 +1,114 @@
+
+
+
+
+The Wizard Inside The Machine -- Printout -- TIME
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var adFactory = new TiiAdFactory(adConfig, "printerfriendly");
+adFactory.setChannel("u.s.");
+adFactory.setSubchannel("");
+adFactory.setChannelPage();
+
+
+
+var s_account="timecom";
+
+
+
+
+s_time.channel = 'time';
+s_time.pageName = 'us|the wizard inside the machine|print';
+s_time.prop6 = 'nation';
+s_time.prop7 = 'print version';
+s_time.prop16 = 'us';
+
+s_time.prop17 = location.href;
+
+
+if (typeof(catsCSV) == "string") s_time.prop13 = catsCSV;
+if (typeof(omnitureHookFunction) == "function") eval("omnitureHookFunction();");
+var s_code=s_time.t();if(s_code)document.write(s_code)
+
+
+
+
+
+
+
+
+adFactory.getAd(728, 90).write();
+
+
+
+
+
+
+
+Back to Article
+
+
+
+
+
+Click to Print
+
+
+
+
+
+
+Monday, Apr. 16, 1984
+The Wizard Inside The Machine
+By Alexander L. Taylor III
+
+COVER STORY  Software is the magic carpet to the future  Hardware or software? the child of today's computer age might ask.  His world is divided into two parts: hardware, the machinery that makes up a computer, and software, the programs of instructions that tell computers what to do. And while the hardware is visible and tangible, the child knows that software is the soul of the machine. Without software, a computer is little more than a hunk of plastic and silicon that might as well be used as a doorstop. A computer without software is like a car... 
+
+
+
+Click to Print
+
+
+
+
+
+Find this article at:
+http://content.time.com/time/magazine/article/0,9171,954266,00.html
+
+
+
+
+
+
+Copyright © 2014 Time Inc. All rights reserved. Reproduction in whole or in part without permission is prohibited.
+
+
+Privacy Policy|Add TIME Headlines to your Site|Contact Us|Customer Service
+
+
+
+
+
+
+
+

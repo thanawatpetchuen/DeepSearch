@@ -1,0 +1,1732 @@
+
+
+
+
+Category:Computers - Wikimedia Commons
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":14,"wgPageName":"Category:Computers","wgTitle":"Computers","wgCurRevisionId":297563090,"wgRevisionId":297563090,"wgArticleId":1039,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Interwiki from wikidata","Categories requiring permanent diffusion","Computing","Digital electronic devices","Mathematical tools"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Category:Computers","wgRelevantArticleId":1039,"wgRequestId":"WuipqQpAMFsAAGXRQusAAABI","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgULSCurrentAutonym":"English","wgNoticeProject":"commons","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q6061304","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.Long-Image-Names-in-Categories":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.categoryTree.css":"ready","mediawiki.action.view.categoryPage.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.helplink":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready","ext.wikimediaBadges":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["mmv.head","mmv.bootstrap.autostart","ext.math.scripts","ext.categoryTree","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Slideshow","ext.gadget.ZoomViewer","ext.gadget.CollapsibleTemplates","ext.gadget.fastcci","ext.gadget.UploadWizard","ext.gadget.Stockphoto","ext.gadget.WatchlistNotice","ext.gadget.AjaxQuickDelete","ext.gadget.WikiMiniAtlas","ext.gadget.LanguageSelect","ext.gadget.PictureOfTheYearEnhancements","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Help
+
+Category:Computers 
+From Wikimedia Commons, the free media repository 
+
+					Jump to:					navigation, 					search
+
+
+
+
+This is a main category requiring frequent diffusion and maybe maintenance. As many pictures and media files as possible should be moved into appropriate subcategories.
+
+
+ The article Computers on Wikipedia projects: (en) Computer ·
+(af) Rekenaar · (als) Computer · (am) ኮምፒዩተር · (an) Ordinador · (ang) Spearctelle · (ar) حاسوب · (arc) ܚܫܘܒܐ (ܡܐܟܢܐ) · (arz) كومبيوتر · (as) কম্পিউটাৰ · (ast) Computadora · (az) Kompyuter · (ba) Компьютер · (bar) Rechna · (bat-smg) Kuompioteris · (be) Камп'ютар · (be-tarask) Кампутар · (bg) Компютър · (bn) কম্পিউটার · (bo) གློག་ཀླད། · (bpy) কম্পিউটার · (br) Urzhiataer · (bs) Računar · (bug) Komputer · (ca) Ordinador · (ceb) Kompiyuter · (chy) Tséohketoetanóto · (crh) Kompyuter · (cs) Počítač · (cv) Компьютер · (cy) Cyfrifiadur · (da) Computer · (de) Computer · (diq) Komputer · (el) Ηλεκτρονικός υπολογιστής · (eml) Zarvlån · (eo) Komputilo · (es) Computadora · (et) Arvuti · (eu) Ordenagailu · (fa) رایانه · (fi) Tietokone · (fiu-vro) Puutri · (fo) Teldur · (fr) Ordinateur · (fur) Ordenadôr · (fy) Kompjûter · (ga) Ríomhaire · (gan) 電腦 · (gd) Coimpiutair · (gl) Ordenador · (gn) Kombutadóra · (got) 𐍅𐌹𐍄𐌹𐍂𐌰𐌷𐌽𐌾𐌰𐌽𐌳𐍃/Witirahnjands · (gu) કમ્પ્યૂટર · (gv) Co-earrooder · (ha) Na'ura · (hak) Thien-nó · (he) מחשב · (hi) अभिकलित्र · (hif) Computer · (hr) Računalo · (ht) Òdinatè · (hu) Számítógép · (hy) Համակարգիչ · (ia) Ordinator · (id) Komputer · (ig) Orunotu · (ilo) Kompiuter · (io) Ordinatro · (is) Tölva · (it) Computer · (iu) ᖃᕋᓴᐅᔭᖅ · (ja) コンピュータ · (jbo) skami · (jv) Komputer · (ka) კომპიუტერი · (kg) Ludinatelo · (kk) Компьютер · (km) កុំព្យូទ័រ · (kn) ಗಣಕಯಂತ್ರ · (ko) 컴퓨터 · (krc) Компьютер · (ks) کَمپیوٗٹَر · (ku) Komputer · (kw) Comptyor · (ky) Компютер (ЭЭМ) · (la) Computatrum · (lad) Contador · (lb) Computer · (lez) Компьютер · (li) Computer · (lmo) Cumpiüter · (ln) Esálela · (lo) ຄອມພິວເຕີ · (lt) Kompiuteris · (lv) Dators · (mg) Mpikajy · (mhr) Компьютер · (mk) Сметач · (ml) കമ്പ്യൂട്ടർ · (mn) Компьютер · (mr) संगणक विज्ञान · (ms) Komputer · (mt) Kompjuter · (mwl) Cumputador · (my) ကွန်ပျူတာ · (myv) Арси машинась · (mzn) کامپیوتر · (nah) Chīuhpōhualhuaztli · (nap) Computer · (nds) Reekner · (nds-nl) Komputer · (ne) कम्प्युटर · (new) कम्प्युटर · (nl) Computer · (nn) Datamaskin · (no) Datamaskin · (nv) Béésh bee akʼeʼelchíhí tʼáá bí nitsékeesígíí · (oc) Ordinator · (or) କମ୍ପ୍ୟୁଟର · (pa) ਕੰਪਿਊਟਰ · (pam) Computer · (pl) Komputer · (pnb) کمپیوٹر · (pnt) Ηλεκτρονικόν υπολογιστής · (ps) سولګر · (pt) Computador · (qu) Antañiqiq · (ro) Calculator · (ru) Компьютер · (rue) Компютер · (sa) सङ्गणकम् · (sah) Көмпүүтэр · (sc) Elaboradore · (scn) Computer · (sco) Computer · (sh) Kompjuter · (si) පරිගණකය · (simple) Computer · (sk) Počítač · (sl) Računalnik · (so) Kumbuyuutar · (sq) Kompjuteri · (sr) Рачунар · (stq) Computer · (sv) Dator · (sw) Tarakilishi · (szl) Kůmputer · (ta) கணினி · (te) కంప్యూటర్ · (tg) Компутар · (th) คอมพิวเตอร์ · (tk) Kompýuter · (tl) Kompyuter · (tr) Bilgisayar · (tt) Санак · (uk) Комп'ютер · (ur) شمارِندہ · (uz) Kompyuter · (vec) Computer · (vi) Máy tính · (vls) Computer · (wa) Copiutrece · (war) Kompyuter · (wo) Nosukaay · (wuu) 计算机 · (xh) Ikhompyutha · (xmf) კომპიუტერი · (yi) קאמפיוטער · (yo) Kọ̀mpútà · (za) Dennauj · (zh) 電子計算機 · (zh-classical) 電腦 · (zh-min-nan) Tiān-náu · +/−
+
+Internationalization
+
+English: Computers
+Esperanto: Komputiloj
+Français : Ordinateurs
+Polski: Komputery
+Türkçe: Bilgisayarlar
+
+
+
+To display all parents click on the "▶":
+
+
+► Computers
+
+
+
+
+
+
+
+
+ Contents:
+Top · 0–9 
+· A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+
+
+
+
+
+
+
+Subcategories
+This category has the following 36 subcategories, out of 36 total.
+ 
+►  Computers by brand‎ (11 C)
+
+
+►  Computers by name‎ (36 C)
+
+
+►  Computers by operating system‎ (6 C)
+
+
+►  Computers by type‎ (33 C)
+
+*
+►  People with computers‎ (8 C,  121 F)
+
+?
+►  Unidentified computers‎ (66 F)
+
+A
+►  Advertising of computers‎ (1 C,  5 F)
+
+
+►  Animals with computers‎ (4 C)
+
+
+►  Computers in art‎ (5 C,  44 F)
+
+B
+►  Books about computers‎ (4 C,  22 F)
+
+
+►  Computer brands‎ (33 C, 1 P, 1 F)
+
+C
+►  Computer repair‎ (84 F)
+
+
+►  Computer rooms‎ (6 C,  43 F)
+
+
+►  Computer conferences‎ (48 C,  38 F)
+
+D
+►  Computer diagrams‎ (8 C, 1 P, 239 F)
+
+E
+►  Computer errors‎ (7 C,  19 F)
+
+F
+►  Fictional computers‎ (3 C,  7 F)
+
+H
+►  Computer hardware‎ (49 C,  461 F)
+
+
+►  Computer hardware companies‎ (13 C,  4 F)
+
+
+►  Historical computers‎ (35 C, 1 P, 109 F)
+
+I
+►  Information technology‎ (40 C,  394 F)
+
+
+►  Computer input‎ (5 C,  4 F)
+
+
+►  Interoperability‎ (76 F)
+
+L
+►  Library computers‎ (3 C,  59 F)
+
+M
+►  Computer maintenance‎ (17 F)
+
+
+►  Military computers‎ (5 C,  26 F)
+
+
+►  Computers in museums‎ (2 C,  27 F)
+
+O
+►  Computer-related occupations‎ (9 C,  29 F)
+
+
+►  Computer output‎ (3 C,  3 F)
+
+P
+►  Computer peripherals‎ (36 C, 1 P, 172 F)
+
+
+►  Phototypesetting‎ (34 F)
+
+S
+►  Computer shops‎ (7 C,  7 F)
+
+
+►  Single-board computers‎ (31 C, 1 P, 102 F)
+
+
+►  System network administrator‎ (1 P)
+
+V
+►  Videos of computers‎ (1 C,  20 F)
+
+Y
+►  Yellow computers‎ (3 F)
+
+
+
+Pages in category "Computers"
+The following 3 pages are in this category, out of 3 total.
+ 
+ComputerA
+User:AMAURYA8293M
+User:Mahmudur Rahman Jawad
+
+Media in category "Computers"
+The following 200 files are in this category, out of 906 total.
+(previous page) (next page)
+
+
+
+1052 01F (ubt).JPG
+2,592 × 1,944; 1.49 MB
+
+
+
+
+
+2014-04-21 IMG 7224 최광모.JPG
+2,448 × 3,264; 1.97 MB
+
+
+
+
+
+610b-soft.jpg
+1,335 × 953; 132 KB
+
+
+
+
+
+Aaimages.jpg
+303 × 166; 15 KB
+
+
+
+
+
+Abandoned (3130539983).jpg
+2,747 × 2,185; 1.26 MB
+
+
+
+
+
+Abuzar Khan 10.jpg
+2,217 × 2,657; 1,019 KB
+
+
+
+
+
+Abuzar Khan 2.jpg
+1,361 × 1,897; 457 KB
+
+
+
+
+
+Abuzar Khan 3.jpg
+1,232 × 1,613; 165 KB
+
+
+
+
+
+Abuzar Khan.jpg
+749 × 1,016; 145 KB
+
+
+
+
+
+Accessdenied.jpg
+1,008 × 440; 67 KB
+
+
+
+
+
+AGTM-Cyber.png
+886 × 162; 74 KB
+
+
+
+
+
+Ajouter scrutin.jpg
+55 × 47; 8 KB
+
+
+
+
+
+AKIE-SEA-Version2.jpg
+791 × 347; 54 KB
+
+
+
+
+
+AKIE-SEA-VersionSimple.jpg
+656 × 301; 43 KB
+
+
+
+
+
+AmortizedPush.png
+450 × 400; 17 KB
+
+
+
+
+
+Amstrad PPC 640 in werking.jpg
+3,264 × 2,448; 1.37 MB
+
+
+
+
+
+Amstrad PPC familie.JPG
+2,360 × 1,880; 723 KB
+
+
+
+
+
+APC-3997.jpg
+3,928 × 2,480; 3.52 MB
+
+
+
+
+
+Aplex APC-3595.png
+2,777 × 2,737; 2.12 MB
+
+
+
+
+
+Aplex logo.png
+1,000 × 290; 22 KB
+
+
+
+
+
+APLEX Tradeshow.jpg
+433 × 359; 182 KB
+
+
+
+
+
+APLEX Waterproof Technology.JPG
+381 × 308; 112 KB
+
+
+
+
+
+App Start-RouteConfig.png
+168 × 110; 2 KB
+
+
+
+
+
+APQC-PCF.jpg
+671 × 765; 79 KB
+
+
+
+
+
+Arbeitsplatz-koethen-rr.JPG
+845 × 634; 82 KB
+
+
+
+
+
+Arifnaseem.png
+640 × 847; 1.22 MB
+
+
+
+
+
+Armputer iitbombay.jpg
+670 × 867; 89 KB
+
+
+
+
+
+Arusha 5387 Nevit.jpg
+3,648 × 2,736; 3.69 MB
+
+
+
+
+
+Asperitas AIC24 Immersion system.jpg
+4,724 × 3,149; 8.65 MB
+
+
+
+
+
+Assembledparts.png
+1,031 × 541; 524 KB
+
+
+
+
+
+Asus M5-A99 FX PRO 2,0 motherboard.jpg
+2,986 × 3,991; 3.36 MB
+
+
+
+
+
+ATLAS MAX.jpg
+414 × 741; 106 KB
+
+
+
+
+
+Attestation d'inscription.jpg
+664 × 719; 56 KB
+
+
+
+
+
+Attestation tenant lieu de carte.jpg
+749 × 832; 72 KB
+
+
+
+
+
+Attestation.jpg
+297 × 161; 23 KB
+
+
+
+
+
+AVA Avatar VR Desktop.png
+1,000 × 1,000; 222 KB
+
+
+
+
+
+AVADirect Aurora.png
+736 × 792; 146 KB
+
+
+
+
+
+AVADirect God Mode Extreme Gaming PC.png
+560 × 583; 465 KB
+
+
+
+
+
+Avalanche Hardline Liquid Cooled Gaming PC.png
+991 × 991; 1.15 MB
+
+
+
+
+
+Avant P870DM2 Gaming Laptop.png
+500 × 500; 218 KB
+
+
+
+
+
+Averatec All In One Post Screen.jpg
+4,032 × 3,024; 1.94 MB
+
+
+
+
+
+Avtar Welfar Society.png
+351 × 350; 23 KB
+
+
+
+
+
+BABI AI Computer System.jpg
+1,024 × 768; 225 KB
+
+
+
+
+
+Ball-457334 1280.jpg
+1,280 × 720; 154 KB
+
+
+
+
+
+BangBon Bangkok 28.10.2017 (12).jpg
+2,448 × 3,264; 1.82 MB
+
+
+
+
+
+BangBon Bangkok 28.10.2017 (13).jpg
+3,264 × 2,448; 1.4 MB
+
+
+
+
+
+BangBon Bangkok 28.10.2017 (16).jpg
+3,264 × 2,448; 1.72 MB
+
+
+
+
+
+BangBon Bangkok 28.10.2017 (17).jpg
+2,448 × 3,264; 1.66 MB
+
+
+
+
+
+BangBon Bangkok 28.10.2017 (18).jpg
+3,264 × 2,448; 1.32 MB
+
+
+
+
+
+Banner portaal computer.PNG
+507 × 150; 8 KB
+
+
+
+
+
+Banner transparent.png
+800 × 100; 47 KB
+
+
+
+
+
+Baum David System 90.jpg
+3,264 × 2,448; 2.41 MB
+
+
+
+
+
+Bedroom1.jpg
+2,048 × 1,360; 518 KB
+
+
+
+
+
+Belly and Emmy.jpg
+3,024 × 4,032; 1.7 MB
+
+
+
+
+
+Best Laptop For Hackintosh.jpg
+640 × 370; 24 KB
+
+
+
+
+
+BinaryBastion.jpg
+1,920 × 800; 494 KB
+
+
+
+
+
+Biowall 2.jpg
+2,560 × 1,920; 777 KB
+
+
+
+
+
+Biowall 3.jpg
+2,560 × 1,920; 643 KB
+
+
+
+
+
+Bisley range equipment.jpg
+2,048 × 1,536; 1.14 MB
+
+
+
+
+
+Bit, byte, gebissen– Mitschnitte mehrerer Sendungen auf Cassette.jpg
+2,000 × 2,222; 770 KB
+
+
+
+
+
+Bitspower logo.png
+500 × 150; 50 KB
+
+
+
+
+
+Blucoud.JPG
+3,000 × 4,000; 2.5 MB
+
+
+
+
+
+Blucoud2.JPG
+4,000 × 3,000; 2.62 MB
+
+
+
+
+
+Boder.jpg
+680 × 408; 40 KB
+
+
+
+
+
+Bouton afficher.jpg
+123 × 19; 8 KB
+
+
+
+
+
+Bouton choisir le mandant.jpg
+274 × 18; 9 KB
+
+
+
+
+
+Bouton choisir mandataire.jpg
+275 × 18; 9 KB
+
+
+
+
+
+Bouton génerer fichier TXT.jpg
+122 × 82; 10 KB
+
+
+
+
+
+Bouton génerer fichier XML.jpg
+123 × 83; 10 KB
+
+
+
+
+
+Bouton impression liste bureau.jpg
+106 × 89; 11 KB
+
+
+
+
+
+Bouton impression.jpg
+87 × 60; 10 KB
+
+
+
+
+
+Bouton inscription.jpg
+108 × 51; 9 KB
+
+
+
+
+
+Bouton inscrire sur choix.jpg
+182 × 30; 9 KB
+
+
+
+
+
+Bouton nouvelle procuration.jpg
+101 × 52; 9 KB
+
+
+
+
+
+Bouton numérotation.jpg
+284 × 30; 10 KB
+
+
+
+
+
+Bouton proposé vers radié.jpg
+320 × 39; 10 KB
+
+
+
+
+
+Bouton radiation.jpg
+94 × 52; 9 KB
+
+
+
+
+
+Bouton rechercher les avis.jpg
+237 × 35; 9 KB
+
+
+
+
+
+Bouton selection directe.jpg
+219 × 51; 9 KB
+
+
+
+
+
+Brancobaert.jpeg
+640 × 426; 44 KB
+
+
+
+
+
+Brasilianischer Sinclair Spectrum Nachbau.jpg
+2,512 × 2,061; 1.14 MB
+
+
+
+
+
+Brentford PC.jpg
+810 × 724; 183 KB
+
+
+
+
+
+Buch NDR Klein Computer.JPG
+2,112 × 2,816; 1.71 MB
+
+
+
+
+
+Bulldozer-module-diagram.png
+1,337 × 1,553; 165 KB
+
+
+
+
+
+Ca cartseq.gif
+193 × 184; 2 KB
+
+
+
+
+
+Calculatorul MARICA.jpg
+4,608 × 3,456; 5.75 MB
+
+
+
+
+
+Call centre desk lakeland florida.jpg
+2,288 × 1,712; 1.69 MB
+
+
+
+
+
+Capacidad-hdd-por-1000-dolar-2014.png
+970 × 603; 10 KB
+
+
+
+
+
+Capacidad-ram-por-dolar.png
+970 × 603; 14 KB
+
+
+
+
+
+CarteRetour.jpg
+750 × 109; 29 KB
+
+
+
+
+
+Casa Macaya - 2014 Open House Barcelona - 39.JPG
+3,648 × 2,736; 2.36 MB
+
+
+
+
+
+Catzilla ALLBenchmark 01.jpg
+960 × 540; 158 KB
+
+
+
+
+
+Catzilla ALLBenchmark 02.jpg
+960 × 540; 138 KB
+
+
+
+
+
+Catzilla game test.jpg
+1,011 × 664; 271 KB
+
+
+
+
+
+Catzilla.jpg
+246 × 243; 14 KB
+
+
+
+
+
+Cawi.png
+442 × 300; 63 KB
+
+
+
+
+
+CDC 6500.jpg
+1,920 × 1,025; 598 KB
+
+
+
+
+
+CDC9762-smd-drive.jpg
+850 × 1,321; 570 KB
+
+
+
+
+
+Centcom20040818.jpg
+677 × 508; 34 KB
+
+
+
+
+
+Centre vote.jpg
+166 × 25; 10 KB
+
+
+
+
+
+CF-Speicherkarten in Box IMG 1581.jpg
+2,592 × 1,944; 1.86 MB
+
+
+
+
+
+Challenger 2P.jpg
+2,560 × 1,920; 612 KB
+
+
+
+
+
+Charge CPU.jpg
+1,152 × 648; 45 KB
+
+
+
+
+
+Checador.JPG
+2,304 × 3,072; 2.1 MB
+
+
+
+
+
+Child and Computer.jpg
+4,164 × 2,832; 5.36 MB
+
+
+
+
+
+Choix scrutin.jpg
+146 × 24; 9 KB
+
+
+
+
+
+Choix tour scrutin.jpg
+519 × 62; 15 KB
+
+
+
+
+
+CIFA-1.png
+600 × 374; 195 KB
+
+
+
+
+
+CIP-Insel.jpg
+1,600 × 1,200; 458 KB
+
+
+
+
+
+Citation-needed-sticker-computer-ala.jpg
+768 × 1,024; 86 KB
+
+
+
+
+
+Classe Mobile.jpg
+1,548 × 2,064; 995 KB
+
+
+
+
+
+ClavierAvecToucheSystEntouree.svg
+777 × 237; 79 KB
+
+
+
+
+
+Cleanup-Registry.png
+217 × 103; 41 KB
+
+
+
+
+
+Close-up Display Writer.JPG
+1,652 × 1,536; 572 KB
+
+
+
+
+
+CloudOver.org logo.png
+424 × 424; 51 KB
+
+
+
+
+
+Codice.png
+663 × 512; 51 KB
+
+
+
+
+
+Comp.png
+380 × 219; 78 KB
+
+
+
+
+
+Compaq Presario 2200 Desktop PC.jpg
+720 × 540; 64 KB
+
+
+
+
+
+Compteurs intelligents Creos Smarty.jpg
+2,000 × 1,082; 413 KB
+
+
+
+
+
+Compucter.jpg
+1,280 × 720; 113 KB
+
+
+
+
+
+Compus all n 1 - 2.jpg
+3,264 × 2,448; 2.76 MB
+
+
+
+
+
+Computador hardware.JPG
+3,264 × 2,448; 1.19 MB
+
+
+
+
+
+COMPUTADORA.JPG
+320 × 240; 14 KB
+
+
+
+
+
+Computer auf Platform Mini-ITX - IMGP1040.JPG
+3,008 × 2,000; 2.38 MB
+
+
+
+
+
+Computer classroom.JPG
+4,320 × 3,240; 2.42 MB
+
+
+
+
+
+Computer desktop laptop 1990s.png
+568 × 858; 728 KB
+
+
+
+
+
+COMPUTER GOD.png
+830 × 472; 263 KB
+
+
+
+
+
+Computer in County of Orange offices, 1967.jpg
+1,743 × 1,323; 1,006 KB
+
+
+
+
+
+Computer lab icon.svg
+32 × 32; 3 KB
+
+
+
+
+
+COMPUTER LAB IMUV.jpg
+4,096 × 2,304; 1.69 MB
+
+
+
+
+
+Computer motherboard magnified by water.jpg
+7,360 × 4,912; 2.17 MB
+
+
+
+
+
+Computer parts on display.JPG
+3,264 × 2,448; 4.15 MB
+
+
+
+
+
+Computer-photo-Visual-(Visual 50)-(Z80A based CPU).jpg
+1,004 × 1,204; 171 KB
+
+
+
+
+
+Computer-scrivania con fotomontaggio.jpg
+2,800 × 1,866; 3.04 MB
+
+
+
+
+
+Computerclipart.jpg
+240 × 163; 25 KB
+
+
+
+
+
+Computermaus 1986 Mini-DIN 7 Stecker.JPG
+4,896 × 3,672; 3.99 MB
+
+
+
+
+
+Computers being shipped in for use in local schools in Goa, India, 1990s or early 2000s (2).jpg
+1,024 × 768; 183 KB
+
+
+
+
+
+Computers being shipped in for use in local schools in Goa, India, 1990s or early 2000s (2a).jpg
+1,280 × 960; 182 KB
+
+
+
+
+
+Computers being shipped in for use in local schools in Goa, India, 1990s or early 2000s (6).jpg
+1,024 × 768; 200 KB
+
+
+
+
+
+Computers being shipped in for use in local schools in Goa, India, 1990s or early 2000s (7).jpg
+1,280 × 960; 206 KB
+
+
+
+
+
+Computers img 5906.jpg
+2,048 × 1,536; 1.12 MB
+
+
+
+
+
+Computers img 5908.jpg
+2,048 × 1,536; 1.02 MB
+
+
+
+
+
+Computers img 5909.jpg
+2,048 × 1,536; 1.08 MB
+
+
+
+
+
+Computers img 5912.jpg
+2,048 × 1,536; 1.26 MB
+
+
+
+
+
+Compyoter לוגו.png
+400 × 66; 10 KB
+
+
+
+
+
+Conectorrj.png
+320 × 214; 57 KB
+
+
+
+
+
+Copyright law cases.jpg
+450 × 450; 81 KB
+
+
+
+
+
+Corneroffice.png
+1,024 × 768; 1.11 MB
+
+
+
+
+
+CPD White Martins Brasil 1969 - Foto 2.JPG
+1,001 × 731; 47 KB
+
+
+
+
+
+CPU-Last.png
+553 × 457; 59 KB
+
+
+
+
+
+CPU3.JPG
+2,304 × 3,072; 1.73 MB
+
+
+
+
+
+Creation nouvelle adresse.jpg
+160 × 52; 9 KB
+
+
+
+
+
+Crisys PACT Nov 2013.png
+1,000 × 631; 1.49 MB
+
+
+
+
+
+CSIRO ScienceImage 1821 Mobile control centre SAMMI.jpg
+1,500 × 856; 282 KB
+
+
+
+
+
+CSIRO ScienceImage 1975 CSIR Mk1 Computer.jpg
+2,657 × 2,156; 2.69 MB
+
+
+
+
+
+CSIRO ScienceImage 2042 A row of computer servers in a server rack.jpg
+4,827 × 3,218; 2.64 MB
+
+
+
+
+
+CSIRO ScienceImage 3539 Trevor Pearcey operating the CSIR Mk1 Computer.jpg
+1,853 × 2,657; 1.82 MB
+
+
+
+
+
+CSIRO ScienceImage 3819 CSIR Mk1 Computer.jpg
+2,850 × 2,270; 4.84 MB
+
+
+
+
+
+CSIRO ScienceImage 3916 CSIR Mk1 Computer.jpg
+2,657 × 2,631; 3.33 MB
+
+
+
+
+
+CSIRO ScienceImage 4152 Delivery and installation of new computer 1970.jpg
+2,657 × 2,150; 2.19 MB
+
+
+
+
+
+CSIRO ScienceImage 7962 Scientist in the laboratory at AAHL.jpg
+2,953 × 1,969; 1.7 MB
+
+
+
+
+
+CSIRO ScienceImage 7964 Scientist in the laboratory at AAHL.jpg
+2,953 × 1,969; 1.87 MB
+
+
+
+
+
+CSMBeU.jpg
+1,323 × 614; 57 KB
+
+
+
+
+
+Custom built computer from 2016.jpg
+4,288 × 2,848; 3.51 MB
+
+
+
+
+
+DangeunTexteditor001.png
+1,483 × 849; 77 KB
+
+
+
+
+
+Darrens badcomputers.jpg
+1,000 × 748; 179 KB
+
+
+
+
+
+DASK kontrolbord.jpg
+4,288 × 3,216; 2.68 MB
+
+
+
+
+
+Datacenter.jpg
+1,024 × 768; 402 KB
+
+
+
+
+
+Deavmi's code machine.jpg
+5,312 × 2,988; 3.94 MB
+
+
+
+
+
+DEC Rainbow 100 floor model.JPG
+1,848 × 3,537; 2.23 MB
+
+
+
+
+
+Deljao indonesia.png
+701 × 627; 67 KB
+
+
+
+
+
+Dell Inspiron Mini 9.jpg
+2,944 × 2,944; 1.84 MB
+
+
+
+
+
+Depot des signatures.jpg
+141 × 88; 11 KB
+
+
+
+
+
+Desktop Linux Mint 9 KDE.png
+1,920 × 1,080; 2.25 MB
+
+
+
+
+
+Desktop-tablet-mobile-300px.png
+300 × 168; 2 KB
+
+
+
+
+
+Deutschen Feuerwehrmuseum Fulda - Angebrannter PC ("Game over").jpg
+3,072 × 2,304; 3.01 MB
+
+
+
+
+
+DG Nova.jpg
+2,164 × 1,096; 446 KB
+
+
+
+
+
+Diernisse Keyboard T-1.JPG
+2,729 × 2,183; 2.65 MB
+
+
+
+
+
+DifferenceEngineNo2.jpg
+2,773 × 1,872; 2.09 MB
+
+
+
+
+
+Digital Computer ISIJU-I.jpg
+731 × 790; 193 KB
+
+
+
+
+
+Digital Markiting.png
+505 × 392; 62 KB
+
+
+
+
+
+DigitalDAQv3ESPANOL.pdf
+3,129 × 1,708; 64 KB
+
+
+
+
+
+Dispozitiv Introducere Date.jpg
+4,608 × 3,456; 5.65 MB
+
+
+
+
+
+Drive bays.jpg
+2,700 × 900; 256 KB
+
+
+
+
+
+Drop Down List.png
+625 × 460; 62 KB
+
+
+
+
+
+DV1 Manager.jpg
+613 × 214; 60 KB
+
+
+
+
+
+E-Sata Male Port.JPG
+5,184 × 3,456; 4.45 MB
+
+
+
+
+
+E151FPp Power Supply.jpg
+2,592 × 1,944; 872 KB
+
+
+
+
+
+EA8.jpg
+472 × 325; 16 KB
+
+
+
+
+
+Eazycorner Computer Training Center.png
+300 × 250; 9 KB
+
+
+
+
+
+EBML.JPG
+164 × 255; 10 KB
+
+
+
+
+
+Editing-Circle-SGBerlin.png
+600 × 600; 28 KB
+
+
+
+
+
+Edo Outreach Network 1.JPG
+700 × 525; 126 KB
+
+
+
+
+
+Edo Outreach Network 2.JPG
+700 × 525; 120 KB
+
+
+
+
+
+Educación especial primaria.jpg
+960 × 720; 281 KB
+
+
+
+
+
+Education.png
+460 × 400; 37 KB
+
+
+
+
+
+Eje cronológico 1.png
+534 × 101; 3 KB
+
+
+
+
+
+El disco duro del ordenador.jpg
+3,264 × 1,836; 2.12 MB
+
+
+
+
+
+En-us-computers.ogg
+1.5 s; 16 KB
+
+
+
+
+
+Ensemble PC.jpg
+1,928 × 3,088; 1.72 MB
+
+
+(previous page) (next page)
+ 
+						Retrieved from "https://commons.wikimedia.org/w/index.php?title=Category:Computers&oldid=297563090"					
+Categories: ComputingDigital electronic devicesMathematical toolsNon-topical/index: Interwiki from wikidataCategories requiring permanent diffusion 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+EnglishNot logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+CategoryDiscussion 
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+ViewEditHistory 
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigate
+
+
+Main pageWelcomeCommunity portalVillage pumpHelp center 
+
+
+
+Participate
+
+
+Upload fileRecent changesLatest filesRandom fileContact us 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+WikipediaWikisourceWikiversity 
+
+
+
+Tools
+
+
+What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata item 
+
+
+
+In Wikipedia
+
+
+АҧсшәаAcèhAfrikaansAlemannischአማርኛAragonésÆngliscالعربيةܐܪܡܝܐمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)‎БългарскиभोजपुरीBislamaবাংলাབོད་ཡིགবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiᨅᨔ ᨕᨘᨁᨗБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoTsetsêhestâheseکوردیQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiडोटेलीΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisFurlanFryskGaeilge贛語GàidhligGalegoAvañe'ẽ𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHausa客家語/Hak-kâ-ngîעבריתहिन्दीFiji HindiHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIgboIñupiakIlokanoIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ/inuktitut日本語PatoisLa .lojban.Basa JawaქართულიQaraqalpaqshaKabɩyɛKongoGĩkũyũҚазақшаភាសាខ្មែរಕನ್ನಡ한국어Къарачай-малкъарकॉशुर / کٲشُرRipoarischKurdîКомиKernowekКыргызчаLatinaLadinoLëtzebuergeschЛезгиLingua Franca NovaLimburgsLumbaartLingálaລາວLietuviųLatviešuमैथिलीMalagasyОлык марийМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorskOccitanLivvinkarjalaOromooଓଡ଼ିଆИронਪੰਜਾਬੀKapampanganPolskiPiemontèisپنجابیΠοντιακάپښتوPortuguêsRuna SimiRomaniRomânăРусскийРусиньскыйसंस्कृतम्Саха тылаSarduSicilianuScotsسنڌيDavvisámegiellaSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSesothoSeelterskBasa SundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeXitsongaТатарча/tatarçaУдмуртئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsWalonWinarayWolof吴语IsiXhosaმარგალურიייִדישYorùbáVahcuengh中文文言Bân-lâm-gú粵語IsiZulu 
+Edit links 
+
+
+
+
+
+ This page was last edited on 18 April 2018, at 21:49.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy.
+
+
+Privacy policy
+About Wikimedia Commons
+Disclaimers
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.290","ppvisitednodes":{"value":5283,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":142599,"limit":2097152},"templateargumentsize":{"value":9748,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":582,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  198.781      1 -total"," 32.50%   64.607      1 Template:On_Wikipedia"," 30.85%   61.331      1 Template:Interwiki_from_wikidata"," 19.40%   38.571      1 Template:Translation_table"," 10.06%   19.999      1 Template:Categorise","  9.93%   19.736      1 Template:Lan","  9.08%   18.049      1 Template:Autotranslate","  5.86%   11.658      1 Template:CategoryTOC","  5.03%    9.996      1 Template:Categorise/layout","  4.33%    8.601      1 Template:Cmbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.049","limit":"10.000"},"limitreport-memusage":{"value":1879699,"limit":52428800}},"cachereport":{"origin":"mw1256","timestamp":"20180501175345","ttl":21600,"transientcontent":true}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":665,"wgHostname":"mw1256"});});
+
+

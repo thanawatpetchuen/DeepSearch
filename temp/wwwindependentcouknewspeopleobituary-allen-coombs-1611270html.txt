@@ -1,0 +1,65 @@
+<!doctype html>
+<html ng-app="root" ng-strict-di>
+
+<head>
+    <base href="/">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="Truly independent journalism designed for a premium digital experience. Detailed coverage of national and global headlines and incisive articles from our award-winning team of journalists. Exclusive supplements covering topics that benefit from in-depth analysis and reporting.">
+    <title>Subscriptions | The Independent Daily Edition</title>
+    <link rel="icon" type="image/x-icon" href="img/favicon.ico">
+    <link rel="stylesheet" href="css/style.css">
+    <script class="kxct" data-id="q9ooswvdn" data-timing="async" data-version="3.0" type="text/javascript">
+        window.Krux || ((Krux = function() {
+            Krux.q.push(arguments)
+        }).q = []);
+        (function() {
+                var k = document.createElement('script');
+                k.type = 'text/javascript';
+                k.async = true;
+                k.src = (location.protocol === 'https:' ? 'https:' : 'http:') + '//cdn.krxd.net/controltag/q9ooswvdn.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(k, s);
+            }
+            ());
+    </script>
+    <noscript>
+      <div class="unsupported-message">
+        <p>For full functionality of this site it is necessary to enable JavaScript...</p>
+        <p>Please follow the instructions in the link below.</p>
+        <p><a href="http://enable-javascript.com/" target="_blank">http://enable-javascript.com/</a></p>
+      </div>
+    </noscript>
+    <script>
+      +  function(l, y, t, i, c, s) {
+            l['LocalyticsGlobal'] = i;
+            l[i] = function() {
+                (l[i].q = l[i].q || []).push(arguments)
+            };
+            l[i].t = +new Date;
+            (s = y.createElement(t)).type = 'text/javascript';
+            s.src = '//web.localytics.com/v3/localytics.min.js';
+            (c = y.getElementsByTagName(t)[0]).parentNode.insertBefore(s, c);
+            ll('init', '027dbde3493f662b17a4445-c3722efc-26ad-11e8-c2f3-007c928ca240', {} /* Options */ );
+        }(window, document, 'script', 'll');
+    </script>
+</head>
+
+<body>
+    <root ng-cloak>
+        <span class="loader">Loading...</span>
+    </root>
+    <!--[if IE]>
+      <div class="unsupported-message">
+        <p>You are using an <strong>outdated</strong> browser.</p>
+        <p>Please <a href="http://browsehappy.com/" target="_blank">upgrade your browser</a> to improve your experience.</p>
+      </div>
+    <![endif]-->
+    <!--[if !IE]><!-->
+    <script src="js/vendor.js"></script>
+    <script src="js/bundle.js"></script>
+    <!--<![endif]-->
+</body>
+
+</html>

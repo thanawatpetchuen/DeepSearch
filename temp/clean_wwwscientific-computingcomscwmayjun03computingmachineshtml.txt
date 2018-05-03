@@ -1,7 +1,7 @@
 
 
 
-window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app40.us.archive.org';v.server_ms=905;archive_analytics.send_pageview({});});
+window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app19.us.archive.org';v.server_ms=861;archive_analytics.send_pageview({});});
 
 __wbhack.init('https://web.archive.org/web');
 
@@ -66,19 +66,19 @@ fail
 
 
 
-Feb
-NOV
+Sep
+FEB
 Nov
 
 
 
 
-03
+05
 
 
 
 
-2011
+2008
 2012
 2013
 
@@ -112,18 +112,22 @@ COLLECTED BY
 
 
 
-		Organization: Alexa Crawls
+		Organization: Internet Archive
 
 
-	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the Wayback Machine.
 	
 
 
 
-Collection: Alexa Crawls
+Collection: Wikipedia Outlinks February 2012
 
 
-	  Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the Wayback Machine after an embargo period.
+	  Crawl of outlinks from wikipedia.org started February, 2012. These files are currently not publicly accessible.
 	
 
 
@@ -133,7 +137,7 @@ TIMESTAMPS
 
 
 
-__wm.bt(575,27,25,2,"web","http://www.scientific-computing.com/scwmayjun03computingmachines.html","2012-11-03",1996);
+__wm.bt(575,27,25,2,"web","http://www.scientific-computing.com/scwmayjun03computingmachines.html","2012-02-05",1996);
 
 
 This page has moved.

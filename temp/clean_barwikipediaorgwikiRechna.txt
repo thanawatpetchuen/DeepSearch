@@ -1,0 +1,223 @@
+
+
+
+
+Rechna – Boarische Wikipedia
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Rechna","wgTitle":"Rechna","wgCurRevisionId":685455,"wgRevisionId":685455,"wgArticleId":2302,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Weblink offline","Computer","Geschichte der Informatik"],"wgBreakFrames":false,"wgPageContentLanguage":"bar","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Jenna","Feba","Meaz","Aprui","Mai","Juni","Juli","August","Septemba","Oktoba","Novemba","Dezemba"],"wgMonthNamesShort":["","Jen.","Feb.","Mea.","Apr.","Mai","Jun.","Jul.","Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Rechna","wgRelevantArticleId":2302,"wgRequestId":"WudPvwpAMFkAAJIgaAkAAAAU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"bar","pageLanguageDir":"ltr","pageVariantFallbacks":"bar","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"bar","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"Boarisch","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q68","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.20"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0dyaue3",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"bar"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js","ext.dismissableSiteNotice"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"bar\" dir=\"ltr\"\u003E\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cdiv style=\"border: 1px solid #bbb;background-color:#CEF6F5;color:#000000;padding:0.5em;margin:0.3em 0em 0.3em 0em;font-size:110%;\"\u003E\u003Cb\u003ESchon gewusst? \u003Ca href=\"/wiki/Boarisch\" title=\"Boarisch\"\u003EBairisch\u003C/a\u003E ist älter als Hochdeutsch!\u003C/b\u003E\u003Cbr/\u003E\n→ Während die deutsche Schriftsprache im 15./16. Jh. entstanden ist, sind die ältesten \u003Ca href=\"/wiki/Oidboarisch\" title=\"Oidboarisch\"\u003Ealtbairischen\u003C/a\u003E Texte aus dem 8. Jahrhundert.\u003C/div\u003E\n\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());
+
+Rechna 
+Aus Wikipedia 
+
+					Wexln zua:					Navigation, 					Suach
+
+A Rechna oda Computer (von lat.: computare, zusammenrechnen) is a Apparat, dea Datn mid Huif vo Rechnvoaschriftn (Programme) vaorbatn ko. Urspringlich worn Computer schlicht und oanfoch Rechnmaschinen, hom owa im Laf vo da Zeit imma meah andare Funktionen iwanumma. A gängige Bezeichnung fia an Rechna is aa de Obkiazung PC, wos fia Personal-Computer stähd.
+Zu am Rechna gheat a Buidschiam oda sunst irgand a Ausgabegerät (in da Fachsprach nennt ma des "Peripheriegerät"), wos oahm de Ergebnis vo de Berechnungan, de im Kistl g'macht woan san, ozoang duat. Um de Rechnungen ins Kistl einzumbringa, is a Eingabegerät notwendig. Heitigndogs is des im Regelfoi a Maus und a Tastatua.
+
+
+
+Inhoitsvazeichnis
+
+
+1 Gschicht vo de Rechna
+2 Drucksochn
+3 Im Netz
+
+3.1 Rechna-Museen
+
+
+
+
+
+Gschicht vo de Rechna[VE | Weakln]
+De Leidt, de mit an Hauffa Rechnen z'doan g'habt hom, hom scho ollewei übalegdt, wia sa se de Arwat leichta macha kannt'n. Dabei homs sase a scho recht boid Huifsmittl g'nomma wia d'Finga oda Stoana oda Stecka'n. Oans vo de am längstn benutztn Rechnmaschinan is da Abakus, dens scho seidt mindestns 1100 voa Jessas' Gebuat gebn hod.
+Ollahand raffinierde Maschinen gibts, de ma drahn ko um z'amzsejn z'kenna, indem ma anna Kurwe draht, doch des is von am heitig'n Kompiuta weid weg.
+Den earschtn, dea a wirkli funtionierd hodt, hodt da Konrad Zuse baut. De Maschin' war no ganz und gor mechanisch aufbaut und hot domois, anno 1938, wega da manglndn Genauigkeit leida no nedt so recht g'arwat. Spaada, noch'm Kriag, wo de Z1 aufg'arwat woan is vo de Bombn, hodt mas' nomoi baut und festgstejdt, dass a ganga is'.
+Oana vo die easchtn Rechna, der wos nur mit die heit gängigen Transistoren, oiso nix mit Röhren und so, goawat hot, woa as Mailüfterl. Den hot a Östareicher baut, und zwa da Heinz Zemanek. Des woa Oafang vo de 1950er Joahr.
+Drucksochn[VE | Weakln]
+
+Konrad Zuse: Der Computer – Mein Lebenswerk, Springer: Berlin, 1993, ISBN 3-540-56292-3
+Ron White: So funktionieren Computer. Ein visueller Streifzug durch den Computer & alles, was dazu gehört, Markt+Technik: München, 2004, ISBN 3-8272-6714-5
+M. Budde: Computer-Allgemeinwissen, Kostenloses Computerbuch für absolute Anfänger, PDF-Datei
+
+Im Netz[VE | Weakln]
+ Commons: Computer – Sammlung vo Buidl, Videos und Audiodateien
+
+Wikibook Computergschicht
+Vazeichnis vo nahezu oin je bautn Computertypn
+Listn vo de 500 leistungsstärksen Computer (englisch)
+Computer-Gschicht
+Varein zum Erhoit vo klassischn Computer
+Deitsche EDV-Gschicht 1940er-1960er - SUSAS Netzwerk fia Wissnsweitergab
+Rechna-Sicherheit@1@2Vorlage:Toter Link/www.computec.ch (Seite nicht mehr abrufbar; Suche in Webarchiven)
+Gschicht vo da Datnibatrogung
+De Entwicklung vum Computer
+Der Computer - Computer: Entstehung und Gschicht
+
+Rechna-Museen[VE | Weakln]
+
+8Bit-Museum.de
+virtuelles Rechnamuseum
+technikum29: Museum Rechnatechnik
+Reich Rechnamuseum (engl.)
+
+
+
+
+
+ 
+						Vh „https://bar.wikipedia.org/w/index.php?title=Rechna&oldid=685455“					
+Kategorina: ComputerGeschichte der InformatikVasteckte Kategorie: Wikipedia:Weblink offline 
+
+
+
+Navigationsmenü
+
+
+Mei Weakzeig
+
+Ned ogmejd.Dischkriaseitn vo dera IPBeiträgeBenutzerkonto erstellenEilogga 
+
+
+
+Namasram
+
+Artikldischkrian 
+
+
+
+
+Variantn
+
+
+
+
+
+
+
+
+
+Osichtn
+
+LesnVEWeaklnGschicht oschaugn 
+
+
+
+Mehr
+
+
+
+
+
+
+
+Suach
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+HoamseitnThemenPortalLezde EndarungNeie Artike 
+
+
+
+Gmoa
+
+
+AutornKafääStammdischMia fejd a WoatAutornPortalQualitetssicharung 
+
+
+
+Drucka/exportian
+
+
+Buach erstöinOis PDF owerloonSeitn ausdrucka 
+
+
+
+In anderen Projekten
+
+
+Wikimedia Commons 
+
+
+
+Sunstigs
+
+
+Links auf de SeitnValinkts priafmSpezialseitnPermanenta LinkSeiten­informationenWikidata-DatenobjektSeitn zitian 
+
+
+
+Andane Sprochn
+
+
+АҧсшәаAcèhAfrikaansAlemannischአማርኛAragonésÆngliscالعربيةܐܪܡܝܐمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаŽemaitėškaБеларускаяБеларуская (тарашкевіца)‎БългарскиभोजपुरीBislamaবাংলাབོད་ཡིགবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiᨅᨔ ᨕᨘᨁᨗБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoTsetsêhestâheseکوردیQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiडोटेलीΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisFurlanGaeilge贛語GàidhligGalegoAvañe'ẽ𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHausa客家語/Hak-kâ-ngîעבריתहिन्दीFiji HindiHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIgboIñupiakIlokanoIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ/inuktitut日本語PatoisLa .lojban.Basa JawaქართულიQaraqalpaqshaKabɩyɛKongoGĩkũyũҚазақшаភាសាខ្មែរಕನ್ನಡ한국어Къарачай-малкъарकॉशुर / کٲشُرKurdîКомиKernowekКыргызчаLatinaLadinoLëtzebuergeschЛезгиLingua Franca NovaLimburgsLumbaartLingálaລາວLietuviųLatviešuमैथिलीMalagasyОлык марийМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorskOccitanLivvinkarjalaOromooଓଡ଼ିଆਪੰਜਾਬੀKapampanganPolskiPiemontèisپنجابیΠοντιακάپښتوPortuguêsRuna SimiRomaniRomânăРусскийРусиньскыйसंस्कृतम्Саха тылаSarduSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSesothoSeelterskBasa SundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeXitsongaТатарча/tatarçaئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsWalonWinarayWolof吴语IsiXhosaმარგალურიייִדישYorùbáVahcuengh中文文言Bân-lâm-gú粵語IsiZulu 
+Links bearbeiten 
+
+
+
+
+
+ De Seitn is zletzt am 22. Aprui 2018 um 15:07 gändert worn.
+Abruafstatistik
+
+Dea Text is unta da Lizenz „Creative Commons Attribution/Share-Alike“ vafigbor; zuasätzliche Bedingunga kennan owendbor sei.
+Oazlheitn san in de Nutzungsbedingunga bschriebm.
+
+
+Datnschutz
+Iba Wikipedia
+Impressum
+Entwickler
+Stellungnahme zu Cookies
+Mobile Osicht
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.036","walltime":"0.048","ppvisitednodes":{"value":117,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":2688,"limit":2097152},"templateargumentsize":{"value":394,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   29.834      1 -total"," 87.32%   26.052      1 Vorlog:Toter_Link"," 74.63%   22.266      1 Vorlog:Toter_Link/Core"," 12.48%    3.723      1 Vorlog:Commonscat","  6.91%    2.061      1 Vorlog:Commons","  4.95%    1.477      1 Vorlog:Booland"]},"scribunto":{"limitreport-timeusage":{"value":"0.004","limit":"10.000"},"limitreport-memusage":{"value":642496,"limit":52428800}},"cachereport":{"origin":"mw1300","timestamp":"20180426095736","ttl":1900800,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1254"});});
+
+

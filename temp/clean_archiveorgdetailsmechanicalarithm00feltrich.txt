@@ -1,0 +1,5132 @@
+
+
+
+
+Free Books : Download & Streaming : eBooks  and Texts : Internet Archive
+
+window.archive_setup=[]
+
+
+
+
+
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "collection",
+                  });
+      }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+                        Search the history of over 327 billion                        web pages on the Internet.
+                      
+
+
+
+
+
+
+
+search Search the Wayback Machine
+
+
+
+
+
+
+
+
+
+
+Featured
+texts All Texts
+latest This Just In
+Smithsonian Libraries FEDLINK (US) Genealogy Lincoln Collection Additional Collections 
+
+
+
+ 
+
+
+eBooks & Texts 
+
+
+
+Top
+American Libraries Canadian Libraries Universal Library Community Texts Project Gutenberg Biodiversity Heritage Library Children's Library 
+
+
+
+
+Open Library
+
+
+
+
+Public Lab Books to Borrow 
+
+
+
+
+
+Featured
+movies All Video
+latest This Just In
+Prelinger Archives Democracy Now! Occupy Wall Street TV NSA Clip Library 
+
+
+
+ 
+
+
+TV News 
+
+
+
+Top
+Animation & Cartoons Arts & Music Community Video Computers & Technology Cultural & Academic Films Ephemeral Films Movies 
+
+
+
+ 
+
+
+Understanding 9/11 
+
+
+
+News & Public Affairs Spirituality & Religion Sports Videos Television Videogame Videos Vlogs Youth Media 
+
+
+
+
+
+Featured
+audio All Audio
+latest This Just In
+Grateful Dead Netlabels Old Time Radio 78 RPMs and Cylinder Recordings 
+
+
+
+ 
+
+
+Live Music Archive 
+
+
+
+Top
+Audio Books & Poetry Community Audio Computers & Technology Music, Arts & Culture News & Public Affairs Non-English Audio Podcasts 
+
+
+
+ 
+
+
+Librivox Free Audiobook 
+
+
+
+Radio Programs Spirituality & Religion 
+
+
+
+
+
+Featured
+software All Software
+latest This Just In
+Old School Emulation MS-DOS Games Historical Software Classic PC Games Software Library 
+
+
+
+ 
+
+
+Internet Arcade 
+
+
+
+Top
+Community Software APK MS-DOS CD-ROM Software IPA Software Software Sites Tucows Software Library 
+
+
+
+ 
+
+
+Console Living Room 
+
+
+
+Shareware CD-ROMs CD-ROM Images ZX Spectrum Vintage Software DOOM Level CD ZX Spectrum Library: Games CD-ROM Software Library 
+
+
+
+
+
+Featured
+image All Image
+latest This Just In
+Flickr Commons Occupy Wall Street Flickr Cover Art USGS Maps 
+
+
+
+ 
+
+
+Metropolitan Museum 
+
+
+
+Top
+NASA Images Solar System Collection Ames Research Center 
+
+
+
+ 
+
+
+Brooklyn Museum 
+
+
+
+
+
+
+
+
+
+
+
+web
+
+
+texts
+
+
+movies
+
+
+audio
+
+
+software
+
+
+image
+
+logo
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+ABOUT
+CONTACT
+BLOG
+PROJECTS
+HELP
+DONATE
+JOBS
+VOLUNTEER
+PEOPLE
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+Search metadata
+
+
+
+Search text contents
+
+
+
+Search TV news captions
+
+
+
+Search archived web sites
+
+
+Advanced Search
+
+AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"05/03/2018"}
+
+
+
+
+
+upload
+
+
+personSIGN IN
+
+
+
+ABOUT
+CONTACT
+BLOG
+PROJECTS
+HELP
+DONATE
+JOBS
+VOLUNTEER
+PEOPLE
+
+
+
+
+
+
+
+
+ if(typeof AJS!='undefined') AJS.lists_v_tiles_setup('collection'); 
+
+
+
+
+
+
+ 
+
+
+eBooks  and Texts
+Internet Archive
+
+  
+
+The Internet Archive offers over 15,000,000 freely downloadable books and texts. There is also a collection of 550,000 modern eBooks that may be borrowed by anyone with a free archive.org account.
+
+Borrow a Book
+Books on Internet Archive are offered in many formats, including DAISY files intended for print disabled people.  In addition to the collections here, print disabled people may access a large collection of modern books provided as encrypted DAISY files on OpenLibrary.org. Please visit the FAQ for more information about DAISY files and how to un-encrypt them. 
+
+
+Get Something Digitized
+
+The Internet Archive also encourages libraries, content holders and the reading community at large, to have their printed materials non-destructively digitized and put online for the benefit of all. The Internet Archive has digitized over  2.1 million books and microforms. Both large and small collections of monographs, serials, archival materials, maps, diaries and photographs to name a few,  can be digitized in over 33 global scanning centers found on 4 continents. For more information please visit http://archive.org/scanning.
+Alternatively, our portable Table Top Scanner can also be purchased and used on-site within libraries and archives. To read more about our TT Scribe, please visit www.archive.org/details/tabletopscribesystem.
+
+Since 2005, the Internet Archive has collaborated and built digital collections with over 1,100 Library Institutions and other content providers. Partnerships include: Boston Public Library, the Library of Congress and the Lancaster County's Historical Society.  These collections are digitized from various mediatypes including: microfilm and microfiche, journals and serial publications, and a wide variety of archival material. Significant contributions have come from partners in North America (American and Canadian Libraries), Europe and Asia, representing more than 184 languages.
+
+Contribute a Book
+
+
+ The Internet Archive encourages our global community to contribute physical items, as well as uploading digital materials directly to the Internet Archive. If you have digital items that you would like to add to the Internet Archive, please Create a new item using the uploader interface. Click here to apply the specific creative commons license Creative Commons license to communicate how the material can be used. 
+
+For donation of physical books or items, please contact info@archive.org 
+ 
+MORE
+
+
+share Share
+favorite Favorite
+
+edit Edit
+time History
+
+
+
+
+
+
+
+ABOUT
+
+
+
+
+
+
+COLLECTION
+
+
+
+
+
+
+FORUM
+
+
+
+ 
+
+
+
+
+
+
+
+
+remove-circle 
+Share This Collection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        16,036,512        
+          RESULTS        
+rss
+
+
+
+
+
+
+
+Metadata
+
+
+
+Text contents
+
+
+
+
+
+
+
+
+Media Type 
+
+
+
+
+
+
+                                            4,839                          
+
+                collections              
+
+
+
+
+
+
+                                            16,031,668                          
+
+                texts              
+
+
+
+
+
+
+                                            2                          
+
+                data              
+
+
+
+
+
+
+                                            2                          
+
+                software              
+
+
+
+
+
+
+                                            1                          
+
+                images              
+
+
+
+Availability 
+
+
+
+
+
+
+                                            15,389,099                          
+
+                Always Available              
+
+
+
+
+
+
+                                            542,862                          
+
+                Available to Borrow              
+
+
+
+
+
+
+                                            104,551                          
+
+                Waitlist              
+
+
+
+Year 
+
+
+
+
+
+
+                                            262,481                          
+
+                2015              
+
+
+
+
+
+
+                                            140,504                          
+
+                2014              
+
+
+
+
+
+
+                                            152,016                          
+
+                2013              
+
+
+
+
+
+
+                                            201,825                          
+
+                2012              
+
+
+
+
+
+
+                                            227,230                          
+
+                2011              
+
+
+
+
+
+
+                                            109,635                          
+
+                2010              
+
+
+
+More right-solid
+
+
+Topics & Subjects  
+
+
+
+
+
+
+                                            990,086                          
+
+                State Department              
+
+
+
+
+
+
+                                            803,933                          
+
+                Department of State              
+
+
+
+
+
+
+                                            779,615                          
+
+                Diplomatic              
+
+
+
+
+
+
+                                            628,633                          
+
+                Foreign policy              
+
+
+
+
+
+
+                                            609,458                          
+
+                Diplomatic Cables              
+
+
+
+
+
+
+                                            458,694                          
+
+                Diplomacy              
+
+
+
+More right-solid
+
+
+Collection 
+
+
+
+
+
+
+                                            2,799,283                          
+
+American Libraries 
+
+
+
+
+
+
+                                            2,769,331                          
+
+RECAP US Federal Court Documents 
+
+
+
+
+
+
+                                            2,390,280                          
+
+National Security Internet Archive (NSIA) 
+
+
+
+
+
+
+                                            1,878,338                          
+
+U.S. State Department 
+
+
+
+
+
+
+                                            1,449,982                          
+
+Journals 
+
+
+
+
+
+
+                                            782,697                          
+
+Arxiv.org 
+
+
+
+More right-solid
+
+
+Creator  
+
+
+
+
+
+
+                                            819,974                          
+
+                state department              
+
+
+
+
+
+
+                                            410,062                          
+
+                united states patent and trademark office              
+
+
+
+
+
+
+                                            342,727                          
+
+                eric              
+
+
+
+
+
+
+                                            315,882                          
+
+                central intelligence agency              
+
+
+
+
+
+
+                                            307,661                          
+
+                defense technical information center              
+
+
+
+
+
+
+                                            232,458                          
+
+                nasa technical reports server (ntrs)              
+
+
+
+More right-solid
+
+
+Language 
+
+
+
+
+
+
+                                            12,587,674                          
+
+                English              
+
+
+
+
+
+
+                                            539,538                          
+
+                German              
+
+
+
+
+
+
+                                            489,764                          
+
+                French              
+
+
+
+
+
+
+                                            257,047                          
+
+                Dutch              
+
+
+
+
+
+
+                                            189,183                          
+
+                Italian              
+
+
+
+
+
+
+                                            184,856                          
+
+                Spanish              
+
+
+
+More right-solid
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+SHOW DETAILS
+
+
+up-solid down-solid 
+
+
+VIEWS
+TITLE
+DATE ARCHIVED
+DATE PUBLISHED
+DATE REVIEWED
+CREATOR
+
+
+
+
+
+
+                SORT BY
+              
+
+VIEWSTITLEDATE ARCHIVEDDATE PUBLISHEDDATE REVIEWEDCREATOR 
+
+
+
+ 
+
+
+
+ 
+
+eye 
+
+Title
+Date Published
+Creator
+
+
+
+
+
+1.4B
+1.4B
+
+
+
+
+
+
+
+
+                  American Libraries                
+
+
+collection 
+                  2,807,863                  ITEMS
+
+
+                  1.4B VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 1.4B
+
+
+
+
+
+
+The American Libraries collection includes material contributed from across the United States. Institutions range from the Library of Congress to many local public libraries. As a whole, this collection of material brings holdings that cover many facets of American life and scholarship into the public domain. Significant portions of this collection have been generously sponsored by Microsoft , Yahoo! , The Sloan Foundation , and others. 
+
+
+
+
+1.1B
+1.1B
+
+
+
+
+
+
+
+
+                  Community Texts                
+
+
+collection 
+                  838,196                  ITEMS
+
+
+                  1.1B VIEWS
+
+
+
+
+-
+-
+
+
+by
+Internet Archive
+
+
+
+
+collection 
+
+eye 1.1B
+
+
+
+
+
+
+These books are books contributed by the community. Click here to contribute your book ! For more information and how-to please see archive.org/about/faqs.php#Texts_and_Books Uploaders, please note: Archive.org supports metadata about items in just about any language so long as the characters are UTF8 encoded Community Afrikaans Texts Community Arabic Texts Community Basque Texts Community Bulgarian Texts Community Catalan Texts Community Chinese Texts Community Croatian Texts Community Czech...                    Topic: Texts 
+
+
+
+
+516.7M
+517M
+
+
+
+
+
+                  Additional Collections                
+
+
+collection 
+                  9,103,948                  ITEMS
+
+
+                  516.7M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 516.7M
+
+
+
+
+
+
+Additional collections of scanned books, articles, and other texts (usually organized by topic) are presented here. 
+
+
+
+
+407.3M
+407M
+
+
+
+
+
+
+
+
+                  Canadian Libraries                
+
+
+collection 
+                  565,846                  ITEMS
+
+
+                  407.3M VIEWS
+
+
+
+
+-
+-
+
+
+by
+Internet Archive Canada
+
+
+
+
+collection 
+
+eye 407.3M
+
+
+
+
+
+
+Welcome to the Canadian Libraries page. The Toronto scanning centre was established in 2004 on the campus of the University of Toronto . From its humble beginnings, Internet Archive Canada has worked with well over 50 institutions, in providing their unique material(s) with open access and sharing these collections the world over. From the Archives of the Sisters of Service to the University of Alberta, IAC has digitized approximately 522,741 unique and special collections. Many...                    Topic: Texts 
+
+
+
+
+302.4M
+302M
+
+
+
+
+
+                  Community Arabic Texts                
+
+
+collection 
+                  185,496                  ITEMS
+
+
+                  302.4M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 302.4M
+
+
+
+
+
+
+User-uploaded texts with language code "Arabic" or "ara" (MARC code for Arabic language items) Uploaders, please note: Archive.org supports metadata about items in just about any language so long as the characters are UTF8 encoded . 
+
+
+
+
+229M
+229M
+
+
+
+
+
+
+
+
+                  University of Toronto - Robarts Library                
+
+
+collection 
+                  213,368                  ITEMS
+
+
+                  229M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 229M
+
+
+
+
+
+
+The John P. Robarts Research Library, commonly referred to as Robarts Library, is the main humanities and social sciences library of the University of Toronto Libraries and the largest individual library in the university. Opened in 1973 and named for John Robarts, the 17th Premier of Ontario, the library contains more than 4.5 million bookform items, 4.1 million microform items and 740,000 other items. The library building is one of the most significant examples of brutalist architecture in... 
+
+
+
+
+197.7M
+198M
+
+
+
+
+
+
+
+
+                  California Digital Library                
+
+
+collection 
+                  191,920                  ITEMS
+
+
+                  197.7M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 197.7M
+
+
+
+
+
+
+The California Digital Library supports the assembly and creative use of the world's scholarship and knowledge for the University of California libraries and the communities they serve. In addition, the CDL provides tools that support the construction of online information services for research, teaching, and learning, including services that enable the UC libraries to effectively share their materials and provide greater access to digital content. 
+
+
+
+
+122.9M
+123M
+
+
+
+
+
+
+
+
+                  Biodiversity Heritage Library                
+
+
+collection 
+                  191,720                  ITEMS
+
+
+                  122.9M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 122.9M
+
+
+
+
+
+
+Inspiring discovery through free access to biodiversity knowledge. | The Biodiversity Heritage Library improves research methodology by collaboratively making biodiversity literature openly available to the world as part of a global biodiversity community. BHL also serves as the foundational literature component of the Encyclopedia of Life . The Biodiversity Heritage Library (BHL) is a consortium of natural history and botanical libraries that cooperate to digitize the legacy literature of... 
+
+
+
+
+119M
+119M
+
+
+
+
+
+
+
+
+                  European Libraries                
+
+
+collection 
+                  626,551                  ITEMS
+
+
+                  119M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 119M
+
+
+
+
+
+
+Scanned books from various European Libraries. 
+
+
+
+
+106.6M
+107M
+
+
+
+
+
+
+
+
+                  United States Patent and Trademark Office documents                
+
+
+collection 
+                  409,692                  ITEMS
+
+
+                  106.6M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 106.6M
+
+
+
+
+
+
+United States Patent and Trademark Office documents contributed by Think Computer Foundation.                    Topic: U.S Patent 
+
+
+
+
+79M
+79M
+
+
+
+
+
+
+
+
+                  Universal Library                
+
+
+collection 
+                  110,446                  ITEMS
+
+
+                  79M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 79M
+
+
+
+
+
+
+The Universal Library Project, sometimes called the Million Books Project, was pioneered by Jaime Carbonell, Raj Reddy, Michael Shamos, Gloriana St Clair, and Robert Thibadeau of Carnegie Mellon University. The Governments of India, China, and Egypt are helping fund this effort through scanning facilities and personnel. The Internet Archive has contributed 100k books from the Kansas City Public Library along with servers to India. The Indian government scanned the appropriate books. The... 
+
+
+
+
+77.3M
+77M
+
+
+
+
+
+
+
+
+                  Journals                
+
+
+collection 
+                  1,465,330                  ITEMS
+
+
+                  77.3M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 77.3M
+
+
+
+
+
+
+A collection of scholarly literature created by experts and professionals in their fields. Included are theses, books, abstracts and articles.                    Topics: academic, scientific, white papers, scholar, scholarly, peer review, jstor, arxiv, thesis,... 
+
+
+
+
+68.4M
+68M
+
+
+
+
+
+
+
+
+                  The Library of Congress                
+
+
+collection 
+                  158,816                  ITEMS
+
+
+                  68.4M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 68.4M
+
+
+
+
+
+
+The&nbsp; Library of Congress &nbsp;is the world’s largest library, offering access to the creative record of the United States—and extensive materials from around the world—both on-site and online. It is the main research arm of the U.S. Congress and the home of the U.S. Copyright Office. Explore collections, reference services and other programs and plan a visit at loc.gov ; access the official site for U.S. federal legislative information at congress.gov ; and register creative... 
+
+
+
+
+65.2M
+65M
+
+
+
+
+
+
+
+
+                  The Boston Library Consortium                
+
+
+collection 
+                  84,280                  ITEMS
+
+
+                  65.2M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 65.2M
+
+
+
+
+
+
+Books from the Boston Library Consortium . See a Tag Cloud for the Boston Library Consortium collection. 
+
+
+
+
+60.5M
+61M
+
+
+
+
+
+
+
+
+                  Microfilm                
+
+
+collection 
+                  173,571                  ITEMS
+
+
+                  60.5M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 60.5M
+
+
+
+
+
+
+Take a picture, it will last longer As books become old and begin to fall apart, librarians depend on microform to preserve their content for the future. Tiny photographs on long strips of film (microfilm) or small cards of film (microfiche) are all that remain of hundreds of thousands of documents that have disintegrated over the last century. While microfilm is perfect for storing and protecting this material, it is a does not allow for much access. In following its mission to provide... 
+
+
+
+
+59.4M
+59M
+
+
+
+
+
+
+
+
+                  RECAP US Federal Court Documents                
+
+
+collection 
+                  2,769,331                  ITEMS
+
+
+                  59.4M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 59.4M
+
+
+
+
+
+
+The documents in this collection are from the US Federal Courts. A large collection come from the federal government's project for Public Access to Court Electronic Records (PACER) . The PACER Service Center is the Federal Judiciary's centralized registration, billing, and technical support center for electronic access to U.S. District, Bankruptcy, and Appellate court records. For more information on the RECAP project, visit https://www.recapthelaw.org 
+
+
+
+
+57M
+57M
+
+
+
+
+
+
+
+
+                  The Magazine Rack                
+
+
+collection 
+                  130,978                  ITEMS
+
+
+                  57M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 57M
+
+
+
+
+
+
+The Magazine Rack is a collection of digitized magazines and monthly publications. 
+
+
+
+
+56.3M
+56M
+
+
+
+
+
+
+
+
+                  Cornell University Library                
+
+
+collection 
+                  75,934                  ITEMS
+
+
+                  56.3M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 56.3M
+
+
+
+
+
+
+The originals of these books are in the Cornell University Library . The majority were digitized in 2008 with funding by Microsoft Corporation. Scanning was performed by Kirtas Technologies; OCR was performed by, and derivative formats created by, the Internet Archive. Other digitizing projects followed, adding to this collection. One such project included books and journals in the life sciences and natural history for the purposes of being added to the Biodiversity Heritage Library or... 
+
+
+
+
+47.7M
+48M
+
+
+
+
+
+
+
+
+                  The Medical Heritage Library                
+
+
+collection 
+                  246,415                  ITEMS
+
+
+                  47.7M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 47.7M
+
+
+
+
+
+
+The Medical Heritage Library (MHL), a digital curation collaborative among some of the world’s leading medical libraries, promotes free and open access to quality historical resources in medicine. Our goal is to provide the means by which readers and scholars across a multitude of disciplines can examine the interrelated nature of medicine and society, both to inform contemporary medicine and strengthen understanding of the world in which we live. The MHL’s growing collection of digitized...                    Topics: historic medical books, history of medicine 
+
+
+
+
+45.6M
+46M
+
+
+
+
+
+
+
+
+                  Folkscanomy: A Library of Books                
+
+
+collection 
+                  53,576                  ITEMS
+
+
+                  45.6M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 45.6M
+
+
+
+
+
+
+Folksonomy : A system of classification derived from the practice and method of collaboratively creating and managing tags to annotate and categorize content; this practice is also known as collaborative tagging, social classification, social indexing, and social tagging. Coined by Thomas Vander Wal, it is a portmanteau of folk and taxonomy. Folkscanomy : A collection of books and text derived from the efforts of volunteers to make information as widely available as possible. Because the... 
+
+
+
+
+40.8M
+41M
+
+
+
+
+
+
+
+
+                  JSTOR Early Journal Content                
+
+
+collection 
+                  452,031                  ITEMS
+
+
+                  40.8M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 40.8M
+
+
+
+
+
+
+The JSTOR Early Journal Content is a selection of journal materials published prior to 1923 in the United States and prior to 1870 elsewhere. It includes discourse and scholarship in the arts and humanities, economics and politics, and in mathematics and other sciences - nearly 500,000 articles from more than 200 journals. It was uploaded to the Internet Archive in 2013. JSTOR Early Journal Content has been freely available at www.jstor.org since September 2011. Early Journal Content is updated... 
+
+
+
+
+37M
+37M
+
+
+
+
+
+
+
+
+                  Boston Public Library                
+
+
+collection 
+                  54,114                  ITEMS
+
+
+                  37M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 37M
+
+
+
+
+
+
+Books contributed by the Boston Public Library . 
+
+
+
+
+36.6M
+37M
+
+
+
+
+
+
+
+
+                  Allen County Public Library                
+
+
+collection 
+                  92,299                  ITEMS
+
+
+                  36.6M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 36.6M
+
+
+
+
+
+
+Books from the Allen County Public Library . Books digitized by the Internet Archive for the Allen County Public Library Genealogy Center in Fort Wayne Indiana. How to use the NARA's Census Microfilm Catalogs Coming soon! Soundex Index for the Census. How to use the Soundex Indexing System Microfilm digitized by the Internet Archive for Allen County Public Library: All ACPL Microfilm Online . 1930 United States Census . 1920 United States Census . 1910 United States Census . 1900 United States... 
+
+
+
+
+36.1M
+36M
+
+
+
+
+
+
+
+
+                  FEDLINK - United States Federal Collection                
+
+
+collection 
+                  222,410                  ITEMS
+
+
+                  36.1M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 36.1M
+
+
+
+
+
+
+The Federal Library and Information Network (FEDLINK) is an organization of federal agencies working together to achieve optimum use of the resources and facilities of federal libraries and information centers by promoting common services, coordinating and sharing available resources, and providing continuing professional education for federal library and information staff. FEDLINK serves as a forum for discussion of the policies, programs, procedures and technologies that affect federal... 
+
+
+
+
+34.5M
+35M
+
+
+
+
+
+
+
+
+                  Project Gutenberg                
+
+
+collection 
+                  43,531                  ITEMS
+
+
+                  34.5M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 34.5M
+
+
+
+
+
+
+Project Gutenberg began in 1971 by Michael Hart as a community project to make plain text versions of books available freely to all.                    Topic: Texts 
+
+
+
+
+34.3M
+34M
+
+
+
+
+
+
+
+
+                  University of Alberta Libraries                
+
+
+collection 
+                  99,655                  ITEMS
+
+
+                  34.3M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 34.3M
+
+
+
+
+
+
+The University of Alberta (U of A) is a public research university located in Edmonton, Alberta, Canada. Founded in 1908 by Alexander Cameron Rutherford, the first premier of Alberta and Henry Marshall Tory, its first president, it is widely recognized as one of the best universities in Canada. The main campus covers 50 city blocks with over 90 buildings directly across the North Saskatchewan River from downtown Edmonton. The University of Alberta library system, received a tremendous boost... 
+
+
+
+
+32.8M
+33M
+
+
+
+
+
+
+
+
+                  Government Documents                
+
+
+collection 
+                  84,248                  ITEMS
+
+
+                  32.8M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 32.8M
+
+
+
+
+
+
+This collection contains digital versions of United States Government documents as well as other government documents. 
+
+
+
+
+32M
+32M
+
+
+
+
+
+
+
+
+                  University of Alberta Libraries - The CIHM Monograph Collection                
+
+
+collection 
+                  76,805                  ITEMS
+
+
+                  32M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 32M
+
+
+
+
+
+
+A collection of publications dating back to the early 17th century that are about Canada, or written and published by Canadians, scanned from microfiche: http://canadiana.library.ualberta.ca The CIHM Monograph Collection represents an important part of our national story. It is a collection of publications dating back to the early 17th century that are about Canada, or written and published by Canadians. To facilitate access, users can easily browse through the collection by topic: Arts and...                    Topic: University of Alberta - The CIHM Monograph Collection 
+
+
+
+
+32M
+32M
+
+
+
+
+
+
+
+
+                  University of Ottawa                
+
+
+collection 
+                  55,467                  ITEMS
+
+
+                  32M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 32M
+
+
+
+
+
+
+Since 1848 the University of Ottawa has been Canada's university. Located in the heart of the nation's capital, the University has emerged as a vibrant "centre of learning", with a total population including students, teaching and support staff - of 40,000. The largest bilingual university in North America, the University is a major player in the cultural and economic development of the National Capital Region. Livres de l’Université d’Ottawa L’Université d’Ottawa est... 
+
+
+
+
+29.4M
+29M
+
+
+
+
+
+
+
+
+                  National Security Internet Archive (NSIA)                
+
+
+collection 
+                  2,398,497                  ITEMS
+
+
+                  29.4M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 29.4M
+
+
+
+
+
+
+The National Security Internet Archive focuses on files collected from That 1 Archive , MuckRock , NARA, the National Security Archive at GWU, Hood College, the Black Vault , the Government Attic , Paperless Archives, Ernie Lazar, the International Center for 9/11 Studies as well as various other historians, collectors and activists.                    Topics: Government, Government documents, FOIA, Freedom of Information Act, National security, Law... 
+
+
+
+
+28.8M
+29M
+
+
+
+
+
+
+
+
+                  Daisy Books for the Print Disabled                
+
+
+collection 
+                  667,958                  ITEMS
+
+
+                  28.8M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 28.8M
+
+
+
+
+
+
+For our patrons that have a difficult time reading text, we are making our publicly accessible books available in a specialized format, DAISY . We are also offering accessible versions of our restricted books. These books are in a protected DAISY format, and can only be read on compatible reading devices with the appropriate key installed. The Internet Archive is using an encryption key from the Library of Congress' National Library Service for the Blind and Physically Handicapped (NLS). If you...                    Topic: print disabled 
+
+
+
+
+27.6M
+28M
+
+
+
+
+
+
+
+
+                  Arxiv.org                
+
+
+collection 
+                  782,698                  ITEMS
+
+
+                  27.6M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 27.6M
+
+
+
+
+
+
+Open access to e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics. arXiv is owned and operated by Cornell University, a private not-for-profit educational institution. arXiv is funded by Cornell University Library , the Simons Foundation and by the member institutions .                    Topics: Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics,... 
+
+
+
+
+27.4M
+27M
+
+
+
+
+
+
+
+
+                  University of Toronto - Gerstein Science Information Centre                
+
+
+collection 
+                  26,976                  ITEMS
+
+
+                  27.4M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 27.4M
+
+
+
+
+
+
+The Gerstein Science Information Centre is the University of Toronto's flagship library supporting the sciences and health sciences. The largest science and health science academic library in Canada, Gerstein has a collection of over 945,000 print volumes of journals and books, and also provides access to over 100,000 online journals and books. The Gerstein Science Information Centre's collection consists primarily of material on the sciences, including the health sciences, medicine, physics,... 
+
+
+
+
+26.2M
+26M
+
+
+
+
+
+
+
+
+                  Internet Archive Books                
+
+
+collection 
+                  664,688                  ITEMS
+
+
+                  26.2M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 26.2M
+
+
+
+
+
+
+Books contributed by the Internet Archive.                    Topic: internet archive books 
+
+
+
+
+24.2M
+24M
+
+
+
+
+
+
+
+
+                  University of North Carolina at Chapel Hill                
+
+
+collection 
+                  44,661                  ITEMS
+
+
+                  24.2M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 24.2M
+
+
+
+
+
+
+As a member of the Open Content Alliance, the University Library at the University of North Carolina at Chapel Hill is contributing digital content to the Internet Archive from our Rare Book Collection and North Carolina Collection, including rare Spanish dramas, UNC Yearbooks, and North Carolina legislative materials. Other subject areas such as early North Carolina medical journals and North Carolina judicial materials are also represented. UNC's participation in the Open Content Alliance is... 
+
+
+
+
+24M
+24M
+
+
+
+
+
+
+
+
+                  New York Public Library                
+
+
+collection 
+                  144,488                  ITEMS
+
+
+                  24M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 24M
+
+
+
+
+
+
+Books contributed by the New York Public Library . 
+
+
+
+
+23.6M
+24M
+
+
+
+
+
+
+
+
+                  Princeton Theological Seminary Library                
+
+
+collection 
+                  73,857                  ITEMS
+
+
+                  23.6M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 23.6M
+
+
+
+
+
+
+
+
+
+
+
+22.2M
+22M
+
+
+
+
+
+
+
+
+                  MBLWHOI Library                
+
+
+collection 
+                  10,733                  ITEMS
+
+
+                  22.2M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 22.2M
+
+
+
+
+
+
+Books from the Marine Biological Laboratory (MBL) and Woods Hole Oceanographic Institution (WHOI) . 
+
+
+
+
+21.5M
+21M
+
+
+
+
+
+
+
+
+                  Boletin Oficial de la Republica Argentina                
+
+
+collection 
+                  55,948                  ITEMS
+
+
+                  21.5M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 21.5M
+
+
+
+
+
+
+El Boletín Oficial de la República Argentina es el diario oficial de la República Argentina, es decir, el medio de comunicación escrito que el Estado Argentino, utiliza para publicar sus normas jurídicas (tales como leyes, decretos y reglamentos), y otros actos de naturaleza pública, tanto del poder legislativo como del ejecutivo y el judicial. Según el artículo segundo del Código Civil, la publicación de las leyes es un paso necesario para su obligatoriedad....                    Topics: Argentina, Journals, Gazette 
+
+
+
+
+21.3M
+21M
+
+
+
+
+
+
+
+
+                  University of Toronto - John M. Kelly Library                
+
+
+collection 
+                  15,206                  ITEMS
+
+
+                  21.3M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 21.3M
+
+
+
+
+
+
+The John M. Kelly Library is the largest federated college library at UofT. It is also one of more than 40 libraries at the university. Although our collections cover a wide range of subjects, we tend to focus on humanities disciplines including Catholic theology, the Middle Ages, book history and media, Celtic Studies, and English, French, Italian, Slavic and German literature. The John M. Kelly Library's print collection of over 300,000 volumes is developed in support of undergraduate... 
+
+
+
+
+21.2M
+21M
+
+
+
+
+
+
+
+
+                  The Computer Magazine Archives                
+
+
+collection 
+                  20,400                  ITEMS
+
+
+                  21.2M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 21.2M
+
+
+
+
+
+
+With the re-branding of computing power and machines as something welcome in the home and not just the workshop, a number of factors moved forth to sell these machines and their software to a growing and large group of customers. Besides the introduction of more elegant cases and an increased presence by larger and larger firms, a strong argument can be made that one of the forces was the proliferation of computer-related magazines and newsletters that gave a central, printed home for writing... 
+
+
+
+
+20.4M
+20M
+
+
+
+
+
+
+
+
+                  Community Urdu Texts                
+
+
+collection 
+                  9,554                  ITEMS
+
+
+                  20.4M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 20.4M
+
+
+
+
+
+
+Uploaders, please note: Archive.org supports metadata about items in just about any language so long as the characters are UTF8 encoded . 
+
+
+
+
+19.6M
+20M
+
+
+
+
+
+
+
+
+                  Books to Borrow                
+
+
+collection 
+                  647,594                  ITEMS
+
+
+                  19.6M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 19.6M
+
+
+
+
+
+
+Books in this collection may be borrowed by logged in patrons for a period of two weeks. &nbsp;You may read the books online in your browser, or download them into Adobe Digital Editions , a free piece of software used for managing loans. See FAQs about borrowing books . 
+
+
+
+
+19.6M
+20M
+
+
+
+
+
+
+
+
+                  Getty Research Institute                
+
+
+collection 
+                  45,880                  ITEMS
+
+
+                  19.6M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 19.6M
+
+
+
+
+
+
+Books contributed by Getty Research Institute . The Research Library at the Getty Research Institute focuses on the history of art, architecture, and archaeology with relevant materials in the humanities and social sciences. The range of the collections begins with prehistory and extends to contemporary art. - The Getty Institute 
+
+
+
+
+19.2M
+19M
+
+
+
+
+
+
+
+
+                  U.S. State Department                
+
+
+collection 
+                  1,878,338                  ITEMS
+
+
+                  19.2M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 19.2M
+
+
+
+
+
+
+The United States Department of State (DOS), often referred to as the State Department, is the United States federal executive department responsible for the international relations of the United States, equivalent to the foreign ministry of other countries. The Department was created in 1789 and was the first executive department established. The Executive Branch and the U.S. Congress have constitutional responsibilities for U.S. foreign policy. The Department advances U.S. objectives and...                    Topics: State Department, Dept of State, Department of State, State Dept, U.S. State Department 
+
+
+
+
+17.1M
+17M
+
+
+
+
+
+
+
+
+                  Public Library of India                
+
+
+collection 
+                  394,213                  ITEMS
+
+
+                  17.1M VIEWS
+
+
+
+
+-
+-
+
+
+by
+Public Resource
+
+
+
+
+collection 
+
+eye 17.1M
+
+
+
+
+
+
+This collection is maintained by Public Resource and contains resources pertaining to India. 
+
+
+
+
+15.3M
+15M
+
+
+
+
+
+
+
+
+                  Scanned in China                
+
+
+collection 
+                  483,011                  ITEMS
+
+
+                  15.3M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 15.3M
+
+
+
+
+
+
+Books scanned in Shenzhen and Beijing, China.                    Topic: books 
+
+
+
+
+15.2M
+15M
+
+
+
+
+
+
+
+
+                  Newspapers                
+
+
+collection 
+                  182,221                  ITEMS
+
+
+                  15.2M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 15.2M
+
+
+
+
+
+
+The newspapers in this collection have been scanned as part of a pilot project using microfilm and microfiche. After using a microfilm/fiche scanner to create a digital image of each page, we process the resulting images so that each reel is contained in a single item with easily navigable files. For a few examples, please see: The New York times (Oct 16 31 1915) The New York times (1919 July 1-15) The New York times (May 1-15 1915) 
+
+
+
+
+15M
+15M
+
+
+
+
+
+
+
+
+                  The New York Botanical Garden                
+
+
+collection 
+                  9,361                  ITEMS
+
+
+                  15M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 15M
+
+
+
+
+
+
+Books from The New York Botanical Garden 
+
+
+
+
+14.4M
+14M
+
+
+
+
+
+
+
+
+                  University of Illinois Urbana-Champaign                
+
+
+collection 
+                  84,648                  ITEMS
+
+
+                  14.4M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 14.4M
+
+
+
+
+
+
+As a member of the Open Content Alliance, the library of the University of Illinois is contributing digital content to the Internet Archive in several areas: Illinois history, culture and natural resources; U.S. railroad history; rural studies and agriculture; works in translation; as well as extensive collections of 19th century "triple-decker" novels and emblem books written between 1540 and 1800. The Illinois Library is also a contributing member of the Biodiversity Heritage... 
+
+
+
+
+14.1M
+14M
+
+
+
+
+
+
+
+
+                  Education Resources Information Center (ERIC) Archive                
+
+
+collection 
+                  342,708                  ITEMS
+
+
+                  14.1M VIEWS
+
+
+
+
+-
+-
+
+
+by
+ERIC
+
+
+
+
+collection 
+
+eye 14.1M
+
+
+
+
+
+
+The Education Resources Information Center (ERIC) is an internet-based digital library of education research and information sponsored by the Institute of Education Sciences (IES) of the U.S. Department of Education. ERIC provides access to bibliographic records of journal and non-journal literature from 1966 to the present. ERIC also contains a growing collection of materials in Adobe PDF format. ERIC's mission is to provide a comprehensive, easy-to-use, searchable Internet-based bibliographic... 
+
+
+
+
+14M
+14M
+
+
+
+
+
+
+
+
+                  The ARCHIVE.ORG Manual Library                
+
+
+collection 
+                  92,975                  ITEMS
+
+
+                  14M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 14M
+
+
+
+
+
+
+The Internet Archive Manual Library is a collection of manuals, instructions, walkthroughs and datasheets for a massive spectrum of items. Manuals covering electronic and mechanical products, instructions on mixing or blending items, and instruction sets for software and computer items are all included. Having the manual for an item can mean the difference between that item being useful (and therefore not immediately junked) and being forgotten, or replaced with similar products. They also give...                    Topics: manuals, instructions 
+
+
+
+
+13.7M
+14M
+
+
+
+
+
+
+
+
+                  Million Book Project                
+
+
+collection 
+                  10,810                  ITEMS
+
+
+                  13.7M VIEWS
+
+
+
+
+-
+-
+
+
+by
+Internet Archive
+
+
+
+
+collection 
+
+eye 13.7M
+
+
+
+
+
+
+An early collection of books from the Indian scanning centers of the Universal Library Project, sometimes called the Million Books Project. Many of these books are not complete or in good shape. 
+
+
+
+
+13.1M
+13M
+
+
+
+
+
+
+
+
+                  National Agricultural Library                
+
+
+collection 
+                  143,900                  ITEMS
+
+
+                  13.1M VIEWS
+
+
+
+
+-
+-
+
+
+by
+United States Department of Agriculture
+
+
+
+
+collection 
+
+eye 13.1M
+
+
+
+
+
+
+The National Agricultural Library &nbsp;is one of four national libraries of the United States and houses one of the world's largest collections devoted to agriculture and its related sciences. NAL was created with the&nbsp; U.S. Department of Agriculture &nbsp;in 1862 and designated a national library in 1962.&nbsp;&nbsp;It is located in Beltsville, Maryland, on the grounds of the&nbsp; USDA's Beltsville Agricultural Research Center .&nbsp; Since the library has a... 
+
+
+
+
+11.7M
+12M
+
+
+
+
+
+                  Global Public Safety Codes                
+
+
+collection 
+                  28,053                  ITEMS
+
+
+                  11.7M VIEWS
+
+
+
+
+-
+-
+
+
+by
+Public.Resource.Org
+
+
+
+
+collection 
+
+eye 11.7M
+
+
+
+
+
+
+This collection contains global Edicts of Government , such as building, fire, electrical, and plumbing codes. The documents contain the legislative or executive declaration and the model codes that are thereby incorporated by reference. In order to promote public education and public safety, equal justice for all, a better informed citizenry, the rule of law, world trade and world peace, these legal document are hereby made available on a noncommercial basis, as it is the right of all humans...                    Topic: public.resource.org 
+
+
+
+
+11.7M
+12M
+
+
+
+
+
+
+
+
+                  CARLI                
+
+
+collection 
+                  15,521                  ITEMS
+
+
+                  11.7M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 11.7M
+
+
+
+
+
+
+Material in this collection has been provided by The Consortium of Academic and Research Libraries in Illinois . The Consortium leads Illinois academic libraries to create and sustain a rich, supportive, and diverse knowledge environment that furthers teaching, learning, and research through the sharing of collections, expertise, and programs. 
+
+
+
+
+10.9M
+11M
+
+
+
+
+
+
+
+
+                  University of Florida George A. Smathers Libraries                
+
+
+collection 
+                  36,360                  ITEMS
+
+
+                  10.9M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 10.9M
+
+
+
+
+
+
+The University of Florida George A. Smathers Libraries sends selected library materials to Internet Archive for scanning and online access from a variety of units and collections within the Libraries. These include but are not limited to U. S. Government Documents, UF print Dissertations, Duplicates from the storage collection and the Panama Canal Museum Collection. The Internet Archive pre-scanning processing operation at the Libraries is managed by the Preservation Department. Digitization is... 
+
+
+
+
+10.5M
+11M
+
+
+
+
+
+
+
+
+                  Harvard University                
+
+
+collection 
+                  288,441                  ITEMS
+
+
+                  10.5M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 10.5M
+
+
+
+
+
+
+Books sponsored or contributed by Harvard University 
+
+
+
+
+10.4M
+10M
+
+
+
+
+
+
+
+
+                  Columbia University Libraries                
+
+
+collection 
+                  33,909                  ITEMS
+
+
+                  10.4M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 10.4M
+
+
+
+
+
+
+Books from Columbia University Libraries . Our sub-collections: Seymour B. Durst Old York Library Collection Missionary Research Library pamphlets WWI Pamphlets 1913-1920 Microfilm from Columbia University Libraries Augustus C. Long Health Sciences Library Chinese law registers 玲瓏 Ling Long Clean Water and Air Act Amendments of 1971/77 Hebrew Manuscripts 
+
+
+
+
+10M
+10.0M
+
+
+
+
+
+
+
+
+                  North Carolina Digital Heritage Center                
+
+
+collection 
+                  13,794                  ITEMS
+
+
+                  10M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 10M
+
+
+
+
+
+
+A collection of items from the North Carolina Digital Heritage Center Project.                    Topic: UNC yearbooks 
+
+
+
+
+9.8M
+9.8M
+
+
+
+
+
+
+
+
+                  Aljam3a-Library المكتبة الجامعة                
+
+
+collection 
+                  13,259                  ITEMS
+
+
+                  9.8M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 9.8M
+
+
+
+
+
+
+Simply a library for Arabic books that comes in form of iPhone App, Android App, Desktop App. المكتبة الجامعة مكتبة متنوعة تحتوي على أكثر من 16,000 كتاب مجاني. تتميز عن باقي المكتبات بإزدياد عدد الكتب يوميا وذلك من خلال إضافات المستخدمين للكتب المكتبة تضم أقسام عديدة ما بين كتب دينية وعلمية إلى كتب الأسرة والتربية...                    Topics: Arabic books, iPhone App, Android App, Desktop App 
+
+
+
+
+9.8M
+9.8M
+
+
+
+
+
+
+
+
+                  Prelinger Library                
+
+
+collection 
+                  3,914                  ITEMS
+
+
+                  9.8M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 9.8M
+
+
+
+
+
+
+The Prelinger Library is a private research library open to the public, located in downtown San Francisco. Its collections encompass some 50,000 books, periodical volumes and printed ephemera. The Prelinger Library is currently curating this online collection of public domain materials in key subject areas. Click for more information about the Prelinger Library                    Topic: Prelinger 
+
+
+
+
+9.7M
+9.7M
+
+
+
+
+
+
+
+
+                  Ernst Mayr Library, Harvard University Museum of Comparative Zoology                
+
+
+collection 
+                  9,663                  ITEMS
+
+
+                  9.7M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 9.7M
+
+
+
+
+
+
+Books sponsored by the Harvard University, Museum of Comparative Zoology, Ernst Mayr Library. The Library of the Museum of Comparative Zoology, established by Louis Agassiz in 1861 and rededicated as the Ernst Mayr Library in 1995, joins in supporting the work of the Museum by providing and preserving information resources for the research and teaching activities of the Harvard community. The Library holds more than 304,072 volumes of monographs and journals, including recently added materials... 
+
+
+
+
+9M
+9.0M
+
+
+
+
+
+
+
+
+                  Natural History Museum Library, London                
+
+
+collection 
+                  8,711                  ITEMS
+
+
+                  9M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 9M
+
+
+
+
+
+
+Books from the Natural History Museum Library, London . 
+
+
+
+
+9M
+9.0M
+
+
+
+
+
+
+
+
+                  PIMS - University of Toronto                
+
+
+collection 
+                  9,336                  ITEMS
+
+
+                  9M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 9M
+
+
+
+
+
+
+“The Pontifical Institute has long appeared to observers to be the most substantial centre of medieval scholarship in North America.” —GEORGE HOLMES, Chichele Professor of Medieval History, All Souls College, Oxford The Institute Library, which opened in 1929 with a mere 3,000 titles donated by St Michael’s College, today has holdings of about 120,000 volumes whose lustre is enhanced and complemented by specialized collections of 9,000 reels of microfilm and 50,000 slides. The... 
+
+
+
+
+8.5M
+8.5M
+
+
+
+
+
+
+
+
+                  UK Medical Heritage Library                
+
+
+collection 
+                  142,281                  ITEMS
+
+
+                  8.5M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 8.5M
+
+
+
+
+
+
+The UK Medical Heritage Library brings together books and pamphlets from 10 research libraries in the UK, focused on the 19th and early 20th century history of medicine and related disciplines. This ongoing digitisation project is funded by Jisc ( http://www.jisc-content.ac.uk/ ) and the Wellcome Library ( http://wellcomelibrary.org ). The UK Medical Heritage Library is a sub-set of the Medical Heritage Library ( archive.org/details/medicalheritagelibrary ). UK Medical Heritage Library partners... 
+
+
+
+
+8.4M
+8.4M
+
+
+
+
+
+
+
+
+                  NASA Technical Documents                
+
+
+collection 
+                  26,274                  ITEMS
+
+
+                  8.4M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 8.4M
+
+
+
+
+
+
+Technical documents from NASA                    Topic: nasa 
+
+
+
+
+8.4M
+8.4M
+
+
+
+
+
+
+
+
+                  Regional Digitization in Massachusetts, funded by LSTA Grant and administered by the Boston Public Library                
+
+
+collection 
+                  29,264                  ITEMS
+
+
+                  8.4M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 8.4M
+
+
+
+
+
+
+Books digitized through a federally funded LSTA grant, through MBLC. 
+
+
+
+
+8.4M
+8.4M
+
+
+
+
+
+
+
+
+                  Folkscanomy Politics: Political Systems, Government and Democratic Organization                
+
+
+collection 
+                  7,187                  ITEMS
+
+
+                  8.4M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 8.4M
+
+
+
+
+
+
+Folksonomy : A system of classification derived from the practice and method of collaboratively creating and managing tags to annotate and categorize content; this practice is also known as collaborative tagging, social classification, social indexing, and social tagging. Coined by Thomas Vander Wal, it is a portmanteau of folk and taxonomy. Folkscanomy : A collection of books and text derived from the efforts of volunteers to make information as widely available as possible. Because the... 
+
+
+
+
+8.2M
+8.2M
+
+
+
+
+
+
+
+
+                  Canadian Government Publications Portal                
+
+
+collection 
+                  2,744                  ITEMS
+
+
+                  8.2M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 8.2M
+
+
+
+
+
+
+Internet Archive Canada, with advice and assistance from government and university librarians across Canada, have digitized more than 20,000 Canadian Government publications and made them freely available online. This page is meant to serve as a portal for discovering publications digitized by Internet Archive Canada, to be a reference for future digitization initiatives and provide incentive to grow the list of titles that have been preserved and dedicated to the public domain. Beginning in... 
+
+
+
+
+7.9M
+7.9M
+
+
+
+
+
+
+
+
+                  PubMed Central                
+
+
+collection 
+                  209,738                  ITEMS
+
+
+                  7.9M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 7.9M
+
+
+
+
+
+
+PubMed Central is a free full-text archive of biomedical and life sciences journal literature at the U.S. National Institutes of Health's National Library of Medicine (NIH/NLM). 
+
+
+
+
+7.5M
+7.5M
+
+
+
+
+
+
+
+
+                  University of Connecticut Libraries                
+
+
+collection 
+                  9,255                  ITEMS
+
+
+                  7.5M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 7.5M
+
+
+
+
+
+
+Books digitized by the Internet Archive for the University of Connecticut. 
+
+
+
+
+7.3M
+7.3M
+
+
+
+
+
+
+
+
+                  Children's Library                
+
+
+collection 
+                  2,822                  ITEMS
+
+
+                  7.3M VIEWS
+
+
+
+
+-
+-
+
+
+by
+Internet Archive
+
+
+
+
+collection 
+
+eye 7.3M
+
+
+
+
+
+
+Books for children from around the world. From University of California Libraries ( list ), the University of Florida's "Literature for Children" Collection , the National Yiddish Book Center , the New York Public Library , International Children's Digital Library , and other libraries. See a Tag Cloud for the Internet Archive Childrens Book Collection. 
+
+
+
+
+7M
+7.0M
+
+
+
+
+
+
+
+
+                  University of Massachusetts Amherst Libraries                
+
+
+collection 
+                  14,523                  ITEMS
+
+
+                  7M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 7M
+
+
+
+
+
+
+Books digitized by the Internet Archive for the University of Massachusetts Libraries. 
+
+
+
+
+7M
+7.0M
+
+
+
+
+
+
+
+
+                  National Library of Scotland                
+
+
+collection 
+                  4,859                  ITEMS
+
+
+                  7M VIEWS
+
+
+
+
+-
+-
+
+
+
+
+
+
+collection 
+
+eye 7M
+
+
+
+
+
+
+This is a selection of items from the National Library of Scotland , which is an information treasure trove of Scotland's knowledge, history and culture, with millions of books, manuscripts and maps covering every subject.                    Topic: National Library of Scotland 
+
+
+ 
+MORE RESULTS
+Fetching more results 
+
+Next Page
+
+
+
+
+
+
+archive_setup.push(function() { AJS.date_switcher('&nbsp;<a href="/details/texts?sort=-publicdate"><div class="date_switcher">Date Archived</div></a> <a href="/details/texts?sort=-date"><div class="date_switcher in">Date Published</div></a> <a href="/details/texts?sort=-reviewdate"><div class="date_switcher">Date Reviewed</div></a> '); })
+
+
+
+    archive_setup.push(function(){
+      AJS.lists_v_tiles_setup('collection');
+
+      
+      $('div.ikind').css({visibility:'visible'});
+
+              AJS.popState('');
+      
+      AJS.tiler();
+
+      $(window).on('resize  orientationchange', function(evt){
+        clearTimeout(AJS.tiles_wrap_throttler)
+        AJS.tiles_wrap_throttler = setTimeout(AJS.tiler, 250)
+      });
+
+      // register for scroll updates (for infinite search results)
+      $(window).scroll(AJS.scrolled);
+    });
+  
+
+  archive_setup.push(function() {
+    
+    
+    AJS.descript();
+    AJS.addNotes('');
+
+    $(window).on('resize  orientationchange', function(evt) {
+      clearTimeout(AJS.plotter_throttler);
+      AJS.plotter_throttler = setTimeout(AJS.plotter, 250)
+    });
+  });
+
+
+
+
+
+
+DESCRIPTION
+  
+
+The Internet Archive offers over 15,000,000 freely downloadable books and texts. There is also a collection of 550,000 modern eBooks that may be borrowed by anyone with a free archive.org account.
+
+Borrow a Book
+Books on Internet Archive are offered in many formats, including DAISY files intended for print disabled people.  In addition to the collections here, print disabled people may access a large collection of modern books provided as encrypted DAISY files on OpenLibrary.org. Please visit the FAQ for more information about DAISY files and how to un-encrypt them. 
+
+
+Get Something Digitized
+
+The Internet Archive also encourages libraries, content holders and the reading community at large, to have their printed materials non-destructively digitized and put online for the benefit of all. The Internet Archive has digitized over  2.1 million books and microforms. Both large and small collections of monographs, serials, archival materials, maps, diaries and photographs to name a few,  can be digitized in over 33 global scanning centers found on 4 continents. For more information please visit http://archive.org/scanning.
+Alternatively, our portable Table Top Scanner can also be purchased and used on-site within libraries and archives. To read more about our TT Scribe, please visit www.archive.org/details/tabletopscribesystem.
+
+Since 2005, the Internet Archive has collaborated and built digital collections with over 1,100 Library Institutions and other content providers. Partnerships include: Boston Public Library, the Library of Congress and the Lancaster County's Historical Society.  These collections are digitized from various mediatypes including: microfilm and microfiche, journals and serial publications, and a wide variety of archival material. Significant contributions have come from partners in North America (American and Canadian Libraries), Europe and Asia, representing more than 184 languages.
+
+Contribute a Book
+
+
+ The Internet Archive encourages our global community to contribute physical items, as well as uploading digital materials directly to the Internet Archive. If you have digital items that you would like to add to the Internet Archive, please Create a new item using the uploader interface. Click here to apply the specific creative commons license Creative Commons license to communicate how the material can be used. 
+
+For donation of physical books or items, please contact info@archive.org 
+
+
+
+
+RIGHTS
+Free to read, download, print, and enjoy. Some have restrictions on bulk re-use and commercial use, please see the collection or the sponsor of a book. By providing near-unrestricted access to these texts, we hope to encourage widespread use of texts in new contexts by people who might not have used them before. 
+
+ACTIVITY
+
+
+comment 
+
+
+
+
+comments 
+
+
+
+
+
+
+
+
+Created on
+
+              December 16 2004            
+
+ 
+
+
+Jeff KaplanArchivist 
+
+
+ADDITIONAL CONTRIBUTORS
+
+ 
+
+
+AnnaNMember 
+ 
+
+
+bindercMember 
+ 
+
+
+Diana HamiltonArchivist 
+ 
+
+
+jordonzArchivist 
+ 
+
+
+ARossiArchivist 
+ 
+
+
+siznaxArchivist 
+ 
+
+
+mollyArchivist 
+ 
+
+
+tracey poohArchivist 
+ 
+
+
+brewsterArchivist 
+ 
+
+
+mekarpelesArchivist 
+ 
+
+
+arkiver2Archivist 
+ 
+
+
+admin-andrea-millsArchivist 
+ 
+
+
+Jason ScottArchivist 
+ 
+
+
+Diario HelveciaArchivist 
+ 
+
+
+archiver849271Archivist 
+ 
+
+
+VerifiedJosephMember 
+ 
+
+
+associate-mike-saeleeArchivist 
+
+VIEWS
+4,141,256,873
+
+
+
+ITEMS
+16,425,992
+
+
+
+TOP REGIONS (LAST 30 DAYS) – BETA
+(data not available)
+
+
+
+
+
+
+New PostText Archive Forum email rss RSS
+
+
+
+
+Subject
+Poster
+Replies
+Date
+
+
+
+ "Sorry, epub creation failed"
+ 
+
+AncientAxim
+
+
+          1        
+
+May 2, 2018 3:37pm
+May 2, 2018 3:37pm
+
+
+
+
+             Any file I try same error
+ 
+
+AncientAxim
+
+
+          0        
+
+May 2, 2018 5:08pm
+May 2, 2018 5:08pm
+
+
+
+
+Delete item request.
+
+
+kmno4
+
+
+          1        
+
+Apr 28, 2018 3:34am
+Apr 28, 2018 3:34am
+
+
+
+
+                      Re: Delete item request.
+
+
+Jeff Kaplan
+
+
+          0        
+
+Apr 30, 2018 7:49pm
+Apr 30, 2018 7:49pm
+
+
+
+
+Get Online Mozilla Firefox Customer Support service for USA
+
+
+Online customer service
+
+
+          0        
+
+Apr 25, 2018 12:52am
+Apr 25, 2018 12:52am
+
+
+
+
+Can't get ePub version
+
+
+Alex Bell
+
+
+          1        
+
+Apr 17, 2018 5:00pm
+Apr 17, 2018 5:00pm
+
+
+
+
+             Re: Can't get ePub version
+ 
+
+AncientAxim
+
+
+          1        
+
+May 2, 2018 4:15pm
+May 2, 2018 4:15pm
+
+
+
+
+               Re: Can't get ePub version
+ 
+
+Alex Bell
+
+
+          0        
+
+May 2, 2018 9:24pm
+May 2, 2018 9:24pm
+
+
+
+
+Plz delete this item
+
+
+trikkia
+
+
+          0        
+
+Apr 11, 2018 2:42am
+Apr 11, 2018 2:42am
+
+
+
+
+imarketing
+
+
+imarketing
+
+
+          0        
+
+Apr 5, 2018 12:21am
+Apr 5, 2018 12:21am
+
+
+
+
+There Is No Preview Available For This Item This item is restricted.
+
+
+moh_abd288
+
+
+          0        
+
+Apr 1, 2018 6:59pm
+Apr 1, 2018 6:59pm
+
+
+
+
+Regain OST to PST Converter 
+
+
+nitafernando
+
+
+          0        
+
+Mar 29, 2018 3:49am
+Mar 29, 2018 3:49am
+
+
+
+
+impossible to upload a book from 1865
+
+
+wilhelm25
+
+
+          1        
+
+Mar 27, 2018 11:40pm
+Mar 27, 2018 11:40pm
+
+
+
+
+                      Re: impossible to upload a book from 1865
+
+
+Jeff Kaplan
+
+
+          1        
+
+Mar 28, 2018 10:46pm
+Mar 28, 2018 10:46pm
+
+
+
+
+                        Re: impossible to upload a book from 1865
+
+
+wilhelm25
+
+
+          1        
+
+Mar 29, 2018 7:12pm
+Mar 29, 2018 7:12pm
+
+
+
+
+                          Re: impossible to upload a book from 1865
+
+
+Jeff Kaplan
+
+
+          2        
+
+Mar 30, 2018 9:30am
+Mar 30, 2018 9:30am
+
+
+
+
+                            There Is No Preview Available For This Item This item is restricted.
+
+
+moh_abd288
+
+
+          1        
+
+Apr 1, 2018 7:01pm
+Apr 1, 2018 7:01pm
+
+
+
+
+                              Re: There Is No Preview Available For This Item This item is restricted.
+
+
+Jeff Kaplan
+
+
+          0        
+
+Apr 2, 2018 11:25am
+Apr 2, 2018 11:25am
+
+
+
+
+                            Classic Uploader did not work
+
+
+wilhelm25
+
+
+          1        
+
+Apr 2, 2018 5:06am
+Apr 2, 2018 5:06am
+
+
+
+
+                              Re: Classic Uploader did not work
+
+
+Jeff Kaplan
+
+
+          1        
+
+Apr 2, 2018 8:14am
+Apr 2, 2018 8:14am
+
+
+
+
+                                Re: Classic Uploader did not work
+
+
+wilhelm25
+
+
+          0        
+
+Apr 8, 2018 12:20pm
+Apr 8, 2018 12:20pm
+
+
+
+
+Hi - I need the book in pdf format - Pls help me
+
+
+sujatha79
+
+
+          0        
+
+Mar 27, 2018 5:20am
+Mar 27, 2018 5:20am
+
+
+
+
+Instructions to Solve Gmail Password Issues in Account
+
+
+danial smith
+
+
+          0        
+
+Mar 27, 2018 2:44am
+Mar 27, 2018 2:44am
+
+
+
+
+Upload missing
+
+
+wilhelm25
+
+
+          1        
+
+Mar 20, 2018 8:39pm
+Mar 20, 2018 8:39pm
+
+
+
+
+                      Re: Upload missing
+
+
+wilhelm25
+
+
+          0        
+
+Mar 22, 2018 11:15pm
+Mar 22, 2018 11:15pm
+
+
+
+
+Thanks
+
+
+hari shanker
+
+
+          0        
+
+Mar 17, 2018 11:56am
+Mar 17, 2018 11:56am
+
+
+
+
+Thanks
+
+
+hari shanker
+
+
+          0        
+
+Mar 17, 2018 11:56am
+Mar 17, 2018 11:56am
+
+
+
+
+sxrtujh
+
+
+RogerFederervsFilipKrajinovicLivestream
+
+
+          0        
+
+Mar 12, 2018 6:26am
+Mar 12, 2018 6:26am
+
+
+
+
+Unable to access Wayback Machine
+
+
+Patchett
+
+
+          1        
+
+Mar 8, 2018 5:50pm
+Mar 8, 2018 5:50pm
+
+
+
+
+                      Re: Unable to access Wayback Machine
+
+
+Patchett
+
+
+          0        
+
+Mar 9, 2018 4:05pm
+Mar 9, 2018 4:05pm
+
+
+
+
+"yellow" page color
+
+
+s.thorne
+
+
+          1        
+
+Mar 2, 2018 7:24pm
+Mar 2, 2018 7:24pm
+
+
+
+
+                      Re: 'yellow' page color
+
+
+Jeff Kaplan
+
+
+          1        
+
+Mar 2, 2018 9:01pm
+Mar 2, 2018 9:01pm
+
+
+
+
+                        Re: 'yellow' page color
+
+
+Patchett
+
+
+          0        
+
+Mar 2, 2018 10:15pm
+Mar 2, 2018 10:15pm
+
+
+
+
+Changing the name of some files
+
+
+ldw
+
+
+          1        
+
+Feb 23, 2018 1:07pm
+Feb 23, 2018 1:07pm
+
+
+
+
+                      Re: Changing the name of some files
+
+
+Jeff Kaplan
+
+
+          1        
+
+Feb 23, 2018 9:32pm
+Feb 23, 2018 9:32pm
+
+
+
+
+Could someone delete these files?
+
+
+Revista Interdanza
+
+
+          0        
+
+Feb 23, 2018 5:35am
+Feb 23, 2018 5:35am
+
+
+
+
+search inside text not working
+
+
+ninabrosh
+
+
+          0        
+
+Feb 22, 2018 10:55pm
+Feb 22, 2018 10:55pm
+
+
+
+
+Could someone please delete a file?
+
+
+Adeline_Gasnier
+
+
+          1        
+
+Feb 19, 2018 4:19am
+Feb 19, 2018 4:19am
+
+
+
+
+                      Re: Could someone please delete a file?
+
+
+Jeff Kaplan
+
+
+          1        
+
+Feb 19, 2018 7:21am
+Feb 19, 2018 7:21am
+
+
+
+
+                        Re: Could someone please delete a file?
+
+
+Adeline_Gasnier
+
+
+          0        
+
+Feb 19, 2018 9:54am
+Feb 19, 2018 9:54am
+
+
+
+
+Could someone please delete the following?
+
+
+danielprior1993@gmail.com
+
+
+          1        
+
+Feb 18, 2018 9:25am
+Feb 18, 2018 9:25am
+
+
+
+
+                      Re: Could someone please delete the following?
+
+
+Jeff Kaplan
+
+
+          0        
+
+Feb 18, 2018 5:05pm
+Feb 18, 2018 5:05pm
+
+
+
+
+Renewal
+
+
+evennow
+
+
+          1        
+
+Feb 18, 2018 3:42am
+Feb 18, 2018 3:42am
+
+
+
+
+                      Re: Renewal
+
+
+Jeff Kaplan
+
+
+          1        
+
+Feb 18, 2018 7:22am
+Feb 18, 2018 7:22am
+
+
+
+
+                        Re: Renewal
+
+
+evennow
+
+
+          1        
+
+Feb 19, 2018 1:04am
+Feb 19, 2018 1:04am
+
+
+
+
+                          Re: Renewal
+
+
+Jeff Kaplan
+
+
+          0        
+
+Feb 19, 2018 7:15am
+Feb 19, 2018 7:15am
+
+
+
+
+It used to work....
+
+
+Glenn Alperin
+
+
+          0        
+
+Feb 9, 2018 10:48am
+Feb 9, 2018 10:48am
+
+
+
+
+Add item to collections
+
+
+gingerbeardman
+
+
+          1        
+
+Feb 8, 2018 7:01am
+Feb 8, 2018 7:01am
+
+
+
+
+                      Re: Add item to collections
+
+
+Jeff Kaplan
+
+
+          0        
+
+Feb 9, 2018 11:39am
+Feb 9, 2018 11:39am
+
+
+
+View more forum posts 
+
+
+
+
+archive_setup.push(function() {
+    });
+
+
+
+
+
+
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=1239;
+    vs[i]['server_name']="www16.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+
+
+
+

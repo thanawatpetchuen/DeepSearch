@@ -1,0 +1,556 @@
+
+
+
+
+Ordinador - Viquipèdia, l'enciclopèdia lliure
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ordinador","wgTitle":"Ordinador","wgCurRevisionId":19817936,"wgRevisionId":19817936,"wgArticleId":2082,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pàgines amb enllaç commonscat des de Wikidata","1.000 articles fonamentals","Tecnologia (Els 1000 de META)","Control d'autoritats","Ordinadors"],"wgBreakFrames":false,"wgPageContentLanguage":"ca","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","gener","febrer","març","abril","maig","juny","juliol","agost","setembre","octubre","novembre","desembre"],"wgMonthNamesShort":["","gen","feb","març","abr","maig","juny","jul","ago","set","oct","nov","des"],"wgRelevantPageName":"Ordinador","wgRelevantArticleId":2082,"wgRequestId":"WuoLzQpAAEUAAIZOPKYAAAAD","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"ca","pageLanguageDir":"ltr","pageVariantFallbacks":"ca","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"ca","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"català","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q68","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0qdgeou",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"ca"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.charinsert","ext.gadget.AltresViccionari","ext.gadget.purgetab","ext.gadget.DocTabs","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Ordinador 
+De Viquipèdia 
+
+					Salta a:					navegació, 					cerca
+
+ Parts d'un ordinador personal de sobretaula modern: 1. Monitor 2. Placa mare 3. Unitat Central de Procés 4. Memòria 5. Targeta d'expansió 6. Font d'alimentació 7. Disc òptic 8. Disc dur 9. Ratolí 10. Teclat
+Un ordinador (del francès ordinateur) o computadora (del llatí computare, calcular) és una màquina electrònica que rep i processa dades per a convertir-les en informació útil. Està formada per un conjunt de circuits integrats i d'altres components relacionats que pot executar amb exactitud, rapidesa i d'acord amb les instruccions que rep per part d'un usuari o d'un programa. Els ordinadors són aparells digitals en tant que es basen en l'àlgebra de Boole i el sistema binari. La principal característica que el diferencia d'altres màquines similars és que és una màquina de propòsit general, és a dir, que pot realitzar diverses tasques segons les possibilitats del llenguatge de programació i el hardware. El model en què es basen els ordinadors actuals és arquitectura de Von Neumann, és a dir, que utilitzen la memòria principal per emmagatzemar dades i instruccions alhora, característica que els permet executar programes diferents, sent per tant una màquina de propòsit general. Això els diferencia d'altres aparells com les calculadores no programables. 
+
+Contingut
+
+1 Etimologia
+2 Història
+3 Funcionament
+4 Arquitectura
+
+4.1 Programes
+
+
+5 Components
+
+5.1 Maquinari
+
+5.1.1 Unitat de Control
+5.1.2 Unitat aritmeticològica
+5.1.3 Memòria principal
+5.1.4 Entrada/Sortida
+5.1.5 Ratolí
+5.1.6 Teclat
+5.1.7 Impressora
+5.1.8 Multitasca
+5.1.9 Multiprocessament
+5.1.10 Xarxes informàtiques i Internet
+
+
+5.2 Programari
+
+
+6 Tipus d'ordinador
+7 Curiositats
+8 Vegeu també
+
+8.1 Arquitectura
+
+8.1.1 Components principals
+8.1.2 Altres
+
+
+
+
+9 Bibliografia
+
+
+Etimologia[modifica]
+ Un supercomputador de la NASA
+La paraula 'ordinador' prové del francès 'ordinateur', que al seu torn procedeix de 'ordonnateur' (qui dóna ordres). En part per qüestions de màrqueting, ja que la descripció realitzada per IBM per la seva introducció a França en 1954 situava les capacitats d'actuació de la màquina prop de l'*omnipotència, idea equivocada que perdura avui dia en considerar que la màquina universal de *Turing és capaç de computar absolutament tot. El 1984, acadèmics francesos van reconèixer en el debat "Les jeunes, la technique et nous" que l'ús d'aquest substantiu és incorrecte, perquè la funció d'un PC és la de processar dades, no la de donar ordres. Mentre que d'altres, com el catedràtic de filologia llatina Jacques Perret, coneixedors de l'origen religiós del terme, el consideren més correcte que les alternatives.
+La utilització de la paraula 'ordinateur' s'ha exportat a llengües com el català, el francès, el castellà i el basc. D'altres idiomes europeus com el portuguès, l'alemany o el neerlandès, fan servir derivats del terme computadora. D'aquesta manera aconsegueixen parlar amb més propietat i definir correctament la funció dels PC's.
+
+Història[modifica]
+Article principal: Història dels ordinadors
+Els primers aparells que més s'assemblen als ordinadors actuals són de meitat del segle XX (1940-1945), encara que el concepte de computador ja existia prèviament (vegeu àbac i altres calculadores mecàniques). És una màquina electrònica que rep i processa dades per a convertir-los en informació útil. Un ordinador és una col·lecció de circuits integrats i altres components relacionats que pot executar amb exactitud, rapidesa i d'acord amb el que li indiqui un usuari o automàticament un altre programa, una gran varietat de seqüències o rutines d'instruccions que són ordenades, organitzades i sistematitzades en funció d'una àmplia gamma d'aplicacions pràctiques i precisament determinades. Aquest procés s'ha denominat amb el nom de programació i al qui ho realitza se li diu programador. Els primers ordinadors electrònics eren de la mida d'una cambra gran, i consumien l'energia equivalent a la de centenars d'ordinadors personals (PC) actuals. Els ordinadors moderns estan basats en circuits integrats minúsculs i són molt més potents (milions de vegades més) que abans, mentre que ocupen molt menys espai. Fins i tot poden ser de la mida d'un rellotge de polsera i alimentats per una pila. Els ordinadors personals són avui dia la icona de la societat de la informació i és en això pensa la majoria de gent en sentir la paraula ordinador, si bé bé avui dia la forma més comuna d'ordinadors són els ordinadors encastats. Aquests ordinadors són petits i simples, i normalment són usats per a controlar altres dispositius: des d'avions de combat, robots industrials o càmeres digitals fins a joguines infantils.
+
+Funcionament[modifica]
+El que defineix els ordinadors moderns i els diferencia de la resta de màquines és que aquests poden ser programats. Es pot donar una llista d'instruccions (el programa) a l'ordinador i aquest les guardarà i les durà a terme en algun moment.
+En la majoria de casos, les instruccions dels ordinadors són simples: afegir un nombre a un altre, moure unes dades d'un lloc a un altre, enviar un missatge a un dispositiu extern, etc. Aquestes instruccions es llegeixen des de la memòria, i en general són executades en el mateix ordre en què han estat donades. Hi ha però instruccions especials per a indicar a l'ordinador que ha de saltar (endavant o endarrere) cap a algun altre punt del programa, i continuar d'executar-se des d'allà. Aquestes instruccions s'anomenen instruccions de salt (o branques). Fins i tot es pot fer que aquestes instruccions siguin condicionals, de manera que es poden executar diverses instruccions en funció del resultat d'alguna operació anterior, o d'algun esdeveniment extern. Molts ordinadors suporten directament subrutines, donant un tipus de salt que "recorda" el lloc des d'on ha saltat cap a una altra instrucció, per a retornar-hi quan la subrutina hagi acabat i continuar executant des d'aquell punt.
+L'execució d'un programa es pot comparar amb llegir un llibre. Malgrat que una persona normalment llegirà cada lletra i línia seqüencialment, també pot tirar enrere en el text, o saltar paràgrafs sencers d'escàs interès. De forma similar, un ordinador pot anar enrere i repetir les instruccions d'alguna secció del programa una vegada i una altra, fins que es compleixi alguna condició interna. Això s'anomena flux de control del programa, que és el que permet a l'ordinador d executar tasques repetidament sense intervenció humana.
+Comparativament, una persona usant una calculadora pot fer les operacions aritmètiques bàsiques com sumar dos nombres amb pocs passos. Però sumar tots els nombres de l'1 al 1000 requeriria milers de petjades de tecla i molt de temps, amb la quasi-certesa de cometre algun error. En canvi, un ordinador es pot programar per a fer això amb només unes poques instruccions. Per exemple:
+
+mov #0,sum; posa sum a 0
+mov #1,num; posa num a 1
+loop: add num,sum; suma num a sum
+add #1,num; suma 1 a num
+cmp num,#1000; compara num amb 1000
+ble loop; si num ≤ 1000, torna enrere a 'loop'
+halt; fi del programa. para.
+
+Quan s'indica d'executar el programa, l'ordinador fa la tasca repetitiva de sumar sense més intervenció humana. Pràcticament mai no s'equivocarà. Un PC modern pot enllestir la tasca en una milionèsima de segon.
+Noti's però que un ordinador no pot "pensar" per ell mateix, sinó que només resol els problemes exactament de la manera que ha estat programat per a fer-ho. Un humà intel·ligent que es trobés amb el problema de dalt aviat es podria adonar que en lloc de sumar tots els nombres un per un, pot simplement usar l'equació
+
+
+
+
+
+1
++
+2
++
+3
++
+⋯
++
+n
+=
+
+
+
+n
+(
+n
++
+1
+)
+
+2
+
+
+
+
+{\displaystyle 1+2+3+\cdots +n={{n(n+1)} \over 2}}
+
+
+i arribar a la resposta correcta (500500) sense gaire esforç. És a dir que no tindria en compte solucions alternatives més eficients. Sovint es fan intents de crear programes que puguin esquivar aquesta limitació fonamental de les computadores. Aquest programari, que imita l'aprenentatge i l'adaptació humanes, forma part de la intel·ligència artificial.
+El codi anterior (mov, add, cmp) és escrit en assemblador. És el llenguatge en què es programa la CPU, i està íntimament lligat amb cada model i marca de CPU, encara que el més usual és el x86. Per simplicitat, s'han creat llenguatges d'alt nivell que permeten de programar més fàcilment, com el C o el C++. Com que la CPU només entén el codi assemblador, un programa compilador fa la traducció del llenguatge d'alt nivell a assemblador. En llenguatges més moderns com C# o Java, el programa es compila només a un codi intermediari, que posteriorment serà traduït a assemblador, en temps d'execució, per un intèrpret o màquina virtual.
+
+
+Llenguatge de programació
+
+
+Llenguatges d'alt nivell més usats
+BASIC, C, C++, C#, COBOL, Fortran, Java, Lisp, Pascal
+
+
+Llenguatges script més usats
+Bourne script, JavaScript, Python, Ruby, PHP, Perl
+
+
+Arquitectura[modifica]
+Encara que les tecnologies emprades en les computadores digitals han canviat molt des que van aparèixer els primers models en els anys 40, la majoria encara utilitza l'Arquitectura de von Neumann, publicada a principis dels anys 1940 per John von Neumann, que altres autors atribueixen a John Presper Eckert i John William Mauchly. 
+L'arquitectura de Von Neumann descriu un ordinador amb 4 seccions principals: la unitat aritmètic lògica (ALU per les seves sigles de l'anglès: Arithmetic Logic Unit), la unitat de control, la memòria central, i els dispositius d'entrada i sortida (E / S ). Aquestes parts estan interconnectades per canals de conductors anomenats busos: 
+La memòria és una seqüència de cel·les d'emmagatzematge numerades, on cada una és un bit o unitat d'informació. La instrucció és la informació necessària per realitzar el que es desitja amb el computador. Les cel·les contenen dades que es necessiten per dur a terme les instruccions, amb el computador. El nombre de cel·les varien molt d'ordinador a ordinador i les tecnologies emprades per a la memòria han canviat força, van des dels relés electromecànics, tubs plens de mercuri en els quals es formaven els polsos acústics, matrius d'imants permanents, transistors individuals a circuits integrats amb milions de cel·les en un sol xip. En general, la memòria pot ser reescrita diversos milions de vegades (memòria RAM); s'assembla més a una pissarra que a una làpida (memòria ROM) que només es pot escriure una vegada. 
+El processador (també anomenat Unitat central de processament o CPU) consta de: 
+Un típic símbol esquemàtic per a una ALU: A i B són operands, R és la sortida; F és l'entrada de la unitat de control; D és un estat de la sortida. La unitat aritmètic lògica o ALU és el dispositiu dissenyat i construït per dur a terme les operacions elementals com les operacions aritmètiques (suma, resta,...), operacions lògiques (I, O, NO), i operacions de comparació o relacionals. En aquesta unitat és on es fa tot el treball computacional. 
+La unitat de control segueix la direcció de les posicions en memòria que contenen la instrucció que l'ordinador va a realitzar en aquell moment, recupera la informació posant-la en la ALU per a l'operació que ha de desenvolupar. Transfereix després el resultat a ubicacions apropiades en la memòria. Una vegada que passa això, la unitat de control va a la següent instrucció (normalment situada a la següent posició, a menys que la instrucció sigui una instrucció de salt, informant a l'ordinador que la propera instrucció estarà ubicada en una altra posició de la memòria). 
+Els dispositius E / S serveixen a l'ordinador per obtenir informació del món exterior i / o comunicar els resultats generats per l'ordinador a l'exterior. Hi ha una gamma molt extensa de dispositius E / S com teclats, monitors, unitats de disc flexible o càmeres web.
+
+Programes[modifica]
+El tret que defineix els ordinadors moderns que els distingeix de totes les altres màquines és que poden ser programats. S'ha de dir que algun tipus d'instruccions (el programa) es pot donar a l'ordinador, i comportarà un procés en ells. Mentre alguns ordinadors poden tenir conceptes estranys "instruccions" i "imprimir" (vegi computació de quantum), els ordinadors moderns basats en l'arquitectura de von Neumann, sovint tenen un codi màquina en forma d'un llenguatge de programació imperatiu.
+En termes pràctics, un programa informàtic poden ser just unes quantes instruccions o estendre's a molts milions d'instruccions, per exemple com fer els programes per a processadors de textos i navegadors web. Un ordinador modern típic pot executar milers de milions d'instruccions per segon (gigaflops) i rarament comet una equivocació durant molts anys de funcionament.
+
+Components[modifica]
+L'ordinador està compost pel maquinari (hardware) i el programari (software).
+
+Maquinari[modifica]
+Articles principals: Microprocessador i Unitat Central de Procés
+Un ordinador de propòsit general té quatre parts principals: la unitat aritmeticològica (ALU), la unitat de control, la memòria i les entrades i sortides dels diversos dispositius (de forma abreujada, Entrada/Sortida). Totes aquestes parts són interconnectades mitjançant busos, que normalment són conjunts de cables.
+El conjunt de la unitat de control, l'ALU, els registres, i l'E/S bàsica és conegut com la Unitat Central de Procés (CPU) o processador. Originàriament les CPUs es construïen separades, però des de mitjans dels 70 s'han construït en un únic circuit integrat anomenat microprocessador.
+
+ Una instrucció (arquitectura MIPS) que suma 350 a $r2 i ho guarda en $r1. La unitat de control s'encarrega d'interpretar el significat dels nombres en binari de la instrucció.
+Unitat de Control[modifica]
+La Unitat de Control (també anomenat sistema de control o controlador central) dirigeix els diferents components d'un ordinador. Llegeix i interpreta (descodifica) les instruccions del programa una per una i les converteix en una sèrie de senyals de control que operen les altres parts de l'ordinador. Els sistemes de control d'ordinadors avançats poden arribar a reordenar instruccions per tal d'optimitzar-ne l'execució.
+Una peça clau de tota CPU és el comptador de programa, una cel·la de memòria (registre) especial, que manté l'adreça de la memòria on està situada la següent instrucció del programa.
+La funció del sistema de control és com es descriu a continuació. Noti's que es tracta d'una versió simplificada, i que alguns d'aquests passos es poden executar concurrentment o en un diferent ordre depenent del tipus de CPU:
+
+1. Llegeix el codi per la següent instrucció de la cel·la indicada pel comptador de programa
+2. Descodifica el codi numèric de la instrucció en un conjunt de comandes o senyals per cada un dels altres sistemes.
+3. Incrementa el comptador de programa de forma que apunti a la següent instrucció.
+4. Llegeix les dades que la instrucció necessiti de les cel·les de memòria (o potser d'un dispositiu d'entrada).
+La ubicació d'aquestes dades habitualment s'emmagatzema junt amb el codi de la instrucció.
+5. Proporciona les dades necessàries a l'ALU o a un registre.
+6. Si la instrucció requereix una ALU o un maquinari especialitzat, ordena al maquinari de dur a terme l'operació demanada.
+7. Escriu el resultat des de l'ALU a una posició de memòria o a un registre, o a un dispositiu extern.
+8. Es torna al punt (1) i es repeteix el procediment.
+
+Com que el comptador de programa és (conceptualment) un conjunt com qualsevol altre de cel·les de memòria, pot canviar-se amb les operacions de l'ALU. Sumar 100 al comptador de programa faria que la següent instrucció es llegís 100 posicions més endavant en el codi del programa. Les instruccions que modifiquen el comptador de programa normalment es coneixen per "salts" i permeten fer bucles (instruccions que es repeteixen) que són també sovint instruccions condicionals (ambdós, exemples de control de flux).
+Així doncs, la seqüència d'operacions que la CPU du a terme per executar una instrucció ve a ser un altre programa en si. I de fet, en els dissenys de CPU més complexos hi ha una part encara més petita, anomenada microseqüenciador, que s'encarrega d'executar un programa de microcodi com el de dalt.
+
+Unitat aritmeticològica[modifica]
+La ALU és capaç de fer dos tipus d'operacions: aritmètiques i lògiques.
+El conjunt d'operacions aritmètiques que una ALU suporta pot estar limitada a sumar i restar, o bé pot incloure funcions per multiplicar, dividir, funcions trigonomètriques i arrels quadrades. Algunes només poden operar en nombres enters (integer) mentre que d'altres usen punt flotant amb una precisió limitada. 
+Tot i així, qualsevol ordinador que pugui fer les operacions bàsiques pot ser programat per efectuar operacions més complexes descomponent-les en diverses operacions simples que l'ordinador pugui executar. Per tant qualsevol ordinador pot programar-se per fer qualsevol operació aritmètica, tot i que un ordinador que la suporti directament per maquinari l'executarà més ràpid (en menys passos).
+El conjunt d'operacions lògiques retornen true o false (cert o fals). Les comparacions entre nombres (més gran que, més petit que, igual) com ara "64 és més gran que 65?".
+O altres operacions lògiques com AND, OR, XOR, NOT. Que són útils entre altres coses per construir predicats condicionals, a partir del qual s'executaran unes instruccions si es retorna true o unes altres si es retorna false.
+Els ordinadors superescalars contenen diverses ALUs que els permeten processar moltes instruccions alhora. Algunes targetes gràfiques i ordinadors disposen d'instruccions SIMD i MIMD que els permeten executar operacions sobre vectors i matrius.
+
+Memòria principal[modifica]
+Article principal: Memòria d'ordinador
+La memòria la podem imaginar com una llista de cel·les en què poden llegir-se i escriure nombres. Cada cel·la, numerada amb una adreça, pot emmagatzemar un únic nombre. A aquesta memòria se li envien ordres de l'estil "posa el nombre 123 a la cel·la número 1357" o "afegeix el nombre que hi ha a la cel·la 1357 al nombre que hi ha a la cel·la 2468 i posa el resultat a la cel·la 1595". La informació que es guarda a la memòria pot representar qualsevol cosa, amb la mateixa facilitat. Des de lletres a nombres, o les mateixes instruccions del programari que indiquen a l'ordinador què fer. En tant que la CPU no diferencia entre els diferents tipus d'informació, és responsabilitat del programari donar significat a allò que la memòria tan sols veu com a nombres.
+
+ En els inicis (anys 60) s'usava memòria magnètica com a memòria principal, fins que fou reemplaçada pels semiconductors.
+En la majoria d'ordinadors moderns, cada cel·la de memòria guarda els nombres binaris en grups de vuit bits (anomenat byte o octet en català). Cada octet pot representar fins a 256 nombres diferents; o bé des de 0 a 255 o des de -128 a +127. Per emmagatzemar nombres grans, es poden usar diversos octets consecutius (normalment, dos, quatre o vuit). Habitualment els nombres negatius es guarden en format complement a dos. Són possibles altres formats, però normalment no es veuen fora d'aplicacions especialitzades o contextos històrics. En definitiva, un ordinador pot emmagatzemar qualsevol informació que es pugui representar d'alguna manera mitjançant nombres. Els ordinadors moderns tenen de milers de milions a un bilió de bytes de memòria.
+La CPU conté un conjunt especial de cel·les de memòria anomenats registres que es poden llegir i escriure molt més ràpidament que la memòria principal. Típicament hi ha de 2 a 100 registres depenent del tipus de CPU. Aquests registres s'usen per les dades que es necessiten més freqüentment, per evitar haver d'accedir a la memòria principal, molt més lenta. Això produeix grans guanys en velocitat. La distància creixent de temps d'accés entre els registres i la memòria principal és un problema anomenat memory wall.
+La memòria principal pot ser de dos tipus: memòria d'accés aleatori (RAM) o read-only memory (ROM) (memòria de només lectura). La CPU pot llegir i escriure a la RAM en qualsevol moment que se li ordeni, mentre que la ROM ja ve carregada amb programari i dades que mai canvien i que per tant són de només lectura. La ROM típicament s'usa per a les instruccions que l'ordinador executa en arrencar. En general, els continguts de la RAM s'esborren quan es talla l'alimentació elèctrica, mentre que la ROM preserva les dades indefinidament.
+
+Entrada/Sortida[modifica]
+L'Entrada/Sortida (abreujat E/S, en anglès I/O) és la manera que té l'ordinador d'enviar i rebre informació del món exterior. Els components d'E/S s'anomenen perifèrics, i són de tres tipus: d'entrada, de sortida, i d'entrada i sortida:
+
+Els perifèrics d'entrada típics d'un ordinador personal són el teclat, el ratolí, la palanca de control (joystick), l'escàner, el micròfon o la càmera web.
+Els perifèrics de sortida més habituals són el monitor, els altaveus o la impressora.
+Entre els perifèrics d'entrada i sortida hi ha les xarxes informàtiques, les pantalles tàctils i la memòria secundària, categoria de la qual formen part tota una sèrie de dispositius d'emmagatzematge com els disquets, discs durs, CD (disc compacte), DVD, cintes, memòries flaix.
+Molts dispositius d'E/S es poden considerar ordinadors en si: independents, amb la seva pròpia memòria i CPU.
+
+Ratolí[modifica]
+Article principal: Ratolí (ordinador)
+El ratolí (de la traducció de mouse en anglès) és un perifèric d'ordinador, generalment fabricat en material plàstic, que 
+podem considerar, al mateix temps, com a un dispositiu d'entrada de dades i de control, depenent del programari que maneja en cada moment.
+Sol estar dotat de dos o tres botons de pulsació que permeten activar fent-hi clic diverses accions depenent del botó premut (esquerre, central, dret) i de l'àrea en el que es troba la puntera. Actualment la majoria de ratolins tenen una roda central que substitueix al tercer botó, això permet més comoditat en l'ús d'algunes aplicacions (com per exemple, els processadors de text o les finestres dels navegadors d'Internet) a l'integrar accions relacionades amb el moviment ascendent i descendent del contingut de la pantalla.
+
+Teclat[modifica]
+Un teclat de computadora és un periféric, físic o virtual (per exemple teclats de pantalla o teclats táctils), utilitzats per a la introducció d'ordres i dades en una computadora. Té el seu origen en els teletips i les màquines d'escriure elèctriques, que es van utilitzar com a teclats dels primers ordinadors i dispositius d'emmagatzematge (gravadors de cinta de paper y targetes perforades).
+
+Impressora[modifica]
+Una impressora és un perifèric d'una computadora que permet produir una còpia permanent de textes o gráfics de documents guardats en format electrònic, imprimint en paper les dades en medis físics, utilitzant carrets de tinta o tecnología làser. Moltes impressores són utilitzades com a periférics, i estan permanentment unides a la computadora per un cable. 
+
+Multitasca[modifica]
+Mentre que un ordinador pot només executar un programa, normalment és necessari executar diversos programes alhora o si més no simular-ho. Això s'aconsegueix amb la multitasca: tot i que l'ordinador executa un sol programa a cada moment, el fet que els diferents programes es vagin succeint en ordre molt ràpidament (mitjançant canvis de context) provoca la sensació que aquests diferents programes s'executen en paral·lel, tot i només executar-se'n un en qualsevol instant donat.
+Això s'aconsegueix amb un senyal especial anomenat interrupció, que provoca la interrupció del codi actualment en execució per donar pas a un altre codi. El punt del codi on s'ha interromput es desa de manera que més tard es pugui reprendre l'execució en aquell mateix punt. Quan s'executen diversos programes, hi ha interrupcions centenars de vegades per segon, per distribuir entre els diferents programes l'ús del recurs limitat que és el processador. Aquest concepte de compartició s'anomena time-sharing.
+Abans de l'era dels ordinadors barats, el principal ús de la multitasca era el de permetre a diverses persones compartir el mateix ordinador.
+A primera vista podria semblar que la multitasca provoca que els diferents programes s'executin molt més lentament - en proporcionalitat directa amb el nombre de programes que s'estan executant. Però això no es dóna, ja que els programes es passen la majoria del seu temps esperant que els dispositius d'entrada/sortida (molt lents en comparació amb el processador) acabin la seva tasca. Si per exemple un programa està esperant que l'usuari cliqui amb el ratolí o premi una tecla, aleshores a aquest programa no se li assignarà temps d'ús del processador fins que l'event que s'està esperant s'esdevingui. Això allibera temps pels altres programes, de manera que es poden executar diversos programes alhora sense que l'alentiment global del sistema sigui inacceptable.
+
+Multiprocessament[modifica]
+ Cray va dissenyar molts supercomputadors que feien multiprocessament.
+Alguns ordinadors són dissenyats per distribuir la seva càrrega entre diverses CPU, una tècnica que abans s'usava només en ordinadors grans i potents, com els supercomputadors, els mainframes i els servidors. Avui dia ja hi ha molts ordinadors portàtils i de sobretaula amb sistemes multiprocessador i multi-core (múltiples CPUs en un sol circuit integrat).
+Els supercomputadors en particular, normalment ofereixen arquitectures úniques que difereixen significativament de les arquitectures bàsiques de programa emmagatzemat i dels ordinadors de propòsit general. Normalment disposen de milers de CPUs, interconnexions d'alta velocitat customitzades, i hardware especialitzat. Aquests dissenys però acostumen a ser útils només per a certes tasques específiques, degut a la gran organització necessària dels programes per aprofitar tots els recursos disponibles alhora. Les supercomputadores s'acostumen a fer servir per simulacions a gran escala, renderització de gràfics, aplicacions criptogràfiques, i altres tasques molt "paral·lelitzables".
+
+Xarxes informàtiques i Internet[modifica]
+Articles principals: Internet i Xarxa informàtica
+ Visualització de les diverses rutes d'una part d'Internet.
+Els ordinadors s'han fet servir per coordinar la informació de diversos llocs des dels anys 50. El sistema SAGE de l'exèrcit dels Estats Units va ser el primer sistema a gran escala d'aquest tipus. Aquest sistema va conduir al desenvolupament d'altres sistemes especialitzats d'ús comercial, com Sabre.
+Els anys 70, informàtics d'instituts de recerca al llarg dels Estats Units van començar a connectar els seus ordinadors entre ells fent servir tecnologies de telecomunicacions. Aquest esforç fou fundat per l'ARPA (avui dia DARPA), resultant en la xarxa informàtica anomenada ARPANET. Les tecnologies que feren Arpanet possible s'estengueren i evolucionaren.
+Amb el temps, la xarxa s'estengué més enllà dels entorns acadèmics i militars i es convertí en Internet. L'emergència de les xarxes informàtiques van comportar la redefinició de la naturalesa i les fronteres de l'ordinador. Els sistemes operatius i les aplicacions es van modificar per fer possible accedir a recursos ubicats en altres ordinadors de la xarxa, com ara dispositius perifèrics o informació emmagatzemada, com a extensió dels recursos de l'ordinador. En un inici, aquestes facilitats només eren disponibles per a treballadors en entorns d'alta tecnologia, però els anys 90, la difusió d'aplicacions com el correu electrònic o la World Wide Web, combinat amb el desenvolupament de tecnologies de xarxa ràpides i barates com l'Ethernet o l'ADSL, significà la implantació de xarxes informàtiques d'una manera quasi ubiqua. De fet, el nombre d'ordinadors en xarxa està en continu creixement. Una gran part dels ordinadors personals es connecten regularment a Internet per comunicar i rebre informació. La xarxes sense fils, usant xarxes amb tecnologia WiFi o xarxes de telefonia mòbil, ha significat que les xarxes informàtiques estiguin esdevenint comunes fins i tot en entorns de computació mòbil.
+
+Programari[modifica]
+Es coneix com programari (software) a l'equipament lògic o suport lògic d’una computadora digital; compren el conjunt dels components lògics necessaris que fan possible la realització de tasques específiques, en contraposició als components físics del sistema, anomenats hardware.
+El programari (en anglès Software) és la part immaterial de l'ordinador. De vegades al programari fix se l'anomena firmware (el software dels drivers o de la BIOS). El primer software en executar-se és el de la BIOS, seguit pel sistema operatiu.
+El sistema operatiu és un tipus especial de programa. Essencialment serveix per oferir multitasca, repartint els recursos de l'ordinador entre les diferents aplicacions. Actualment, Windows és el sistema operatiu més utilitzat amb un 90% de quota. El segueixen Linux i MacOS.
+Les llibreries són col·leccions de programari que contenen funcions d'ús comú, i permeten de reaprofitar codi.
+
+
+Programari
+
+
+Sistema Operatiu
+Unix/BSD
+openBSD, NetBSD, FreeBSD, Solaris
+
+
+GNU/Linux
+Debian, Fedora, Gentoo, Mandriva, Red Hat, Slackware, SuSE, Ubuntu, Lliurex
+
+
+Microsoft Windows
+Windows 95, Windows 98, Windows NT, Windows 2000, Windows XP, Windows Vista, Windows CE, Windows 7, Windows 8, Windows 10
+
+
+DOS
+PC-DOS, MS-DOS i altres
+
+
+Mac OS
+Mac OS classic, Mac OS X
+
+
+Altres
+SO Experimentals, en Temps Real i Encastats
+
+
+Llibreries
+Multimèdia
+DirectX, OpenGL
+
+
+Programació
+C standard library, Standard template library, .NET
+
+
+Dades
+Protocol
+TCP/IP, FTP, HTTP, SMTP
+
+
+Format de fitxer
+HTML, XML, JPEG, MPEG, PNG
+
+
+Interfície d'usuari
+Interfície gràfica d'usuari
+Microsoft Windows, GNOME, KDE, QNX Photon, Common Desktop Environment, Graphical Environment Manager
+
+
+Interfície de text
+Línia d'ordres, shells
+
+
+Aplicacions
+Paquet ofimàtic
+Processador de text, Autoedició, Presentacions, Base de dades, Scheduling & Time management, Full de càlcul, Comptabilitat
+
+
+Internet
+navegador web, Client E-mail, servidor web, Missatgeria instantània
+
+
+Disseny i producció
+Computer-aided design, Computer-aided manufacturing, ERP, Plant management, Robotic manufacturing, Supply chain management
+
+
+Gràfics
+Editor raster, Vector graphics editor, Modelador 3D, gràfics 3D, Edició de video, Processament d'imatges
+
+
+Audio
+Digital audio editor, Audio playback, Mixing, Audio synthesis, Informàtica musical
+
+
+Enginyeria del Software
+Compilador, Assembler, Desassemblador, Interpreter, Debugger, editor de text, Entorn integrat de desenvolupament, Performance analysis, Revision control, Software configuration management
+
+
+Videojoc
+Videojoc esportiu, Videojoc de rol tàctic, Videojoc d'aventures, Videojoc de plataformes, Videojoc d'acció
+
+
+Altres
+Intel·ligència artificial, Antivirus, educatius, Installer/Package management systems, Gestor d'arxius
+
+Tipus d'ordinador[modifica]
+Alguns dels molts tipus d'ordinadors. Algunes d'aquestes distincions són més històriques que actuals. 
+
+Supercomputador, són els ordinadors amb més capacitat de càlcul i per tant els més cars, més voluminosos i escassos.
+Ordinador central, també anomenat mainframe: acostumen a formar part d'una xarxa amb altres ordinadors centrals, miniordinadors o microordinadors. A les empreses punteres, serveixen per a realitzar els càlculs que empren major memòria. Aquests càlculs acostumen a ser sol·licitats des de microordinadors pels usuaris de la xarxa.
+Miniordinador: Tots els usuaris es connecten al miniordinador. En desús, per la popularització de les xarxes i l'augment de capacitat dels microordinadors.
+Ordinador personal, categoria en què estan inclosos l'ordinador de sobretaula i l'ordinador portàtil.
+Micrordinador un tipus d'ordinador personal enfocat al mercat domèstic. Eren els ordinadors més barats, més petits i més populars. També coneguts com a home computer, s'endollaven directament a la televisió.
+Microcontrolador, ordinador de poca potència i baix consum integrat en un sol xip, usat per rentadores, torradores, rellotges, etc.
+Estació de treball (Workstation), similars que els PC's però amb més potència. Per a professionals que usen aplicacions intensives com CAD, renderització 3D, etc.
+Telèfon mòbil, PDA
+Tablet PC
+Curiositats[modifica]
+Alguns ordinadors més grans es diferencien del model anterior en un aspecte important: tenen diverses CPU i unitats de control que treballen alhora. A més, alguns, sobretot utilitzades per a la recerca, són molt diferents del model anterior però no tenen gaires aplicacions comercials.
+
+Vegeu també[modifica]
+Aplicació informàtica
+Compaq Portable
+Internet
+Llista d'ordinadors ficticis
+Maquinari
+MareNostrum
+Sistema d'arxius
+Sistema operatiu
+Arquitectura[modifica]
+Ordinador
+Arquitectura Harvard
+Arquitectura Eckert-Mauchly
+Sistemes redundants
+Components principals[modifica]
+BIOS
+Bus
+CPU o microprocessador
+memòria (RAM), memòria ROM
+Targeta mare
+Altres[modifica]
+FireWire
+Port paral·lel
+Peripheral Component Interconnect (Bus PCI)
+Targeta de xarxa
+Bus sèrie universal
+Bibliografia[modifica]
+Lavington, Simon. A History of Manchester Computers. 2a ed..  Swindon: The British Computer Society, 1998. ISBN 0850121558. 
+Stokes, Jon. Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture.  San Francisco: No Starch Press, 2007. ISBN 978-1-59327-104-6. 
+Stern, Nancy. From ENIAC to UNIVAC: An Appraisal of the Eckert-Mauchly Computers (en anglès).  Digital Press, 1981. ISBN 0-932376-14-2. 
+
+
+En altres projectes de Wikimedia:
+
+
+
+Commons 
+
+
+
+Viccionari
+
+
+
+Viquidites
+
+
+
+
+
+
+Registres d'autoritat
+BNF: cb119401913
+GND: 4070083-5
+LCCN: sh85029552
+NDL: 00561435
+Bases d'informació
+GEC: 0128063
+
+
+
+
+
+ 
+						Obtingut de «https://ca.wikipedia.org/w/index.php?title=Ordinador&oldid=19817936»					
+Categoria : OrdinadorsCategories ocultes : Pàgines amb enllaç commonscat des de Wikidata1.000 articles fonamentalsTecnologia (Els 1000 de META)Control d'autoritats 
+
+
+
+Menú de navegació
+
+
+Eines personals
+
+Sense sessió iniciadaDiscussió per aquest IPContribucionsCrea un compteInicia la sessió 
+
+
+
+Espais de noms
+
+PàginaDiscussió 
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Vistes
+
+MostraModificaMostra l’historial 
+
+
+
+Més
+
+
+
+
+
+
+
+Cerca
+
+
+
+ 
+
+
+
+
+
+
+
+Navegació
+
+
+PortadaArticle a l'atzarArticles de qualitat 
+
+
+
+Comunitat
+
+
+Portal viquipedistaCanvis recentsLa tavernaContacteXatDonatiusAjuda 
+
+
+
+Eines
+
+
+Què hi enllaçaCanvis relacionatsPàgines especialsEnllaç permanentInformació de la pàginaElement a WikidataCitau aquest article 
+
+
+
+Imprimeix/exporta
+
+
+Crear un llibreBaixa com a PDFVersió per a impressora 
+
+
+
+En altres projectes
+
+
+CommonsViquidites 
+
+
+
+En altres idiomes
+
+
+АҧсшәаAcèhAfrikaansAlemannischአማርኛAragonésÆngliscالعربيةܐܪܡܝܐمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)‎БългарскиभोजपुरीBislamaবাংলাབོད་ཡིགবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiᨅᨔ ᨕᨘᨁᨗБуряадMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoTsetsêhestâheseکوردیQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiडोटेलीΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisFurlanGaeilge贛語GàidhligGalegoAvañe'ẽ𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHausa客家語/Hak-kâ-ngîעבריתहिन्दीFiji HindiHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIgboIñupiakIlokanoIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ/inuktitut日本語PatoisLa .lojban.Basa JawaქართულიQaraqalpaqshaKabɩyɛKongoGĩkũyũҚазақшаភាសាខ្មែរಕನ್ನಡ한국어Къарачай-малкъарकॉशुर / کٲشُرKurdîКомиKernowekКыргызчаLatinaLadinoLëtzebuergeschЛезгиLingua Franca NovaLimburgsLumbaartLingálaລາວLietuviųLatviešuमैथिलीMalagasyОлык марийМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorskOccitanLivvinkarjalaOromooଓଡ଼ିଆਪੰਜਾਬੀKapampanganPolskiPiemontèisپنجابیΠοντιακάپښتوPortuguêsRuna SimiRomaniRomânăРусскийРусиньскыйसंस्कृतम्Саха тылаSarduSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSesothoSeelterskBasa SundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeXitsongaТатарча/tatarçaئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsWalonWinarayWolof吴语IsiXhosaმარგალურიייִדישYorùbáVahcuengh中文文言Bân-lâm-gú粵語IsiZulu 
+Modifica els enllaços 
+
+
+
+
+
+ La pàgina va ser modificada per darrera vegada el 9 abr 2018 a les 16:30.
+El text està disponible sota la  Llicència de Creative Commons Reconeixement i Compartir-Igual; es poden aplicar termes addicionals.
+Vegeu les Condicions d'ús.
+Wikipedia® (Viquipèdia™) és una marca registrada de Wikimedia Foundation, Inc.
+
+
+Política de privadesa
+Quant al projecte Viquipèdia
+Renúncies
+Desenvolupadors
+Declaració de cookies
+Versió per a mòbils
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.204","walltime":"0.267","ppvisitednodes":{"value":1544,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":11078,"limit":2097152},"templateargumentsize":{"value":1863,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":36,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  116.236      1 -total"," 33.11%   38.490      1 Plantilla:Citar_ref"," 28.33%   32.927      1 Plantilla:Citar_llibre"," 24.80%   28.832      1 Plantilla:Projectes_germans"," 13.17%   15.310      1 Plantilla:Autoritat"," 12.22%   14.200      2 Plantilla:Ref-llibre","  9.74%   11.322      4 Plantilla:Principal","  3.65%    4.240      1 Plantilla:AP","  2.32%    2.696      1 Plantilla:Commonscat/categories","  2.11%    2.453      1 Plantilla:1000_Tecnologia"]},"scribunto":{"limitreport-timeusage":{"value":"0.024","limit":"10.000"},"limitreport-memusage":{"value":1677002,"limit":52428800}},"cachereport":{"origin":"mw1305","timestamp":"20180502184541","ttl":1900800,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":113,"wgHostname":"mw1274"});});
+
+

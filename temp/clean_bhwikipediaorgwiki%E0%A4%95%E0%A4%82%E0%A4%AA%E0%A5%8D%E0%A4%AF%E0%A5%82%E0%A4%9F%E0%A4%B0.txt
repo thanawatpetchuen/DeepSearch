@@ -1,0 +1,642 @@
+
+
+
+
+Computer - Wikimedia Commons
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Computer","wgTitle":"Computer","wgCurRevisionId":290496852,"wgRevisionId":290496852,"wgArticleId":1038,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Computers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Computer","wgRelevantArticleId":1038,"wgRequestId":"WuI0wApAADoAACAxhxMAAACB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgULSCurrentAutonym":"English","wgNoticeProject":"commons","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q68","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.Long-Image-Names-in-Categories":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Slideshow","ext.gadget.ZoomViewer","ext.gadget.CollapsibleTemplates","ext.gadget.fastcci","ext.gadget.UploadWizard","ext.gadget.Stockphoto","ext.gadget.WatchlistNotice","ext.gadget.AjaxQuickDelete","ext.gadget.WikiMiniAtlas","ext.gadget.LanguageSelect","ext.gadget.PictureOfTheYearEnhancements","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Computer 
+From Wikimedia Commons, the free media repository 
+
+					Jump to:					navigation, 					search
+
+
+Internationalization
+
+Afrikaans: Rekenaar
+ ·
+አማርኛ: ኮምፒዩተር
+ ·
+Ænglisc: Spærcletelle
+ ·
+العربية: حاسوب
+ ·
+مصرى: كمبيوتر
+ ·
+Aragonés: Ordinador
+ ·
+Հայերեն: Համակարգիչ
+ ·
+Asturianu: Computadora
+ ·
+Azərbaycanca: Kompüter
+ ·
+Bahasa Indonesia: Komputer
+ ·
+Bahasa Melayu: Komputer
+ ·
+Bân-lâm-gú: Tiān-náu
+ ·
+Basa Jawa: Komputer
+ ·
+Башҡортса: Компьютер
+ ·
+Беларуская: Камп'ютэр
+ ·
+Беларуская (тарашкевіца)‎: Кампутар
+ ·
+বাংলা: কম্পিউটার
+ ·
+Boarisch: Rechna
+ ·
+Bosanski: Računar
+ ·
+Brezhoneg: Urzhiataer
+ ·
+Български: Компютър
+ ·
+မြန်မာဘာသာ: my:ကွန်ပြူတာ
+ ·
+Català: Ordinador
+ ·
+Саха тыла: Көмпүүтэр
+ ·
+Cebuano: Kompyuter
+ ·
+Čeština: Počítač
+ ·
+Cymraeg: Cyfrifiadur
+ ·
+Dansk: Computer
+ ·
+Deutsch: Computer
+ ·
+Diné bizaad: Béésh bee akʼeʼelchíhí tʼáá bí nitsékeesígíí
+ ·
+Eesti: Arvuti
+ ·
+Ελληνικά: Ηλεκτρονικός υπολογιστής
+ ·
+English: Computer
+ ·
+Español: Computadora
+ ·
+Esperanto: Komputilo
+ ·
+Euskara: Ordenagailu
+ ·
+فارسی: رایانه
+ ·
+Føroyskt: Telda
+ ·
+Français : Ordinateur
+ ·
+Frysk: Kompjûter
+ ·
+Furlan: Ordenadôr
+ ·
+Gaeilge: Ríomhaire
+ ·
+Gàidhlig: Coimpiutaireachd
+ ·
+Galego: Ordenador
+ ·
+𐌲𐌿𐍄𐌹𐍃𐌺: 𐍅𐌹𐍄𐌹𐍂𐌰𐌷𐌽𐌾𐌰𐌽𐌳𐍃
+ ·
+ქართული: კომპიუტერი
+ ·
+ગુજરાતી: કમ્પ્યૂટર
+ ·
+한국어: 컴퓨터
+ ·
+客家語/Hak-kâ-ngî: Thien-nó
+ ·
+हिन्दी: संगणक
+ ·
+Hrvatski: Računalo
+ ·
+Ido: Ordinatro
+ ·
+Interlingua: Computator
+ ·
+IsiZulu: Ikhompyutha
+ ·
+Íslenska: Tölva
+ ·
+Italiano: Computer
+ ·
+עברית: מחשב
+ ·
+Kernowek: Comptyor
+ ·
+ಕನ್ನಡ: ಗಣಕಯಂತ್ರ
+ ·
+Kiswahili: Tarakilishi
+ ·
+Kongo: Ludinatelo
+ ·
+Kurdî: Komputer
+ ·
+Latina: Computatrum
+ ·
+Latviešu: Dators
+ ·
+Lëtzebuergesch: Computer
+ ·
+Lietuvių: Kompiuteris
+ ·
+Limburgs: Computer
+ ·
+Lingála: Esálela
+ ·
+Lumbaart: Cumpiüter
+ ·
+Magyar: Számítógép
+ ·
+Македонски: Сметач
+ ·
+Malagasy: Mpikajy
+ ·
+മലയാളം: കമ്പ്യൂട്ടര്
+ ·
+मराठी: संगणक विज्ञान
+ ·
+مازِرونی: کامپیوتر
+ ·
+Монгол: Компьютер
+ ·
+Nāhuatl: Chīuhpōhualhuaztli
+ ·
+Napulitano: Computer
+ ·
+Nederlands: Computer
+ ·
+Nedersaksies: Komputer
+ ·
+नेपाली: कम्प्युटर
+ ·
+日本語: コンピュータ
+ ·
+Norsk bokmål: Datamaskin
+ ·
+Norsk nynorsk: Datamaskin
+ ·
+Occitan : Ordinator
+ ·
+Oʻzbekcha/ўзбекча: Kompyuter
+ ·
+Қазақша: Компьютер
+ ·
+Plattdüütsch: Reekner
+ ·
+Polski: Komputer
+ ·
+Português: Computador
+ ·
+Română: Computer
+ ·
+Runa Simi: Antañiqiq
+ ·
+Русский: Компьютер
+ ·
+Scots: Computer
+ ·
+Shqip: Kompjuteri
+ ·
+Sicilianu: Computer
+ ·
+සිංහල: පරිගණකය
+ ·
+Slovenčina: Počítač
+ ·
+Slovenščina: Računalnik
+ ·
+Српски / srpski: Рачунар
+ ·
+Srpskohrvatski / српскохрватски: Kompjuter
+ ·
+Suomi: Tietokone
+ ·
+Svenska: Dator
+ ·
+Tagalog: Kompyuter
+ ·
+தமிழ்: கணினி
+ ·
+తెలుగు: కంప్యూటరు
+ ·
+ไทย: คอมพิวเตอร์
+ ·
+Tiếng Việt: Máy tính
+ ·
+Тоҷикӣ: Компютер
+ ·
+Türkçe: Bilgisayar
+ ·
+اردو: شمارِندہ
+ ·
+Vèneto: Computer
+ ·
+Walon: Copiutrece
+ ·
+West-Vlams: Computer
+ ·
+Wolof: Nosukaay
+ ·
+ייִדיש: קאמפיוטער
+ ·
+Українська: Комп'ютер
+ ·
+Žemaitėška: Kuompioteris
+ ·
+Чӑвашла: Компьютер
+ ·
+粵語: 電腦
+ ·
+中文: 電子計算機
+ ·
+吴语: 计算机
+ ·
+Eesti: Arvuti on elektrooniline masin, mis töötleb informatsiooni vastavalt etteantud reeglitele.
+English: A computer is a machine for manipulating data according to a list of instructions known as a program.
+Español: Una computadora (u ordenador) es una máquina que manipula y muestra datos según una lista de instrucciones conocidas como programas.
+Français : Un ordinateur est une machine utilisée pour manipuler des données en fonction de listes d'instructions appelées programmes.
+العربية: الحاسوب آلة لمعالجة البيانات طبقا لقائمة الأوامر المعروفة بالبرنامج.
+Čeština: Počítač je stroj pro manipulaci s daty podle instrukcí, které program zná
+Magyar: A számítógép egy adatok program segítségével történő feldolgozását lehetővé tevő berendezés
+
+
+
+
+
+
+A portable Computer
+Esperanto: Portebla komputilo
+
+
+
+
+
+
+
+
+
+FujitsuSiemens Celvin
+
+
+
+
+
+
+
+
+
+FujitsuSiemens Celvin
+
+
+
+
+
+
+
+
+
+FujitsuSiemens Celvin
+
+
+
+
+
+
+
+
+
+One of the first personal computers.
+
+
+
+
+
+
+
+
+Children using the computer
+Esperanto: Infanoj utilas komputilon
+
+
+
+
+
+
+
+
+
+Computer icon
+
+
+
+
+
+
+
+
+
+Computer icon
+
+
+
+
+
+
+
+
+
+Computer icon
+
+
+
+
+
+
+
+
+Computer & Screen
+Esperanto: Komputilo kaj ekrano
+
+
+
+
+
+
+
+
+Block diagram showing operation of a compiler
+Esperanto: Diagramo, kiu montras la funkciadon de kompililo
+
+
+
+
+
+
+
+
+
+A Seagate U6 3.5 inch 30 GB hard disk.
+
+
+
+
+
+
+
+
+
+Personal Computer Pentium I 586, turbo button
+
+
+
+
+
+
+
+
+
+Photograph of a DVI-D monitor connector.
+
+
+
+
+
+
+
+
+
+LINC-8 computer on display at Uppsala University.
+
+
+
+
+
+
+
+
+
+PDP-12 computer on display at Uppsala University.
+
+
+
+
+
+
+
+
+
+6-32 UTC computer chassis screw
+
+
+
+
+
+
+
+
+
+M3 computer chassis screw compared to a 6-32 screw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A student using a laptop computer.
+
+
+
+
+
+
+
+
+
+حاسوب
+
+
+
+
+See also[edit]
+
+Computer hardware
+Computer wallpaper
+Apple Macintosh
+
+
+
+
+
+ 
+						Retrieved from "https://commons.wikimedia.org/w/index.php?title=Computer&oldid=290496852"					
+Category: Computers 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+EnglishNot logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+GalleryDiscussion 
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+ViewEditHistory 
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigate
+
+
+Main pageWelcomeCommunity portalVillage pumpHelp center 
+
+
+
+Participate
+
+
+Upload fileRecent changesLatest filesRandom fileContact us 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+WikipediaWikiquote 
+
+
+
+Tools
+
+
+What links hereRelated changesSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+In Wikipedia
+
+
+АҧсшәаAcèhAfrikaansAlemannischአማርኛAragonésÆngliscالعربيةܐܪܡܝܐمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)‎БългарскиभोजपुरीBislamaবাংলাབོད་ཡིགবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiᨅᨔ ᨕᨘᨁᨗБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoTsetsêhestâheseکوردیQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiडोटेलीΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisFurlanGaeilge贛語GàidhligGalegoAvañe'ẽ𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHausa客家語/Hak-kâ-ngîעבריתहिन्दीFiji HindiHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIgboIñupiakIlokanoIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ/inuktitut日本語PatoisLa .lojban.Basa JawaქართულიQaraqalpaqshaKabɩyɛKongoGĩkũyũҚазақшаភាសាខ្មែរಕನ್ನಡ한국어Къарачай-малкъарकॉशुर / کٲشُرKurdîКомиKernowekКыргызчаLatinaLadinoLëtzebuergeschЛезгиLingua Franca NovaLimburgsLumbaartLingálaລາວLietuviųLatviešuमैथिलीMalagasyОлык марийМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorskOccitanLivvinkarjalaOromooଓଡ଼ିଆਪੰਜਾਬੀKapampanganPolskiPiemontèisپنجابیΠοντιακάپښتوPortuguêsRuna SimiRomaniRomânăРусскийРусиньскыйसंस्कृतम्Саха тылаSarduSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSesothoSeelterskBasa SundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeXitsongaТатарча/tatarçaئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsWalonWinarayWolof吴语IsiXhosaმარგალურიייִדישYorùbáVahcuengh中文文言Bân-lâm-gú粵語IsiZulu 
+Edit links 
+
+
+
+
+
+ This page was last edited on 3 March 2018, at 21:49.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy.
+
+
+Privacy policy
+About Wikimedia Commons
+Disclaimers
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.364","walltime":"0.501","ppvisitednodes":{"value":15013,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":172547,"limit":2097152},"templateargumentsize":{"value":64933,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":17259,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  409.223      1 -total"," 92.37%  377.988      1 Template:Translation_table"," 84.75%  346.811      1 Template:Lan"," 29.59%  121.072    133 Template:Description"," 16.19%   66.244    266 Template:Dir","  1.98%    8.118      1 Template:Af","  1.41%    5.768      5 Template:Eo","  1.06%    4.354      2 Template:Fr","  1.05%    4.280      1 Template:Bat-smg","  1.04%    4.245      1 Template:Hi"]},"cachereport":{"origin":"mw1270","timestamp":"20180426100454","ttl":1900800,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":120,"wgHostname":"mw1263"});});
+
+

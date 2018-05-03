@@ -1,0 +1,266 @@
+
+
+
+
+Rekenaar - Wikipedia
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Rekenaar","wgTitle":"Rekenaar","wgCurRevisionId":1665841,"wgRevisionId":1665841,"wgArticleId":1691,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Saadjies","Rekenaar"],"wgBreakFrames":false,"wgPageContentLanguage":"af","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januarie","Februarie","Maart","April","Mei","Junie","Julie","Augustus","September","Oktober","November","Desember"],"wgMonthNamesShort":["","Jan.","Feb.","Mrt.","Apr.","Mei","Jun.","Jul.","Aug.","Sept.","Okt.","Nov.","Des."],"wgRelevantPageName":"Rekenaar","wgRelevantArticleId":1691,"wgRequestId":"WuchYApAME8AACZ2Gn4AAAAU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"af","pageLanguageDir":"ltr","pageVariantFallbacks":"af","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"af","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"Afrikaans","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q68","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@08xs1k5",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"af"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.charinsert","ext.gadget.ReferenceTooltips","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Rekenaar 
+in Wikipedia, die vrye ensiklopedie 
+
+					Spring na:					navigasie, 					soek
+
+
+
+
+'n Rekenaar is enige toestel wat gebruik word om data volgens 'n goed gedefinieerde prosedure te verwerk. Die term word tans algemeen gebruik om na digitale rekenaars te verwys.
+Die woord het vroeër verwys na iemand (komptometris) wat somme maak, met of sonder meganiese hulpmiddels, maar die woord is oorgedra na die hulpmiddels. Aanvanklik was die inligtingverwerking amper uitsluitlik vir wiskundige probleme, maar hedendaagse rekenaars word vir verskeie ander take gebruik.
+Die wye definisie sluit dinge in soos die skuifliniaal, die verskeie meganiese rekenaars van die abakus af verder, asook alle hedendaagse elektroniese rekenaars.
+
+
+
+Inhoud
+
+
+1 Funksie
+2 Soorte rekenaars
+3 Geskiedenis
+4 Die moderne rekenaar
+5 Eksterne skakels
+
+
+
+Funksie[wysig | wysig bron]
+'n Rekenaar funksioneer volgens die Von Neumannargitektuur. Dit bestaan gewoonlik uit die volgende vier komponente:
+
+geheue (hier word programme en inligting gestoor)
+beheereenheid (voer die programme uit en hanteer die gestoorde data)
+rekene/logiese eenheid (verwerk rekene en logiese terme)
+invoer/uitvoer eenheid (ontvang seine van invoertoestelle byvoorbeeld van 'n sleutelbord of vertoon die beeld op 'n skerm)
+
+Dus gaan alle inligting deur die SVE (sentrale verwerkingseenheid opgemaak uit die beheereenheid en die rekene/logiese eenheid). Maar as die Busstelsel (wat die data tussen die geheue en SVE beweeg) te stadig is dan word die hele stelsel stadig. Dit word die sogenoemde "Von Neumannbottelnek" genoem.
+Soorte rekenaars[wysig | wysig bron]
+
+Analoogrekenaar
+Meganiese rekenaar
+Digitale rekenaar
+Kwantumrekenaar
+Sakrekenaar of 'sompompie', soos die Sharp PC-1500
+Palmrekenaar, rekenaartjie wat in die hand pas
+Tafelrekenaar, 'n persoonlike rekenaar
+Skootrekenaar, draagbare rekenaar wat op die skoot gebruik kan word
+Netboek, 'n ligte en kompakte skootrekenaar
+Tabletrekenaar, soos 'n Apple iPad of 'n Samsung Galaxy Tab
+
+Geskiedenis[wysig | wysig bron]
+
+
+
+
+Die ENIAC was die eerste algemeen doelgerigte elektroniese rekenaar.
+
+
+
+
+
+
+EDSAC was een van die eerste rekenaars wat kon onthou nadat dit afgeskakel en weer aangeskakel is.
+
+
+Die geskiedenis van die rekenaar begin by die geskiedenis van berekening. Die mens wou nog altyd van hulpmiddels gebruik maak vir groter en meer komplekse berekeninge. Kerfstokke en teltoue is hulpmiddels wat lank reeds bestaan het. Die abakus word al vir eeue gebruik as rekenkundige hulpmiddel. Later is van hulptabelle en skuifliniale gebruik gemaak.
+Die Tweede Wêreldoorlog verskaf die motivering vir baie navorsing in rekenaartegnologie, veral vir toepassings in kriptografie. Van die eerste rekenaars is inderdaad tydens oorlogtoestande gebruik om geheime kodes te ontrafel. Na die oorlog is rekenaars toenemend vir staats- en korporatiewe dataverwerking gebruik om inligting voort te bring.
+Aanvanklike werking van die rekenaar was moeisaam as gevolg van die gebruik van ponskaarte en onbetroubare vakuumbuise. Tegnologiese deurbrake wat hierdie probleme oorbrug het is magnetiese stoormedia en transistors. Die gebruik van geïntegreerde stroombane het verdere vooruitgang moontlik gemaak.
+Die einde van die 20ste eeu is gekenmerk deur vooruitgang in netwerktegnologie en die mate waartoe dit (en in besonder die Internet) algemeen in gebruik gestel is.
+Geskiedenis van tuisrekenaars:
+Rekenaars was groot en duur, en slegs groot maatskappye kon dit aankoop. Die eerste persoonlike rekenaar was die Altair 8800, vervaardig in 1975 en eers genoem die PE-8 maar later benoem deur Les Soloman van Popular Electronics tydskrif as die Altair omdat sy dogter na ‘n Star Trek episode gekyk het waarin hulle na ‘n plek met die naam Altair gereis het en sy het gedink dit sal ‘n meer aantreklike naam as die PE-8 wees. Die prys was $395 vir ‘n doen-dit-selfstel of $498 vir ‘n volledige stelsel, wat ‘n billike prys was vir ‘n rekenaarfanatikus om een te besit. Die Altair was redelik primitief met net 256 grepe (bytes) geheue. Geen sleutelbord, skerm of drukker. Skakelaars op die voorpaneel was gebruik om inligting in rekenaarkode in te voer in die vorm van 0’e en 1’e. Flikkerende ligte op die voorpaneel het die uitslag van die program gewys. Nie baie verbruikervriendelik nie.
+Alhoewel dit baie beperk was, het “hackers” (rekenaarentoesiaste soos genoem daardie tyd) spoediglik dit aangekoop.
+Twee seuns wat pas hoërskool voltooi het, Bill Gates en Paul Allen het aan die vervaardiger, Ed Roberts, aangebied om ‘n program te skryf wat menslike inset na rekenaarkodes omsit. Dit het ‘n klein maatskappy nl. Microsoft op die been gebring.
+Steve Wozniak, ‘n werknemer van Hewlett-Packard, het ook aan ‘n prototipe gewerk wat hy na die Homebrew Computing Club, ‘n groep jongmense in Kalifornia wat rekenaars probeer ontwikkel het, geneem. Steve Jobs wat vir die rekenaarspeletjiemaatskappy, Atari, gewerk het, het van Wozniak se prototipe gehou en ‘n paar aanbevelings gemaak. Die twee het toe saam gewerk en die Apple 1 in Wozniak se motorhuis vervaardig. 1 April 1976 stig Steve Wozniak en Steve Jobs die Apple rekenaarmaatskappy. Hulle vervaardig die Apple 2 in 1977 met ‘n kleurmonitor, klank en speletjiepedaal. Teen ‘n prys van $1,300 het dit 4kb geheue gehad en ‘n slapskyfdryf. Die Apple 2 was die eerste rekenaar met ‘n grafiese bedryfstelsel, woordprosseseerder en spreiblad (spreadsheet) program, en vele speletjies. Die Apple 3 verskyn in 1980.
+Kompetisie vir die Applerekenaar was die Commodore PET 2001 en Tandy RadioShack se TRS-80 met ‘n swart-en-witskerm en 4 KB geheue. Die Osborne maatskappy het in April 1981 die eerste draagbare rekenaar vrygestel, met ‘n vyf duim skerm en 64KB geheue, twee slapskyfdrywe, en voorafgeïnstalleerde sagteware. Die prys was ‘n hoë $1,795.
+Steve Wozniak ontwerp in 1978 die 5.25 duim slapskyf om gemaklik inligting te stoor.
+Apple was eerste met hul grafiese bedryfstelsel. Microsoft het die Microsoft Disc Operating System (MS-DOS) met ‘n spyskaart geskryf. Later het Microsoft die Microsoft Windows grafiese bedryfstelsel geskryf, met Windows 1 in die 1980’s, gevolg deur Windows 2, en later Windows 3,1, en Windows 95 in 1995, Windows 98 en 98SE in 1998, Windows Millenium in 2000 asook Windows 2000 vir besighede, en Windows XP in 2003, gevolg deur Windows Vista, Windows 7, Windows 8, en 8,1, en Windows 10. Ander bedryfstelsels soos die Linux reeks, Unix, en Novell is ook gewild.
+Die Amerikaanse Departement van Verdediging het ‘n rekenaarnetwerk begin om inligting spoedig oor die wêreld te stuur, maar vanwee die sekuriteit het hulle dit nie meer gebruik nie, en dit is verder uitgebrei tot waar die internet daaruit ontwikkel het. Met die koms van Windows 95 het Netscape ‘n webprogram “webbrowser” ontwikkel, Netscape Navigator, om op die internet te soek na webblaaie. Dit is ook later uitgebrei deur Microsoft met hul Internet Explorer, Mozilla se Firefox, asook programme soos Opera, Safari, Google Chrome, ens.
+E-pos is ook deur die skep van ‘n internasionale netwerk moontlik gemaak en briewe kan binne sekondes dwarsoor die wêreld gestuur word. Programme wat gebruik word vir e-pos is Microsoft Mail, Microsoft Outlook, Mozilla Thunderbird, en ander programme.
+Die moderne rekenaar[wysig | wysig bron]
+'n Rekenaarstelsel bestaan tipies uit die volgende komponente:
+
+Rekenaarkas
+Kragpak
+Moederbord
+SVE's
+Geheue
+Hardeskyf
+Magnetiese skyfaandrywer**
+Optiese aandrywer (CD/DVD aandrywer, intern of ekstern)
+Sleutelbord
+Skermkaarte* met 'n skerm
+Klankkaart* en luidsprekers
+Modem
+Netwerkkaart*
+Rugsteunbattery
+
+- Items met 'n * aangedui mag ook al op die Moederbord geïntergreer wees.
+- Items met 'n ** aangedui is nie baie meer in gebruik van huidige moderne rekenaars.
+Eksterne skakels[wysig | wysig bron]
+
+ Wikimedia Commons het meer media in die kategorie Rekenaar.
+
+Computer 1930-1990
+
+
+
+Sien rekenaar in Wiktionary, die vrye woordeboek.
+
+
+ Hierdie artikel is ’n saadjie. Voel vry om Wikipedia te help deur dit uit te brei.
+
+
+
+
+ 
+						Ontsluit van "https://af.wikipedia.org/w/index.php?title=Rekenaar&oldid=1665841"					
+Kategorie: RekenaarVersteekte kategorie: Saadjies 
+
+
+
+Navigasie-keuseskerm
+
+
+Persoonlike gereedskap
+
+Nie ingeteken nieBesprekingBydraesSkep gebruikerMeld aan 
+
+
+
+Naamruimtes
+
+BladsyBespreking 
+
+
+
+
+Variante
+
+
+
+
+
+
+
+
+
+Weergawes
+
+LeesWysigWysig bronWys geskiedenis 
+
+
+
+Meer
+
+
+
+
+
+
+
+Soek
+
+
+
+ 
+
+
+
+
+
+
+
+Navigasie
+
+
+TuisbladGemeenskapsportaalGeselshoekieOnlangse wysigingsLukrake bladsyHulpSandputSkenkings 
+
+
+
+Druk/eksporteer
+
+
+Skep boekLaai af as PDFDrukbare weergawe 
+
+
+
+Ander projekte
+
+
+Wikimedia Commons 
+
+
+
+Gereedskap
+
+
+Skakels hierheenVerwante veranderingsSpesiale bladsyePermanente skakelBladinligtingWikidata-itemHaal dié blad aan 
+
+
+
+Ander tale
+
+
+АҧсшәаAcèhAlemannischአማርኛAragonésÆngliscالعربيةܐܪܡܝܐمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)‎БългарскиभोजपुरीBislamaবাংলাབོད་ཡིགবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiᨅᨔ ᨕᨘᨁᨗБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoTsetsêhestâheseکوردیQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiडोटेलीΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisFurlanGaeilge贛語GàidhligGalegoAvañe'ẽ𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHausa客家語/Hak-kâ-ngîעבריתहिन्दीFiji HindiHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIgboIñupiakIlokanoIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ/inuktitut日本語PatoisLa .lojban.Basa JawaქართულიQaraqalpaqshaKabɩyɛKongoGĩkũyũҚазақшаភាសាខ្មែរಕನ್ನಡ한국어Къарачай-малкъарकॉशुर / کٲشُرKurdîКомиKernowekКыргызчаLatinaLadinoLëtzebuergeschЛезгиLingua Franca NovaLimburgsLumbaartLingálaລາວLietuviųLatviešuमैथिलीMalagasyОлык марийМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorskOccitanLivvinkarjalaOromooଓଡ଼ିଆਪੰਜਾਬੀKapampanganPolskiPiemontèisپنجابیΠοντιακάپښتوPortuguêsRuna SimiRomaniRomânăРусскийРусиньскыйसंस्कृतम्Саха тылаSarduSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSesothoSeelterskBasa SundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeXitsongaТатарча/tatarçaئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsWalonWinarayWolof吴语IsiXhosaმარგალურიייִדישYorùbáVahcuengh中文文言Bân-lâm-gú粵語IsiZulu 
+Wysig skakels 
+
+
+
+
+
+ Die bladsy is laas op 24 April 2018 om 08:55 bygewerk.
+Die teks is beskikbaar onder die lisensie Creative Commons Erkenning-Insgelyks Deel. Aanvullende voorwaardes kan moontlik ook van toepassing wees. Sien die Algemene Voorwaardes vir meer inligting.
+
+
+Privaatheidsbeleid
+Inligting oor Wikipedia
+Vrywaring
+Ontwikkelaars
+Koekieverklaring
+Selfoonweergawe
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.044","walltime":"0.069","ppvisitednodes":{"value":154,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":2149,"limit":2097152},"templateargumentsize":{"value":112,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   24.110      1 -total"," 81.07%   19.547      1 Sjabloon:Wikt"," 72.66%   17.518      1 Sjabloon:Susterprojek"," 61.19%   14.753      1 Sjabloon:Sykas","  9.89%    2.384      1 Sjabloon:Saadjie","  8.36%    2.015      1 Sjabloon:Commonskat-inlyn"]},"scribunto":{"limitreport-timeusage":{"value":"0.004","limit":"10.000"},"limitreport-memusage":{"value":532709,"limit":52428800}},"cachereport":{"origin":"mw1309","timestamp":"20180426095550","ttl":1900800,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1244"});});
+
+

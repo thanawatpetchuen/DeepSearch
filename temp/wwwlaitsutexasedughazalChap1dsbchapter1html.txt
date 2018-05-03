@@ -1,12 +1,12 @@
 <html>
 <head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app40.us.archive.org';v.server_ms=826;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1524808784.0" charset="utf-8"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app43.us.archive.org';v.server_ms=462;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1525205731.0" charset="utf-8"></script>
 
 <script type="text/javascript">
 __wbhack.init('https://web.archive.org/web');
 </script>
-<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1524808784.0" />
-<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1524808784.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1525205731.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1525205731.0" />
 
 <!-- End Wayback Rewrite JS Include -->
    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -15,10 +15,10 @@ __wbhack.init('https://web.archive.org/web');
    <title>Chapter 1</title>
 </head>
 <body background="/web/20120130084757im_/http://www.laits.utexas.edu/ghazal/Chap1/dsb/tan_paper.gif"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
-<script type="text/javascript" src="/static/js/timestamp.js?v=1524808784.0" charset="utf-8"></script>
-<script type="text/javascript" src="/static/js/graph-calc.js?v=1524808784.0" charset="utf-8"></script>
-<script type="text/javascript" src="/static/js/auto-complete.js?v=1524808784.0" charset="utf-8"></script>
-<script type="text/javascript" src="/static/js/toolbar.js?v=1524808784.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/timestamp.js?v=1525205731.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1525205731.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1525205731.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1525205731.0" charset="utf-8"></script>
 
 <style type="text/css">
 body {
@@ -657,7 +657,7 @@ Royal Ontario Museum, Toronto, CANADA</font></font>
 </html>
 <!--
      FILE ARCHIVED ON 08:47:57 Jan 30, 2012 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 17:00:01 Apr 30, 2018.
+     INTERNET ARCHIVE ON 16:24:00 May 03, 2018.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -665,14 +665,14 @@ Royal Ontario Museum, Toronto, CANADA</font></font>
 -->
 <!--
 playback timings (ms):
-  LoadShardBlock: 308.608 (3)
-  esindex: 0.01
-  captures_list: 581.474
-  CDXLines.iter: 9.393 (3)
-  PetaboxLoader3.datanode: 125.485 (4)
-  exclusion.robots: 0.351
-  exclusion.robots.policy: 0.323
-  RedisCDXSource: 259.579
-  PetaboxLoader3.resolve: 124.014
-  load_resource: 226.955
+  LoadShardBlock: 295.266 (3)
+  esindex: 0.006
+  captures_list: 313.45
+  CDXLines.iter: 12.305 (3)
+  PetaboxLoader3.datanode: 291.158 (4)
+  exclusion.robots: 0.328
+  exclusion.robots.policy: 0.301
+  RedisCDXSource: 1.79
+  PetaboxLoader3.resolve: 106.307
+  load_resource: 118.992
 -->

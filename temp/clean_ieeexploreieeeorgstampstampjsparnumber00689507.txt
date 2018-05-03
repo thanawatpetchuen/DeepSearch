@@ -1,0 +1,775 @@
+
+
+
+
+IEEE Cart - View My Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var IEEE_MASHUP_ENGINE_SERVER_URL = '';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	  var mn_auth_heartbeat_img = '/ieee-mashup/protected/secured-resource.gif';
+	  var MN_LOGOUT_REDIRECT_URL = "https://www.ieee.org/cart/public/logout/signout.html";
+	  var IEEE_MN_BACK_TO_PPCT_ENABLED = "Y";
+      var IEEE_MASHUP_APPLICATION_NAME = 'cart';
+      var IEEE_MASHUP_CROSSDOMAIN_MODE = 'N';
+ 
+
+
+
+
+
+
+
+	var wt_domain = 'statse.webtrendslive.com';
+	var wt_dcsid = 'dcs4ngrek5bv0hom6jkdvedkz_2n9s';
+ 
+
+
+
+
+
+
+
+
+Skip header to main body of content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	Return to 
+	IEEE Xplore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			My Cart
+			  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You have not completed the
+Membership Application.
+
+
+	In order to checkout, please complete the application or remove membership from the cart.
+
+
+If you have any questions, please contact the IEEE Support Center.
+
+
+
+
+
+		Thank you for your interest in the IEEE Member Digital Library. Our records show that you are not currently an IEEE member, which is required to subscribe to the IEEE Member Digital Library.
+	
+
+		Please add IEEE Membership to your cart.
+
+
+		If you have received this message in error or have any questions, please visit the IEEE Support Center Web site for assistance.
+	
+
+
+
+		Thank you for your request to try the IEEE Member Digital Library. Our records show you had a subscription or trial to the IEEE Member Digital Library within the past year. If you are interested in subscribing,
+	
+
+		please add the IEEE Member Digital Library to your cart.
+
+
+		If you have received this message in error or have any questions, please visit the IEEE Support Center Web site for assistance.
+	
+
+
+
+		Thank you for your request to try the PES Membership. Our records show you either were a PES member or have already tried the PES Membership within the past year. Hence, you are not eligible for another trial at this time. However, if you are interested, you may join PES by clicking here. If you have received this message in error or have any questions, please visit the IEEE Support Center Web site for assistance.
+	
+
+
+
+
+	You cannot checkout because some items in the cart can only be purchased with additional products.
+
+
+
+
+
+
+An item in your cart requires a saved card in order to complete your purchase. Please update  your payment information accordingly.
+
+
+
+
+Your credit card has expired. Please update your credit card information to complete checkout.
+
+
+
+
+Your credit card is not verified. Please update your credit card information to complete checkout.
+
+
+
+
+
+
+
+
+				Your cart is empty. Please browse memberships and subscriptions catalog to add items to your cart.
+			
+
+
+
+					Return to 
+					IEEE Xplore
+				
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+  
+
+
+
+
+ 
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+//var CUSTOMER_GRADE 		= '';
+var SLOT_ID_1 			= 'Cart_Default_1';
+var SLOT_ID_2 			= 'Cart_Default_2';
+//var MEMBERSHIP_STATUS 	= '';
+
+
+
+
+
+
+
+	try{
+		if (typeof(pa_initPromotionalAds) != "undefined") {
+			var json1 =  '{"IFRAME_ID":"frame1",' +
+					'"SLOT_ID":"'+ SLOT_ID_1 +','+ SLOT_ID_2 +'",' +
+					'"CUSTOMER_GRADE":"",' +
+					'"MEMBERSHIP_STATUS":"",' +
+					'"ACTIVE_ASSETS":"",' +
+					'"TECH_FOCUS":""' +
+					'}';
+					
+			//var json1 = '{"SLOT_ID":"Cart_Default_1,Cart_Default_2","IFRAME_ID":"frame1"}';
+			pa_initPromotionalAds(json1);
+		} else {
+			if (window['console'] != undefined) {
+				//console.log('pa_initPromotionalAds is undeclared or undefined');
+			}
+		}
+	} catch(e) {
+		if (window['console'] != undefined) {
+			//console.log('caught exception in pa_initPromotionalAds()');
+		}
+	}
+	
+
+
+	Questions?
+
+
+
+Please direct your inquiries to the IEEE Support Center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About IEEE 
+
+
+
+
+
+
+    IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+
+
+
+
+
+
+Learn more about IEEE 
+        
+
+
+
+
+
+IEEE Mission & Vision
+        
+
+
+
+
+
+
+
+
+
+
+Membership 
+
+
+
+
+
+
+
+Join
+        
+
+
+
+
+
+Renew
+        
+
+
+
+
+
+Benefits
+        
+
+
+
+
+
+IEEE Collabratec
+        
+
+
+
+
+
+
+
+
+
+
+Get involved 
+
+
+
+
+
+
+
+Conferences
+        
+
+
+
+
+
+Local activities
+        
+
+
+
+
+
+Publishing
+        
+
+
+
+
+
+Societies
+        
+
+
+
+
+
+Councils
+        
+
+
+
+
+
+Technical careers
+        
+
+
+
+
+
+Volunteer
+        
+
+
+
+
+
+
+
+
+
+
+Connect with IEEE 
+
+
+Contact & Support
+
+
+
+
+
+
+IEEE Collabratec
+        
+
+
+
+
+
+Careers at IEEE
+        
+
+
+
+
+
+IEEE Newsroom
+        
+
+
+
+
+
+IEEE Media Kit
+        
+
+
+
+
+
+
+
+
+
+
+
+Locations 
+
+
+
+
+
+
+    IEEE has a global presence with seven offices internationally.
+
+
+
+
+
+
+IEEE office locations
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+top of page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Sitemap
+
+
+
+
+Contact & Support
+
+
+
+
+Accessibility
+
+
+
+
+Nondiscrimination Policy
+
+
+
+
+IEEE Privacy Policy
+
+
+
+
+Feedback
+
+
+
+
+
+
+
+
+
+
+    © Copyright 2018 IEEE – All rights reserved. Use of this website signifies your agreement to the IEEE Terms and Conditions.
+A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology 
+for the benefit of humanity.
+
+
+
+
+
+
+
+
+
+
+
+
+$(document).ready(function() {
+	// Append the current page url as FromPage to the feedback link.
+	var currentPageURL = document.URL;
+	var feedbackURL = $("#footer-feedback-link").attr("href");
+	$("#footer-feedback-link").attr("href", feedbackURL + "?FromPage=" + currentPageURL);
+});
+
+
+//<![CDATA[
+var _tag=new WebTrends();
+//]]>
+
+
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+}
+_tag.dcsCollect();
+//]]>
+
+
+
+
+
+
+
+
+
+
+
+	var userInfoId = null;
+	if(typeof mc_getUserInfoId != "undefined"){
+		userInfoId = mc_getUserInfoId();
+	}
+	
+	var NTPT_IMAGE_LOCATION = 'https://origin.www.ieee.org/';
+	var NTPT_PGEXTRA= "ip=" + '140.98.93.79';
+	if(userInfoId != null && userInfoId != "" && userInfoId != "null" ){
+		NTPT_PGEXTRA = NTPT_PGEXTRA + "&un=" + userInfoId + "&un3=" + userInfoId;
+	}
+
+
+
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4930232-1']);
+  _gaq.push(['_setDomainName', 'ieee.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+
+
+	var brUnSuppHeading = "You are using an unsupported browser.";
+	var brUnSupptext = "You may continue, but new features may not work properly. Please update your browser to a more current version from one of the options below:";
+	
+	var ieVer = 8.0;
+	var ffVer = 11.0;
+	var safariVer = 4.0;
+	var chromeVer = 8.0;
+
+
+
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-67729806-4', 'auto');
+  ga('send', 'pageview');
+
+
+
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P24WBM');
+
+
+
+

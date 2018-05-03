@@ -3,59 +3,28 @@
 
 
 
+        !function(){window.initErrorstack||(window.initErrorstack=[]),window.onerror=function(r,i,n,o,t){r.indexOf("Script error.")>-1||window.initErrorstack.push({errorMsg:r,url:i,lineNumber:n,column:o,errorObj:t})}}();
+      
+
+    if (window.top != window) {
+  window.top.postMessage({'bouncer': true, 'event': 'complete'}, '*');
+}
+  
+
+    !function(){function e(e){if(e||(e=window.event),!e)return!1;if(e.timestamp=(new Date).getTime(),!e.target&&e.srcElement&&(e.target=e.srcElement),document.documentElement.getAttribute("data-scribe-reduced-action-queue"))for(var t=e.target;t&&t!=document.body;){if("A"==t.tagName)return;t=t.parentNode}return i("all",o(e)),a(e)?(document.addEventListener||(e=o(e)),e.preventDefault=e.stopPropagation=e.stopImmediatePropagation=function(){},y?(v.push(e),i("captured",e)):i("ignored",e),!1):(i("direct",e),!0)}function t(e){n();for(var t,r=0;t=v[r];r++){var a=e(t.target),i=a.closest("a")[0];if("click"==t.type&&i){var o=e.data(i,"events"),u=o&&o.click,c=!i.hostname.match(g)||!i.href.match(/#$/);if(!u&&c){window.location=i.href;continue}}a.trigger(e.event.fix(t))}window.swiftActionQueue.wasFlushed=!0}function r(){for(var e in b)if("all"!=e)for(var t=b[e],r=0;r<t.length;r++)console.log("actionQueue",c(t[r]))}function n(){clearTimeout(w);for(var e,t=0;e=h[t];t++)document["on"+e]=null}function a(e){if(!e.target)return!1;var t=e.target,r=(t.tagName||"").toLowerCase();if(e.metaKey)return!1;if(e.shiftKey&&"a"==r)return!1;if(t.hostname&&!t.hostname.match(g))return!1;if(e.type.match(p)&&s(t))return!1;if("label"==r){var n=t.getAttribute("for");if(n){var a=document.getElementById(n);if(a&&f(a))return!1}else for(var i,o=0;i=t.childNodes[o];o++)if(f(i))return!1}return!0}function i(e,t){t.bucket=e,b[e].push(t)}function o(e){var t={};for(var r in e)t[r]=e[r];return t}function u(e){for(;e&&e!=document.body;){if("A"==e.tagName)return e;e=e.parentNode}}function c(e){var t=[];e.bucket&&t.push("["+e.bucket+"]"),t.push(e.type);var r,n,a=e.target,i=u(a),o="",c=e.timestamp&&e.timestamp-d;return"click"===e.type&&i?(r=i.className.trim().replace(/\s+/g,"."),n=i.id.trim(),o=/[^#]$/.test(i.href)?" ("+i.href+")":"",a='"'+i.innerText.replace(/\n+/g," ").trim()+'"'):(r=a.className.trim().replace(/\s+/g,"."),n=a.id.trim(),a=a.tagName.toLowerCase(),e.keyCode&&(a=String.fromCharCode(e.keyCode)+" : "+a)),t.push(a+o+(n&&"#"+n)+(!n&&r?"."+r:"")),c&&t.push(c),t.join(" ")}function f(e){var t=(e.tagName||"").toLowerCase();return"input"==t&&"checkbox"==e.getAttribute("type")}function s(e){var t=(e.tagName||"").toLowerCase();return"textarea"==t||"input"==t&&"text"==e.getAttribute("type")||"true"==e.getAttribute("contenteditable")}for(var m,d=(new Date).getTime(),l=1e4,g=/^([^\.]+\.)*twitter\.com$/,p=/^key/,h=["click","keydown","keypress","keyup"],v=[],w=null,y=!0,b={captured:[],ignored:[],direct:[],all:[]},k=0;m=h[k];k++)document["on"+m]=e;w=setTimeout(function(){y=!1},l),window.swiftActionQueue={buckets:b,flush:t,logActions:r,wasFlushed:!1}}();
+  
+
+    !function(){function t(t){t.target.setAttribute("data-in-composition","true")}function n(t){t.target.removeAttribute("data-in-composition")}document.addEventListener&&(document.addEventListener("compositionstart",t,!1),document.addEventListener("compositionend",n,!1))}();
+  
 
 
 
 
 
 
-Project Overview | Antikythera Mechanism Research Project
-
-@import url("http://www.antikythera-mechanism.gr/modules/system/system.base.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/modules/system/system.menus.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/modules/system/system.messages.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/modules/system/system.theme.css?p7oyii");
 
 
-@import url("http://www.antikythera-mechanism.gr/sites/all/modules/simplenews/simplenews.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/modules/comment/comment.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/sites/all/modules/date/date_api/date.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/modules/field/theme/field.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/sites/all/modules/mollom/mollom.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/modules/node/node.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/modules/search/search.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/modules/user/user.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/sites/all/modules/calendar/css/calendar_multiday.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/modules/forum/forum.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/sites/all/modules/views/css/views.css?p7oyii");
-
-
-@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/shortcodes/buttons.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/sites/all/modules/ctools/css/ctools.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/sites/all/modules/wysiwyg_linebreaks/wysiwyg_linebreaks.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/sites/all/modules/biblio/biblio.css?p7oyii");
-
-
-@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/main-css.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/normalize.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/plugins/flexslider.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/local.css?p7oyii");
-
-
-@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/768.css?p7oyii");
-
-
-@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/480.css?p7oyii");
-
-
-@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/320.css?p7oyii");
-
-
-@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/shortcodes/columns.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/shortcodes/lists.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/shortcodes/boxes.css?p7oyii");
-@import url("http://www.antikythera-mechanism.gr/sites/all/themes/simplecorp/css/color-schemes/light-gray/styles.css?p7oyii");
+Antikythera Divers (@antikytheradive) | Twitter
 
 
 
@@ -68,19 +37,6 @@ Project Overview | Antikythera Mechanism Research Project
 
 
 
-<!--//--><![CDATA[//><!--
-(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1788143-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
-//--><!]]>
-
-
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","simplecorp":{"responsive_menu_topoptiontext":"Select a page"},"ajaxPageState":{"theme":"simplecorp","theme_token":"Q-sSn3m2fvx-KDNdbs1OvP-M8P1yiqfCpBHEM_F9gBw","js":{"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/simplecorp\/js\/plugins\/jquery.flexslider-min.js":1,"sites\/all\/themes\/simplecorp\/js\/plugins\/jquery.jcarousel.min.js":1,"sites\/all\/themes\/simplecorp\/js\/jquery.easing-1.3.min.js":1,"sites\/all\/themes\/simplecorp\/js\/plugins\/jquery.tipsy.js":1,"sites\/all\/themes\/simplecorp\/js\/plugins\/jquery.mobilemenu.min.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"6":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/simplenews\/simplenews.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/themes\/simplecorp\/css\/shortcodes\/buttons.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/wysiwyg_linebreaks\/wysiwyg_linebreaks.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/themes\/simplecorp\/css\/main-css.css":1,"sites\/all\/themes\/simplecorp\/css\/normalize.css":1,"sites\/all\/themes\/simplecorp\/css\/plugins\/flexslider.css":1,"sites\/all\/themes\/simplecorp\/css\/local.css":1,"sites\/all\/themes\/simplecorp\/css\/768.css":1,"sites\/all\/themes\/simplecorp\/css\/480.css":1,"sites\/all\/themes\/simplecorp\/css\/320.css":1,"sites\/all\/themes\/simplecorp\/css\/shortcodes\/columns.css":1,"sites\/all\/themes\/simplecorp\/css\/shortcodes\/lists.css":1,"sites\/all\/themes\/simplecorp\/css\/shortcodes\/boxes.css":1,"sites\/all\/themes\/simplecorp\/css\/color-schemes\/light-gray\/styles.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
-//--><!]]>
-
-
-
-
-Skip to main content
 
 
 
@@ -93,16 +49,151 @@ Skip to main content
 
 
 
-Facebook
-Twitter
-
-RSS Feeds
 
 
 
+        document.body.className=document.body.className+" "+document.body.getAttribute("data-fouc-class-names");
+      
 
 
 
+
+
+We've detected that JavaScript is disabled in your browser. Would you like to proceed to legacy Twitter?
+Yes
+
+
+
+Skip to content
+
+
+
+
+
+
+
+        Twitter has a new Terms of Service and Privacy Policy, effective May 25, 2018. Learn more
+
+
+
+Got it
+
+
+
+
+
+
+
+
+
+
+
+Home
+Home
+Home, current page.
+
+
+
+
+About
+
+
+
+
+
+
+Search query
+
+
+
+Search Twitter
+
+
+
+
+
+
+
+
+
+Saved searches
+
+
+Remove
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In this conversation
+
+
+
+Verified accountProtected Tweets @
+
+
+
+
+
+
+
+
+
+
+
+    Suggested users
+  
+
+
+
+
+
+
+
+Verified accountProtected Tweets @
+
+
+
+
+
+
+
+
+
+
+
+
+Verified accountProtected Tweets @
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language: English 
 
 
 
@@ -110,104 +201,95 @@ RSS Feeds
 
 
 
-
-
-
-
-
-ProjectOverview
-Institutions
-Team
-Publications
-Bibliography
-FAQ
-
-DataThe Fragments
-PTMs
-CT Data
-Radiographs
-ModelsSolid Models
-Computer Models
-
-
-HistoryPeople
-
-MediaMovies
-Educational
-Media clips
-Press releases
-
-Events & NewsList of events
-ExhibitionsMuseum
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Home / Project / Project Overview 
-
-
-
-
-
-
-
-
-
-
-Project Overview  
-
-
-
-
-
-More than a hundred years ago an extraordinary mechanism was found by sponge divers at the bottom of the sea near the island of Antikythera. It astonished the whole international community of experts on the ancient world. Was it an astrolabe? Was it an orrery or an astronomical clock? Or something else?For decades, scientific investigation failed to yield much light and relied more on imagination than the facts. However research over the last half century has begun to reveal its secrets. The machine dates from around the end of the 2nd century B.C. and is the most sophisticated mechanism known from the ancient world. Nothing as complex is known for the next thousand years. The Antikythera Mechanism is now understood to be dedicated to astronomical phenomena and operates as a complex mechanical "computer" which tracks the cycles of the Solar System.
-Previous Antikythera researchers have used the latest technologies available to them -such as x-ray analysis- to try to begin to unravel its complex mysteries. From 2005, a new initiative is building on this previous work, using the very latest techniques available today. The Antikythera Mechanism Research Project is an international collaboration of academic researchers, supported by some of the world's best high-technology companies, which aims to completely reassess the function and significance of the Antikythera Mechanism.
-The project is under the aegis of the Hellenic Ministry of Culture and was initially supported by a grant from the Leverhulme Trust, UK. More details about subsequent funding are here and the full acknowledgement list is here. The project has received strong backing from the National Archaeological Museum in Athens, which is custodian of this unique artefact. Two of the Museum's senior staff, Head of Chemistry, Eleni Magou, and Archaeologist-museologist, Mary Zafeiropoulou, have co-ordinated the Museum's side of the project and were actively involved with the research.
-One UK and two Greek universities were the core of the academic research group in 2005 -the astronomer Mike Edmunds and the mathematician and filmmaker Tony Freeth (University of Cardiff), the astronomer John Seiradakis (University of Thessalonica), the astronomer Xenophon Moussas and the physicist and historian of science Yanis Bitsakis (University of Athens). And last, but not least, the philologist and palaeographer Agamemnon Tselikas (NBG Cultural Foundation). After the first results were published in 2006, the AMRP began an important collaboration with Alexander Jones (Institute for the Study of the Ancient World, New York, USA) and John Steele (Brown University, USA). The full list of subsequent collaborations is available on the team page.
-During the first data-gathering phase in the autumn of 2005, the most innovative technologies were used to reveal unknown elements of the mechanism. This research was carried out by two world-class high technology companies, Hewlett Packard (US) and X-Tek Systems (UK). X-Tek's superb three-dimensional x-rays were imaged using software from the leading German company, Volume Graphics. Technical support was also provided by the University of Keele (UK). The whole process was filmed by Tony Freeth's Film and Television production company, Images First, for the TV documentary "The World's First Computer".
-During September 2005, three specialized scientists from Hewlett-Packard's Mobile and Media Systems Laboratory came to Athens with their innovative digital imaging system to examine the surface inscriptions and other features on the Antikythera Mechanism. The HP team, Tom Malzbender, Dan Gelb and Bill Ambrisco-brought with them a remarkable piece of specialist equipment: a Dome that surrounds the sample under examination and takes a series of still photos to analyze the three-dimensional structure of the surface. This enables astonishingly detailed examination of fine details such as faded and worn inscriptions. It has been a revelation for the research team. See here for this data.
-During October 2005, another team of specialists from the cutting-edge company, X-Tek Systems, came to Athens. Led by the company's pioneering proprietor, Roger Hadland, the group of experts consisted of David Bate, Andrew Ramsey, Martin Allen, Alan Crawley and Peter Hockley. Their aim was to use the very latest x-ray technology to look at the internal structure of the mechanism with its complex and confusing gear trains. With them they brought the prototype of a very powerful new x-ray machine, the eight-tonne "Bladerunner". Originally designed to search for minute cracks in turbine blades, this machine gives astonishingly detailed three-dimensional x-rays, using the latest "microfocus" x-ray techniques. It has opened a remarkable window on microscopic internal details of inscriptions and gearing at a resolution better than a tenth of a millimeter. Inscriptions can now be read that have not been seen for more than two thousand years and this is helping to build a comprehensive picture of the functions of the Antikythera Mechanism. [weblink:187|Browse here] some of the initial images from the Blade Runner.
-
-This is work-in-progress and results are emerging on a stable basis as the data is analyzed:
-
-At the autumn of 2006, the Antikythera Mechanism Research Project has organized a major conference in Athens to present their research findings. These results opened a new chapter in the understanding of this extraordinary mechanism. The conference coincided with the publication of the first results at the journal "Nature".
-
-
-In July 2008, new results were published in Nature. These were focused on the functions of Back Dials of the Mechanism.
-
-
-In July-August 2009, a major symposium was organized within the scope of the 23rd International Congress of History of Science and Technology. Members and collaborators of the research project and leading historians of science and technology discussed the position of the Antikythera Mechanism within the history of science, technology and ideas.
-
-
-A workshop took place in Athens (July 2011), in order to discuss new data about the front plate inscriptions and planetary data. Results are being processed and should soon be made public. Some partial results about inscriptions and planetary data were integrated into the Antikythera wreck exhibition and the documentary The World's First Computer".
-
-
-A workshop is organized in Leiden (June 2013), where members of the AMRP, collaborators and specialists of the ancient world will discuss the trheme "The Antikythera Mechanism: Science and Innovation in the Ancient World ".
-
-A new survey on the Antikythera wreck site is ongoing since 2014. Stay tuned!
-
-
-In June 2016, publication of the full corpus of inscriptions of the Antikythera Mechanism.
-
- 
-Ελληνικά
+Bahasa Indonesia
+Bahasa Melayu
+Català
+Čeština
+Dansk
+Deutsch
+English UK
+Español
+Filipino
 Français
+Hrvatski
+Italiano
+Magyar
+Nederlands
+Norsk
+Polski
+Português
+Română
+Slovenčina
+Suomi
+Svenska
+Tiếng Việt
+Türkçe
+Ελληνικά
+Български език
+Русский
+Српски
+Українська мова
+עִבְרִית
+العربية
+فارسی
+मराठी
+हिन्दी
+বাংলা
+ગુજરાતી
+தமிழ்
+ಕನ್ನಡ
+ภาษาไทย
+한국어
+日本語
+简体中文
+繁體中文
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Have an account?  Log in
+
+
+   
+
+Have an account?
+
+
+
+
+
+
+
+
+
+
+Remember me
+
+·
+Forgot password?
+
+
+
+
+
+
+
+
+
+
+
+New to Twitter?
+Sign up
+                
 
 
 
@@ -222,26 +304,616 @@ Français
 
 
 
-Random FAQs
+
+
+
+
+
+
+
+  a,
+  a:hover,
+  a:focus,
+  a:active {
+    color: #0084B4;
+  }
+
+  .u-textUserColor,
+  .u-textUserColorHover:hover,
+  .u-textUserColorHover:hover .ProfileTweet-actionCount,
+  .u-textUserColorHover:focus {
+    color: #0084B4 !important;
+  }
+
+  .u-borderUserColor,
+  .u-borderUserColorHover:hover,
+  .u-borderUserColorHover:focus {
+    border-color: #0084B4 !important;
+  }
+
+  .u-bgUserColor,
+  .u-bgUserColorHover:hover,
+  .u-bgUserColorHover:focus {
+    background-color: #0084B4 !important;
+  }
+
+  .u-dropdownUserColor > li:hover,
+  .u-dropdownUserColor > li:focus,
+  .u-dropdownUserColor > li > button:hover,
+  .u-dropdownUserColor > li > button:focus,
+  .u-dropdownUserColor > li > a:focus,
+  .u-dropdownUserColor > li > a:hover {
+    color: #fff !important;
+    background-color: #0084B4 !important;
+  }
+
+  .u-boxShadowInsetUserColorHover:hover,
+  .u-boxShadowInsetUserColorHover:focus {
+    box-shadow: inset 0 0 0 5px #0084B4 !important;
+  }
+
+  .u-dropdownOpenUserColor.dropdown.open .dropdown-toggle {
+    color: #0084B4;
+  }
+
+
+  .u-textUserColorLight {
+    color: #99CDE1 !important;
+  }
+
+  .u-borderUserColorLight,
+  .u-borderUserColorLightFocus:focus,
+  .u-borderUserColorLightHover:hover,
+  .u-borderUserColorLightHover:focus {
+    border-color: #99CDE1 !important;
+  }
+
+  .u-bgUserColorLight {
+    background-color: #99CDE1 !important;
+  }
+
+
+  .u-boxShadowUserColorLighterFocus:focus {
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.05), inset 0 1px 2px rgba(0,132,180,0.25) !important;
+  }
+
+
+  .u-textUserColorLightest {
+    color: #E5F2F7 !important;
+  }
+
+  .u-borderUserColorLightest {
+    border-color: #E5F2F7 !important;
+  }
+
+  .u-bgUserColorLightest {
+    background-color: #E5F2F7 !important;
+  }
+
+
+  .u-textUserColorLighter {
+    color: #BFE0EC !important;
+  }
+
+  .u-borderUserColorLighter {
+    border-color: #BFE0EC !important;
+  }
+
+  .u-bgUserColorLighter {
+    background-color: #BFE0EC !important;
+  }
+
+
+  .u-bgUserColorDarkHover:hover {
+    background-color: #05719A !important;
+  }
+
+  .u-borderUserColorDark {
+    border-color: #05719A !important;
+  }
+
+
+  .u-bgUserColorDarkerActive:active {
+    background-color: #0A5F81 !important;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+a,
+.btn-link,
+.btn-link:focus,
+.icon-btn,
+
+
+
+.pretty-link b,
+.pretty-link:hover s,
+.pretty-link:hover b,
+.pretty-link:focus s,
+.pretty-link:focus b,
+
+.metadata a:hover,
+.metadata a:focus,
+
+a.account-group:hover .fullname,
+a.account-group:focus .fullname,
+.account-summary:focus .fullname,
+
+.message .message-text a,
+.message .message-text button,
+.stats a strong,
+.plain-btn:hover,
+.plain-btn:focus,
+.dropdown.open .user-dropdown.plain-btn,
+.open > .plain-btn,
+#global-actions .new:before,
+.module .list-link:hover,
+.module .list-link:focus,
+
+.stats a:hover,
+.stats a:hover strong,
+.stats a:focus,
+.stats a:focus strong,
+
+.find-friends-sources li:hover .source,
+
+
+
+
+
+.stream-item a:hover .fullname,
+.stream-item a:focus .fullname,
+
+.stream-item .view-all-supplements:hover,
+.stream-item .view-all-supplements:focus,
+
+.tweet .time a:hover,
+.tweet .time a:focus,
+.tweet .details.with-icn b,
+.tweet .details.with-icn .Icon,
+
+.stream-item:hover .original-tweet .details b,
+.stream-item .original-tweet.focus .details b,
+.stream-item.open .original-tweet .details b,
+
+.client-and-actions a:hover,
+.client-and-actions a:focus,
+
+.dismiss-btn:hover b,
+
+.tweet .context .pretty-link:hover s,
+.tweet .context .pretty-link:hover b,
+.tweet .context .pretty-link:focus s,
+.tweet .context .pretty-link:focus b,
+
+.list .username a:hover,
+.list .username a:focus,
+.list-membership-container .create-a-list,
+.list-membership-container .create-a-list:hover,
+.new-tweets-bar,
+
+
+
+.card .list-details a:hover,
+.card .list-details a:focus,
+.card .card-body:hover .attribution,
+.card .card-body .attribution:focus {
+  color: #0084B4;
+}
+
 
 
 
   
- Why is it so important? 
+  .FoundMediaSearch--keyboard .FoundMediaSearch-focusable.is-focused {
+    border-color: #0084B4;
+  }
 
- When was the ship wrecked? 
+  
+  .photo-selector:hover .btn,
+  .icon-btn:hover,
+  .icon-btn:active,
+  .icon-btn.active,
+  .icon-btn.enabled {
+    border-color: #0084B4;
+    border-color: rgba(0,132,180,0.4);
+    color: #0084B4;
+  }
 
- Who made it? 
+  
+  .photo-selector:hover .btn,
+  .icon-btn:hover {
+    background-image: linear-gradient(rgba(255,255,255,0), rgba(0,132,180,0.1));
+  }
 
- Is the Antikythera Mechanism a fake? 
+  .icon-btn.disabled,
+  .icon-btn.disabled:hover,
+  .icon-btn[disabled],
+  .icon-btn[aria-disabled=true] {
+    color: #0084B4;
+  }
 
- Was it left by aliens? 
+  
+  
+
+  .EdgeButton--primary,
+  .EdgeButton--primary:focus {
+    background-color: #329CC3;
+    border-color: transparent;
+  }
+
+  .EdgeButton--primary:hover,
+  .EdgeButton--primary:active {
+    background-color: #0084B4;
+    border-color: #0084B4;
+  }
+
+  .EdgeButton--primary:focus {
+    box-shadow:
+      0 0 0 2px #FFFFFF,
+      0 0 0 4px #99CDE1;
+  }
+
+  .EdgeButton--primary:active {
+    box-shadow:
+      0 0 0 2px #FFFFFF,
+      0 0 0 4px #329CC3;
+  }
+
+  
+  
+
+  .EdgeButton--secondary,
+  .EdgeButton--secondary:hover,
+  .EdgeButton--secondary:focus,
+  .EdgeButton--secondary:active {
+    border-color: #0084B4;
+    color: #0084B4;
+  }
+
+  .EdgeButton--secondary:hover,
+  .EdgeButton--secondary:active {
+    background-color: #E5F2F7;
+  }
+
+  .EdgeButton--secondary:focus {
+    box-shadow:
+      0 0 0 2px #FFFFFF,
+      0 0 0 4px rgba(0,132,180,0.4);
+  }
+
+  .EdgeButton--secondary:active {
+    box-shadow:
+      0 0 0 2px #FFFFFF,
+      0 0 0 4px #0084B4;
+  }
+
+  
+  
+
+  .EdgeButton--invertedPrimary {
+    color: #0084B4 !important;
+  }
+
+  .EdgeButton--invertedPrimary:focus {
+    box-shadow:
+      0 0 0 2px #0084B4,
+      0 0 0 4px #99CDE1;
+  }
+
+  .EdgeButton--invertedPrimary:active {
+    box-shadow:
+      0 0 0 2px #0084B4,
+      0 0 0 4px #FFFFFF;
+  }
+
+  
+  
+
+  .EdgeButton--invertedSecondary {
+    background-color: #0084B4;
+  }
+
+  .EdgeButton--invertedSecondary:hover {
+    background-color: #329CC3;
+  }
+
+  .EdgeButton--invertedSecondary:focus {
+    box-shadow:
+      0 0 0 2px #0084B4,
+      0 0 0 4px #99CDE1;
+  }
+
+  .EdgeButton--invertedSecondary:active {
+    box-shadow:
+      0 0 0 2px #0084B4,
+      0 0 0 4px #FFFFFF;
+  }
+
+  
+
+  .btn:focus,
+  .btn.focus,
+  .Button:focus,
+  .EmojiPicker-item.is-focused,
+  .EmojiPicker .EmojiCategoryIcon:focus,
+  .EmojiPicker-skinTone:focus + .EmojiPicker-skinToneSwatch,
+  a:focus > img:first-child:last-child,
+  button:focus {
+    box-shadow:
+      0 0 0 2px #FFFFFF,
+      0 0 2px 4px rgba(0,132,180,0.4);
+  }
+
+  .selected-stream-item:focus {
+    box-shadow: 0 0 0 3px rgba(0,132,180,0.4);
+  }
+
+  
+  .js-navigable-stream.stream-table-view .selected-stream-item[tabindex="-1"]:focus {
+    outline: 3px solid rgba(0,132,180,0.4) !important;
+  }
+
+  
+  .js-navigable-stream.stream-table-view .selected-stream-item:focus {
+    box-shadow: none;
+  }
+
+  
+
+  .global-dm-nav.new.with-count .dm-new .count-inner {
+    background: #0084B4;
+  }
+
+  .global-nav .people .count .count-inner {
+    background: #0084B4;
+  }
+
+  .dropdown-menu li > a:hover,
+  .dropdown-menu li > a:focus,
+  .dropdown-menu .dropdown-link:hover,
+  .dropdown-menu .dropdown-link:focus,
+  .dropdown-menu .dropdown-link.is-focused,
+  .dropdown-menu li:hover .dropdown-link,
+  .dropdown-menu li:focus .dropdown-link,
+  .dropdown-menu .selected a,
+  .dropdown-menu .dropdown-link.selected {
+    background-color: #0084B4 !important;
+  }
+
+  /* for items in typeahead dropdown menu on logged in pages */
+  .dropdown-menu .typeahead-items li > a:focus,
+  .dropdown-menu .typeahead-items li > a:hover,
+  .dropdown-menu .typeahead-items .selected,
+  .dropdown-menu .typeahead-items .selected a {
+    background-color: #E5F2F7 !important;
+    color: #0084B4 !important;
+  }
+
+  .typeahead a:hover,
+  .typeahead a:hover strong,
+  .typeahead a:hover .fullname,
+  .typeahead .selected a,
+  .typeahead .selected strong,
+  .typeahead .selected .fullname,
+  .typeahead .selected .Icon--close {
+    color: #0084B4 !important;
+  }
+
+
+.home-tweet-box,
+.LiveVideo-tweetBox,
+.RetweetDialog-commentBox {
+  background-color: #E5F2F7;
+}
+
+.top-timeline-tweetbox .timeline-tweet-box .tweet-form.condensed .tweet-box {
+  color: #0084B4;
+}
+
+.RichEditor,
+.TweetBoxAttachments {
+  border-color: #BFE0EC;
+}
+
+input:focus,
+textarea:focus,
+div[contenteditable="true"]:focus,
+div[contenteditable="true"].fake-focus,
+div[contenteditable="plaintext-only"]:focus,
+div[contenteditable="plaintext-only"].fake-focus {
+  border-color: #99CDE1;
+  box-shadow: inset 0 0 0 1px rgba(0,132,180,0.7);
+}
+
+.tweet-box textarea:focus,
+.tweet-box input[type=text],
+.currently-dragging .tweet-form.is-droppable .tweet-drag-help,
+.tweet-box[contenteditable="true"]:focus,
+.RichEditor.is-fakeFocus,
+.RichEditor.is-fakeFocus ~ .TweetBoxAttachments {
+  border-color: #99CDE1;
+  box-shadow: 0 0 0 1px #99CDE1;
+}
+
+.MomentCapsuleItem.selected-stream-item:focus {
+  box-shadow: 0 0 0 3px rgba(0,132,180,0.4);
+}
+
+
+
+
+s,
+.pretty-link:hover s,
+.pretty-link:focus s,
+.stream-item-activity-notification .latest-tweet .tweet-row a:hover s,
+.stream-item-activity-notification .latest-tweet .tweet-row a:focus s {
+    color: #0084B4;
+}
+
+
+
+.vellip,
+.vellip:before,
+.vellip:after,
+.conversation-module > li:after,
+.conversation-module > li:before,
+.ThreadedConversation--loneTweet:after,
+.ThreadedConversation-tweet:not(.is-hiddenAncestor) ~ .ThreadedConversation-tweet:before,
+.ThreadedConversation-tweet:after,
+.ThreadedConversation-moreReplies:before,
+.ThreadedConversation-viewOther:before,
+.ThreadedConversation-unavailableTweet:before,
+.ThreadedConversation-unavailableTweet:after,
+.ThreadedConversation--permalinkTweetWithAncestors:before,
+.mini-avatar-with-thread:before,
+.permalink.self-thread-permalink-with-descendant .permalink-tweet-container:after,
+.permalink.self-thread-permalink-with-descendant .inline-reply-tweetbox-container:after {
+    border-color: #99CDE1;
+}
+
+
+
+
+.tweet .sm-reply,
+.tweet .sm-rt,
+.tweet .sm-fav,
+.tweet .sm-image,
+.tweet .sm-video,
+.tweet .sm-audio,
+.tweet .sm-geo,
+.tweet .sm-in,
+.tweet .sm-trash,
+.tweet .sm-more,
+.tweet .sm-page,
+.tweet .sm-embed,
+.tweet .sm-summary,
+.tweet .sm-chat,
+
+.timelines-navigation .active .profile-nav-icon,
+.timelines-navigation .profile-nav-icon:hover,
+.timelines-navigation .profile-nav-link:focus .profile-nav-icon,
+
+.sm-top-tweet {
+    background-color: #0084B4;
+}
+
+.enhanced-mini-profile .mini-profile .profile-summary {
+  background-image: url(https://pbs.twimg.com/profile_banners/2485487425/1408094433/mobile);
+}
+
+  #global-tweet-dialog .modal-header,
+  #Tweetstorm-dialog .modal-header {
+    border-bottom: solid 1px rgba(0,132,180,0.25);
+  }
+
+  #global-tweet-dialog .modal-tweet-form-container,
+  #Tweetstorm-dialog .modal-body {
+    background-color: #0084B4;
+    background: rgba(0,132,180,0.1);
+  }
+
+  .TweetstormDialog-reply-context .tweet-box-avatar:after,
+  .TweetstormDialog-reply-context .tweet-box-avatar:before,
+  .TweetstormDialog-tweet-box .tweet-box-avatar:after,
+  .TweetstormDialog-tweet-box .tweet-box-avatar:before {
+    border-color: #99CDE1;
+  }
+
+  .global-nav .search-input:focus,
+  .global-nav .search-input.focus {
+    border: 2px solid #0084B4;
+  }
+}
+
+  .inline-reply-tweetbox {
+    background-color: #E5F2F7;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Antikythera Divers
+
+
+
+@antikytheradive
+
+
+
+
+
+
+
+
+
+
+
+
+Tweets
+Tweets, current page.
+155
+            
+
+
+
+Following
+Following
+98
+
+
+
+Followers
+Followers
+1,259
+
+
+
+Likes
+Likes
+85
+
  
-
-
-    View all FAQs  
-
- 
+ 
+More 
 
 
 
@@ -249,303 +921,3883 @@ Random FAQs
 
 
 
-
-
-
-
- 
-
-
-
-
-
-
-Contact and follow us
-
-Contact the Project TeamFollow our Twitter accountLike our Facebook page
+Likes
 
 
 
 
 
 
+Unmute @antikytheradive
 
-Recent Publications
-
-Our current knowledge of the Antikythera MechanismThe Calendar on the Antikythera Mechanism and the Corinthian Family of CalendarsΟ μηχανισμός των ΑντικυθήρωνA Portable Cosmos: Revealing the Antikythera Mechanism, Scientific Wonder of the Ancient WorldMore... 
-
+Mute @antikytheradive
 
 
+Follow
+Follow @antikytheradive
 
 
+Following
+Following @antikytheradive
 
 
+Unfollow
+Unfollow @antikytheradive
 
 
+Blocked
+Blocked @antikytheradive
 
 
-ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬Ëœ
+Unblock
+Unblock @antikytheradive
 
 
-
-FAQ
-CreditsAbout this website
-
-Acknowledgments
-Terms of use
-Contact
-Sitemap
- 
+Pending
+Pending follow request from @antikytheradive
 
 
-
-
-<!--
-google_ad_client = "ca-pub-5957195847215612";
-/* 728x90 */
-google_ad_slot = "9656504001";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-
-
-
- 
-
-
-
-Powered by Drupal 
-
-
-
-                    Ported to Drupal by Drupalizing a Project of More than Themes. Designed by Site5 WordPress Themes. 
-                    
+Cancel
+Cancel your follow request to @antikytheradive
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers
+
+
+
+@antikytheradive
+
+
+We are the Return to #Antikythera diving team at the Antikythera #Shipwreck Site and we also tweet for our colleagues from the #AntikytheraMechanism team
+
+
+
+              Antikythera
+
+        
 
 
 
  
-<!--//--><![CDATA[//><!--
-
-		jQuery(document).ready(function($) {
-
-		    $(window).load(function() {
-
-		        $(".flexslider").fadeIn("slow");
-
-		        $(".flexslider").flexslider({
-		            useCSS: false,
-		            animation: "slide",
-		            controlNav: 1,
-		            directionNav: 1,
-		            animationLoop: true,
-		            touch: 1,
-		            pauseOnHover: 1,
-		            nextText: "&rsaquo;",
-		            prevText: "&lsaquo;",
-		            keyboard: true,
-		            slideshowSpeed: 5000,
-		            randomize: 0,
-		            start: function(slider) {
-		                slider.removeClass("loading");
-		            }
-		        });
-		    });
-		});
-//--><!]]>
+    antikythera.org.gr
+  
 
 
-<!--//--><![CDATA[//><!--
-
-		jQuery(document).ready(function($) {
-
-		    if (jQuery("#main-navigation, #main-navigation .content").length && jQuery()) {
-		        var arrowimages = {
-		            down: ["downarrowclass", "./images/plus.png", 23],
-		            right: ["rightarrowclass", "./images/plus-white.png"]
-		        }
-		        var jqueryslidemenu = {
-		            animateduration: {
-		                over: 200,
-		                out: 100
-		            },
-		            //duration of slide in/ out animation, in milliseconds
-		            buildmenu: function(menuid, arrowsvar) {
-
-		                jQuery(document).ready(function(jQuery) {
-		                    var jQuerymainmenu = jQuery("#" + menuid + ">ul.menu:not(.sf-menu)")
-		                    var jQueryheaders = jQuerymainmenu.find("ul").parent()
-
-		                    jQueryheaders.each(function(i) {
-		                        var jQuerycurobj = jQuery(this)
-		                        var jQuerysubul = jQuery(this).find("ul:eq(0)")
-		                        this._dimensions = {
-		                            w: this.offsetWidth,
-		                            h: this.offsetHeight,
-		                            subulw: jQuerysubul.outerWidth(),
-		                            subulh: jQuerysubul.outerHeight()
-		                        }
-		                        this.istopheader = jQuerycurobj.parents("ul").length == 1 ? true : false
-		                        jQuerysubul.css({
-		                            top: this.istopheader ? this._dimensions.h + "px" : 0
-		                        })
-		                        jQuerycurobj.children("a:eq(0)").css(this.istopheader ? {
-		                            paddingRight: arrowsvar.down[2]
-		                        } : {}).append("<span class=" + (this.istopheader ? arrowsvar.down[0] : arrowsvar.right[0]) + " />")
-
-		                        jQuerycurobj.hover(
-
-		                        function(e) {
-		                            var jQuerytargetul = jQuery(this).children("ul:eq(0)")
-		                            this._offsets = {
-		                                left: jQuery(this).offset().left,
-		                                top: jQuery(this).offset().top
-		                            }
-		                            var menuleft = this.istopheader ? 0 : this._dimensions.w
-		                            menuleft = (this._offsets.left + menuleft + this._dimensions.subulw > jQuery(window).width()) ? (this.istopheader ? -this._dimensions.subulw + this._dimensions.w : -this._dimensions.w) : menuleft
-		                            if (jQuerytargetul.queue().length <= 1) //if 1 or less queued animations
-		                            jQuerytargetul.css({
-		                                left: menuleft + "px",
-		                                width: this._dimensions.subulw + "px"
-		                            }).slideDown(jqueryslidemenu.animateduration.over)
-		                        }, function(e) {
-		                            var jQuerytargetul = jQuery(this).children("ul:eq(0)")
-		                            jQuerytargetul.slideUp(jqueryslidemenu.animateduration.out)
-		                        }) //end hover
-		                        jQuerycurobj.click(function() {
-		                            jQuery(this).children("ul:eq(0)").hide()
-		                        })
-		                    }) //end jQueryheaders.each()
-
-		                    jQuerymainmenu.find("ul").css({
-		                        display: "none",
-		                        visibility: "visible"
-		                    })
-
-		                }) //end document.ready
-		            }
-		        }
-
-		        jqueryslidemenu.buildmenu("main-navigation .content", arrowimages)
-		        jqueryslidemenu.buildmenu("main-navigation", arrowimages)
-
-		    }
-		});
-//--><!]]>
 
 
-<!--//--><![CDATA[//><!--
-
-		jQuery(document).ready(function($) {
-
-		    var currentWindowWidth = jQuery(window).width();
-		    jQuery(window).resize(function() {
-		        currentWindowWidth = jQuery(window).width();
-		    });
-
-		    $(window).load(function() {
-
-		        $("ul#projects-carousel").fadeIn("fast");
-
-		        if (jQuery(".portfolio-item-hover-content").length && jQuery()) {
-		            function hover_effect() {
-		                jQuery(".portfolio-item-hover-content").hover(function() {
-		                    jQuery(this).find("div,a").stop(0, 0).removeAttr("style");
-		                    jQuery(this).find(".hover-options").animate({
-		                        opacity: 0.9
-		                    }, "fast");
-		                    jQuery(this).find("a").animate({
-		                        "top": "60%"
-		                    });
-		                }, function() {
-		                    jQuery(this).find(".hover-options").stop(0, 0).animate({
-		                        opacity: 0
-		                    }, "fast");
-		                    jQuery(this).find("a").stop(0, 0).animate({
-		                        "top": "150%"
-		                    }, "slow");
-		                    jQuery(this).find("a.zoom").stop(0, 0).animate({
-		                        "top": "150%"
-		                    }, "slow");
-		                });
-		            }
-		            hover_effect();
-		        }
-				
-		        (function() {
-		            var jQuerycarousel = jQuery("#projects-carousel");
-		            if (jQuerycarousel.length) {
-		                var scrollCount;
-		                if (jQuery(window).width() < 480) {
-		                    scrollCount = 1;
-		                } else if (jQuery(window).width() < 768) {
-		                    scrollCount = 1;
-		                } else if (jQuery(window).width() < 960) {
-		                    scrollCount = 3;
-		                } else {
-		                    scrollCount = 4;
-		                }
-		                jQuerycarousel.jcarousel({
-		                    animation: 600,
-		                    easing: "easeOutCirc",
-		                    scroll: scrollCount,
-		                    initCallback: function() {
-		                        jQuerycarousel.removeClass("loading")
-		                    },
-		                });
-		            }
-		        })();
-		    });
-		});
-//--><!]]>
+Joined May 2014
 
 
-<!--//--><![CDATA[//><!--
-
-		jQuery(document).ready(function($) {
-		    if (jQuery().tipsy) {
-		        jQuery("#social-01").tipsy({ gravity: "n" });
-		        jQuery("#social-02").tipsy({ gravity: "n" });
-		        jQuery("#social-03").tipsy({ gravity: "n" });
-		        jQuery("#social-04").tipsy({ gravity: "n" });
-		        jQuery("#social-05").tipsy({ gravity: "n" });
-		        jQuery("#social-06").tipsy({ gravity: "n" });
-		        jQuery("#social-07").tipsy({ gravity: "n" });
-		        jQuery("#social-07").tipsy({ gravity: "n" });
-		        jQuery("#social-08").tipsy({ gravity: "n" });
-		        jQuery("#social-09").tipsy({ gravity: "n" });
-		        jQuery("#social-10").tipsy({ gravity: "n" });
-		        jQuery("#social-11").tipsy({ gravity: "n" });
-		        jQuery("#team-01").tipsy({ gravity: "s" });
-		    }
-		});
-//--><!]]>
 
 
-<!--//--><![CDATA[//><!--
-
-jQuery(document).ready(function() { jQuery(".backtotop").click(function(){ jQuery("html, body").animate({scrollTop:0}, "slow"); return false; }); });
-
-//--><!]]>
 
 
-<!--//--><![CDATA[//><!--
 
-jQuery(document).ready(function($) {
 
-	$("#main-navigation > ul, #main-navigation .content > ul").mobileMenu({
-	prependTo: "#navigation-wrapper",
-	combine: false,
-	switchWidth: 960,
-	topOptionText: Drupal.settings.simplecorp['responsive_menu_topoptiontext']
-	});
 
-});
-//--><!]]>
+
+
+
+                
+                78 Photos and videos
+            
+
+            Photos and videos
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tweets
+
+
+Tweets
+Tweets, current page.
+
+
+
+                  Tweets & replies
+                
+
+
+
+                  Media
+                
+
+
+
+
+
+You blocked @antikytheradive
+Are you sure you want to view these Tweets? Viewing Tweets won't unblock @antikytheradive
+Yes, view profile
+
+
+
+
+
+
+Close
+
+
+
+
+            
+            Antikythera Divers followed
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers Retweeted
+            
+
+
+
+
+
+
+
+Ίδρυμα Λασκαρίδη‏ @LaskaridisFound
+
+20 Dec 2017
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+Είστε έτοιμοι για μια ακόμη βουτιά στα #Αντικύθηρα; Σας περιμένουμε στην έκθεση με τα νέα ευρήματα από το #ΝαυάγιοΑντικυθήρων γιατί.... η περιπέτεια συνεχίζεται! #ReturntoAntikythera #ΜηχανισμόςΑντικυθήρων #AntikytheraExhibition2017pic.twitter.com/H468VKz9GO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers
+
+
+
+
+
+
+0 replies
+
+
+
+
+13 retweets
+
+
+
+
+21 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+Retweet
+
+
+13
+
+
+
+
+Retweeted
+
+
+13
+
+
+
+
+
+
+
+
+Like
+
+
+21
+
+
+
+
+
+Liked
+
+
+21
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers‏ @antikytheradive
+
+Jan 22
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+Antikythera Geneva: http://youtu.be/gV8KGSJvKs0?a  via @YouTube
+
+
+
+
+
+
+
+
+
+0 replies
+
+
+
+
+1 retweet
+
+
+
+
+0 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+Retweet
+
+
+1
+
+
+
+
+Retweeted
+
+
+1
+
+
+
+
+
+
+
+
+Like
+
+
+
+
+
+
+
+
+Liked
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers‏ @antikytheradive
+
+Jan 12
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+Special lecture at #GenevaUniversity about the new findings and the technology at the #AntikytheraWreck: http://antikythera.org.gr/2018/01/12/lecture-at-geneva-university/ …pic.twitter.com/jJSCAAzpIs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 replies
+
+
+
+
+11 retweets
+
+
+
+
+13 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+Retweet
+
+
+11
+
+
+
+
+Retweeted
+
+
+11
+
+
+
+
+
+
+
+
+Like
+
+
+13
+
+
+
+
+
+Liked
+
+
+13
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers‏ @antikytheradive
+
+7 Oct 2017
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+Hispano Post 5 10 17: http://youtu.be/zHN9Ykf7N80?a  via @YouTube
+
+
+
+
+
+
+
+
+
+0 replies
+
+
+
+
+1 retweet
+
+
+
+
+3 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+Retweet
+
+
+1
+
+
+
+
+Retweeted
+
+
+1
+
+
+
+
+
+
+
+
+Like
+
+
+3
+
+
+
+
+
+Liked
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers‏ @antikytheradive
+
+6 Oct 2017
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+News ERT1 WebTV cut Oct. 5 2017: http://youtu.be/Tj4TVjUBK90?a  via @YouTube
+
+
+
+
+
+
+
+
+
+0 replies
+
+
+
+
+1 retweet
+
+
+
+
+0 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+Retweet
+
+
+1
+
+
+
+
+Retweeted
+
+
+1
+
+
+
+
+
+
+
+
+Like
+
+
+
+
+
+
+
+
+Liked
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers Retweeted
+            
+
+
+
+
+
+
+
+Ian Sample‏ @iansample
+
+4 Oct 2017
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+Ancient bronze statue piece hauled up from the #Antikythera wreck. And there's probably more down there:https://www.theguardian.com/science/2017/oct/04/antikythera-shipwreck-yields-new-treasures-and-hints-of-priceless-classical-statues …
+
+
+
+
+
+
+
+
+
+1 reply
+
+
+
+
+17 retweets
+
+
+
+
+16 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+1
+
+
+
+
+
+
+
+Retweet
+
+
+17
+
+
+
+
+Retweeted
+
+
+17
+
+
+
+
+
+
+
+
+Like
+
+
+16
+
+
+
+
+
+Liked
+
+
+16
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers‏ @antikytheradive
+
+4 Oct 2017
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+And the press release for the 2017 #AntikytheraWreck expedition: http://antikythera.org.gr/2017/10/04/press-release-about-the-2017-expedition/ …pic.twitter.com/fVczNHnFPX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 replies
+
+
+
+
+36 retweets
+
+
+
+
+30 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+Retweet
+
+
+36
+
+
+
+
+Retweeted
+
+
+36
+
+
+
+
+
+
+
+
+Like
+
+
+30
+
+
+
+
+
+Liked
+
+
+30
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers‏ @antikytheradive
+
+4 Oct 2017
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+Brand new video from our 2017 #AntikytheraWreck expedition, with astounding findings:https://youtu.be/s8xVASJl8bw 
+
+
+
+
+
+
+
+
+
+0 replies
+
+
+
+
+18 retweets
+
+
+
+
+14 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+Retweet
+
+
+18
+
+
+
+
+Retweeted
+
+
+18
+
+
+
+
+
+
+
+
+Like
+
+
+14
+
+
+
+
+
+Liked
+
+
+14
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers‏ @antikytheradive
+
+4 Oct 2017
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+2017 Return to Antikythera Expedition: http://youtu.be/s8xVASJl8bw?a  via @YouTube
+
+
+
+
+
+
+
+
+
+0 replies
+
+
+
+
+9 retweets
+
+
+
+
+6 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+Retweet
+
+
+9
+
+
+
+
+Retweeted
+
+
+9
+
+
+
+
+
+
+
+
+Like
+
+
+6
+
+
+
+
+
+Liked
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers‏ @antikytheradive
+
+21 Sep 2017
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+Excavation finished at #Antikythera. Looking forward to a promising 2018 expedition. Our last post here: http://antikythera.org.gr/2017/09/20/excavation-continues/ …pic.twitter.com/he8VRyL6LZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 replies
+
+
+
+
+12 retweets
+
+
+
+
+24 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+Retweet
+
+
+12
+
+
+
+
+Retweeted
+
+
+12
+
+
+
+
+
+
+
+
+Like
+
+
+24
+
+
+
+
+
+Liked
+
+
+24
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers‏ @antikytheradive
+
+16 Sep 2017
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+Understanding the 2000 Year Old #AntikytheraShipwreck: http://antikythera.org.gr/2017/09/16/understanding-a-2000-year-old-shipwreck/ …pic.twitter.com/dQrHHptvVK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 replies
+
+
+
+
+6 retweets
+
+
+
+
+12 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+Retweet
+
+
+6
+
+
+
+
+Retweeted
+
+
+6
+
+
+
+
+
+
+
+
+Like
+
+
+12
+
+
+
+
+
+Liked
+
+
+12
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers‏ @antikytheradive
+
+15 Sep 2017
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+Great visibility on the #AntikytheraWreck site. Here are some photos:http://antikythera.org.gr/2017/09/14/descent-to-antikythera/ …
+
+
+
+
+
+
+
+
+
+1 reply
+
+
+
+
+13 retweets
+
+
+
+
+18 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+1
+
+
+
+
+
+
+
+Retweet
+
+
+13
+
+
+
+
+Retweeted
+
+
+13
+
+
+
+
+
+
+
+
+Like
+
+
+18
+
+
+
+
+
+Liked
+
+
+18
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers‏ @antikytheradive
+
+4 Sep 2017
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+Good morning from Antikythera, where the sea condition is flat-ass calm! Let's go diving!pic.twitter.com/SHX8bZkZLt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 reply
+
+
+
+
+14 retweets
+
+
+
+
+19 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+1
+
+
+
+
+
+
+
+Retweet
+
+
+14
+
+
+
+
+Retweeted
+
+
+14
+
+
+
+
+
+
+
+
+Like
+
+
+19
+
+
+
+
+
+Liked
+
+
+19
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers‏ @antikytheradive
+
+4 Sep 2017
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+Day One of the 2017 expedition at #Antikythera:http://antikythera.org.gr/2017/09/04/day-one-of-the-2017-expedition/ …
+
+
+
+
+
+
+
+
+
+2 replies
+
+
+
+
+5 retweets
+
+
+
+
+11 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+2
+
+
+
+
+
+
+
+Retweet
+
+
+5
+
+
+
+
+Retweeted
+
+
+5
+
+
+
+
+
+
+
+
+Like
+
+
+11
+
+
+
+
+
+Liked
+
+
+11
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers‏ @antikytheradive
+
+25 Aug 2017
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+2017 research permit issued today by the Ministry of Culture! Team mobilizing in Athens and Crete, and converge on #Antikythera on Sept. 4!
+
+
+
+
+
+1 reply
+
+
+
+
+4 retweets
+
+
+
+
+11 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+1
+
+
+
+
+
+
+
+Retweet
+
+
+4
+
+
+
+
+Retweeted
+
+
+4
+
+
+
+
+
+
+
+
+Like
+
+
+11
+
+
+
+
+
+Liked
+
+
+11
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers‏ @antikytheradive
+
+17 May 2017
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+Today's #GoogleDoodle on the #AntikytheraMechanism discovery, 115 years ago in Athens: https://www.google.com/doodles/115th-anniversary-of-the-antikythera-mechanisms-discovery …pic.twitter.com/rVnrCsuw4K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 reply
+
+
+
+
+17 retweets
+
+
+
+
+17 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+1
+
+
+
+
+
+
+
+Retweet
+
+
+17
+
+
+
+
+Retweeted
+
+
+17
+
+
+
+
+
+
+
+
+Like
+
+
+17
+
+
+
+
+
+Liked
+
+
+17
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers‏ @antikytheradive
+
+27 Apr 2017
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+GEO Germany on the wreck and #AntikytheraMechanism, by @jubi_geo who spent with us several days on the island:http://www.geo.de/magazine/geo-magazin/23417-geo-nr-05-2017-sehnsucht-wald …
+
+
+
+
+
+
+
+
+
+0 replies
+
+
+
+
+0 retweets
+
+
+
+
+0 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+Retweet
+
+
+
+
+
+
+
+Retweeted
+
+
+
+
+
+
+
+
+
+
+
+Like
+
+
+
+
+
+
+
+
+Liked
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers‏ @antikytheradive
+
+25 Apr 2017
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+Geneva lecture on the #AntikytheraMechanism by Prof. Tasios now online athttps://www.youtube.com/watch?v=Pi9oGsTQzno&list=PLVL-dB9NgbGgdkIt9ZsIWiOKgN_Otcu6V …
+
+
+
+
+
+
+
+
+
+1 reply
+
+
+
+
+11 retweets
+
+
+
+
+14 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+1
+
+
+
+
+
+
+
+Retweet
+
+
+11
+
+
+
+
+Retweeted
+
+
+11
+
+
+
+
+
+
+
+
+Like
+
+
+14
+
+
+
+
+
+Liked
+
+
+14
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers‏ @antikytheradive
+
+21 Mar 2017
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+Before #Antikythera: a conference in Geneva by Prof. Tassios, with the presence of the #Wreck diving team. Details: http://www.antikythera-mechanism.gr/fr/node/765 pic.twitter.com/jCIuIThIwD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 replies
+
+
+
+
+6 retweets
+
+
+
+
+11 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+Retweet
+
+
+6
+
+
+
+
+Retweeted
+
+
+6
+
+
+
+
+
+
+
+
+Like
+
+
+11
+
+
+
+
+
+Liked
+
+
+11
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+Antikythera Divers Retweeted
+            
+
+
+
+
+
+
+
+ANA-MPA news‏Verified account @amna_newseng
+
+17 Jan 2017
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Copy link to Tweet
+
+
+Embed Tweet
+
+
+
+
+
+
+
+.@LaskaridisFound extends popular ‘#Antikytherawreck’ exhibition in Piraeus @antikytheradive @WHOI http://www.amna.gr/english/article/16798/Laskaridis-Foundation-extends-popular-%E2%80%98Antikythera-shipwreck%E2%80%99-exhibition …pic.twitter.com/WwwiaDYTqh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 replies
+
+
+
+
+6 retweets
+
+
+
+
+8 likes
+
+
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+Retweet
+
+
+6
+
+
+
+
+Retweeted
+
+
+6
+
+
+
+
+
+
+
+
+Like
+
+
+8
+
+
+
+
+
+Liked
+
+
+8
+
+
+
+
+
+
+
+
+
+
+
+Thanks. Twitter will use this to make your timeline better.
+            Undo
+
+
+
+
+
+
+Undo
+
+
+
+
+
+
+
+
+
+
+
+
+
+          @antikytheradive hasn't Tweeted yet.
+      
+Back to top ↑
+
+
+
+
+
+
+
+
+
+
+
+
+Loading seems to be taking a while.
+
+      Twitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      New to Twitter?
+    
+
+
+    Sign up now to get your own personalized timeline!
+  
+
+Sign up
+
+
+
+
+You may also like
+    ·
+    Refresh
+
+
+
+
+
+
+
+
+false
+
+
+
+
+
+
+
+
+
+
+
+
+© 2018 Twitter
+About
+Help Center
+Terms
+Privacy policy
+Cookies
+Ads info
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+
+            
+            Choose a trend location
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dismiss
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+            Previous
+          
+
+
+
+
+
+
+
+            Next
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+Go to a person's profile
+
+
+
+
+
+
+
+
+
+
+
+
+Saved searches
+
+
+Remove
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In this conversation
+
+
+
+Verified accountProtected Tweets @
+
+
+
+
+
+
+
+
+
+
+
+    Suggested users
+  
+
+
+
+
+
+
+
+Verified accountProtected Tweets @
+
+
+
+
+
+
+
+
+
+
+
+
+Verified accountProtected Tweets @
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+Promote this Tweet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+Block
+
+
+
+
+
+
+Cancel
+Block
+
+
+
+
+
+
+
+
+
+
+
+
+Tweet with a location
+
+        You can add location information to your Tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your Tweet location history.
+        Learn more
+
+
+Turn on
+Not now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+Your lists
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+Create a new list
+
+
+
+
+List name
+
+
+
+
+Description
+
+Under 100 characters, optional
+
+
+
+Privacy
+
+
+
+Public · Anyone can follow this list
+      
+
+
+Private · Only you can access this list
+      
+
+
+
+
+Save list
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+Copy link to Tweet
+
+
+
+
+Here's the URL for this Tweet. Copy it to easily share with friends.
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+Embed this Tweet
+Embed this Video
+
+
+
+Add this Tweet to your website by copying the code below. Learn more
+Add this video to your website by copying the code below. Learn more
+
+
+
+
+Hmm, there was a problem reaching the server. Try again?
+
+
+
+
+
+
+            Include parent Tweet
+          
+
+
+
+
+            Include media
+          
+
+
+
+
+By embedding Twitter content in your website or app, you are agreeing to the Twitter Developer Agreement and Developer Policy.
+Preview
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+Why you're seeing this ad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+Log in to Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Remember me
+
+·
+Forgot password?
+
+
+
+
+
+
+
+
+
+
+
+
+        Don't have an account? Sign up »
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+Sign up for Twitter
+
+
+
+
+
+Not on Twitter? Sign up, tune into the things you care about, and get updates as they happen.
+
+
+Sign up
+
+
+
+
+        Have an account? Log in »
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+Two-way (sending and receiving) short codes:
+
+
+
+
+
+Country
+Code
+For customers of
+
+
+
+
+United States
+40404
+(any)
+
+
+Canada
+21212
+(any)
+
+
+United Kingdom
+86444
+Vodafone, Orange, 3, O2
+
+
+Brazil
+40404
+Nextel, TIM
+
+
+Haiti
+40404
+Digicel, Voila
+
+
+Ireland
+51210
+Vodafone, O2
+
+
+India
+53000
+Bharti Airtel, Videocon, Reliance
+
+
+Indonesia
+89887
+AXIS, 3, Telkomsel, Indosat, XL Axiata
+
+
+Italy
+4880804
+Wind
+
+
+3424486444
+Vodafone
+
+
+
+
+
+        » See SMS short codes for other countries
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+Confirmation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Skip all
+          
+
+
+
+
+    Welcome home!
+  
+This timeline is where you’ll spend most of your time, getting instant updates about what matters to you.
+
+
+
+
+    Tweets not working for you?
+  
+
+    Hover over the profile pic and click the Following button to unfollow any account.
+  
+
+
+
+
+    Say a lot with a little
+  
+
+    When you see a Tweet you love, tap the heart — it lets  the person who wrote it know you shared the love.
+  
+
+
+
+
+    Spread the word
+  
+
+    The fastest way to share someone else’s Tweet with your followers is with a Retweet. Tap the icon to send it instantly.
+  
+
+
+
+
+    Join the conversation
+  
+
+    Add your thoughts about any Tweet with a Reply. Find a topic you’re passionate about, and jump right in.
+  
+
+
+
+
+    Learn the latest
+  
+
+    Get instant insight into what people are talking about now.
+  
+
+
+
+
+    Get more of what you love
+  
+
+    Follow more accounts to get instant updates about topics you care about.
+  
+
+
+
+
+    Find what's happening
+  
+
+    See the latest conversations about any topic instantly.
+  
+
+
+
+
+    Never miss a Moment
+  
+
+    Catch up instantly on the best stories happening as they unfold.
+  
+
+
+
+Back
+Next
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Next Tweet from user
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

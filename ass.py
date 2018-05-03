@@ -2,6 +2,7 @@
 import json
 from treelib import Node, Tree
 import numpy as np
+import time
 tree = Tree()
 tree.create_node("Root", "root")  # root node
 tree.create_node("Link1", "link1", parent="root", data={'related_link': ["sublink1_1", 'sublink1_2'],
@@ -25,9 +26,11 @@ node_temp = tree.expand_tree(mode=Tree.DEPTH)
 # for item in node_temp:
 #     if tree[item].data is not None:
 #         print(tree[item].data, type(tree[item]))
-print([tree[node].data for node in tree.expand_tree(mode=Tree.DEPTH) if (tree[node].data is not None) and (tree[node].data['count'] > 60)])
+start = time.time()
+print([tree[node].data for node in tree.expand_tree(mode=Tree.ZIGZAG) if (tree[node].data is not None) and (tree[node].data['count'] > 60)])
+stop = time.time()
 
-
+print("Total time: {time} second".format(time=stop-start))
 
 # print(tree.get_node('link5').data)
 # for nodes in tree.all_nodes_itr():

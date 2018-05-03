@@ -1,0 +1,257 @@
+
+
+
+
+Computadora - Wikipedia
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Computadora","wgTitle":"Computadora","wgCurRevisionId":1492226,"wgRevisionId":1492226,"wgArticleId":2168,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Artículos con plantíes infobox ensin fileres de datos","Informática"],"wgBreakFrames":false,"wgPageContentLanguage":"ast","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","xineru","febreru","marzu","abril","mayu","xunu","xunetu","agostu","setiembre","ochobre","payares","avientu"],"wgMonthNamesShort":["","xin","feb","mar","abr","may","xun","xnt","ago","set","och","pay","avi"],"wgRelevantPageName":"Computadora","wgRelevantArticleId":2168,"wgRequestId":"WuIYVApAADwAAIdnr90AAAAX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"ast","pageLanguageDir":"ltr","pageVariantFallbacks":"ast","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"ast","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"asturianu","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q68","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0heoan6",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"ast"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Computadora 
+De Wikipedia 
+
+					Saltar a:					navegación, 					buscar
+
+
+Computer
+
+
+
+
+
+Computadores y preseos de dómines estremaes
+
+
+
+
+
+
+
+Un computadora o ordenador ye un preséu electrónicu formáu básicamente d’un procesador, memoria y preseos d'entrada/salida (E/S) . La carauterística principal del ordenador, respeutu d’otros preseos asemeyaos, como una calculadora, ye que pue facer xeres mui estremaes, cargando programes estremaos na memoria pa que los execute’l procesador. Búscase siempre axustar los procesos, ganar tiempu, facelo más fácil d’usar y simplificar les xeres rutinaries.
+Los preseos d'entrada/salida (tamién nomaos periféricos) permiten-y al ordenador comunicar col esterior.
+Un ordenador normalmente emplega un programa informáticu especial denomináu sistema operativu que s'encarga de xestionar los recursos de la computadora: memoria, preseos d'E/S, preseos d'almacenamientu (discos duros, unidaes de DVD y CD).
+
+Un ordenador ye cualesquier preséu usáu pa procesar información d’alcuerdu con un procedimientu bien definíu. Nun entamu, la pallabra emplegábase describir les persones que facíen cálculos aritméticos, con o ensin sofitu mecánicu, pero llueu treslladóse a les propies máquines. Dientro de la definición que tamos acabante de dar, entraría l’usu de preseos mecánicos como la regla de cálculu, tola gama de calculadores mecániques dende l’ábacu p’alantre, amás de tolos ordenadores electrónicos contemporáneos.
+La definición anterior incluye abondos preseos d’usos específicos que namás puen facer una función o un númberu determináu de funciones. Si camentamos nos ordenadores modernos, la carauterística más importante que los estrema de los vieyos ye que tienen una programación afayadiza. Cualesquier ordenador pue emular el comportamientu d’otru (namás llendáu pola capacidá d’almacenamientu de datos y les estremaes velocidaes), y, dafechu, créese que los actuales ordenadores puen emular a cualesquier ordenador que s’invente nel futuru (magar que seyan abondo más lentos). Polo tantu, en ciertu sentíu, esta capacidá crítica ye una proba mui útil, para identificar los ordenadores d’usu xeneral de los destinaos a dellos usos específicos. Esta carauterística de podese emplegar pa un usu xeneral, podese formalizar nuna regla acordies a la cuál una máquina d’estes carauterístiques, debe poder emular el comportamientu d’una máquina de Turing universal. Les máquines que cumplan con esta definición son homologables a la máquina de Turing.
+Orixinalmente, el procesamientu de la información taba rellacionáu de manera cuasi esclusiva con problemes aritméticos, pero los ordenadores modernos empléguense pa munches xeres estremaes ensin rellación nenguna coles matemátiques.
+Magar que nos caberos 20 años averadamente, munchos aparatos domésticos, sobre too les consoles pa videoxuegos, a les qu'hai qu’amestar los teléfonos móviles, los videos, los auxiliares personales dixitales (PDA) y un puñáu d'aparatos caseros, industriales, pa coches y electrónicos, toos ellos tienen circuitos homologables a la máquina de Turing (cola llende de que la programación d’estos aparatos ta inxerta nun chip de memoria ROM, qu’hai que sustituyir ca vegada que queremos camudar la programación, o FlashROM, que nun fai falta sustituyir pa actualizayos la programación). Esta especie d’ordenadores que s'alcuentren dientro d’otros ordenadores d’usu xeneral son conocíos como microcontroladores u ordenadores integraos. Polo tantu, munches persones restrinxeron la definición d’ordenadores a aquelles máquines que’l propósitu principal seya’l procesamientu de la información y que podan adaptase a una gran variedá de xeres pol usuariu, ensin camuda física nenguna, ensin incluyir a aquellos preseos que formen parte d’un sistema más grande como los teléfonos, microondes o aviones. Hai 3 tipos d’ordenadores principales que cumplen colos requisitos y son: los ordenadores centrales, los miniordenadores y los ordenadores personales.
+Pa finar, hai que dicir qu'abonda xente que nun ta acostumada con otres formes d’ordenadores, emplega’l términu para referise namás a los ordenadores personales.
+
+
+
+Índiz
+
+
+1 Cómo furrulen los ordenadores
+2 Emplegu de los ordenadores
+3 Etimoloxía de les pallabres ordenador y computadora
+4 Artículos Relacionaos
+
+
+
+Cómo furrulen los ordenadores[editar | editar la fonte]
+
+
+
+
+Ordenador personal, vista estenderexada del hardware típicu.
+1: Monitor
+2: Placa madre
+3: Microprocesador o Unidácentral de procesamientuCPU
+4: Puertos SATA
+5: Memoria RAM
+6: Plaques d'espansión
+7: Fonte d'alimentación
+8: Unidá de discu ópticu
+9: Unidá de discu duru, Unidá d'estáu sólidu
+10: Tecláu
+11: Mur
+
+
+
+
+
+
+El ZX Spectrum de Sinclar revolucionó el mercáu européu d'ordenadores pa uso domésticu.
+
+
+Magar que les tecnoloxíes emplegaes nos ordenadores dixitales camudaron abondo dende qu’apaecieron los primeros ordenadores nos años 40, la mayoría tovía empleguen la arquiteutura von Neumann, propuesta al entamu de los años 40 por John von Neumann.
+L’arquiteutura von Neumann describe un ordenador con 4 secciones principales: la unidá lóxica y aritmética (ALU), la unidá de control, la memoria, y los preseos d'entrada y salida (E/S). Estes partes tan coneutaes por un manoyu cables, un enllaz común. Nesti sistema, la memoria ye una secuencia de celdes d’almacenamientu numberaes, u caúna ye un bit, o unidá d’información. La información ye una instrucción que-y diz al ordenador lo que tien que facer. Les «célules» represen datos que-y faen falta al ordenador pa llevar a cabu les instrucciones.
+En xeneral, la memoria pode ser reescrita milenta vegaes; paezse más a una llibreta qu’a una llábana.
+El tamañu de ca célula ya’l númberu célules estrema muncho d’ordenador a ordenador, y les tecnoloxíes emplegaes pala memoria camudaron abondo; van dende los relés electromecánicos, tubos enllenos de mercuriu nos que formábense los pulsos acústicos, matrices d’imanes permanentes, transistores individuales a circuitos integraos con milenta celdes nun solu chip.
+La unidá lóxica y aritmética, o ALU, ye’l preséu que lleva a cabu les operaciones elementales como les operaciones aritmétiques (suma, resta), operaciones lóxiques (Y, O, NO), y operaciones de comparanza. Nesta unidá ye aú faise tol trabayu computacional.
+La unidá de control sigue la direición de les posiciones en memoria que contienen la instrucción que l'ordenador va realizar nesi momentu; recupera la información dando-yla a l'ALU pala operación que tien que desendolcar. Tresfier llueu'l resultáu a sitios afayadizos na memoria.
+Una vegada qu’ocurre lo anterior, la unidá de control va a la siguiente instrucción (normalmente sitiada na siguiente posición, a menos que la instrucción seya una instrucción de brincu, informando al ordenador de que la próxima instrucción va tar puesta n’otra posición de la memoria).
+Los preseos E/S permiten-y al ordenador, garrar información del mundiu esterior y tornar los resultaos d’esa información. Hai una gama mui estensa de preseos E/S como los teclaos, monitores y unidaes de discu flexible o les cámares web.
+Les instrucciones que tamos acabante d’aldericar, nun son les nidies instrucciones del ser humanu. Un ordenador namás tien un númberu acotáu d’instrucciones bien definíes. Los tipos d’instrucciones típiques realizaes pola mayoría los ordenadores son como estos exemplos: "...copia los conteníos de la posición de memoria 123, y pon la copia na posición 456, amesta-y los conteníos de la posición 666 a la 042, y coloca’l resultáu na posición 013, y, si los conteníos de la posición 999 son 0, la to siguiente instrucción ta na posición 345...".
+Les instrucciones dientro l'ordenador represéntense con númberos. Por exemplu, el códigu pa copiar pue ser 001. El conxuntu d’instrucciones que pue facer un ordenador conozse como llinguax de máquina o códigu máquina. Na práutica, nun s’escriben les instrucciones pa los ordenadores direutamente en llinguax de máquina, sinón que s’emplega un llinguax de programación d’altu nivel que tórnase dempués al llinguax de la máquina automáticamente, a traviés de programes especiales de torna (intérpretes y compiladores). Dalgunos llinguaxes de programación representen de manera mui direuta'l llinguax de máquina, como los amestadores (llinguaxes de baxu nivel) y, por otru llau, los llinguaxes como Prolog, básense en principios abstrautos mui lloñe de los que fai la máquina en concretu (llinguaxes d'altu nivel).
+Los ordenadores d’agora coloquen l'ALU y la unidá de control dientro d’un únicu circuitu integráu conocíu como Unidá central de procesamientu o CPU. Normalmente, la memoria l'ordenador asitiase nunos pocos circuitos integraos pequeños cerca la CPU. La gran mayoría de la masa l'ordenador ta formada por sistemes auxiliares (por exemplu, pa traer electricidá) o preseos E/S.
+Dalgunos ordenadores más grandes diferénciense del modelu anterior, nun aspeutu perimportante, porque tienen varies CPU y unidaes de control que trabayen al mesmo tiempu. Amás, dalgunos ordenadores, usaos principalmente pala investigación, son mui estremaos del modelu anterior, pero nun tienen munches aplicaciones comerciales.
+Polo tantu, el funcionamientu d’un ordenador ye en principiu abondo cenciellu. L'ordenador trai les instrucciones y los datos de la memoria. Execútense les instrucciones, almacénense los datos y vase a pola siguiente instrucción. Esti procedimientu repítese de siguío, dica que s’apaga l'ordenador. Los programes d’ordenador namás son llargues llistes d’instrucciones que debe executar l’ordenador, a vegaes con tables de datos. Munchos programes d’ordenador contienen millones d’instrucciones, y munches d’eses instrucciones execútense aína. Un ordenador personal modernu típicu (nel añu 2003) pode executar de 2000 a 3000 millones d’instrucciones por segundu. Les capacidaes estraordinaries que tienen los ordenadores nun se deben a la so habilidá pa executar instrucciones complexes. Los ordenadores executen milenta instrucciones simples diseñaes por persones intelixentes nomaos programadores. Los buenos programadores desendolquen grupos d’instrucciones pa facer xeres comunes (por exemplu, dibuxar un puntu na pantalla) y llueu ponen esos grupos d’instrucciones a disposición d’otros programadores.
+Na actualidá, pue paecenos que los ordenadores tán executando dellos programes a la mesma vegada. Esto conozse como poliactividá o multixera, siendo más emplegáu’l segundu términu. En realidá, la CPU executa instrucciones d’un programa y dempués tras un curtiu periodu de tiempu, camuda a un segundu programa y executa dalgunes de les sos instrucciones. Esto crea la ilusión de que tan executándose estremaos programas de siguío, repartiendo’l tiempu la CPU ente los programes. Esto ye asemeyáu a la película que ta formada por una socesión rápida de fotogrames. El sistema operativu ye’l programa que controla’l repartu del tiempu xeneralmente.
+El sistema operativu ye una especie caxón de sastre enllenu de códigos. Cada vegada que dalgún códigu d’ordenador ye compartíu por munchos tipos dixebraos de programes demientres munchos años, los programadores llevarán esi códigu al sistema operativu, al final.
+El sistema operativu pode decidir, por exemplu, qué programes van executase, y cuándo, y qué fuentes (memoria o preseos E/S) van emplegase. El sistema operativu tien otres funciones qu’ofrecer a otros programes, como los códigos que dexen a los programadores escribir programes pa una máquina ensin necesidá de conocer los detalles íntimos de tolos preseos electrónicos coneutaos.
+Na actualidá, ta entamándose a incluyir dientro’l sistema operativu dalgunos programes perusaos debíu a que ye una manera económica de distribuyilos. Nun ye estrañu qu’un sistema operativu incluya navegadores d’internet, procesadores de testu, programes de corréu electrónicu, interfaces de rede, reproductores de películes y dellos programas qu’enantes teníen que consiguise aparte.
+Emplegu de los ordenadores[editar | editar la fonte]
+Los primeros ordenadores dixitales, de gran tamañu y coste, emplegábense principalmente pa facer cálculos científicos. ENIAC, un de los primeros ordenadores americanos, calculaba densidaes de neutrón transversales pa ver si españaría la bomba d’hidróxenu. El CSIR Mk I, el primer ordenador australianu, evaluó patrones de lluvies pa un gran proyeutu de xeneración hidroeléctrica. Los primeros visionarios predixeron que la programación permitiría xugar al axedrez, ver películes y dellos usos más.
+La xente que trabayaba pa los gobiernos y les grandes empreses tamién emplegaron los ordenadores p'automatizar munches de les xeres de collecha y procesamientu de datos, qu'enantes yeren feches por humanos; por exemplu, mantener y actualizar la contabilidá y los inventarios. Nel mundiu académicu, los científicos de tolos campos entamaron a emplegar los ordenadores pa facer los sos análisis. La baxada los precios de los ordenadores permitió’l so uso por empresas ca vegada más pequeñes. Les empreses, les organizaciones y los gobiernos entamen a emplegar un gran númberu de pequeños ordenadores para facer xeres qu’enantes yeren feches por ordenadores centrales grandes y caros. La xunión de dellos pequeños ordenadores nun solu llugar nomábase torre de sirvidores.
+Cola invención del microprocesador en 1970, foi posible fabricar ordenadores mui baratos. Los ordenadores personales ficiéronse famosos para llevar a cabu estremaes xeres como guardar llibros, escribir y imprimir documentos, calcular probabilidaes y otres xeres matemátiques repetitives con fueyes de cálculu, comunicase por corréu electrónicu y Internet. De toles maneres, la facilidá de consiguir ordenadores y la so fácil adautación a les necesidaes de cada persona, fixeron que s’empleguen pa dellos propósitos.
+Al mesmo tiempu, los pequeños ordenadores, cuasi siempre con una programación fixa, entamaron a facese camín ente les aplicaciones del llar, los coches, los aviones y la maquinaria industrial. Estos procesadores integraos controlaben el comportamientu de los aparatos más fácilmente, permitiendo’l desarrollu de funciones de control más complexes como los sistemes de frenu antibloquéu nos coches. Al entamu’l sieglu 21, la mayoría los aparatos eléctricos, cuasi tolos tipos de trasporte eléctrico y la mayoría de les llinies de producción de les fábriques furrulen con un ordenador. La mayoría los inxenieros pescancia qu’esta tendencia va siguir.
+Etimoloxía de les pallabres ordenador y computadora[editar | editar la fonte]
+La palabra 'ordenador' vien del francés 'ordinateur' que ye la torna del orixinal inglés 'computer'. Alcontrámonos, pues, con una palabra que foi introducida dende l'español y nesti idioma como calcu d’una pallabra francesa, pero que noma una máquina inventada en Estaos Xuníos y nomada ellí computer.
+Nel entamu, la pallabra inglesa emplegábase pa nomar una persona que facía cálculos aritméticos con o ensin ayuda mecánica. Charles Babbage diseñó un de los primeros ordenadores nomáu motor analíticu, pero debío a dellos problemes tecnolóxicos, nun foi construyíu demientres él vivió. Dalgunos aparatos mecánicos simples como la regla de cálculu tamién foron consideraos ordenadores. En dalgunos casos nomábense ordenadores analóxicos, porque nun podíen facer funciones dixebraes o dixitales. Lo que güei nomamos namás ordenadores yeren nomaos xeneralmente ordenadores dixitales, para separtalos d’otros aparatos.
+Si camentamos n’otres pallabres para nomar al ordenador, podemos alcontrar exemplos curiosos. Yá diximos que la pallabra orixinal computer ta más rellacionada col cómputu o cálculu, demientres que'l francés, l’español d’España y l’asturianu garráronse más pol orde y la organización ordinateur y "ordenador" respeutivamente. N’italianu, emplégase la pallabra calcolatore, tamién rellacionada col cálculu. En Suecia buscaron una pallabra rellacionada colos datos dator. En China, al ordenador nómase-y “cerebru elletrónicu”.
+Artículos Relacionaos[editar | editar la fonte]
+
+Informática
+
+
+
+
+
+ 
+						Sacáu de «https://ast.wikipedia.org/w/index.php?title=Computadora&oldid=1492226»					
+Categoría: InformáticaCategoría anubrida: Artículos con plantíes infobox ensin fileres de datos 
+
+
+
+Menú de navegación
+
+
+Ferramientes personales
+
+Nun aniciasti sesiónAlderiqueContribucionesCrear una cuentaEntrar 
+
+
+
+Espacios de nome
+
+PáxinaAlderique 
+
+
+
+
+Variantes
+
+
+
+
+
+
+
+
+
+Vistes
+
+LleerEditarEditar la fonteVer historial 
+
+
+
+Más
+
+
+
+
+
+
+
+Buscar
+
+
+
+ 
+
+
+
+
+
+
+
+Navegación
+
+
+PortadaPortal de la comunidáFechos actualesCambeos recientesPáxina al debaluAyuda 
+
+
+
+Ferramientes
+
+
+Lo qu'enllaza equíCambios rellacionaosXubir ficheruPáxines especialesEnllaz permanenteInformación de la páxinaElementu de WikidataCitar esta páxina 
+
+
+
+N'otres llingües
+
+
+АҧсшәаAcèhAfrikaansAlemannischአማርኛAragonésÆngliscالعربيةܐܪܡܝܐمصرىঅসমীয়াAzərbaycancaتۆرکجهБашҡортсаBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)‎БългарскиभोजपुरीBislamaবাংলাབོད་ཡིགবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiᨅᨔ ᨕᨘᨁᨗБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoTsetsêhestâheseکوردیQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiडोटेलीΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisFurlanGaeilge贛語GàidhligGalegoAvañe'ẽ𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHausa客家語/Hak-kâ-ngîעבריתहिन्दीFiji HindiHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIgboIñupiakIlokanoIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ/inuktitut日本語PatoisLa .lojban.Basa JawaქართულიQaraqalpaqshaKabɩyɛKongoGĩkũyũҚазақшаភាសាខ្មែរಕನ್ನಡ한국어Къарачай-малкъарकॉशुर / کٲشُرKurdîКомиKernowekКыргызчаLatinaLadinoLëtzebuergeschЛезгиLingua Franca NovaLimburgsLumbaartLingálaລາວLietuviųLatviešuमैथिलीMalagasyОлык марийМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorskOccitanLivvinkarjalaOromooଓଡ଼ିଆਪੰਜਾਬੀKapampanganPolskiPiemontèisپنجابیΠοντιακάپښتوPortuguêsRuna SimiRomaniRomânăРусскийРусиньскыйसंस्कृतम्Саха тылаSarduSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSesothoSeelterskBasa SundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeXitsongaТатарча/tatarçaئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsWalonWinarayWolof吴语IsiXhosaმარგალურიייִדישYorùbáVahcuengh中文文言Bân-lâm-gú粵語IsiZulu 
+Editar los enllaces 
+
+
+Imprentar/esportar
+
+
+Crear un llibruDescargar como PDFVersión pa imprentar 
+
+
+
+N'otros proyeutos
+
+
+Wikimedia Commons 
+
+
+
+
+
+
+ La última edición d'esta páxina foi el 24 abr 2018, a les 10:54.
+El testu ta disponible baxo la Llicencia Creative Commons Reconocimientu/CompartirIgual 3.0; puen aplicase otres cláusules más.
+Llei les condiciones d'usu pa más detalles.
+
+
+Política d'intimidá
+Tocante a Wikipedia
+Avisu llegal
+Desendolcadores
+Declaración de cookies
+Vista pa móvil
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.068","walltime":"0.092","ppvisitednodes":{"value":104,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":2032,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%   41.393      1 Plantía:Infobox","100.00%   41.393      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.022","limit":"10.000"},"limitreport-memusage":{"value":1011692,"limit":52428800}},"cachereport":{"origin":"mw1304","timestamp":"20180426095629","ttl":1900800,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1265"});});
+
+

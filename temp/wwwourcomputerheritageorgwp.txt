@@ -1,0 +1,11 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /wp</title>
+ </head>
+ <body>
+<h1>Index of /wp</h1>
+<ul><li><a href="/"> Parent Directory</a></li>
+<li><a href="web.config"> web.config</a></li>
+</ul>
+</body></html>

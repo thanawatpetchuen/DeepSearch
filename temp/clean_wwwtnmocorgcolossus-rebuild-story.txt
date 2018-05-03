@@ -1,0 +1,619 @@
+
+
+
+
+
+
+
+Digital Marketing Agency - Content Marketing - Hampshire
+
+
+
+
+
+
+
+
+Digital Marketing Agency - Content Marketing - Hampshire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/dgtl.agency\/","name":"DGTL - Digital Marketing Agency - Hampshire","potentialAction":{"@type":"SearchAction","target":"https:\/\/dgtl.agency\/?s={search_term_string}","query-input":"required name=search_term_string"}}
+{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/dgtl.agency\/","sameAs":["https:\/\/www.facebook.com\/dgtluk","https:\/\/www.instagram.com\/dgtluk","https:\/\/plus.google.com\/+DGTLnet","https:\/\/twitter.com\/dgtluk"],"@id":"#organization","name":"Dgtl Ltd","logo":"https:\/\/dgtl.agency\/wp-content\/uploads\/2016\/03\/dgtl.png"}
+
+
+
+
+
+
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/dgtl.agency\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var slide_in = {"demo_dir":"https:\/\/dgtl.agency\/wp-content\/plugins\/convertplug\/modules\/slide_in\/assets\/demos"};
+/* ]]> */
+
+
+
+
+
+var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+
+
+
+
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+
+!function() {
+  var t;
+  if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0, 
+  t.methods = [ "identify", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+  t.factory = function(e) {
+    return function() {
+      var n;
+      return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+    };
+  }, t.methods.forEach(function(e) {
+    t[e] = t.factory(e);
+  }), t.load = function(t) {
+    var e, n, o, r;
+    e = 3e5, r = Math.ceil(new Date() / e) * e, o = document.createElement("script"), 
+    o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + r + "/" + t + ".js", 
+    n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+  });
+}();
+drift.SNIPPET_VERSION = '0.2.0'
+drift.load('by6xz2ucnm22')
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal;
+src: url('https://dgtl.agency/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3');
+src: url('https://dgtl.agency/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3#iefix') format('embedded-opentype'), 
+url('https://dgtl.agency/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=3') format('woff'), 
+url('https://dgtl.agency/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?v=3') format('truetype'), 
+url('https://dgtl.agency/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=3#entypo-fontello') format('svg');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+
+@font-face {font-family: 'drupal'; font-weight: normal; font-style: normal;
+src: url('https://dgtl.agency/wp-content/uploads/avia_fonts/drupal/drupal.eot');
+src: url('https://dgtl.agency/wp-content/uploads/avia_fonts/drupal/drupal.eot?#iefix') format('embedded-opentype'), 
+url('https://dgtl.agency/wp-content/uploads/avia_fonts/drupal/drupal.woff') format('woff'), 
+url('https://dgtl.agency/wp-content/uploads/avia_fonts/drupal/drupal.ttf') format('truetype'), 
+url('https://dgtl.agency/wp-content/uploads/avia_fonts/drupal/drupal.svg#drupal') format('svg');
+} #top .avia-font-drupal, body .avia-font-drupal, html body [data-av_iconfont='drupal']:before{ font-family: 'drupal'; }
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-12691438-1', 'auto');
+  ga('send', 'pageview');
+
+
+
+
+
+
+
+
+
+Services
+
+Digital Marketing
+Web Design
+SEO Services
+Content Marketing
+Ad Creative
+Branding & Graphic Design
+
+
+Work
+About
+Contact
+
+
+
+
+
+
+
+
+
+
+Digital marketing services to help you engage customers
+
+Strategy Creative Technology Comms
+
+
+
+Strategy
+
+
+Start-up advice / SME Advice / Product monetisation / Content strategy
+
+Why are we going to create something?
+
+As the old saying goes – “A goal without a plan is just a wish”
+Strategy is the crucial first step in any digital marketing project. In fact, strategy is so important, it’s at the forefront of everything we do. At this stage it’s necessary to determine why we need to create something and what problem we’re trying to solve. By answering these questions, the process for accomplishing the initial vision for your digital marketing campaign is set in motion.
+Then, by gaining an understanding of your business and the needs of your customers, we can help you plot a path to achieving your fundamental business goals.
+
+
+
+
+Creative
+
+
+Website Design / App Design / User Experience Design (UX) / Art Direction / Branding & Graphic Design
+
+What are we going to create?
+The digital marketing world is certainly a busy one, and standing apart from the crowd is by no means an easy feat. To do so requires the careful fulfilment of unique and creative ideas. 
+Creativity is inherent in every project we take on. Whichever form your message takes, it needs the right look and feel to effectively engage people. Making a connection with your audience on an emotional level, is the most compelling method to wowing potential customers  and establishing an invaluable business image.
+Each of our designers has an intimate understanding of how even the biggest creative ideas can be integrated into the digital world. Through the insight you provide us into your business, we can help bring those ideas to life.
+
+
+
+Technology
+
+
+Web Development / App Development / eCommerce / eLearning / AdTechnology
+
+How are we going to create it?
+In one way or another, technology is responsible for touching the lives of just about everyone on the planet. Used appropriately, It can achieve extraordinary things. 
+We love technology, and particularly as it pertains to the web. It is the means through which we create. Whether it’s a website build or the piecing together of a native mobile app, technology lies at the very heart.
+And with an in-house development team that could probably put a digital marketing rocket into space, no technological problem is too big.
+
+
+
+Comms
+
+
+Digital Marketing / SEO / Content Marketing / Social Media Marketing / Display Advertising / PPC
+
+How are we going to communicate it?
+Information, in any form, doesn’t travel by itself. The primary objective of communication is to send that information out there to the right people. In essence, communication is marketing.
+For any form of marketing campaign to be a success, results need to be measurable. Doing so ensures the acquisition of valuable insights that help move you toward further success. 
+Understanding which digital marketing channels to use is an art in and of itself. We help you engage with your customers using the right channels.
+
+
+
+Digital Marketing FocusDigital Marketing Tips & Guides from the DGTL Marketing Team
+
+
+
+ How to Increase your Business’s Visibility for Local Searches			 April 26, 2016/0 Comments/in Content Marketing, Digital Marketing, SEO /by DGTLLet’s face it, as a small business you probably don’t stand a cat in hell’s chance of appearing on the first page of Google for the search term ‘business insurance’. But, localise that search to ‘business insurance Farnborough’ and you will drastically improve your chances. Optimising for local search is a vital weapon in the […]
+Read more
+
+
+https://dgtl.agency/wp-content/uploads/2016/04/local-seo.jpeg
+3168
+4752
+
+DGTL
+
+https://dgtl.agency/wp-content/uploads/2014/09/d-logo.png
+
+DGTL2016-04-26 12:18:392016-04-26 12:51:48How to Increase your Business’s Visibility for Local Searches
+ Content Marketing Focus: GIFs			 March 22, 2016/0 Comments/in Content Marketing, Digital Marketing /by DGTLThe internet has introduced all manner of new words and terms into everyday parlance. Nowadays, if your content’s not going ‘viral’ then you could be guilty of producing ‘spam’…
+Read more
+
+
+https://dgtl.agency/wp-content/uploads/2016/03/DGTL-gifs.gif
+394
+700
+
+DGTL
+
+https://dgtl.agency/wp-content/uploads/2014/09/d-logo.png
+
+DGTL2016-03-22 13:34:092017-01-06 14:10:57Content Marketing Focus: GIFs The Power of Images and the Rise of Visual Marketing			 March 30, 2016/0 Comments/in Content Marketing, Digital Marketing /by DGTLThere’s plenty of truth in the saying ‘a picture is worth a thousand words’. There’s a fundamental difference in the way our brains process images and words. Our visual system…
+Read more
+
+
+https://dgtl.agency/wp-content/uploads/2016/03/man-daughter-e1459347677985.jpg
+1333
+2000
+
+DGTL
+
+https://dgtl.agency/wp-content/uploads/2014/09/d-logo.png
+
+DGTL2016-03-30 14:48:432017-01-06 14:17:03The Power of Images and the Rise of Visual Marketing
+ How can Content Marketing Boost ‘Boring’ Businesses?			 March 9, 2016/0 Comments/in Content Marketing, Digital Marketing /by DGTLFirst things first, we’re firm believers that there is no such thing as a ‘boring’ business. Every industry is interesting to someone, with plenty of opportunities to create informative, relevant content…
+Read more
+
+
+https://dgtl.agency/wp-content/uploads/2016/03/rock-gif.gif
+442
+750
+
+DGTL
+
+https://dgtl.agency/wp-content/uploads/2014/09/d-logo.png
+
+DGTL2016-03-09 13:58:152016-03-31 15:15:22How can Content Marketing Boost ‘Boring’ Businesses?
+
+ “DGTL were recommended to us and we are thrilled with the results. We now have a site that looks beautiful and is easy to work with – just what we ordered. It was great to work with designers that took the time to understand our brand and goals to ensure the resulting website was successful. Thanks for your hard work and patience DGTL.”
+Noorin Khamisani – Founder – Outsider Fashion
+
+“DGTL have been very willing and able to work with us to meet our precise and somewhat unusual requirements. They listen carefully, think it through, and produce a developing CMS that is sophisticated, but simple to use. Our new web site with its straight-forward graphics-editing capabilities has helped us increase accesses substantially.”
+Kevin Murrell – Trustee – The National Museum of Computing
+
+“We enjoy an exceptional working relationship with DGTL; from Pre-Sales Design, Mock Production, UE Consultation through to Development of local & global micro sites.”
+Elaine Pearce – Senior Project Manager – Yahoo!
+
+
+Saw VII 3D Rich Media Advertising – Web Design FarnboroughAnother great media advertising design & flash development opportunity working for our friends over at Yahoo! Unique takeover…August 28, 2014/by DGTLDulux Rich Media Advertising – Web Design FarnboroughAnother great opportunity designing & developing a Yahoo! homepage takeover. Dulux needed an eye catching homepage event planned…August 25, 2014/by DGTLIntern Avenue User Experience DesignUser experience design for the Winner of Best Recruitment Startup in Europe. The Dragons Den said ‘yes’ but Intern Avenue…September 9, 2014/by DGTLThe Royal Game of Ur User Experience DesignThe Royal Game of Ur is the oldest game in the world! Originally excavated from ancient ruins in Mesopotamia - "A fun strategy game…September 1, 2014/by DGTLThe National Museum of Computing –  Website Design & DevelopmentOne of our first experience's designing a website for a museum. In this case, the National Museum of Computing. The museum is home…September 8, 2014/by DGTLSwatch You Automatic – Rich Media Advertising – Web Design Farnborough, Web Design HampshireAnother great media advertising design & flash development opportunity working for our friends over at Yahoo! Unique homepage…August 10, 2014/by DGTLNorwich Union Rich Media AdvertisingYahoo contents calculator for Norwich Union. Who ever thought insurance could be so exciting?! From boring data entry to a playful,…April 10, 2014/by DGTLMeerkat animations for ITV – Simples – AdvertisingSimples! Some wonderful Flash development content for Compare the Market (.com), one of the leading insurance comparison websites,…September 1, 2014/by DGTLGlobal Radio Media PlayersA flash development project of (skin-able) media players to be used across Global Radio's network. They allow each radio station…September 5, 2014/by DGTLOutsider Fashion eCommerce website design and developmentOutsider Fashion - A sustainable, luxurious, organic, ethically made womenswear collection. Developing this website was great fun…September 11, 2014/by DGTLJolly Horn Website Development – Web Design HampshireHere we have a web design project working with the awesome design team at Jolly Horn. They translate brands into a unique and engaging…August 5, 2014/by DGTLRich Media Advertising – Web design Farnborough, Web design HampshireRich media advertising design & flash development for a Yahoo! homepage event. Lionsgate, makers of the The Hunger games, one…August 30, 2014/by DGTL
+
+       
+     
+     
+
+
+01252 375 933Email usVisit usSupport
+
+ GOOGLE REVIEWS
+4.9/5
+
+
+SEE REVIEWS | LEAVE A REVIEW
+ INSTAGRAM
+
+FOLLOW US ON INSTAGRAM
+ 
+FIND US ON FACEBOOK
+
+FOLLOW US ON TWITTER
+
+
+
+Digital Marketing
+SEO Services
+Content Marketing
+Ad Creative
+Social Media
+Digital Marketing Glossary
+Web Design
+Web Development
+eCommerce solutions
+Branding & Graphic Design
+Hosting
+News and views from DGTL
+
+  
+
+
+© Copyright - DGTL LTD - Digital Marketing Agency based in Farnborough Hampshire - SEO (organic search), Content Marketing, Web Design, Web Development  & Graphic Design Services. Privacy Policy
+
+
+
+
+
+
+
+				jQuery(window).on( 'load', function(){
+					startclock();
+				});
+				function stopclock (){
+				  if(timerRunning) clearTimeout(timerID);
+				  timerRunning = false;
+				  document.cookie="time=0";
+				}
+				function showtime () {
+				  var now = new Date();
+				  var my = now.getTime() ;
+				  now = new Date(my-diffms) ;
+				  document.cookie="time="+now.toLocaleString();
+				  timerID = setTimeout('showtime()',10000);
+				  timerRunning = true;
+				}
+				function startclock () {
+				  stopclock();
+				  showtime();
+				}
+				var timerID = null;
+				var timerRunning = false;
+				var x = new Date() ;
+				var now = x.getTime() ;
+				var gmt = 1525364973 * 1000 ;
+				var diffms = (now - gmt) ;
+				
+ 
+
+
+
+
+
+
+
+
+
+
+
+Request a Call Back
+
+
+Send us your details and we’ll be in touch
+
+
+
+
+
+.content-5aeb38ed8afb6 .cp-form-container label:not(.cp-label) {    display:none;}.content-5aeb38ed8afb6 .cp-form-container label {    color: rgb(153, 153, 153);   font-size: 15px;	font-family:; 	text-align: left;} .content-5aeb38ed8afb6 .cp-form-container .cp-form-field select {    text-align-last: left;   direction: ltr;}.content-5aeb38ed8afb6 .cp-form-container input:focus:not([type='radio']):not([type='checkbox']):not([type='range']), .content-5aeb38ed8afb6 .cp-form-container textarea:focus, .content-5aeb38ed8afb6 .cp-form-container .cp-form-field button, .content-5aeb38ed8afb6 .cp-form-container .cp-form-field input, .content-5aeb38ed8afb6 .cp-form-container .cp-form-field select, .content-5aeb38ed8afb6 .cp-form-container .cp-form-field textarea { 	text-align: left; 	font-size: 15px; 	font-family: Georgia; 	color: rgb(153, 153, 153); 	background-color: rgb(255, 255, 255); 	border-color: rgb(191, 190, 190); 	padding-top: 10px; 	padding-bottom: 10px; 	padding-left: 15px; 	padding-right: 15px; 	border-radius: px;}.content-5aeb38ed8afb6 .cp-form-container .cp-form-field  .cp-label {  	text-align: left; 	font-size: 15px; 	font-family: Georgia; 	color: rgb(153, 153, 153); 	padding-top: 10px; 	padding-bottom: 10px; 	border-radius: px;}.content-5aeb38ed8afb6 .cp-form-container .cp-submit {  	padding-top: 10px; 	padding-bottom: 10px; 	padding-left: 15px; 	padding-right: 15px;}.content-5aeb38ed8afb6 .cp-form-container .cp-submit.cp-btn-flat {  	background: #ff0066!important;border-radius:4px;}.content-5aeb38ed8afb6 .cp-form-container .cp-submit.cp-btn-flat:hover {  	background: #f20059!important;}.content-5aeb38ed8afb6 .cp-form-field.cp-enable-box-shadow > div { border-radius: px;}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Your Name
+
+ 
+
+Email
+
+ 
+
+Company
+
+ 
+
+Phone
+
+ 
+
+Time to call
+
+Call me between 09:00-11:00Call me between 11:00-13:00Call me between 13:00-15:00Call me between 15:00-17:00 
+
+
+
+					                Send request					        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+				jQuery(window).on( 'load', function(){
+					startclock();
+				});
+				function stopclock (){
+				  if(timerRunning) clearTimeout(timerID);
+				  timerRunning = false;
+				  document.cookie="time=0";
+				}
+				function showtime () {
+				  var now = new Date();
+				  var my = now.getTime() ;
+				  now = new Date(my-diffms) ;
+				  document.cookie="time="+now.toLocaleString();
+				  timerID = setTimeout('showtime()',10000);
+				  timerRunning = true;
+				}
+				function startclock () {
+				  stopclock();
+				  showtime();
+				}
+				var timerID = null;
+				var timerRunning = false;
+				var x = new Date() ;
+				var now = x.getTime() ;
+				var gmt = 1525364973 * 1000 ;
+				var diffms = (now - gmt) ;
+				
+
+				jQuery(window).on( 'load', function(){
+					startclock();
+				});
+				function stopclock (){
+				  if(timerRunning) clearTimeout(timerID);
+				  timerRunning = false;
+				  document.cookie="time=0";
+				}
+
+				function showtime () {
+				  var now = new Date();
+				  var my = now.getTime() ;
+				  now = new Date(my-diffms) ;
+				  document.cookie="time="+now.toLocaleString();
+				  timerID = setTimeout('showtime()',10000);
+				  timerRunning = true;
+				}
+
+				function startclock () {
+				  stopclock();
+				  showtime();
+				}
+				var timerID = null;
+				var timerRunning = false;
+				var x = new Date() ;
+				var now = x.getTime() ;
+				var gmt = 1525364973 * 1000 ;
+				var diffms = (now - gmt) ;
+				
+
+		jQuery(window).load(function(){
+			jQuery('a').removeAttr('title');
+			jQuery('img').removeAttr('title');
+		});
+	
+
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://dgtl.agency/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://dgtl.agency/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://dgtl.agency/wp-admin/admin-ajax.php';
+/* ]]> */ 
+
+
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+	avia_framework_globals.gmap_api = 'AIzaSyBKS1zoeaOhJzW_p5rgkPSTCFmQr-SsROw';
+/* ]]> */ 
+
+
+
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"3023140386.1654d0c.8aa93e794b2b4e519e2909f30689424c"};
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var smile_ajax = {"url":"https:\/\/dgtl.agency\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+
+
+Scroll to top
+
+
+

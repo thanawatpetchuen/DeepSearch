@@ -7,6 +7,8 @@ from treelib import Node, Tree
 import sys
 import re
 import time
+from operator import itemgetter
+
 
 class wordCount:
     def __init__(self, file):
@@ -14,7 +16,7 @@ class wordCount:
         self.word = []
 
     def Count(self, k):
-        self.readword = open("clean_{}".format(self.file), 'r+', encoding='utf-8')
+        self.readword = open("temp/clean_{}".format(self.file), 'r+', encoding='utf-8')
         self.readword2 = self.readword.readlines()
 
         self.wordlist = [x.split() for x in self.readword2]
@@ -32,18 +34,12 @@ class wordCount:
         return result
 
     def Count2(self):
-        words = re.findall(r'\w+', open("clean_{}".format(self.file), encoding='utf-8').read())
-        # self.readword = open("clean_{}".format(self.file), 'r+', encoding='utf-8')
-        # self.readword2 = self.readword.readlines()
-        # self.wordlist = [x.split() for x in self.readword2]
-        #
-        # flat_list = [item for self.wordlist in self.wordlist for item in self.wordlist]
-
+        words = re.findall(r'\w+', open("temp/clean_{}".format(self.file), encoding='utf-8').read())
         c = Counter(words)
         # print(c)
         try:
             # print(c['computer'])
-            return int(c['computer']) + int(c['Computer'])
+            return c
         except:
             print("Not have computer!")
         # return result
@@ -57,11 +53,11 @@ class htmlparser(wordCount):
         temp_html = ''
 
     def begin(self):
-        urllib.request.urlretrieve(self.url, self.dest)
+        urllib.request.urlretrieve(self.url, 'temp/'+self.dest)
 
     def read_to_temp_html(self):
         temp = ''
-        f = open(self.dest, 'r', encoding='utf-8')
+        f = open('temp/'+self.dest, 'r', encoding='utf-8')
         for line in f:
             temp += line
         f.close()
@@ -71,7 +67,7 @@ class htmlparser(wordCount):
         bs = BeautifulSoup(self.temp, 'html.parser')
         cleantext = BeautifulSoup(self.temp, 'html.parser').text
 
-        f = open("clean_{}".format(self.dest), 'w', encoding='utf-8')
+        f = open("temp/clean_{}".format(self.dest), 'w', encoding='utf-8')
         f.write(cleantext)
         f.close()
         bs_list = []
@@ -94,7 +90,7 @@ if __name__ == '__main__':
     tree = Tree()
     # print(len(temp))
     temp = temp[0:100]
-    tree.create_node("Root", "root")
+    tree.create_node("Root", "root", data={'related_link': temp, 'count': html.Count2()})
     # print(html.Count2())
 
     for link in temp:
@@ -123,8 +119,15 @@ if __name__ == '__main__':
     tree.show()
 
     start = time.time()
-    temp_tree = [{'link':tree[node].tag, 'count': tree[node].data['count']} for node in tree.expand_tree(mode=tree.ZIGZAG)
+    temp_tree = [{'link': tree[node].tag, 'count': tree[node].data['count']['computer']} for node in tree.expand_tree(mode=tree.ZIGZAG)
                  if (tree[node].data is not None)]
     stop = time.time()
+    print(tree['root'].data)
     print(temp_tree)
+    newlist = sorted(temp_tree, key=itemgetter('count'), reverse=True)
     print("Total time: {}s".format(stop-start))
+    print(newlist)
+    with open('result/tree.json', 'w+') as fs:
+        fs.write(tree.to_json(with_data=True))
+    tree.save2file('result/tree.txt')
+

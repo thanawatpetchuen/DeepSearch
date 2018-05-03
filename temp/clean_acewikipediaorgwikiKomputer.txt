@@ -1,0 +1,181 @@
+
+
+
+
+Komputer - Wikipèdia bahsa Acèh, ènsiklopèdia bibeuëh
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Komputer","wgTitle":"Komputer","wgCurRevisionId":105194,"wgRevisionId":105194,"wgArticleId":105,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Komputer"],"wgBreakFrames":false,"wgPageContentLanguage":"ace","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Buleuën Sa","Buleuën Duwa","Buleuën Lhèë","Buleuën Peuët","Buleuën Limöng","Buleuën Nam","Buleuën Tujôh","Buleuën Lapan","Buleuën Sikureuëng","Buleuën Siplôh","Buleuën Siblaih","Buleuën Duwa Blaih"],"wgMonthNamesShort":["","Sa","Duwa","Lhèë","Peuët","Limöng","Nam","Tujôh","Lapan","Sikureuëng","Siplôh","Siblaih","Duwa Blaih"],"wgRelevantPageName":"Komputer","wgRelevantArticleId":105,"wgRequestId":"Wus7WwpAICkAAB2JTysAAABA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"ace","pageLanguageDir":"ltr","pageVariantFallbacks":"ace","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"ace","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"Acèh","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q68","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.0"});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@1fvf4pp",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"ace"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js","ext.dismissableSiteNotice"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca href=\"#\"\u003Etôp\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"ace\" dir=\"ltr\"\u003E\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003E-\n\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());
+
+Komputer 
+Nibak Wikipedia Revisi per 6 Buleuën Siblaih 2017 00.52 lé Rachmat04 (Marit | beuneuri) (Mengembalikan ke revisi 104943 oleh Rachmat04.)(bida) ← Geunantoë awai | Geunantoë jinoë (bida) | Geunantoë lheuëh nyan→ (bida)
+
+					Grôp u:					keumudoë, 					mita
+
+Komputer nakeuh saboh alat nyang geunguy keu olah data meunurot prosedur nyang ka geupeurumus.
+
+
+
+
+ Wikimedia Commons na mèdia nyang na hubôngan ngön:  Computers 
+
+
+
+
+
+
+ 
+						Geurumpok nibak "https://ace.wikipedia.org/w/index.php?title=Komputer&oldid=105194"					
+Kawan: Komputer 
+
+
+
+Keumudoe
+
+
+Peukakaih droë
+
+Hana tamöng lomMaritBeuneuriPeugöt akunTamöng 
+
+
+
+Ruweuëng nan
+
+MiëngMarit 
+
+
+
+
+Ragam
+
+
+
+
+
+
+
+
+
+Seuneudeuih
+
+BeuëtAndamAndam nèEu riwayat 
+
+
+
+Lom
+
+
+
+
+
+
+
+Mita
+
+
+
+ 
+
+
+
+
+
+
+
+Keumudoë
+
+
+Ôn KeuëNeuubah barôMiëng baranggariBeunantuMeuripè 
+
+
+
+Bagi
+
+
+FacebookGoogle+Twitter 
+
+
+
+Rakam/èkspor
+
+
+Peugöt bukuAndam seubagoë PDFSeunalén rakam 
+
+
+
+Dalam proyek lain
+
+
+Wikimedia Commons 
+
+
+
+Alat
+
+
+Peunawôt balékNeuubah teukaw'ètPeutamöng beureukaihMiëng kusuihPeunawôt teutapKeutrangan miëngItem di WikidataCok ôn nyoë 
+
+
+
+Bahsa la’én
+
+
+АҧсшәаAfrikaansAlemannischአማርኛAragonésÆngliscالعربيةܐܪܡܝܐمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)‎БългарскиभोजपुरीBislamaবাংলাབོད་ཡིགবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiᨅᨔ ᨕᨘᨁᨗБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoTsetsêhestâheseکوردیQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiडोटेलीΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisFurlanGaeilge贛語GàidhligGalegoAvañe'ẽ𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHausa客家語/Hak-kâ-ngîעבריתहिन्दीFiji HindiHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIgboIñupiakIlokanoIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ/inuktitut日本語PatoisLa .lojban.Basa JawaქართულიQaraqalpaqshaKabɩyɛKongoGĩkũyũҚазақшаភាសាខ្មែរಕನ್ನಡ한국어Къарачай-малкъарकॉशुर / کٲشُرKurdîКомиKernowekКыргызчаLatinaLadinoLëtzebuergeschЛезгиLingua Franca NovaLimburgsLumbaartLingálaລາວLietuviųLatviešuमैथिलीMalagasyОлык марийМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorskOccitanLivvinkarjalaOromooଓଡ଼ିଆਪੰਜਾਬੀKapampanganPolskiPiemontèisپنجابیΠοντιακάپښتوPortuguêsRuna SimiRomaniRomânăРусскийРусиньскыйसंस्कृतम्Саха тылаSarduSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSesothoSeelterskBasa SundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeXitsongaТатарча/tatarçaئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsWalonWinarayWolof吴语IsiXhosaმარგალურიייִדישYorùbáVahcuengh中文文言Bân-lâm-gú粵語IsiZulu 
+Andam peunawôt 
+
+
+
+
+
+ Mieng nyoe seuneulheueh geuandam bak 6 Buleuën Siblaih 2017, poh 00.52.
+Naseukah nyoë na di yup Creative Commons Attribution-ShareAlike License;
+syarat la'én kadang na
+Eu Syarat Ngui keu leubèh trang.
+
+
+Jaga rahsia
+Bhaih Wikipedia
+Beunantah
+Peukeumang
+Cookie statement
+Seuneudeuh seluler
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.012","walltime":"0.018","ppvisitednodes":{"value":76,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":1402,"limit":2097152},"templateargumentsize":{"value":417,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    9.168      1 Seunaleuëk:Commons","100.00%    9.168      1 -total"," 78.01%    7.152      1 Seunaleuëk:Sister"," 37.05%    3.397      1 Seunaleuëk:Side_box"]},"cachereport":{"origin":"mw1337","timestamp":"20180426095833","ttl":1900800,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":121,"wgHostname":"mw1320"});});
+
+

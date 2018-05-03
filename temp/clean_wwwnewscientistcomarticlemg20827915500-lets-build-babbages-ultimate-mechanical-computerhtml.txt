@@ -1,0 +1,990 @@
+
+
+
+
+
+
+
+New Scientist | Science news and science articles from New Scientist
+
+
+
+
+
+
+
+
+
+
+
+{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.newscientist.com\/","name":"New Scientist","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.newscientist.com\/search\/?q={search_term_string}","query-input":"required name=search_term_string"}}
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.newscientist.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var nsjobs = {"jobsurl":"https:\/\/www.newscientist.com\/wp-content\/plugins\/rbi-jobs-widget\/ajax_jobs.php"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var rlArgs = {"script":"fancybox","selector":"lightbox","customEvents":"","activeGalleries":"1","modal":"0","showOverlay":"1","showCloseButton":"1","enableEscapeButton":"1","hideOnOverlayClick":"1","hideOnContentClick":"0","cyclic":"0","showNavArrows":"1","autoScale":"1","scrolling":"yes","centerOnScroll":"1","opacity":"1","overlayOpacity":"70","overlayColor":"#666","titleShow":"1","titlePosition":"outside","transitions":"fade","easings":"swing","speeds":"300","changeSpeed":"300","changeFade":"100","padding":"5","margin":"5","videoWidth":"1080","videoHeight":"720","woocommerce_gallery":"0"};
+/* ]]> */
+
+
+
+
+/* <![CDATA[ */
+var ns_ajax_endpoints = {"joblink":"https:\/\/www.newscientist.com\/wp-content\/plugins\/ns-job-link\/joblink.php","getIPOK":"https:\/\/www.newscientist.com\/wp-content\/plugins\/ns-ip-login\/getipokay.php","doLogin":"https:\/\/www.newscientist.com\/wp-content\/plugins\/ns-ip-login\/dolog-in.php"};
+/* ]]> */
+
+
+
+
+
+
+        dataLayer = [{"authType":"noauth","barrierType":"None","siteSection":"Home Page","visitorType":"noauth","subject":"None"}];
+    
+
+(function() {
+	var useSSL = 'https:' == document.location.protocol;
+	var src = (useSSL ? 'https:' : 'http:') +
+	'//www.googletagservices.com/tag/js/gpt.js';
+	document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+
+
+var gptAdSlots = [];
+googletag.cmd.push(function() {
+var mapping = googletag.sizeMapping().
+addSize([320, 300], [88, 1]).
+addSize([750, 300], [728, 90]). // Banner Landscape tablet
+addSize([990, 300], [[970, 250], [970,90], [728,90]]).build();
+var mapping1 = googletag.sizeMapping().
+addSize([320, 300], [[300, 100], [320, 50], [320, 100]]).
+addSize([750, 300], []).build();
+var mapping2 = googletag.sizeMapping().
+addSize([0, 0], []). 
+addSize([1024, 300], [[300, 250],[300, 600],[300, 1050],[160, 600]]).build();
+var mapping3 = googletag.sizeMapping().
+addSize([0, 0], [1, 1]).build(); //out of page unit
+var mapping4 = googletag.sizeMapping().
+addSize([0, 0], []). 
+addSize([320, 300], [[300, 250],[300, 600]]).
+addSize([1024, 300], []).build();
+gptAdSlots[0] = googletag.defineSlot('/21632812681/NewScientist/Homepage-banner', [[728, 90]], 'banner-below-nav-leader').defineSizeMapping(mapping).addService(googletag.pubads());
+gptAdSlots[1] = googletag.defineSlot('/21632812681/NewScientist/Homepage-banner', [[320, 50]], 'banner-below-nav').defineSizeMapping(mapping1).addService(googletag.pubads());
+gptAdSlots[2] = googletag.defineSlot('/21632812681/NewScientist/Homepage-sidebar', [[300, 250]], 'mpu-sidebar').defineSizeMapping(mapping2).addService(googletag.pubads());
+gptAdSlots[3] = googletag.defineOutOfPageSlot('/21632812681/NewScientist/OutOfPage', 'out-of-page-unit').addService(googletag.pubads()).setTargeting("mtfIFPath","/doubleclick/");
+gptAdSlots[4] = googletag.defineSlot('/21632812681/NewScientist/Homepage-mid-editorial', [[300, 250]], 'mpu-mid-article').defineSizeMapping(mapping4).addService(googletag.pubads());
+googletag.pubads().setTargeting("UserLoginStatus", "logged out");
+googletag.pubads().setTargeting("UserType", "nologin");
+googletag.pubads().setTargeting("key", ["homepage","nologin"]);
+googletag.pubads().setTargeting("nssection", "homepage");
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+});
+
+
+        var _roost = _roost || [];
+        _roost.push(["segments_add", "anonymous"]);
+        _roost.push(['autoprompt', false]);
+        _roost.push(['onload', function(){
+            _roost.showBell();
+        }]);
+    
+
+
+
+
+
+
+
+ 
+
+
+(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'});
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-B92N');
+
+
+(function (d) {
+    var apc = d.createElement('script'), fs;
+    apc.type = 'text/javascript';
+    apc.charset = 'UTF-8';
+    apc.async = true;
+    apc.src = 'https://a248.e.akamai.net/swordfishinc.download.akamai.com/145199/live/p/696/3b4ad0c4.js';
+    fs = d.getElementsByTagName('script')[0];
+    fs.parentNode.insertBefore(apc, fs);
+})(document);
+.layout { float: left;}aside#bottombar .ns-slider { padding: 10px 0; }.article-index #page_navigation { display: none;}@media (min-width: 530px) { /*========== When the latest news does not appear on the barrier==========*/ .barrier-menu.sticky-drop-down { top: 45px !important; }}@media screen and ( max-width: 1100px ) { /*#inarticle_wrapper_div { display: none !important; }*/ #ns-slider-ns_slider_headline_widget-112233 { display: none !important; }} 
+
+        var ajaxurl = 'https://www.newscientist.com/wp-admin/admin-ajax.php';
+    
+
+
+
+
+
+
+
+
+
+
+
+New Scientist 
+
+SUBSCRIBE AND SAVE 49%MANAGE MY SUBSCRIPTIONSTUDENTSchools and universitiesGIVE A GIFT
+
+
+
+
+
+
+
+
+
+
+MENU
+
+HOME
+NEWS
+TECHNOLOGY
+SPACE
+PHYSICS
+HEALTH
+EARTH
+HUMANS
+LIFE
+TOPICS
+EVENTS
+JOBS
+
+
+Subscribe
+
+
+SEARCH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOG IN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Email address
+
+
+
+Password
+
+
+
+
+
+
+Connect with:
+
+
+			Facebook
+		
+
+			Google
+		
+
+
+
+
+Create an account
+Forgotten password
+Activate subscription
+Educational access
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+                    googletag.cmd.push(function () {
+                        googletag.display('banner-below-nav');
+                    });
+                
+
+
+Advertisement
+
+                    googletag.cmd.push(function () {
+                        googletag.display('banner-below-nav-leader');
+                    });
+                
+
+
+
+
+
+.signpost {
+  padding: 10px !important;
+}
+
+.signpost h3 {
+  font-size: 16px !important;
+}
+
+
+Learn something new every day |  Subscribe and treat yourself to a FREE gift
+
+
+
+
+
+
+
+
+
+
+Identity crisis: When is a dinosaur not a dinosaur?
+ As though extinction weren't enough, dinosaurs have also had to deal with doubts over their very existence, and the legitimacy of some of our favourite species
+
+
+
+
+
+
+The real palm oil problem: it's not just in your food
+ Soaring demand for palm oil is being driven by its use as biofuel, which is increasing carbon emissions as well as destroying forests and biodiversity
+
+
+
+
+
+
+The fake burger test: Could meat made of plants ever fool you?
+ If you like meat, but don’t want a side of animal cruelty and environmental destruction, there’s something new on the menu – and it tastes surprisingly good
+
+
+
+
+
+
+RECOMMENDED 
+ 
+
+
+
+                  Daily news              
+
+
+Flying beetle cyborgs guided with tiny battery-powered backpacks
+Beetles have been turned into autonomous flying robots. They could one day swarm through disaster zones on search and rescue missions
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Mistletoe's cells are broken at a fundamental level
+All complex organisms rely on tiny nodules called mitochondria to supply their cells with energy – but mistletoe’s mitochondria don’t work and yet it survives
+
+
+ 
+ 
+
+
+
+                  Analysis              
+
+
+The UK's plan to build a rival GPS is a bonkers Brexit scheme
+Now the UK is excluded from contracts to build Europe’s Galileo satellites, it wants to talk up building its own system to keep aerospace firms from leaving
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Magical regrowth: Kew Gardens opens revamped Temperate House
+Restoring the world’s largest Victorian glasshouse to its former architectural glory at the UK’s famous gardens has also reinvented it for the 21st century
+
+
+ 
+ 
+
+
+
+                  Comment              
+
+
+Why breast screening error stories are getting death stats wrong
+Headlines claim up to 270 women died as a result of missed breast checks due to an IT error. They are unlikely to be correct, says David Spiegelhalter
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+First US death due to romaine lettuce as E. coli outbreak widens
+The contaminated romaine lettuce that has spread illness across 25 states is now responsible for one death, and the source of the E. coli outbreak is still unknown
+
+
+ 
+
+LATEST CHOICE 
+ 
+
+
+
+                  Daily news              
+
+
+Smart people literally have bigger brain cells than the rest
+For the first time, IQ has been linked to neuron size and performance. The breakthrough could lead to new ways to enhance human intelligence
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Our understanding of the universe's expansion is really wrong
+Last week, the Gaia spacecraft released the best 3D map of our galaxy, which revealed scars in the Milky Way and deepened confusion about how fast the cosmos is expanding
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Cambridge Analytica has shut down amid ongoing data scandal
+Cambridge Analytica, the firm that harvested data from up to 87 million Facebook users without their knowledge, is declaring bankruptcy and closing up shop
+
+
+ 
+ 
+
+
+
+                  Comment              
+
+
+Are we deluding ourselves when we shop for eco-friendly stuff?
+A highly critical new report questions the worth of the sustainability logos that appear on many products. Are they still a force for good, wonders Fred Pearce
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Ancient humans in Philippines may have given rise to ‘hobbits’
+A butchered rhino found on the island of Luzon shows early humans were living in the Philippines 709,000 years ago, which may explain the origins of the diminutive Homo floresiensis
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Quantum internet is one step closer thanks to new theory
+Encrypted quantum messages are limited by how far photons can stably pass through optical fibres, but they can now travel the distance between London and Paris
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Colossal exoplanet has an enormous comet-like tail of helium
+A huge planet is losing its atmosphere in a stream trailing off its night side, and we’ve seen the first signs of helium on an exoplanet in its comet-like tail
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Brexit and Trump votes screwed with our heart rates for months
+A study of nearly 12,000 people wearing health monitoring devices shows how people’s biological rhythms fall out of sync after big political events
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Inquiry launched into 450,000 missed breast cancer screenings
+A "colossal" computer error meant 450,000 women missed crucial breast cancer screening appointments, possibly resulting in hundreds of avoidable deaths
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+AI can predict your personality just by how your eyes move
+Shifty looks or wide pupils, our eyes give away clues to our personality - a discovery that could help robots better understand and interact with humans
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Mediterranean diet delays Alzheimer's for three extra years
+Filling your diet with plants, fish and oil and limiting your intake of processed food may slow the build-up of amyloid plaque, delaying the onslaught of Alzheimer's
+
+
+ 
+ 
+
+
+
+                  News & Technology              
+
+
+This mind-reading hearing aid knows who you're listening to
+An ear mounted device with a battery of brain-scanning electrodes knows which sounds you're paying attention to – it might also help you get a good night's sleep
+
+
+ 
+ 
+
+
+
+                  Feature              
+
+
+Origin of our species: Why humans were once so much more diverse
+The idea that all humans evolved from a small population in East Africa turns out to be wrong. Our beginnings were far stranger and more colourful
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Giant sea spiders sit and wait for prey to knock themselves out
+Huge sea spiders move excruciatingly slowly, but they can still catch prey animals that move much faster than them – because their prey sometimes crash into the seafloor
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+We’ve mapped 90 per cent of the stars in our bit of the galaxy
+We have plotted almost all the stars near Earth, and the majority are peaceful enough that life on the planets around them could be possible
+
+
+ 
+ 
+
+
+
+                  Comment              
+
+
+A male pill will be a breakthrough for science but not for women
+Research is closing in on the elusive male contraceptive pill. But will it really lead to men taking more responsibility for birth control, wonders Lara Williams
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Laser-sticker contacts could let you shoot beams from your eyes
+Flexible lasers you can stick to anything can embed a security tag onto banknotes or contact lenses, and emit lasers when light shines on them
+
+
+ 
+ 
+
+
+
+                  Feature              
+
+
+The original social justice warrior who smashed stereotypes
+Margaret Mead’s 1920s solo trip to live among people in Samoa was just the start of a boundary-breaking and myth-demolishing career
+
+
+
+
+
+EDITOR'S CHOICE
+
+ 
+
+
+
+                  Daily news              
+
+
+More education is what makes people live longer, not more money
+As countries get richer, their citizens live longer. We’ve long thought that rising wealth was responsible for this, but it turns out education is the cause
+
+
+
+
+
+ 
+
+
+
+                  Feature              
+
+
+The origins of sexism: How men came to rule 12,000 years ago
+Human societies weren’t always male-dominated. The switch came when we became farmers – and that suggests ways to roll back towards a more equal system
+
+
+
+
+
+ 
+
+
+
+                  Feature              
+
+
+Why the patriarchy isn't good for men and how to fix it
+Societies can be taught to be less misogynistic, but the first step is understanding how gender norms have backfired on men as well as women
+
+
+
+
+
+ 
+
+
+
+                  Feature              
+
+
+How protective parents exacerbate gender differences
+Yes, men’s and women’s brains are wired differently – but the science shows that outside influences can also shape our gender identity
+
+
+
+ 
+
+
+
+
+THIS WEEK'S ISSUE
+
+
+
+
+PAST ISSUES
+SUBSCRIBE
+
+
+
+                        GET THE APP
+                    
+RENEW
+
+
+
+
+
+
+Advertisement
+
+		googletag.cmd.push(function () {
+			googletag.display('mpu-sidebar');
+		});
+	
+ 
+Advertisement
+
+                    googletag.cmd.push(function() { googletag.display('mpu-mid-article'); });
+                
+
+
+
+
+Popular
+ 
+Women who eat more pasta tend to get menopause earlier
+
+
+
+Horses remember if you smiled or frowned when they last saw you
+
+
+
+The European Union has decided to ban bee-killing pesticides
+
+
+
+
+
+
+
+Octopus - A brighter way
+
+
+
+Sponsored by
+
+
+
+
+
+The company investing its way to zero emission transport
+
+
+
+
+
+
+
+
+Why better data laws will change the nature of business
+
+
+
+
+
+
+
+
+The flexible future of green energy
+
+
+
+
+
+
+
+
+The hidden powerhouses that drive the UK economy
+
+
+
+
+
+
+
+
+NEW SCIENTIST EVENTS
+NEW SCIENTIST LIVE
+DISCOVERY
+THE COLLECTION
+ 
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up to our newsletter
+Enter your email address to get started
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Contact us
+FAQ
+About us
+Who’s who
+Advertise with us
+Advertise jobs with us
+Privacy and terms
+Write for us
+Science jobs
+Shop
+RSS feeds
+Syndication information
+Events
+Travel
+The Collection
+ 
+
+Subscribe
+Account settings
+Gift subscriptions
+Student subscriptions
+Educational subscriptions
+Corporate subscriptions
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                © Copyright New Scientist Ltd.
+            
+
+Back to top
+
+
+
+
+
+googletag.cmd.push(function() { googletag.display('out-of-page-unit'); });
+var addthis_config = {"data_track_clickback":true,"ui_atversion":300,"ignore_server_config":true};
+var addthis_share = {};
+
+
+
+                    var addthis_product = "wpp-5.3.6";
+                    var wp_product_version = "wpp-5.3.6";
+                    var wp_blog_version = "4.4.2";
+                    var addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"5.3.6","anonymous_profile_id":"wp-c691e6469fda6063730d0399ced7d131","plugin_mode":"WordPress","select_prefs":{"addthis_per_post_enabled":true,"addthis_above_enabled":true,"addthis_below_enabled":true,"addthis_sidebar_enabled":true,"addthis_mobile_toolbar_enabled":true,"addthis_above_showon_home":false,"addthis_above_showon_posts":false,"addthis_above_showon_pages":false,"addthis_above_showon_archives":false,"addthis_above_showon_categories":false,"addthis_above_showon_excerpts":false,"addthis_below_showon_home":false,"addthis_below_showon_posts":false,"addthis_below_showon_pages":false,"addthis_below_showon_archives":false,"addthis_below_showon_categories":false,"addthis_below_showon_excerpts":false,"addthis_sidebar_showon_home":false,"addthis_sidebar_showon_posts":false,"addthis_sidebar_showon_pages":false,"addthis_sidebar_showon_archives":false,"addthis_sidebar_showon_categories":false,"addthis_mobile_toolbar_showon_home":false,"addthis_mobile_toolbar_showon_posts":false,"addthis_mobile_toolbar_showon_pages":false,"addthis_mobile_toolbar_showon_archives":false,"addthis_mobile_toolbar_showon_categories":false,"sharing_enabled_on_post_via_metabox":true},"page_info":{"template":"home","post_type":""}};
+                    if (typeof(addthis_config) == "undefined") {
+                        var addthis_config = {"data_track_clickback":true,"ui_atversion":300,"ignore_server_config":true};
+                    }
+                    if (typeof(addthis_share) == "undefined") {
+                        var addthis_share = {};
+                    }
+                    if (typeof(addthis_layers) == "undefined") {
+                        var addthis_layers = {};
+                    }
+                
+
+
+
+                    (function() {
+                        var at_interval = setInterval(function () {
+                            if(window.addthis) {
+                                clearInterval(at_interval);
+                                addthis.layers(addthis_layers);
+                            }
+                        },1000)
+                    }());
+                
+
+
+
+
+
+
+
+
+
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=9&cb=350210299';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+
+
+
+

@@ -1,0 +1,473 @@
+
+
+
+
+Kompüter - Vikipediya
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Kompüter","wgTitle":"Kompüter","wgCurRevisionId":4282697,"wgRevisionId":4282697,"wgArticleId":2399,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Kompüter","İnformatika","Proqramlaşdırma dilləri"],"wgBreakFrames":false,"wgPageContentLanguage":"az","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","yanvar","fevral","mart","aprel","may","iyun","iyul","avqust","sentyabr","oktyabr","noyabr","dekabr"],"wgMonthNamesShort":["","yanvar","fevral","mart","aprel","may","iyun","iyul","avqust","sentyabr","oktyabr","noyabr","dekabr"],"wgRelevantPageName":"Kompüter","wgRelevantArticleId":2399,"wgRequestId":"WuOQNQpAMEsAAE5kgeMAAACM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"az","pageLanguageDir":"ltr","pageVariantFallbacks":"az","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"az","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"azərbaycanca","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q68","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"wgSiteNoticeId":"2.0"});mw.loader.state({"ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","ext.gadget.collapserefs":"ready","ext.gadget.editZeroSection":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@00lgsbd",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"az"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js","ext.dismissableSiteNotice"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca href=\"#\"\u003Egizlə\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"az\" dir=\"ltr\"\u003E\u003Cdiv class=\"mw-parser-output\"\u003E\u003Ccenter\u003E\u003Csmall\u003E\u003Cdiv class=\"layout plainlinks\" align=\"center\"\u003E\u003Cb\u003EAzərbaycanca Vikipediya ilə daim əlaqədə olmaq üçün bizi \"Facebook\"da \u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://www.facebook.com/azvikipediya\"\u003Eizləyin\u003C/a\u003E!\u003C/b\u003E\n\u003C/div\u003E\u003C/small\u003E\n\u003Ctable\u003E\n\u003Ctr\u003E\n\u003Ctd align=\"center\"\u003E\u003Cdiv style=\"padding:1em 1em 1em 1em; font-size:90%; border:1px solid #BFB6A3; background-color:White\"\u003E\n\u003Ca href=\"https://meta.wikimedia.org/wiki/Azerbaijani_Wikimedians_User_Group/az\" class=\"extiw\" title=\"meta:Azerbaijani Wikimedians User Group/az\"\u003E\"Azərbaycan vikimediaçıları\" istifadəçi qrupu\u003C/a\u003E 1-30 aprel 2018-ci il tarixlərində istifadəçiləri \u003Ca href=\"/wiki/Vikipediya:M%C3%B6vzulu_ay/%C4%B0dman_ay%C4%B1\" title=\"Vikipediya:Mövzulu ay/İdman ayı\"\u003E\u003Cb\u003Eİdman ayı\u003C/b\u003E\u003C/a\u003E, \u003Cb\u003Eeyni zamanda\u003C/b\u003E, 21 mart - 31 may tarixlərində Mərkəzi və Şərqi Avropa dillərindəki 23 dil layihəsi ilə yanaşı Azərbaycandilli Vikipediyada da keçirilən \u003Cb\u003E\u003Ca href=\"/wiki/Vikipediya:M%C3%B6vzulu_ay/VikiBahar_2018\" title=\"Vikipediya:Mövzulu ay/VikiBahar 2018\"\u003EVikiBahar 2018\u003C/a\u003E\u003C/b\u003E məqalə müsabiqəsində iştiraka dəvət edir. Siz də qoşulun və töhfənizi verin!\u003Cbr/\u003E\u003Cb\u003EƏtraflı:\u003C/b\u003E \u003Ca href=\"/wiki/Vikipediya:M%C3%B6vzulu_ay/%C4%B0dman_ay%C4%B1\" title=\"Vikipediya:Mövzulu ay/İdman ayı\"\u003Eİdman ayı\u003C/a\u003E / \u003Ca href=\"/wiki/Vikipediya:M%C3%B6vzulu_ay/VikiBahar_2018\" title=\"Vikipediya:Mövzulu ay/VikiBahar 2018\"\u003EVikiBahar 2018\u003C/a\u003E \u003C/div\u003E\n\u003C/td\u003E\u003C/tr\u003E\u003C/table\u003E\u003C/center\u003E\n\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());
+
+Kompüter 
+Vikipediya, açıq ensiklopediya 
+
+					Keçid et:					naviqasiya, 					axtar
+
+
+Kompüter
+
+
+
+
+
+
+Müxtəlif dövrlərə aid kompüterlər və kompüter avadanlıqları
+
+
+
+Kompüter — informasiya üzərində müxtəlif əməliyyatların avtomatlaşdırılmış şəkildə yerinə yetirilməsi üçün nəzərdə tutulmuş universal hesablama maşını. Kompüter informasiyanı emal etmək üçün nəzərdə tutulmuş maşındır.
+Çoxməqsədli kompüter (ing. general-purpose computer, rus. универсальный компьютер) – ümumi planlı istənilən məsələni yerinə yetirə bilən kompüter. Kompüterin gerçəkləşdirdiyi məsələlər çərçivəsini dəyişdirmək üçün başqa proqram təminatından istifadə etmək yetərlidir.
+Kompüter sistemi — müvafiq proqramlara uyğun olaraq verilənlərin avtomatik işlənməsini həyata keçirən hər hansı qurğunu və ya qarşılıqlı qoşulmuş və ya əlaqəli qurğular qrupunu nəzərdə tutur.[1]
+Kompüterin normal işləməsi üçün həm aparat təminatı, həm də proqram təminatı tələb olunur.İlk kompüter 1642-ci ildə Blez Paskal tərəfindən icad olunub. Kompüter müasir dövürdə çox lazımlı bir qurğudur.
+
+
+
+Mündəricat
+
+
+1 Tarixi
+2 Təsnifatı
+3 Quruluşu
+4 Sistem bloku
+5 Yaddaş qurğuları
+6 Kompüterin proqram təminatı
+7 Ədəbiyyat
+8 Əlavə məlumat
+9 Mündəricat
+
+9.1 Windows 7 Starter Edition[redaktə | əsas redaktə]
+9.2 Windows 7 Home Basic[redaktə | əsas redaktə]
+9.3 Windows 7 Home Premium[redaktə | əsas redaktə]
+9.4 Windows 7 Professional[redaktə | əsas redaktə]
+9.5 Windows 7 Ultimate[redaktə | əsas redaktə]
+9.6 Windows 7 Enterprise[redaktə | əsas redaktə]
+
+
+10 Proqram təminatı[redaktə | əsas redaktə]
+11 Windows 7 əməliyyat sisteminə Azərbaycan dil paketin yükləməyin qaydası[redaktə | əsas redaktə]
+12 Yeniliklər[redaktə | əsas redaktə]
+13 İstinadlar
+14 Xarici keçidlər
+15 Həmçinin bax
+
+
+
+Tarixi[redaktə | əsas redaktə]
+İnformatikanın əsas tərkib hissəsi olan kompüter texnikası kompüterlərin yaranması və inkişaf mərhələlərini, təsnifatını və arxitekturasını, aparat və proqram vasitələrini əhatə etdiyinə görə İnformatikanın inkişaf tarixi də kompüter texnikasının inkişaf tarixinə Blez Paskal (Fransa) 1642-ci ildə cəmləyici maşın hazırlamışdır. 1673-cü ildə Qotfrid Leybnits (Almaniya) hesab əməllərini yerinə yetirən mexaniki arifmometr yaratmışdır. 1830-cu ildə Çarlz Bebic (İngiltərə) proqramla işləyən hesablama maşını (analitik maşın) yaratmağa cəhd göstərmişdır. Bebicin ideyaları sonralar universal kompüterlərin yaradılmasının əsasını qoymuşdur. 1930-cu ildə A.Turinq (İngiltərə) və E. Post (ABŞ) tərəfindən universal kompüterlərin yaradılmasının nəzəri əsasları inkişaf etdirilmişdir.
+Müasir kompüterlərin əsas iş prinsipləri XX əsrin 40-cı illərində Amerika alimləri Con Fon Neyman, Q.Qoldsteyn və A.Beris tərəfindən verilmişdir. Həmin prinsiplər 1946-cı ildə ABŞ-da ENİAK adlı universal kompüterin yaradılması ilə həyata keçirilmişdir. Bu tarix müasir kompüter texnikasının yaranma tarixi hesab olunmuşdur. Elə həmin vaxtdan etibarən kompüter texnikası və texnologiyası yüksək sürətlə inkişaf etməyə başlamış və aşağıdakı mərhələlərdən keçmişdir:
+
+I nəsil (1950-1959) – elektron lampalı kompüterlər. Onlardan əsasən riyazi məsələlərin həlli üçün istifadə olunurdu. Məs: MESM, BESM, Strela, M-3, Minsk-1, M-20.
+II nəsil (1960-1969) – element bazası əsasən yarımkeçiricilərdən ibarət olan elektron hesablama maşınları. Elektron lampalar yarımkeçirici elementlərlə-tranzistorlarla və diodlarla əvəz olundu. Onların funksional imkanları xeyli artmışdır. BESM-4, Minsk-22, Ural-14 və s.
+III nəsil (1970-1985) – element bazalı mikroelektronika və inteqral sxemlərdən ibarət olan kompüterlər. Bu nəslin əsasını İBM 360/370 təşkil edirdi. Onun əsasında keçmiş SSRİ-də EC EHM və başqa elektron hesablama maşınları yaradılmışdır. Bu nəsil kompüterlərin bir nümayəndəsi də kiçik (mini) maşınlar sinfinə daxil olan ABŞ-ın RDR, VAX kompüterləri və onların SSRİ-dəki analoqu olan CM-1/2/3/4/1420 və s. maşınları idi. Bu nəsil kompüterlər çox yüksək məhsuldarlığa və etibarlılığa malik olmaqla, keyfiyyətcə yeni funksional tələblərə, başqa sözlə biliklər bazaları ilə işləməyə, süni intellekt sistemlərinin təşkilinə, istifadəçi ilə nitq və görmə vasitəsi ilə ünsiyyəti təmin etməyə, ən yeni proqram vasitələrinin yaradılması prosesini sadələşdirməyə və s. imkan verməlidirlər. Yeni quruluşa və texnologiyaya malik neyrokompüterlər real neyronların əsas xassələrini modelləşdirən neyron şəbəkələrinə əsaslanırlar. İntellektual imkanları xeyli üstün olan bioloji və optik texnologiyaları əsasında bio və optik neyrokompüterlərin yaradılması da yaxın gələcəyin reallığıdır. Bunlarla yanaşı olaraq kompüterlərin məhsuldarlığı bəzi hallarda və müəyyən sahələrdə (nüvə energetikası, kosmos, hərbi-müdafiə, seysmologiya və s.) tətbiq üçün kifayət etmədiyindən super kompüterlərin yaradılmasına ciddi ehtiyac yaranmışdır.
+IV nəsil (1981-dən sonrakı dövr) böyük və çox böyük inteqral sxem (BİJ, ÇBİS) texnologiyası ilə yaradılan mikro və mini kompüterlər. Bu nəslin ayrıca sinfi fərdi kompüterlərdir (FK). Onların yaradılması prinsipcə inqilabi mahiyyət kəsb edirdi. Bunlara nümunə: IBM PC, IBM XT, IBM AT 286, IBM AT 386, IBM AT 486 və s.
+V və sonrakı nəsil – yeni və ən yeni elektron texnologiyalarına əsaslanan indiki və gələcəyin kompüterləri. Bu nəsil kompüterlər çox yüksək məhsuldarlığa və etibarlılığa malik olmaqla, keyfiyyətcə yeni funksional tələblərə, başqa sözlə biliklər bazaları ilə işləməyə, süni intellekt sistemlərinin təşkilinə, istifadəçi ilə nitq və görmə vasitəsi ilə ünsiyyəti təmin etməyə, ən yeni proqram vasitələrinin yaradılması prosesini sadələşdirməyə və s. imkan verməlidirlər. Yeni arxetikturaya və texnologiyaya malik neyrokompüterlər real neyronların əsas xassələrini modelləşdirən neyron şəbəkələrinə əsaslanırlar. İntellektual imkanları xeyli üstün olan bioloji və optik texnologiyaları əsasında bio və optik neyrokompüterlərin yaradılması da yaxın gələcəyin reallığıdır. Bunlarla yanaşı olaraq kompüterlərin məhsuldarlığı bəzi hallarda və müəyyən sahələrdə (nüvə energetikası, kosmos, hərbi-müdafiə, seysmologiya və s.) tətbiq üçün kifayət etmədiyindən superkompüterlərin yaradılmasına ciddi ehtiyac yaranmışdır.
+
+Təsnifatı[redaktə | əsas redaktə]
+
+
+
+
+İntel 80486DX2 mikroprosessorunun inteqral sxemi (real ölçüsü: 12×6.75 mm)
+
+
+Müasir hesablama maşınlarını əsasən üç böyük sinifə bölmək olar:
+
+Superkompüterlər
+Meynfreymlər
+Mini–EHM-lər
+
+Superkompüter – çox prosessorlu hesablama sistemidir. İlk superkompüter amerikalı elektronçu-mühəndis Seymur Krey tərəfindən 1975-ci ildə yaradılmışdır. Kompüterlərin məhsuldarlığı ədədlər (sürüşkən vergüllü) üzərində bir saniyədə aparılan hesab əməliyyatlarının sayı ilə ölçülür. Superkompüterlərin məhsuldarlığı sürüşkən vergüllü ədədlər üzərində saniyədə yerinə yetirilən trilyon əməliyyatlarla ölçülür. Superkompüterlərdən aerodinamika, seysmologiya, nüvə fizikasında və digər elm sahələrində meydana çıxan mürəkkəb məsələlərin həllində geniş istifadə olunur. Superkompüterlərdə çoxsaylı mikroprosessorların paralel işləməsi nəticəsində yüksək məhsuldarlığı əldə etmək olur. Superkompüterlərin qiyməti təqribən 10 milyon dollarlarla ölçülür.
+Meynfreym – ümumi məqsədli universal elektron-hesablama maşınıdır. 70-ci illərdə dünya kompüter parkının böyük hissəsini meynfreym kompüterləri təşkil edirdi. Fərdi kompüterin inkişafı ilə əlaqədar olaraq meynfreymlərin tətbiq sahələri azalmağa başladı. Buna baxmayaraq bu kompüterlərdən müdafiə, maliyyə və sənaye sahələrində geniş istifadə olunur. Meynfreym kompüterləri böyük, mürəkkəb hesablamalar aparmaqla yanaşı özünə çoxlu sayda terminal birləşdirir. Təyyarə və qatarlara sərnişin biletlərinin satışını mərkəzləşdirilmiş qaydada həyata keçirən hesablama sistemlərində meynfreymlərdən istifadə olunur. Meynfreym kompüterləri əsasən İBM firmasında istehsal olunur. Bu cür kompüterlərin qiyməti 1 milyon dollar dəyərində olur. Hal-hazırda istifadə olunan 16-32 mikroprosessorlu server kompüterlər meynfreym kompüterlərin sələfləri sayılır.
+Mini–EHM – ölçüləri və hesablama məhsuldarlığı meynfrem kompüterlərə nəzərən kiçik olan kompüterlər 1965-1980-ci illərdə mini-EHM adlanırdı. Hal-hazıda mini-EHM dedikdə fərdi kompüterlər nəzərdə tutulur. Fərdi kompüterlərin kütləvi istehsalına 1981-ci ildən başlanmışdır.
+Quruluşu[redaktə | əsas redaktə]
+Kompüter aşağıdakı qurğulardan təşkil olunmuşdur:
+
+Sistem bloku
+Monitor
+Klaviatura
+Maus (siçan)
+
+Əlavə qurğular (periferiya qurğuları):
+
+Printer (çap qurğusu)
+Skaner
+Modem
+rəqəm videokamerası
+səs gücləndiriciləri və s.
+
+Kompüterlər portativ variantda da istehsal olunur – "bloknot" (notebook). Burada sistem bloku, monitor və klaviatura bir korpusda qurulur: sistem bloku klaviaturanın altında, monitor isə klaviaturaya qapaq şəklində hazırlanır.
+
+Monitor – informasiyanı əks etdirən qurğu.
+Klaviatura – kompüterə məlumatı (verilənləri və əmrləri) daxil edən əsas xarici qurğulardan biri hesab olunur. Klaviaturanın köməyi ilə maşına istənilən simvolu (rəqəm, hərf, heroqriflər və s.) daxil etmək mümkündür.
+Printer – kompüterin xarici qurğusu olub, informasiyanı kağız üzərində çap etmək üçündür. İnformasiyanın çıxışa verilməsi üsuluna görə printerlər iki qrupa bölünür. Simvollu və ya qrafiki. Simvollu printerlər sətrdəki ayrı-ayrı simvolları bütöv şəkildə çap başlığına ötürür. Qrafiki printerlərdə məlumat simvollar şəklində deyil, ayrı-ayrı nöqtələr şəklində çıxışa ötürülür. Vahid uzunluqda (1 düyümdə) olan nöqtələrin sayı printerin imkanlarını göstərir. Kağız üzərində şəklin qeyd edilməsi üsuluna görə printerlər iki qrupa bölünür: zərb ilə və zərbsiz çap qurğuları.
+Skaner – kağız üzərində olan mətn və qrafik məlumatı kompüterə daxil etmək üçündür. Skaner məlumatı qrafiki formada oxuyur və maşının yaddaşına daxil edir. Daha sonra lazımi qrafiki redaktor proqramların köməyi ilə onu ikilik koda çevirərək disklərə və ya çap qurğusuna ötürülməsini təmin edir. Kompüterə çox zaman USB portu vasitəsi ilə qoşulur.
+Multimedia – informasiyanın emalı texnologiyası olub, mətni, səsi, qrafiki, şəkli və animasiyanı kompüter sistemində tam şəkildə birləşdirir.
+Meynfreym – ümumi məqsədli yüksək məhsuldarlığa malik universal elektron-hesablama maşınıdır (EHM). Bu kompüterlərdən müdafiə, maliyyə və sənaye sahələrində geniş istifadə olunur. Meynfreym kompüterləri böyük, mürəkkəb hesablamalar aparmaqla yanaşı özünə çoxlu sayda terminal birləşdirir. Təyyarə və qatarlara sərnişin biletlərinin satışını mərkəzləşdirilmiş qayda ilə həyata keçirən hesablama sistemlərində meynfreymlərdən istifadə olunur. Meynfreym kompüterlərin istehsalı ilə IBM kimi nəhəng şirkətlər məşğul olur.
+
+Sistem bloku[redaktə | əsas redaktə]
+Kompüterin sistem bloku sistem platası (ana plata) və ona qoşulmuş aşağıdakı hissələrdən təşkil olunmuşdur:
+
+operativ yaddaş (RAM) modulları
+mərkəsi prosessor - CPU və onun soyutma sistemi;
+müxtəlif adapterlər;
+Sərt disk qurğusu (Hard Disk Device- HDD);
+Disket sürücüsü (Floppi Disk Drive- FDD);
+CD-ROM (Compact Disk Read Only Memory);
+CD-RW (Compact Disk Rewritable);
+Səs platası (Sound Card);
+Qida bloku;
+
+Mərkəzi mikroprosessor – proqramları icra edən qurğudur. Prosessorun sürəti bir saniyədə onun yerinə yetirə biləcək əməliyyatların sayı ilə təyin edilir. Bu, bir çox amildən asılıdır. Onlardan takt tezliyini, bit sayını və mikroprosessorun arxitekturasını göstərmək olar.
+Yaddaş qurğuları[redaktə | əsas redaktə]
+İnformasiyanı yadda saxlamaq üçün yaddaş qurğularından istifadə olunur. Yaddaş qurğuları funksiyalarına görə müxtəlif olurlar:
+
+Operativ yaddaş (Random Access Memory – RAM. Kompüter söndürüldükdə operativ yaddaşda (OY) olan informasiya silinir.
+Daimi yaddaş qurğusu (Read Only Memory – ROM) – yalnız oxumaq üçün istifadə olunan yaddaşdır. Burada kompüterin əsas sistem proqram təminatı olan BIOS saxlanılır.
+Disketləri (floppi) oxuyan qurğu- artıq isdifadəsi çox azalmış kiçik tutuma malik disketləri oxuyub-yazmaq üçün qurğu.
+Virtual yaddaş – yerinə yetirilən proqram(lar)a tələb olunan OY-ın həcmi mövcud fiziki yaddaşdan çox olduqda diskdə təşkil olunan operativ yaddaş. Məsələn, fiziki mövcud olan OY-ın həcmi 32 Mbayt olduğuna baxmayaraq o, 4 Gigabayta qədər virtual yaddaşdan istifadə edə bilər.
+"kütləvi yaddaş"(Mass storage)- kompüterin ənənəvi yaddaşı ilə müqayisədə böyük həcmli verilənləri təsvir edən maqnit diski və ya lenti, eləcə də optik disklər üçün ümumiləşdirilmiş termin.
+
+Kompüterin proqram təminatı[redaktə | əsas redaktə]
+Fərdi kompüterin proqram təminatı – təlimatlar yığımından ibarət olub, kompüteri idarə edir və onun köməyi ilə lazım olan məsələni həll edir. Proqram təminatı iki hissəyə bölünür: ümumi və tətbiqi. Ümumi proqram təminatı hesablama sisteminin resurslarının düzgün bölünməsini və istifadə edilməsini təmin edir. Tətbiqi proqram təminatı özündə istifadəçinin tətbiqi proqramlar paketini birləşdirir. Bu proqramlar paketində istifadəçinin konkret məsələsini həll edə biləcək proqramlar olur.
+Ümumi proqram təminatının tərkibinə aşağıdakı proqramlar daxildir.
+
+əməliyyat sistemi;
+proqramlaşdırma dilləri;
+texniki xidmət proqramları.
+
+Əməliyyat sistemi hesablama prosesini həyata keçirən texniki vasitələlərin idarə olunmasını təmin edən proqramlar toplusundan ibarətdir. Kompüter işə salındıqda əməliyyat sistemi başqa proqramlara nəzərən ilkin olaraq əməli yaddaş qurğusuna yüklənir və o digər proqramların işləməsi üçün mühit yaradır. Əməliyyat sistemi eyni zamanda kompüterlərdə çoxməsələli (yaddaşın və həll vaxtının bölünməsi, qırılmaların təşkili və s.) iş rejiminin təşkilini təmin edir. Kompüterlərdə bir neçə tip əməliyyat sistemlərindən istifadə edirlər: MS DOS, OS/2, Windows 9x, Unix və s. Fərdi kompüterlərdə əsasən Windows XP (2003-cü ildə yaradımışdır) əməliyyat sistemi proqram təminatından geniş istifadə olunur. Windows XP çoxməsələli əməliyyat sistem olub, qrafiki pəncərə istifadəçi interfeysinə malikdir.
+Proqramlaşdırma dilləri proqram modullarından ibarət olub, məsələnin həll mərhələsinə hazırlığını təmin edir. Proqramlaşdırma dilləri iki hissəyə bölünür: aşağı səviyyəli dillər (Assembler, Avtokod və s.), yüksək səviyyəli dillər (Fortran, Alqol, Kobol, Basic, Pascal, Ci və s.). Aşağı səviyyəli proqramlaşdırma dillərində hər operatora bir maşın əmri uyğun gəlir. Bu dildə yazılan proqram az yer tutur və tez yerinə yetirilir. Aşağı səviyyəli dillərdən sistem proqramçılar istifadə edir. Yuxarı səviyyəli proqramlaşdırma dillərində hər operator bir neçə maşın əmri ilə əvəz edilə bilər, bu isə yaddaşda çox yer tutur. Yüksək səviyyəli dillərdən isə tətbiqi proqramçılar istifadə edir. Tətbiqi proqram paketi (TPP) – istifadəçinin müəyyən sinif məsələlərini həll etmək üçündür. Bu proqram paketləri istifadəçinin aşağıda göstərilən işlərini yerinə yetirir:
+
+mətnlərin emalı (Lexicon, ChiWriter, Word və s.)
+elektron cədvəllərin emalı (Excel, Lotus və s.)
+
+
+
+* verilənlər bazasının idarəsi (Fox Pro, Paradox, Access və s.)
+* kommunikasiya (Internet Explorer, Netscape Communicator)
+
+Texniki xidmət proqramları kompüterlərin işləmə vəziyyətini yoxlamaq üçündür. Bu proqramlar (Norton Utilites, PC Tool Deluxe və s.) kompüterin ayrı-ayrı qurğularının normal fəaliyyətinin yoxlanmasını həyata keçirir.
+Ədəbiyyat[redaktə | əsas redaktə]
+
+İsmayıl Calallı (Sadıqov), “İnformatika terminlərinin izahlı lüğəti”, 2017, “Bakı” nəşriyyatı, 996 s.
+
+Əlavə məlumat[redaktə | əsas redaktə]
+
+
+Windows 7
+
+
+
+
+
+Yaradıcı
+Microsoft
+
+
+ƏS ailəsi
+Windows NT
+
+
+Bazası
+Windows Vista
+
+
+İlk buraxılış
+22 oktyabr 2009
+
+
+Dəstəklənən platformalar
+x86; x86-64
+
+
+Nüvə tipi
+hibrid
+
+
+İnterfeys
+Windows Aero
+
+
+Lisenziya
+Microsoft EULA
+
+
+Vəziyyəti
+əsas dəstək: 2015; genişləndirilmiş dəstək: 2020 ci ilə qədər aktualdır.
+
+
+Veb saytı
+Windows-7
+
+
+Windows 7 Microsoft şirkətinin hazırladığı əməliyyat sistemi.
+Windows 7 əməliyyat sisteminin özü də Microsoft şirkəti tərəfindən bir neçə modifikasiyada buraxılır. Windows 7 əməliyyat sisteminin aşağıdakı modifikasiyaları var:
+Mündəricat[redaktə | əsas redaktə]
+ [gizlə]
+
+1Windows 7 Starter Edition
+2Windows 7 Home Basic
+3Windows 7 Home Premium
+4Windows 7 Professional
+5Windows 7 Ultimate
+6Windows 7 Enterprise
+7Proqram təminatı
+8Windows 7 əməliyyat sisteminə Azərbaycan dil paketin yükləməyin qaydası
+9Yeniliklər
+10Multimedia
+11Mobillik
+12İnterfeys
+13Fayl sistemi
+14Nüvə
+15Təhlükəsizlik
+16İstinadlar
+
+Windows 7 Starter Edition[redaktə | əsas redaktə][redaktə | əsas redaktə]
+Windows 7- in ilkin versiyası sayılır. Bu versiya az sayda funksiyalardan ibarətdir. Bu versiyada üç ölçülü interfeys yoxdur. Eyni zamanda maksimum üç sayda proqramı işə salmaq olur. Həm də bu modifikasiya lokal şəbəkə ilə işləmək üçün heç bir vasitəyə malik deyil. Eyni zamanda daha sadə və istifadəsi daha asandır.
+Windows 7 Home Basic[redaktə | əsas redaktə][redaktə | əsas redaktə]
+Windows 7 Starter Edition- dən nisbətən təkmil versiyadır. Bu modifikasiyada İnternet Explorer brauzeri və Defender müdafiə modulu yerləşdirilmişdir. Burada da üç ölçülü interfeys yoxdur, lakin çox istifadəçili rejim mövcuddur. Hər gün etdiyiniz prosedurları sürətləndirir və asanlaşdırır. Ən çox istifadə etdiyiniz sənədlərə müraciəti asanlaşdırır, beləliklə axtarmağa daha az, prosedur etməyə daha çox vaxt ayıra bilərsiniz.
+Windows 7 Home Premium[redaktə | əsas redaktə][redaktə | əsas redaktə]
+Bu modifikasiya genişləndirilmiş ev versiyası adlandırılır. Burada bir çox geniş imkanlar vardır. Məsələn, yüksək dəqiqlikli televiziyanı (HDTV) dəstəklyən, televerilişləri yaza bilən Windows Media Center proqramı vardır. Bu modifikasiya Fotoalboma və üç ölçülü interfeysə malikdir. Ev şəbəkəsi yaradaraq xoşladığınız şəkilləri, videoları və musiqiləri bölüşməyinizi asanlaşdırır. Daha çox əyləncə və oyun üçün yaradılıb.
+Windows 7 Professional[redaktə | əsas redaktə][redaktə | əsas redaktə]
+
+iş yerində və evdə ehtiyacınız olan hər şey üçün.
+Bir çox Windows XP verimlilik drayverini Windows XP modunda işlədə bilər və avtomatik verilərlə ev və iş yeri şəbəkənizə yenidən yükləyə bilərsiniz
+Həmçinin Homegroup bağlantısı ilə şirkət şəbəkələrinə qoşula bilərsiniz.
+
+Windows 7 Ultimate[redaktə | əsas redaktə][redaktə | əsas redaktə]
+Bu modifikasiya ən təcrübəli və tələbkar, ciddi fərdi istifadəçilər üçün nəzərdə tutulmuşdur. 35 müxtəlif dildən istifadə imkanları da vardır. Bu versiya özündə əməliyyat sisteminin ev və biznes versiyalarını birləşdirir. Həmçinin sərt diski şifrələmək üçün proqram tipli yeni modullara da malikdir. Belə proqram tipli modullar Bitlocker və Bitlocker TO GO adlanır. Windovs 7 Ultimate ən istifadəyə rahat və ən güclü versiyadır. Home Premuimun əyləncə xüsusiyyətlərini və Professinalın Windows XP rejimində işləyə bilmək xüsusiyyətlərini özündə birləşdirir.
+Windows 7 Enterprise[redaktə | əsas redaktə][redaktə | əsas redaktə]
+
+Şirkətlər üçün nəzərdə tutulmuşdur.
+Windovs 7 Enterprise sadəcə korporativ şirkətlərə satılır və Ultimatedən daha çox funksionallığa sahibdir.
+
+Bu modifikasiyaların hər birinin də 32 bitli və 64 bitli versiyaları mövcuddur.
+Proqram təminatı[redaktə | əsas redaktə][redaktə | əsas redaktə]
+
+
+Nüvə
+32-bit - x86
+64-bit - x64
+
+
+Prosessor
+ən az 1 GHz sürətində prosessor 1.60 vəya 2.00 GHz məsləhətdi. (Performans üçün)
+
+
+Operativ yaddaş
+1 GB RAM - 1-3 GB (Performans və XP rejimi üçün)
+2 GB RAM - 4 GB (Performans və XP rejimi üçün)
+
+
+Video kart (VGA)
+DirectX 9 qrafiklərini Dəstəkləyən 128 MB'lık Grafik kartı yaddaşı (Windows Aero üçün)
+
+
+Hard disk həcmi
+16* GB boş yer (*Bütün Windows xüsusiyyətləri ilə.)
+20* GB boş alan (*Bütün Windows xüsusiyyətləri ilə.)
+
+
+Drayver
+DVD-R/W Driver ya da 4 GB vəya daha böyük USB flash
+
+
+Windows 7 əməliyyat sisteminə Azərbaycan dil paketin yükləməyin qaydası[redaktə | əsas redaktə][redaktə | əsas redaktə]
+Windows 7 əməliyyat sisteminə Azərbaycan dilini yükləmək üçün sisteminizin 32 yaxud 64 bit olduğunu öyrənməlisiniz. Bunun üçün My Computer/Мой Компьютерvə ya Computer/Компьютер yazılan yerə daxil olun. Sonra Siçanın sağ düyməsini basıb ən sonda Propertipes/Свойства adlanan yerə daxil olun. System/Системsözünün qarşısındakı biti yadınızda saxlayın. Sonra daxil olun Sonra Yükləmə sözünü basın. Lazım olan biti seçib Növbəti sözünə basın. Sonra My Computer/Мой Компьютер və ya Computer/Компьютер adlanan yerə daxil olun. Downloads/Загрузки adlanan yerə daxil olun. Sonra dilə daxil olun. Bir müqavilə gələcək orada I Accept/Я согласен sözünə basıb Next/Далее sözünə basın. Yüklənməsini gözləyin. Sonra yenidən Next/Далее sözünə basın. Sonra kompüteriniz yenidən başlayacaq və Welcome/Добро пожаловать sözünün əvəzinə Xoş Gəlmişsiniz yazılacaq. Şəkillərdə gördüyünüz kimi.
+Yeniliklər[redaktə | əsas redaktə][redaktə | əsas redaktə]
+Əməliyyat sistemi multitouch sistemini dəstəkləyir. Şəbəkə texnologiyası olan Branch Cache internet-trafiki özündə keş yaddaşa atmağa icazə verir. Əgər istifadəçiyə lokal şəbəkədə fayl lazım olursa, hansı ki öz şəbəkəsindən olan istifadəçi tərəfindən yüklənib, onda istifadəçi asanlıqla bu faylı keş saxlayıcıdan götürə bilər. Şəbəkə keşi 2 rejimdə işləyə bilər – Hosted Cache və distributed Cache. Əməliyyat sistemində həmçinin müxtəlif ölkələri təmsil edən 120 masaüstü şəkil quraşdırılıb. Bütün versiyalar özündə 50 yeni şrifti birləşdirir. Windows 7 windowsun ilk versiyadır, hansı ki özündə latın olmayan şriftləri dəstəkləyir. Windows 7 Vistanın bütün drayverlərini dəstəkləyir.
+İstinadlar[redaktə | əsas redaktə]
+
+↑ "Kibercinayətkarlıq haqqında" Konvensiyanın Təsdiq edilməsi barədə
+
+Xarici keçidlər[redaktə | əsas redaktə]
+
+
+
+
+   
+
+
+Vikianbarda Kompüter ilə əlaqəli mediafayllar var.
+
+
+Həmçinin bax[redaktə | əsas redaktə]
+
+Kompüter şəbəkələri
+Kompüter proqramları
+Kompüter təhlükəsizliyi
+Aşağı açılan siyahı
+
+
+
+
+
+ 
+						Mənbə — "https://az.wikipedia.org/w/index.php?title=Kompüter&oldid=4282697"					
+Kateqoriyalar: KompüterİnformatikaProqramlaşdırma dilləri 
+
+
+
+Naviqasiya menyusu
+
+
+Alətlər sandığı
+
+Daxil olmamısınızMüzakirəFəaliyyətimHesab yaratDaxil ol 
+
+
+
+Adlar fəzası
+
+MəqaləMüzakirə 
+
+
+
+
+Variantlar
+
+
+
+
+
+
+
+
+
+Görünüş
+
+OxuRedaktəƏsas redaktəTarixçə 
+
+
+
+Daha
+
+
+
+
+
+
+
+Axtar
+
+
+
+ 
+
+
+
+
+
+
+
+Bələdçi
+
+
+Ana SəhifəKənd meydanıAktual hadisələrSon dəyişikliklərTəsadüfi səhifə 
+
+
+
+Layihələr
+
+
+Seçilmiş məqalələrSeçilmiş siyahılarSeçilmiş portallarYaxşı məqalələrLaboratoriyaMövzulu ay 
+
+
+
+Xüsusi
+
+
+Maddi köməkQaralama dəftəriKömək 
+
+
+
+Çap et/ixrac
+
+
+Kitab yaratPDF olaraq yükləÇap variantı 
+
+
+
+Digər layihələrdə
+
+
+VikianbarVikikitabVikisitat 
+
+
+
+Alətlər
+
+
+Bu səhifəyə bağlantılarƏlaqəli redaktələrXüsusi səhifələrDaimi keçidƏsas məlumatlarWikidata elementiBu məqaləyə istinad et 
+
+
+
+Başqa dillərdə
+
+
+АҧсшәаAcèhAfrikaansAlemannischአማርኛAragonésÆngliscالعربيةܐܪܡܝܐمصرىঅসমীয়াAsturianuتۆرکجهБашҡортсаBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)‎БългарскиभोजपुरीBislamaবাংলাབོད་ཡིགবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiᨅᨔ ᨕᨘᨁᨗБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoTsetsêhestâheseکوردیQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiडोटेलीΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisFurlanGaeilge贛語GàidhligGalegoAvañe'ẽ𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHausa客家語/Hak-kâ-ngîעבריתहिन्दीFiji HindiHrvatskiKreyòl ayisyenMagyarՀայերենİnterlinguaBahasa IndonesiaInterlingueIgboIñupiakIlokanoIdoÍslenskaİtalianoᐃᓄᒃᑎᑐᑦ/inuktitut日本語PatoisLa .lojban.Basa JawaქართულიQaraqalpaqshaKabɩyɛKongoGĩkũyũҚазақшаភាសាខ្មែរಕನ್ನಡ한국어Къарачай-малкъарकॉशुर / کٲشُرKurdîКомиKernowekКыргызчаLatinaLadinoLëtzebuergeschЛезгиLingua Franca NovaLimburgsLumbaartLingálaລາວLietuviųLatviešuमैथिलीMalagasyОлык марийМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorskOccitanLivvinkarjalaOromooଓଡ଼ିଆਪੰਜਾਬੀKapampanganPolskiPiemontèisپنجابیΠοντιακάپښتوPortuguêsRuna SimiRomaniRomânăРусскийРусиньскыйसंस्कृतम्Саха тылаSarduSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSesothoSeelterskBasa SundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeXitsongaТатарча/tatarçaئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsWalonWinarayWolof吴语İsiXhosaმარგალურიייִדישYorùbáVahcuengh中文文言Bân-lâm-gú粵語İsiZulu 
+Keçidlərin redaktəsi 
+
+
+
+
+
+ Bu səhifə sonuncu dəfə 20 aprel 2018 tarixində saat 11:17-də redaktə edilib.
+Mətn Creative Commons Attribution-ShareAlike lisenziyası altındadır, bəzi hallarda əlavə şərtlər tətbiq oluna bilər.
+Ətraflı məlumat üçün istifadə şərtlərinə baxın.
+
+
+Məxfilik siyasəti
+Vikipediya haqqında
+İmtina etmə
+Tərtibatçılar
+Cookie statement
+Mobil görüntü
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.120","walltime":"0.150","ppvisitednodes":{"value":1019,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":4385,"limit":2097152},"templateargumentsize":{"value":1525,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":441,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   80.229      1 -total"," 72.05%   57.802      1 Şablon:Infobox"," 10.59%    8.494      1 Şablon:Commonscat","  7.79%    6.246      1 Şablon:Vikilər","  5.17%    4.147      1 Şablon:Lang-en","  2.96%    2.373      1 Şablon:Lang-ru","  2.67%    2.138      2 Şablon:Lang1"]},"cachereport":{"origin":"mw1306","timestamp":"20180426095618","ttl":1900800,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1240"});});
+
+

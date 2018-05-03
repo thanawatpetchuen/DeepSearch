@@ -1,0 +1,257 @@
+
+
+
+
+Ordinador - Biquipedia, a enciclopedia libre
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ordinador","wgTitle":"Ordinador","wgCurRevisionId":1569152,"wgRevisionId":1569152,"wgArticleId":8628,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articlos que toda Wikipedia habría de tener (menos de 10k)","Hardware"],"wgBreakFrames":false,"wgPageContentLanguage":"an","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","chinero","febrero","marzo","abril","mayo","chunio","chulio","agosto","setiembre","octubre","noviembre","aviento"],"wgMonthNamesShort":["","chi","feb","mar","abr","may","chun","chul","ago","set","oct","nov","avi"],"wgRelevantPageName":"Ordinador","wgRelevantArticleId":8628,"wgRequestId":"WujlsQpAMFUAAGndh9gAAAAT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"an","pageLanguageDir":"ltr","pageVariantFallbacks":"an","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"an","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"aragonés","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q68","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@1g8py9p",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"an"});
+});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Ordinador 
+De Biquipedia 
+
+					Ir ta:					navego, 					busca
+
+
+
+
+
+
+Debuixo d'un ordenador de sobremesa.
+
+
+
+
+
+
+Ordinador portiable IBM.
+
+
+Un ordinador u computadora, ye un aparato que sirve ta procesar información seguindo uns procedimentos determinatos. Encara que aparatos como l'abaco y atras calculadoras mecanicas dentren en ista definición, os ordinadors mudernos son aparatos electronicos, alazetatos en l'Alchebra de Boole y o sistema binario.
+
+
+
+Contenius
+
+
+1 Partis d'un ordinador
+
+1.1 O procesador
+1.2 A memoria prencipal
+1.3 Dispositivos d'almadazenamiento
+1.4 Dispositivos de dentrada y surtida (E/S)
+1.5 Atros dispositivos
+
+
+2 Se veiga tamién
+3 Vinclos externos
+
+
+
+Partis d'un ordinador[editar | editar código]
+O procesador[editar | editar código]
+O celebro d'a maquina ye o procesador u a unidat central de proceso (CPU). Ye un chip con millons de microtransistors capable d'executar millons d'instruccions por segundo. Ye o encargato d'agafar os datos de dentrada, y executar as instruccions d'un programa informatico ta chenerar unos resultatos (datos de salita). A suya potencia la da la suya velocidat mesurata en Hertzios(GHz), o tipos de CPU (Pentium 3, Pentium 4, Athlon,...), y a mesura d'a memoria cache que incorpora (puede estar de nivel 1, 2 u 3).
+Ye muntato en a caixa (tamién clamata torre) que contién as partis de l'ordinador que han de ser más amanatas a lo procesador.
+A memoria prencipal[editar | editar código]
+A memoria ye a encargata d'almadazenar os datos y os programas que s'han de ninviar a lo procesador, ta la suya execución. Tamién s'encarga d'alzar os datos que iste chenera.
+Se clama memoria prencipal a la que procesador accede dreitament més a sobén. Por as suyas caracteristicas, por un regular s'emplega a memoria de tipo RAM (memoria d'acceso aleatorio) ta ista función.
+Todas as unidatz de memoria se pueden clasificar seguntes a capacidat (256 megabytes (MB), 512 MB, ...) y o tipo (de menos rapida a más); SDRAM(100), SDRAM(133), DDR (266), DDR(333), DDR(400),...
+Dispositivos d'almadazenamiento[editar | editar código]
+Por qüestions tecnicas, d'ordinario ye imposible almazenar tota la información en a memoria prencipal. Por ista enchaquia, existe a memoria segundaria, an s'almadazena toda la información con a que no siga treballando o procesador en ixe inte. En cheneral, ista ye constituita por toda una serie de dispositivos d'almadazenamiento diferenciatos d'a computadora en si mesma.
+A diferencia d'a memoria prencipal, que gosaba estar volatil (se borra en apagar l'ordinador), os dispositivos d'almadazenamiento gosan estar no volatils (se conserva o suyo contenito quan s'apaga l'ordinador). Bi ha diferens tipos: disquets, discos duros, CD (Disco Compacto), DVD, cintas, memorias flash, ...
+
+
+
+
+Ratón
+
+
+Dispositivos de dentrada y surtida (E/S)[editar | editar código]
+Nos premiten comunicar-nos con l'ordinador;
+
+De dentrada; o teclato, a rata, o joystick, o escaner, o microfón, a webcam, ...
+
+
+De surtida; o monitor, l'altavoz, a imprentadora,...
+
+Atros dispositivos[editar | editar código]
+
+
+
+
+Un teclato.
+
+
+Dentro d'a caxa de l'ordinador (u a torre), cal conectar o procesador con totz os atros dispositivos, ta fer-lo, s'emplega la placa alazet, sobre la que s'instala;
+
+O procesador
+A memoria prencipal
+Os dispositivos d'almazenamiento
+Os dispositivos de dentrata y salita
+Os buses (conecten os dispositivos internos entre ells)
+A tarcheta de vidio (construye as imachens que se veyen por o monitor)
+A tarcheta de sonito (premite a reproducción y gravación d'audio)
+A fuent d'alimentación (proporciona la electrecidat que amenistan os diferens components)
+Os puertos de comunicacions (conectan con dispositivos externos) (USB, serie, paralelo, PS/2,...)
+
+Se veiga tamién[editar | editar código]
+
+Tarabidau fisico.
+Software.
+
+Vinclos externos[editar | editar código]
+
+ Se veigan as imáchens de Commons sobre l'Ordinador.
+
+
+
+
+
+ 
+						Obtenito de "https://an.wikipedia.org/w/index.php?title=Ordinador&oldid=1569152"					
+Categoría: HardwareCategoría amagata: Articlos que toda Wikipedia habría de tener (menos de 10k) 
+
+
+
+Menú de navegación
+
+
+Ferramientas personals
+
+No ha dentrato en o sistemaPachina de descusión d'ista IPContribucionesCreyar cuentaDentrar-ie 
+
+
+
+Espacios de nombres
+
+PachinaDiscusión 
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Visualizacions
+
+LeyerEditarEditar códigoAmostrar l'historial 
+
+
+
+Mas
+
+
+
+
+
+
+
+Mirar
+
+
+
+ 
+
+
+
+
+
+
+
+Navego
+
+
+PortaladaA tabiernaActualidatZaguers cambeosUna pachina a l'azarAduyaDonativos 
+
+
+
+Imprentar/exportar
+
+
+Creyar un libroDescargar como PDFVersión ta imprentar 
+
+
+
+En otros proyectos
+
+
+Wikimedia Commons 
+
+
+
+Ferramientas
+
+
+Pachinas que enlazan con istaCambios relacionatosCargar ficheroPachinas especialsVinclo permanentInformación d'a pachinaElemento de WikidataCitar ista pachina 
+
+
+
+En atras luengas
+
+
+АҧсшәаAcèhAfrikaansAlemannischአማርኛÆngliscالعربيةܐܪܡܝܐمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)‎БългарскиभोजपुरीBislamaবাংলাབོད་ཡིགবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiᨅᨔ ᨕᨘᨁᨗБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoTsetsêhestâheseکوردیQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiडोटेलीΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisFurlanGaeilge贛語GàidhligGalegoAvañe'ẽ𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHausa客家語/Hak-kâ-ngîעבריתहिन्दीFiji HindiHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIgboIñupiakIlokanoIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ/inuktitut日本語PatoisLa .lojban.Basa JawaქართულიQaraqalpaqshaKabɩyɛKongoGĩkũyũҚазақшаភាសាខ្មែរಕನ್ನಡ한국어Къарачай-малкъарकॉशुर / کٲشُرKurdîКомиKernowekКыргызчаLatinaLadinoLëtzebuergeschЛезгиLingua Franca NovaLimburgsLumbaartLingálaລາວLietuviųLatviešuमैथिलीMalagasyОлык марийМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorskOccitanLivvinkarjalaOromooଓଡ଼ିଆਪੰਜਾਬੀKapampanganPolskiPiemontèisپنجابیΠοντιακάپښتوPortuguêsRuna SimiRomaniRomânăРусскийРусиньскыйसंस्कृतम्Саха тылаSarduSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSesothoSeelterskBasa SundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeXitsongaТатарча/tatarçaئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsWalonWinarayWolof吴语IsiXhosaმარგალურიייִדישYorùbáVahcuengh中文文言Bân-lâm-gú粵語IsiZulu 
+Editar enlaces 
+
+
+
+
+
+ Zaguera edición d'ista pachina o 17 oct 2015 a las 13:03.
+O texto ye disponible baixo a Licencia Creative Commons Atribución/Compartir-Igual;
+talment sigan d'aplicación clausulas adicionals.
+Mire-se os termins d'uso ta conoixer más detalles.
+
+
+Politica de privacidat
+Sobre Biquipedia
+Alvertencias chenerals
+Desarrolladores
+Declaración de cookies
+Versión ta mobils
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.032","walltime":"0.041","ppvisitednodes":{"value":91,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":673,"limit":2097152},"templateargumentsize":{"value":25,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    4.119      1 -total"," 56.20%    2.315      1 Plantilla:Articlo_1000"," 40.72%    1.677      1 Plantilla:Commonscat"]},"cachereport":{"origin":"mw1300","timestamp":"20180426095800","ttl":1900800,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1250"});});
+
+

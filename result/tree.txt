@@ -1,0 +1,300 @@
+Root
+├── http://www.antikythera-mechanism.gr/project/general/the-project.html
+│   ├── https://twitter.com/antikytheradive
+│   └── https://www.facebook.com/returntoantikythera
+└── http://www.etymonline.com/index.php?term=computer
+    ├── https://twitter.com/share?url=https%3A%2F%2Fwww.etymonline.com%2Fword%2Fcomputer&text=computer%20%7C%20Origin%20and%20meaning%20of%20computer%20by%20Online%20Etymology%20Dictionary
+    └── https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.etymonline.com%2Fword%2Fcomputer
+Root
+├── http://catalogue.bnf.fr/ark:/12148/cb119401913
+│   ├── http://catalogue.bnf.fr/aide/
+│   ├── http://www.bnf.fr
+│   └── https://achatsreproduction.bnf.fr/views/vel/mon_panier.jsf
+├── http://ed-thelen.org/comp-hist/U-S-Ord-61.html
+├── http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=00689507
+│   ├── http://spectrum.ieee.org/
+│   ├── http://standards.ieee.org/
+│   ├── http://www.ieee.org/
+│   ├── http://www.ieee.org/sitemap.html
+│   └── https://www.ieee.org/cart/public/myCart/page.html?refSite=http://ieeexplore.ieee.org&refSiteName=IEEE%20Xplore
+├── http://news.bbc.co.uk/1/hi/technology/8492762.stm
+│   ├── http://news.bbc.co.uk
+│   ├── http://news.bbc.co.uk/sport1/hi/default.stm
+│   ├── http://www.bbc.co.uk/
+│   ├── http://www.bbc.co.uk/accessibility/
+│   ├── http://www.bbc.co.uk/blogs/theeditors/
+│   ├── http://www.bbc.co.uk/onthisday
+│   ├── http://www.bbc.co.uk/weather/
+│   └── http://www.bbc.co.uk/worldservice/
+├── http://plato.stanford.edu/entries/computing-history/
+│   ├── https://leibniz.stanford.edu/friends/preview/computing-history/
+│   ├── https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=computing-history
+│   └── https://plato.stanford.edu/cgi-bin/encyclopedia/random
+├── http://plms.oxfordjournals.org/cgi/reprint/s2-42/1/230
+│   ├── http://www.lms.ac.uk/
+│   ├── http://www.oupmediainfo.com/
+│   └── https://global.oup.com/cookiepolicy/
+├── http://robroy.dyndns.info/collier/index.html
+├── http://thefreedictionary.com/computer
+│   └── https://www.thefreedictionary.com
+├── http://www.antikythera-mechanism.gr/project/general/the-project.html
+│   ├── https://twitter.com/antikytheradive
+│   └── https://www.facebook.com/returntoantikythera
+├── http://www.computerhistory.org/atchm/warhol-the-computer/
+│   ├── http://connect.computerhistory.org/page.aspx?pid=298
+│   ├── http://twitter.com/ComputerHistory
+│   ├── http://www.facebook.com/computerhistory
+│   ├── http://www.youtube.com/user/ComputerHistory
+│   └── https://www.instagram.com/computerhistory/
+├── http://www.epn-online.com/page/22909/the-hapless-tale-of-geoffrey-dummer-this-is-the-sad-.html
+│   └── http://statcounter.com/
+├── http://www.etymonline.com/index.php?term=computer
+│   ├── https://twitter.com/share?url=https%3A%2F%2Fwww.etymonline.com%2Fword%2Fcomputer&text=computer%20%7C%20Origin%20and%20meaning%20of%20computer%20by%20Online%20Etymology%20Dictionary
+│   ├── https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.etymonline.com%2Fword%2Fcomputer
+│   └── https://www.reddit.com/submit?url=https%3A%2F%2Fwww.etymonline.com%2Fword%2Fcomputer&title=computer%20%7C%20Origin%20and%20meaning%20of%20computer%20by%20Online%20Etymology%20Dictionary
+├── http://www.intel.com/museum/archives/4004.htm
+│   ├── http://support.google.com/chrome/bin/answer.py?hl=en&answer=95346
+│   ├── http://windows.microsoft.com/en-IN/internet-explorer/products/ie/home
+│   ├── http://www.intc.com/
+│   ├── http://www.mozilla.org/en-US/firefox/new/
+│   ├── https://support.apple.com/downloads/safari
+│   ├── https://www-ssl.intel.com/content/www/us/en/my-intel/forgot-password.html
+│   └── https://www-ssl.intel.com/content/www/us/en/my-intel/forgot-userid.html
+├── http://www.isoc.org/internet/history/brief.shtml
+│   ├── http://www.manrs.org/
+│   ├── https://connect.internetsociety.org/?utm_source=Top%20link&utm_medium=site&utm_campaign=Main%20website%20top%20link
+│   ├── https://otalliance.org
+│   ├── https://www.ietfjournal.org/
+│   ├── https://www.internetsociety.org/about-internet-society/
+│   ├── https://www.internetsociety.org/about-internet-society/organization-members/
+│   ├── https://www.internetsociety.org/about-internet-society/team/
+│   ├── https://www.internetsociety.org/about-the-ietf/
+│   ├── https://www.internetsociety.org/become-a-member/
+│   ├── https://www.internetsociety.org/board-of-trustees/
+│   ├── https://www.internetsociety.org/chapters/
+│   ├── https://www.internetsociety.org/events/
+│   ├── https://www.internetsociety.org/humanrights
+│   ├── https://www.internetsociety.org/internet/
+│   ├── https://www.internetsociety.org/internet/glossary-internet-terms/
+│   ├── https://www.internetsociety.org/internet/history-internet/
+│   ├── https://www.internetsociety.org/internet/who-makes-it-work
+│   ├── https://www.internetsociety.org/iot/
+│   ├── https://www.internetsociety.org/issues/access/
+│   ├── https://www.internetsociety.org/issues/community-networks/
+│   ├── https://www.internetsociety.org/issues/development/
+│   ├── https://www.internetsociety.org/issues/dnssec/
+│   ├── https://www.internetsociety.org/issues/encryption/
+│   ├── https://www.internetsociety.org/issues/identity/
+│   ├── https://www.internetsociety.org/issues/internet-governance/
+│   ├── https://www.internetsociety.org/issues/ipv6/
+│   ├── https://www.internetsociety.org/issues/ixps/
+│   ├── https://www.internetsociety.org/issues/manrs/
+│   ├── https://www.internetsociety.org/issues/open-internet-standards/
+│   ├── https://www.internetsociety.org/issues/privacy/
+│   ├── https://www.internetsociety.org/issues/public-policy/
+│   ├── https://www.internetsociety.org/issues/securing-bgp/
+│   ├── https://www.internetsociety.org/issues/security/
+│   ├── https://www.internetsociety.org/issues/technology/
+│   ├── https://www.internetsociety.org/issues/trust/
+│   ├── https://www.internetsociety.org/issues/women-in-tech/
+│   ├── https://www.internetsociety.org/key-issues/
+│   ├── https://www.internetsociety.org/mission/
+│   ├── https://www.internetsociety.org/regions/
+│   ├── https://www.internetsociety.org/regions/africa/
+│   ├── https://www.internetsociety.org/regions/asia-pacific/
+│   ├── https://www.internetsociety.org/regions/europe/
+│   ├── https://www.internetsociety.org/regions/latin-america-caribbean/
+│   ├── https://www.internetsociety.org/regions/middle-east/
+│   ├── https://www.internetsociety.org/regions/north-america/
+│   ├── https://www.internetsociety.org/resources/policybriefs/
+│   ├── https://www.internetsociety.org/tutorials/
+│   └── https://www.ixptoolkit.org/
+├── http://www.math.sunysb.edu/~tony/whatsnew/column/antikytheraI-0400/kyth1.html
+├── http://www.nature.com/nature/journal/v444/n7119/fig_tab/444551a_F2.html
+├── http://www.ourcomputerheritage.org/wp/
+├── http://www.sciencemuseum.org.uk/onlinestuff/stories/babbage.aspx?page=5
+│   ├── https://blog.sciencemuseum.org.uk/
+│   ├── https://group.sciencemuseum.org.uk/work-for-us/
+│   ├── https://learning-resources.sciencemuseum.org.uk/
+│   ├── https://www.google.co.uk/maps/dir//Science+Museum,+Exhibition+Rd,+Kensington,+London+SW7+2DD
+│   ├── https://www.hirethesciencemuseum.com/
+│   └── https://www.sciencemuseumshop.co.uk/
+├── http://www.time.com/time/printout/0,8816,954266,00.html
+├── http://www.tnmoc.org/colossus-rebuild-story
+│   ├── http://dgtl.agency
+│   ├── http://www.facebook.com/pages/The-National-Museum-of-Computing/137706546282721
+│   ├── http://www.flickr.com/groups/tnmoc
+│   ├── http://www.tnmoc.org/visit/guided-tours/
+│   ├── http://www.youtube.com/user/tnmoc
+│   ├── https://plus.google.com/111498293885486062790
+│   └── https://twitter.com/tnmoc
+├── https://ab.wikipedia.org/wiki/%D0%90%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D1%83%D1%82%D0%B5%D1%80
+├── https://ace.wikipedia.org/wiki/Komputer
+│   ├── https://ace.wikipedia.org/w/index.php?title=Komputer&oldid=105194
+│   ├── https://commons.wikimedia.org/wiki/Computers
+│   └── https://commons.wikimedia.org/wiki/Special:Search/Komputer
+├── https://archive.org/details/mechanicalarithm00feltrich
+│   ├── https://archive.org/details/additional_collections
+│   ├── https://archive.org/details/fedlink
+│   ├── https://archive.org/details/genealogy
+│   ├── https://archive.org/details/lincolncollection
+│   ├── https://archive.org/details/smithsonian
+│   ├── https://archive.org/details/texts
+│   ├── https://archive.org/search.php?query=mediatype:texts&sort=-publicdate
+│   ├── https://archive.org/web/
+│   └── https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/
+├── https://arstechnica.com/uncategorized/2008/12/global-notebook-shipments-finally-overtake-desktops/
+│   ├── http://video.arstechnica.com/
+│   └── https://arstechnica.com
+├── https://az.wikipedia.org/wiki/Komp%C3%BCter
+├── https://azb.wikipedia.org/wiki/%D8%A8%DB%8C%D9%84%DA%AF%DB%8C%E2%80%8C%D8%B3%D8%A7%DB%8C%D8%A7%D8%B1
+├── https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%BF%E2%80%99%D1%8E%D1%82%D0%B0%D1%80
+├── https://bh.wikipedia.org/wiki/%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F%E0%A4%B0
+│   └── https://commons.wikimedia.org/wiki/Computer
+├── https://bi.wikipedia.org/wiki/Compter
+│   ├── https://bi.wikipedia.org/w/index.php?title=Compter&oldid=34761
+│   └── https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents
+├── https://bxr.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80
+├── https://commons.wikimedia.org/wiki/Category:Computers
+│   ├── https://af.wikipedia.org/wiki/Rekenaar
+│   ├── https://als.wikipedia.org/wiki/Computer
+│   ├── https://am.wikipedia.org/wiki/%E1%8A%AE%E1%88%9D%E1%8D%92%E1%8B%A9%E1%89%B0%E1%88%AD
+│   ├── https://an.wikipedia.org/wiki/Ordinador
+│   ├── https://ang.wikipedia.org/wiki/Spearctelle
+│   ├── https://ar.wikipedia.org/wiki/%D8%AD%D8%A7%D8%B3%D9%88%D8%A8
+│   ├── https://arc.wikipedia.org/wiki/%DC%9A%DC%AB%DC%98%DC%92%DC%90_(%DC%A1%DC%90%DC%9F%DC%A2%DC%90)
+│   ├── https://arz.wikipedia.org/wiki/%D9%83%D9%88%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1
+│   ├── https://as.wikipedia.org/wiki/%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A7%B0
+│   ├── https://ast.wikipedia.org/wiki/Computadora
+│   ├── https://az.wikipedia.org/wiki/Kompyuter
+│   ├── https://ba.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80
+│   ├── https://bar.wikipedia.org/wiki/Rechna
+│   ├── https://bat-smg.wikipedia.org/wiki/Kuompioteris
+│   ├── https://be-x-old.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%BF%D1%83%D1%82%D0%B0%D1%80
+│   ├── https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B0%D1%80
+│   ├── https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8E%D1%82%D1%8A%D1%80
+│   ├── https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A6%B0
+│   ├── https://bo.wikipedia.org/wiki/%E0%BD%82%E0%BE%B3%E0%BD%BC%E0%BD%82%E0%BC%8B%E0%BD%80%E0%BE%B3%E0%BD%91%E0%BC%8D
+│   ├── https://bpy.wikipedia.org/wiki/%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A6%B0
+│   ├── https://br.wikipedia.org/wiki/Urzhiataer
+│   ├── https://bs.wikipedia.org/wiki/Ra%C4%8Dunar
+│   ├── https://bug.wikipedia.org/wiki/Komputer
+│   ├── https://ca.wikipedia.org/wiki/Ordinador
+│   ├── https://ceb.wikipedia.org/wiki/Kompiyuter
+│   ├── https://chy.wikipedia.org/wiki/Ts%C3%A9ohketoetan%C3%B3to
+│   ├── https://crh.wikipedia.org/wiki/Kompyuter
+│   ├── https://cs.wikipedia.org/wiki/Po%C4%8D%C3%ADta%C4%8D
+│   ├── https://cv.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80
+│   ├── https://cy.wikipedia.org/wiki/Cyfrifiadur
+│   ├── https://da.wikipedia.org/wiki/Computer
+│   ├── https://de.wikipedia.org/wiki/Computer
+│   ├── https://diq.wikipedia.org/wiki/Komputer
+│   ├── https://el.wikipedia.org/wiki/%CE%97%CE%BB%CE%B5%CE%BA%CF%84%CF%81%CE%BF%CE%BD%CE%B9%CE%BA%CF%8C%CF%82_%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AE%CF%82
+│   ├── https://eml.wikipedia.org/wiki/Zarvl%C3%A5n
+│   ├── https://en.wikipedia.org/wiki/Computer
+│   ├── https://eo.wikipedia.org/wiki/Komputilo
+│   ├── https://es.wikipedia.org/wiki/Computadora
+│   ├── https://et.wikipedia.org/wiki/Arvuti
+│   ├── https://eu.wikipedia.org/wiki/Ordenagailu
+│   ├── https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87
+│   ├── https://fi.wikipedia.org/wiki/Tietokone
+│   ├── https://fiu-vro.wikipedia.org/wiki/Puutri
+│   ├── https://fo.wikipedia.org/wiki/Teldur
+│   ├── https://fr.wikipedia.org/wiki/Ordinateur
+│   ├── https://fur.wikipedia.org/wiki/Ordenad%C3%B4r
+│   ├── https://fy.wikipedia.org/wiki/Kompj%C3%BBter
+│   ├── https://ga.wikipedia.org/wiki/R%C3%ADomhaire
+│   ├── https://gan.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6
+│   ├── https://gd.wikipedia.org/wiki/Coimpiutair
+│   ├── https://gl.wikipedia.org/wiki/Ordenador
+│   └── https://gn.wikipedia.org/wiki/Kombutad%C3%B3ra
+├── https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en
+│   ├── https://donate.wikimedia.org/wiki/Special:LandingPage
+│   ├── https://wikimediafoundation.org/wiki/Home
+│   └── https://wikimediafoundation.org/wiki/Special:MyLanguage/Ways_to_Give?utm_medium=donatewiki_nocountry
+├── https://en.wikipedia.org/w/index.php?title=Computer&oldid=839273026
+├── https://en.wikiquote.org/wiki/Computers
+│   ├── https://en.wikipedia.org/wiki/Embedded_system
+│   ├── https://en.wikipedia.org/wiki/Jay_David_Bolter
+│   ├── https://en.wikipedia.org/wiki/Personal_computer
+│   ├── https://en.wikipedia.org/wiki/Personal_digital_assistant
+│   ├── https://en.wikipedia.org/wiki/computer
+│   └── https://en.wikipedia.org/wiki/machine
+├── https://en.wikiversity.org/wiki/How_things_work_college_course/Computer_quiz
+│   ├── https://en.wikipedia.org/w/index.php?title=Computer&oldid=619699658
+│   ├── https://en.wikipedia.org/wiki/Bombe
+│   ├── https://en.wikipedia.org/wiki/Busy_beaver
+│   ├── https://en.wikipedia.org/wiki/Halting_problem
+│   └── https://en.wikipedia.org/wiki/Turing_machine
+├── https://web.archive.org/web/20070220095222/http://www.top500.org/lists/2006/11/overtime/Architectures
+├── https://web.archive.org/web/20080513221700/http://www.intel.com/museum/archives/4004.htm
+├── https://web.archive.org/web/20081026080604/http://www.computer50.org/mark1/mark1intro.html
+├── https://web.archive.org/web/20090105031620/http://www.computer50.org/mark1/contemporary.html
+├── https://web.archive.org/web/20121103094710/http://www.scientific-computing.com/scwmayjun03computingmachines.html
+│   ├── http://faq.web.archive.org/
+│   ├── https://archive.org/account/login.php
+│   ├── https://web.archive.org/web/20120205092449/http://www.scientific-computing.com/scwmayjun03computingmachines.html
+│   └── https://web.archive.org/web/20131109202830/http://www.scientific-computing.com/scwmayjun03computingmachines.html
+├── https://web.archive.org/web/20130511181443/http://www.epn-online.com/page/22909/the-hapless-tale-of-geoffrey-dummer-this-is-the-sad-.html
+├── https://web.archive.org/web/20130921055055/http://www.cs.ncl.ac.uk/publications/articles/papers/398.pdf
+├── https://web.archive.org/web/20140626022208/http://www.idc.com/getdoc.jsp?containerId=prUS24239313
+├── https://web.archive.org/web/20160918203643/https://goremotesupport.com/blog/crash-the-story-of-it-zuse/
+├── https://web.archive.org/web/20161211201840/http://www.ourcomputerheritage.org/wp/
+├── https://worldwide.espacenet.com/textdoc?DB=EPODOC&IDX=US2981877
+│   ├── http://ab.espacenet.com/
+│   ├── http://be.espacenet.com/
+│   ├── http://bg.espacenet.com/
+│   ├── http://cy.espacenet.com/
+│   ├── http://dk.espacenet.com/
+│   ├── http://gr.espacenet.com/
+│   ├── http://hr.espacenet.com/
+│   ├── http://ie.espacenet.com/
+│   ├── http://is.espacenet.com/
+│   ├── http://lp.espacenet.com/
+│   ├── http://lt.espacenet.com/
+│   ├── http://no.espacenet.com/
+│   ├── http://pl.espacenet.com/
+│   ├── http://ro.espacenet.com/
+│   ├── http://rs.espacenet.com/
+│   ├── http://ru.espacenet.com/
+│   ├── http://si.espacenet.com/
+│   ├── http://sk.espacenet.com/
+│   ├── http://tr.espacenet.com/
+│   ├── http://www.epo.org/patents/patent-information/european-patent-documents/publication-server.html
+│   ├── http://www.epo.org/searching/subscription/gpi.html
+│   ├── https://cz.espacenet.com/
+│   ├── https://forms.epo.org/service-support/contact-us/contact0-form.html?topic=OnlineServices&subject=Espacenet
+│   ├── https://register.epo.org/espacenet/regviewer?lng=en
+│   └── https://www.epo.org/searching-for-patents/technical/espacenet/ops.html
+├── https://www.independent.co.uk/news/people/obituary-allen-coombs-1611270.html
+│   ├── https://kahlua.independent.co.uk
+│   └── https://subscriptions.independent.co.uk/
+├── https://www.newscientist.com/article/mg20827915.500-lets-build-babbages-ultimate-mechanical-computer.html
+│   ├── http://jobs.newscientist.com/?cmpid=ILC|JOBS|NSNAV-JOBSLINK
+│   ├── http://landing.newscientist.com/educational-access/
+│   ├── http://subscription.newscientist.com/packages/newscientist-2018-Q2-gift.php?promCode=11292&packageCodes=TPA&offerCode=6M&utm_campaign=2018-Q2_gift_sub&utm_medium=SUBS&utm_source=NSNS
+│   ├── http://subscription.newscientist.com/packages/newscientist-2018-Q2.php?promCode=11279&packageCodes=TPA&offerCode=Q&utm_campaign=2018-Global-subsbutton-Q2&utm_medium=SUBS&utm_source=NSNS
+│   ├── http://subscription.newscientist.com/packages/newscientist-2018-Q2.php?promCode=11287&packageCodes=TPA&offerCode=Q&utm_campaign=2018-Global-navbar-Q2&utm_medium=SUBS&utm_source=NSNS
+│   ├── http://subscription.newscientist.com/packages/newscientist-2018-Q2.php?promCode=11372&packageCodes=TPA&offerCode=Q&utm_medium=PAC&utm_source=NSNS&utm_campaign=Q2_2018_Ticker
+│   ├── http://subscription.newscientist.com/packages/studenttwo.php?promCode=11716&packageCodes=TP&offerCode=Q&utm_campaign=2018-Global-header-student-subscribe&utm_medium=SUBS&utm_source=NSNS
+│   ├── https://subscribe.newscientist.com/myaccount/Login.aspx?utm_campaign=MYACC-header-topheader
+│   ├── https://www.newscientist.com
+│   ├── https://www.newscientist.com/topics/
+│   ├── https://www.newscientist.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Facebook&redirect_to=https%3A%2F%2Fwww.newscientist.com%2Farticle%2Fmg20827915.500-lets-build-babbages-ultimate-mechanical-computer%2F
+│   └── https://www.newscientist.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=https%3A%2F%2Fwww.newscientist.com%2Farticle%2Fmg20827915.500-lets-build-babbages-ultimate-mechanical-computer%2F
+├── https://www.theguardian.com/theguardian/2010/nov/08/harry-fensom-obituary
+│   ├── https://jobs.theguardian.com?INTCMP=jobs_int_web_newheader
+│   ├── https://profile.theguardian.com/email-prefs
+│   ├── https://profile.theguardian.com/password/change
+│   ├── https://profile.theguardian.com/public/edit
+│   ├── https://profile.theguardian.com/signin?INTCMP=DOTCOM_NEWHEADER_SIGNIN
+│   ├── https://profile.theguardian.com/signout
+│   ├── https://support.theguardian.com/subscribe?INTCMP=header_support_subscribe&acquisitionData=%7B"source":"GUARDIAN_WEB","componentType":"ACQUISITIONS_HEADER","componentId":"header_support_subscribe"%7D
+│   ├── https://support.theguardian.com?INTCMP=header_support&acquisitionData=%7B"source":"GUARDIAN_WEB","componentType":"ACQUISITIONS_HEADER","componentId":"header_support"%7D
+│   ├── https://www.theguardian.com/international
+│   ├── https://www.theguardian.com/preference/edition/au
+│   ├── https://www.theguardian.com/preference/edition/int
+│   ├── https://www.theguardian.com/preference/edition/uk
+│   └── https://www.theguardian.com/preference/edition/us
+├── https://www.wikidata.org/wiki/Special:EntityPage/Q68
+└── https://zh-min-nan.wikipedia.org/wiki/Ti%C4%81n-n%C3%A1u
