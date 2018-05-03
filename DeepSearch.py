@@ -3,8 +3,10 @@ from collections import Counter
 import urllib.request
 from bs4 import BeautifulSoup
 # from martinluther import martinLuther
+from treelib import Node, Tree
 import sys
 import re
+import time
 
 class wordCount:
     def __init__(self, file):
@@ -38,7 +40,7 @@ class wordCount:
         # flat_list = [item for self.wordlist in self.wordlist for item in self.wordlist]
 
         c = Counter(words)
-        print(c)
+        # print(c)
         try:
             # print(c['computer'])
             return int(c['computer']) + int(c['Computer'])
@@ -89,9 +91,11 @@ if __name__ == '__main__':
     html.setup()
     html_dict = dict()
     temp = html.beauiful_soup()
-    print(len(temp))
-
-    print(html.Count2())
+    tree = Tree()
+    # print(len(temp))
+    temp = temp[0:100]
+    tree.create_node("Root", "root")
+    # print(html.Count2())
 
     for link in temp:
         try:
@@ -99,11 +103,28 @@ if __name__ == '__main__':
             html_temp.setup()
             bs_html = html_temp.beauiful_soup()
             html_dict[link] = [bs_html, html_temp.Count2()]
-            print(bs_html)
+            tree.create_node(link, link, parent='root', data={'related_link': bs_html, 'count': html_temp.Count2()})
+            if len(bs_html) > 0:
+                for link2 in bs_html:
+                    html_temp2 = htmlparser(link2, '{}.txt'.format(link.split('//')[-1].replace('/', '').replace('.', '').replace('=', '').replace('?', '')))
+                    html_temp2.setup()
+                    bs_html2 = html_temp2.beauiful_soup()
+                    tree.create_node(link2, link2, parent=link, data={'related_link': bs_html2, 'count': html_temp2.Count2()})
+            # print(bs_html)
+            tree.show()
         except:
             print(sys.exc_info())
 
     f = open('final.txt', 'w+', encoding='utf-8')
     f.write(str(html_dict))
     f.close()
-    print(html_dict)
+    # print(html_dict)
+    print(tree.to_json(with_data=True))
+    tree.show()
+
+    start = time.time()
+    temp_tree = [{'link':tree[node].tag, 'count': tree[node].data['count']} for node in tree.expand_tree(mode=tree.ZIGZAG)
+                 if (tree[node].data is not None)]
+    stop = time.time()
+    print(temp_tree)
+    print("Total time: {}s".format(stop-start))
