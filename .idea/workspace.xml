@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f84b94e2-c15b-4202-b8eb-8a6a26cf787e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/recursivetest.py" />
+      <change beforePath="$PROJECT_DIR$/DeepSearch.py" afterPath="$PROJECT_DIR$/DeepSearch.py" />
+      <change beforePath="$PROJECT_DIR$/final.txt" afterPath="$PROJECT_DIR$/final.txt" />
+      <change beforePath="$PROJECT_DIR$/result/tree.json" afterPath="$PROJECT_DIR$/result/tree.json" />
+      <change beforePath="$PROJECT_DIR$/result/tree.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/temp/arstechnicacomuncategorized200812global-notebook-shipments-finally-overtake-desktops.txt" afterPath="$PROJECT_DIR$/temp/arstechnicacomuncategorized200812global-notebook-shipments-finally-overtake-desktops.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/clean_arstechnicacomuncategorized200812global-notebook-shipments-finally-overtake-desktops.txt" afterPath="$PROJECT_DIR$/temp/clean_arstechnicacomuncategorized200812global-notebook-shipments-finally-overtake-desktops.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/clean_enwikipediaorgwikiComputer.txt" afterPath="$PROJECT_DIR$/temp/clean_enwikipediaorgwikiComputer.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/clean_goremotesupportcomblogcrash-the-story-of-it-zuse.txt" afterPath="$PROJECT_DIR$/temp/clean_goremotesupportcomblogcrash-the-story-of-it-zuse.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/clean_newsbbccouk1hitechnology8492762stm.txt" afterPath="$PROJECT_DIR$/temp/clean_newsbbccouk1hitechnology8492762stm.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/clean_thefreedictionarycomcomputer.txt" afterPath="$PROJECT_DIR$/temp/clean_thefreedictionarycomcomputer.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/clean_wwwantikythera-mechanismgrprojectgeneralthe-projecthtml.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwantikythera-mechanismgrprojectgeneralthe-projecthtml.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/clean_wwwepn-onlinecompage22909the-hapless-tale-of-geoffrey-dummer-this-is-the-sad-html.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwepn-onlinecompage22909the-hapless-tale-of-geoffrey-dummer-this-is-the-sad-html.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/clean_wwwetymonlinecomindexphptermcomputer.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwetymonlinecomindexphptermcomputer.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/clean_wwwidccomgetdocjspcontainerIdprUS24239313.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwidccomgetdocjspcontainerIdprUS24239313.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/clean_wwwintelcommuseumarchives4004htm.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwintelcommuseumarchives4004htm.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/clean_wwwnaturecomnaturejournalv444n7119fig_tab444551a_F2html.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwnaturecomnaturejournalv444n7119fig_tab444551a_F2html.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/clean_wwwnewscientistcomarticlemg20827915500-lets-build-babbages-ultimate-mechanical-computerhtml.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwnewscientistcomarticlemg20827915500-lets-build-babbages-ultimate-mechanical-computerhtml.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/clean_wwwscientific-computingcomscwmayjun03computingmachineshtml.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwscientific-computingcomscwmayjun03computingmachineshtml.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/clean_wwwtheguardiancomtheguardian2010nov08harry-fensom-obituary.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwtheguardiancomtheguardian2010nov08harry-fensom-obituary.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/clean_wwwtnmocorgcolossus-rebuild-story.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwtnmocorgcolossus-rebuild-story.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/enwikipediaorgwikiComputer.txt" afterPath="$PROJECT_DIR$/temp/enwikipediaorgwikiComputer.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/goremotesupportcomblogcrash-the-story-of-it-zuse.txt" afterPath="$PROJECT_DIR$/temp/goremotesupportcomblogcrash-the-story-of-it-zuse.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/ieeexploreieeeorgstampstampjsparnumber00689507.txt" afterPath="$PROJECT_DIR$/temp/ieeexploreieeeorgstampstampjsparnumber00689507.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/newsbbccouk1hitechnology8492762stm.txt" afterPath="$PROJECT_DIR$/temp/newsbbccouk1hitechnology8492762stm.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/platostanfordeduentriescomputing-history.txt" afterPath="$PROJECT_DIR$/temp/platostanfordeduentriescomputing-history.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/plmsoxfordjournalsorgcgireprints2-421230.txt" afterPath="$PROJECT_DIR$/temp/plmsoxfordjournalsorgcgireprints2-421230.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/thefreedictionarycomcomputer.txt" afterPath="$PROJECT_DIR$/temp/thefreedictionarycomcomputer.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/worldwideespacenetcomtextdocDBEPODOC&amp;IDXUS2981877.txt" afterPath="$PROJECT_DIR$/temp/worldwideespacenetcomtextdocDBEPODOC&amp;IDXUS2981877.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/wwwantikythera-mechanismgrprojectgeneralthe-projecthtml.txt" afterPath="$PROJECT_DIR$/temp/wwwantikythera-mechanismgrprojectgeneralthe-projecthtml.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/wwwepemagcomzusepart4ahtm.txt" afterPath="$PROJECT_DIR$/temp/wwwepemagcomzusepart4ahtm.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/wwwepn-onlinecompage22909the-hapless-tale-of-geoffrey-dummer-this-is-the-sad-html.txt" afterPath="$PROJECT_DIR$/temp/wwwepn-onlinecompage22909the-hapless-tale-of-geoffrey-dummer-this-is-the-sad-html.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/wwwetymonlinecomindexphptermcomputer.txt" afterPath="$PROJECT_DIR$/temp/wwwetymonlinecomindexphptermcomputer.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/wwwidccomgetdocjspcontainerIdprUS24239313.txt" afterPath="$PROJECT_DIR$/temp/wwwidccomgetdocjspcontainerIdprUS24239313.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/wwwindependentcouknewspeopleobituary-allen-coombs-1611270html.txt" afterPath="$PROJECT_DIR$/temp/wwwindependentcouknewspeopleobituary-allen-coombs-1611270html.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/wwwintelcommuseumarchives4004htm.txt" afterPath="$PROJECT_DIR$/temp/wwwintelcommuseumarchives4004htm.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/wwwisocorginternethistorybriefshtml.txt" afterPath="$PROJECT_DIR$/temp/wwwisocorginternethistorybriefshtml.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/wwwlaitsutexasedughazalChap1dsbchapter1html.txt" afterPath="$PROJECT_DIR$/temp/wwwlaitsutexasedughazalChap1dsbchapter1html.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/wwwnaturecomnaturejournalv444n7119fig_tab444551a_F2html.txt" afterPath="$PROJECT_DIR$/temp/wwwnaturecomnaturejournalv444n7119fig_tab444551a_F2html.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/wwwnewscientistcomarticlemg20827915500-lets-build-babbages-ultimate-mechanical-computerhtml.txt" afterPath="$PROJECT_DIR$/temp/wwwnewscientistcomarticlemg20827915500-lets-build-babbages-ultimate-mechanical-computerhtml.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/wwwourcomputerheritageorgwp.txt" afterPath="$PROJECT_DIR$/temp/wwwourcomputerheritageorgwp.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/wwwsciencemuseumorgukonlinestuffstoriesbabbageaspxpage5.txt" afterPath="$PROJECT_DIR$/temp/wwwsciencemuseumorgukonlinestuffstoriesbabbageaspxpage5.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/wwwscientific-computingcomscwmayjun03computingmachineshtml.txt" afterPath="$PROJECT_DIR$/temp/wwwscientific-computingcomscwmayjun03computingmachineshtml.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/wwwtechiwarehousecomenginea046ee08Generations-of-Computer.txt" afterPath="$PROJECT_DIR$/temp/wwwtechiwarehousecomenginea046ee08Generations-of-Computer.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/wwwtheguardiancomtheguardian2010nov08harry-fensom-obituary.txt" afterPath="$PROJECT_DIR$/temp/wwwtheguardiancomtheguardian2010nov08harry-fensom-obituary.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/wwwtimecomtimeprintout0,8816,954266,00html.txt" afterPath="$PROJECT_DIR$/temp/wwwtimecomtimeprintout0,8816,954266,00html.txt" />
+      <change beforePath="$PROJECT_DIR$/temp/wwwtnmocorgcolossus-rebuild-story.txt" afterPath="$PROJECT_DIR$/temp/wwwtnmocorgcolossus-rebuild-story.txt" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DeepSearch.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DeepSearch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="96" column="63" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recursivetest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/recursivetest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="112" column="22" lean-forward="false" selection-start-line="112" selection-start-column="22" selection-end-line="112" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Percent</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DeepSearch.py" />
+        <option value="$PROJECT_DIR$/recursivetest.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="22" />
+    <option name="y" value="-23" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DeepSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeepSearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeepSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeepSearch" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.recursivetest">
+    <configuration name="DeepSearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DeepSearch" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepSearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="recursivetest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DeepSearch" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursivetest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.DeepSearch" />
+      <item index="1" class="java.lang.String" itemvalue="Python.recursivetest" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.recursivetest" />
+        <item index="1" class="java.lang.String" itemvalue="Python.DeepSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f84b94e2-c15b-4202-b8eb-8a6a26cf787e" name="Default" comment="" />
+      <created>1525400607719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525400607719</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DeepSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="96" column="63" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recursivetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="112" column="22" lean-forward="false" selection-start-line="112" selection-start-column="22" selection-end-line="112" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/tree.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="96" column="63" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/tree.txt" />
+    <entry file="file://$PROJECT_DIR$/recursivetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="112" column="22" lean-forward="false" selection-start-line="112" selection-start-column="22" selection-end-line="112" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,7 +1,7 @@
 
 
 
-Dictionary, Encyclopedia and Thesaurus - The Free Dictionary
+Access The Free Dictionary from Anywhere
 
 
 
@@ -12,8 +12,7 @@ Dictionary, Encyclopedia and Thesaurus - The Free Dictionary
 
 
 
-
-_cb='?j';function ById(id){return document.getElementById(id)};var info={IsApp:0,word:'',Domain:'thefreedictionary.com',PageLang:'en',canonical:'https://www.thefreedictionary.com',tab:1,isLogin:(/c\d\d[^;]*userTicket=[^;]*/.test(document.cookie)),a:'xx',isExtDomain:false},hp_title='Dictionary, Encyclopedia and Thesaurus - The Free Dictionary',abu='rxzkrqjbxqnfhpztyhpegkwwwzsvsuwy';(function(d,w){var t=/c11.*font=([12]\d)/g.exec(d.cookie);if(t&&t.length>1)d.documentElement.style.fontSize=t[1]+'px';w.bm='';var a=navigator.userAgent,e=a.indexOf('Trident/')>0||a.indexOf('MSIE')>0,f=w.sidebar,t=hp_title,u='http://www.thefreedictionary.com';if(e||f)w.bm='<li><a href="'+(e?'javascript:external.AddFavorite(\''+u+'\',\''+t+'\')':u)+'" title="'+t+'" rel="sidebar">Bookmark</a></li>'})(document,window);
+_cb='?j';function ById(id){return document.getElementById(id)};var info={IsApp:0,word:'',Domain:'thefreedictionary.com',PageLang:'en',canonical:'https://www.thefreedictionary.com/download.htm',tab:1,isLogin:(/c\d\d[^;]*userTicket=[^;]*/.test(document.cookie)),a:'vl',isExtDomain:false},hp_title='Dictionary, Encyclopedia and Thesaurus - The Free Dictionary',abu='rxzkrqjbxqnfhpztyhpegkwwwzsvsuwy';(function(d,w){var t=/c11.*font=([12]\d)/g.exec(d.cookie);if(t&&t.length>1)d.documentElement.style.fontSize=t[1]+'px';w.bm='';var a=navigator.userAgent,e=a.indexOf('Trident/')>0||a.indexOf('MSIE')>0,f=w.sidebar,t=hp_title,u='http://www.thefreedictionary.com';if(e||f)w.bm='<li><a href="'+(e?'javascript:external.AddFavorite(\''+u+'\',\''+t+'\')':u)+'" title="'+t+'" rel="sidebar">Bookmark</a></li>'})(document,window);
 function waiting(id){ById(id).innerHTML='<img id="'+id+'_ld" width="16" height="16" src="//img.tfd.com/m/wait16.gif">';setTimeout(function(){if(ById(id+'_ld'))document.getElementById(id).innerHTML='Problem loading data'},10000)}
 
 
@@ -26,15 +25,20 @@ function waiting(id){ById(id).innerHTML='<img id="'+id+'_ld" width="16" height="
 	.header-top{margin-bottom:25px}
 }
 
-@media only screen and (max-width:1024px){
-	.main-holder{padding-left:0}
-}
-
 @media only screen and (max-width:390px){
 	.header-block{margin:9px 6px 0;width:76px}
 	.logo-holder{width:117px} 
 }
 
+focus()
+
+
+.main-holder img{vertical-align:middle}
+.main-holder p{margin-bottom:30px}
+.main-holder UL{list-style:initial;padding:0 0 0 1.5em;margin-bottom:10px}
+h3{background-color:#F0F0F0;padding:6px}
+.colblock{max-width:48%;display:inline-block;margin:0 1% 10px 0;vertical-align:top}
+@media only screen and (max-width:760px){.colblock{max-width:100%;display:block;margin:0 0 30px 0}}
 
 
 
@@ -45,110 +49,14 @@ function waiting(id){ById(id).innerHTML='<img id="'+id+'_ld" width="16" height="
 
 
 
-
-#xx6{text-align:center}
-h1,h2{font-weight:bold}
-table.hpTit{width:100%;height:40px;cursor:pointer}
-td.hpTit,#AddRestoreClone .hpTit{color:#e76049;font-weight:bold;font-size:13pt}
-.box{width:100%;margin-top:0pt;padding:10px}
-[class^=bc]{background-color:white;border-radius:3px;overflow:hidden;margin-bottom:10px}
-.bc_box4{background-color:#fff7ed}
-.hpBtnsBox{position: relative;top:-6px;white-space:nowrap}
-.hpCol0 .hpBtnsBox{top:-3px}
-.bBtn{font-family:Verdana;color:#C0C0C0;font-weight:normal;margin:2px;background:white;padding:3px;border-radius:4px;font-size:13pt}
-.bBtn:hover{color:black}
-.edit,.close{width:13px;height:13px;display:inline-block;margin-bottom:2px}
-.edit{background-position:-62px 0px}
-.close{background-position:-76px 0px}
-.box th{line-height:40px;font-size:16px;text-align:left;color:#5f9eb3}
-.bc_box4 th{color:#e76049}
-.bc_box3 th{color:#696969}
-h2{font-size:16px;text-align:left;margin:0px;line-height:initial;max-width:330px;overflow:hidden}
-.hpCol0 h2{font-size:14px}
-SPAN.toggle{width:11px;height:11px;background-position:0 -115px}
-.weatherimg{width:48px;height:35px;background-image:url(//img.tfd.com/hp/all.png);background-repeat:no-repeat;text-decoration:none;display:inline-block;margin:0;vertical-align:middle}
-.ParameterZone{padding-bottom:5px}
-.hp_param{display:block}
-.bgCells{border:solid 1px #5f9eb3;line-height:9px;width:173px}
-.bgCells>span{display:inline-block;width:10px;height:15px;cursor:pointer}
-.bgCells>span:hover{border:solid 1px black}
-.box1img{margin:0px 10px 10px 0px}
-h3{margin:0px 0px 5px 0px}
-#tblMatchUp,#tblMismatch{width:100%;font-size:16px}
-[id^="mu_"],[id^="mm_"]{border-radius:3px;padding:5px;text-align:center;cursor:pointer}
-.mu_D0{background-color:#ffedcd}
-.mu_D1{background-color:#e4e7b3}
-.mu_D2{background-color:#cef0c3}
-.mu_D3{background-color:#cdf0f0}
-.mu_D4{background-color:#dedfff}
-.mu_H0:hover,.mu_D0:hover,.mu_S0{background-color:#ffcc6a}
-.mu_H1:hover,.mu_D1:hover,.mu_S1{background-color:#e0e774}
-.mu_H2:hover,.mu_D2:hover,.mu_S2{background-color:#a8f08f}
-.mu_H3:hover,.mu_D3:hover,.mu_S3{background-color:#a8eff0}
-.mu_H4:hover,.mu_D4:hover,.mu_S4{background-color:#b7baff}
-.mm_D0{background-color:#FFB2EB}
-.mm_D1{background-color:#A4A7E4}
-.mm_D2{background-color:#FBA0A0}
-.mm_D3{background-color:#CCEFAB}
-.mm_D4{background-color:#A2F1DD}
-.mm_H0:hover,.mm_D0:hover,.mm_S0{background-color:#A91B85;color:bisque}
-.mm_H1:hover,.mm_D1:hover,.mm_S1{background-color:#575CCC;color:bisque}
-.mm_H2:hover,.mm_D2:hover,.mm_S2{background-color:#A22E2E;color:bisque}
-.mm_H3:hover,.mm_D3:hover,.mm_S3{background-color:#4C821A;color:bisque}
-.mm_H4:hover,.mm_D4:hover,.mm_S4{background-color:#0F755C;color:bisque}
-[class^="mu_S"]{cursor:default}
-[class^="mm_S"]{cursor:default;color:bisque}
-input[type="button"]:disabled{background:#aaa;cursor:default}
-.gameWarn{padding:5px;font-weight:bold;color:#e76049}
-.wm_a,.wm_ar{float:left;margin:0px 7px;min-width: 80px}
-.wm_ar a{color:#e76049}
-.shareFeedBtns{position:relative;top:1px}
-.social-networks{display:inline}
-.hpCol{width:50%;float:left;min-width:314px;padding:0px 5px}
-.hpCol0{width:200px; float:left;padding-left:5px}
-.hpCol1{margin-left:205px}
-.hpCont{overflow:auto; width:100%; background:#eeeeee; padding:15px 10px 5px 10px}
-@media (max-width:940px){.hpCol{width:100%}}
-@media (min-width:941px) and (max-width:1080px){.mail,.rss{display:none !important}}
-@media (max-width:620px){
-	.hpCol0{position:absolute;z-index:-1}
-	.hpCol1{margin-left:0px}
-	.hide600{display:none!important}
-}
-@media (max-width:400px){
-	.hide400{display:none!important}
-	.box,.hpCol{padding:0px }
-	.hpCont{padding:15px 0px}
-}
-#DragContainer{position:absolute;cursor:move;top:0px;left:0px;background-color:white}
-.dvGroupTitle{color:#2484c6;cursor:pointer}
-.dvGroupTitle:hover{opacity:.8}
-.dvGroupTitle:before{content:"+";margin-right:3px;background:white;font-family:monospace}
-.dvGroupTitle.open:before{content:"-"}
-.dvChild{margin-left:10px}
-.dvChild span{color:gray}
-.customRss{margin-top:10px;font-size:8pt}
-.customRss input[type=text]{width:100px}
-.customRss input{margin-top:0px}
-
-
-
-
-
-
-
-
-
-
-
-Dictionary, Encyclopedia and Thesaurus - The Free Dictionary https://www.thefreedictionary.comPrinter Friendly
+Access The Free Dictionary from Anywhere https://www.thefreedictionary.com/download.htmPrinter Friendly
 
 
 
 
 
 Dictionary, Encyclopedia and Thesaurus - The Free Dictionary
-10,792,924,394 visitors served
+10,793,785,047 visitors served
 
 
 Search / Page tools
@@ -278,225 +186,143 @@ Close
 
 
 
-The world's most comprehensive dictionary: English, Spanish, German, French, Italian, Chinese, Portuguese, Dutch, Norwegian, Greek, Arabic, Polish, Turkish, Russian, Thesaurus, Medical, Legal, and Financial Dictionaries, Thesaurus, Acronyms and Abbreviations, Idioms, Encyclopedia, a Literature Reference Library, and a Search Engine all in one!if(document.cookie)ById('h1tagline').style.display='none'
+Access The Free Dictionary from Anywhere
 
 
-Thursday, May 3, 2018
-	 | View Archive
+	All downloads on TheFreeDictionary.com are Spyware free. All the software you download from our website does what it is supposed to do and nothing else.
 
-?
+Mobile apps from TheFreeDictionary.com
+Access the power of the world's most comprehensive dictionary anywhere!
 
-You have disabled JavaScript. Some functions on this page will not work.
 
+The classic free version, downloaded more than 6 million times!
 
+Multiple dictionaries, encyclopedias, and thesauruses in one place.
+14 languages: English, Spanish, French, German, Italian, Simplified Chinese, Portuguese, Dutch, Norwegian, Greek, Arabic, Polish, Turkish, and Russian.
+Online translations of English into more than 40 languages, plus dozens of other translation options.
 
+		Available for: 
+	
 
-
 
 
-+
-Add Content
-?
 
 
 
-if (localStorage["menuState"]&1){document.getElementById('addContentPlus').innerHTML = '&ndash;';document.getElementById('addContentBlock').style.display=''}
 
 
 
+The PRO version, with expanded offline content.
 
+No ads.
+A more comprehensive English offline dictionary, plus 13 other offline dictionaries: Spanish, French, German, Italian, Simplified Chinese, Portuguese, Dutch, Norwegian, Greek, Arabic, Polish, Turkish, and Russian.
+Offline translations of English into more than 40 languages, plus dozens of other offline translation options.
+Plus all the content of the classic free app!
 
-function opMenu(i, t, c) { if (localStorage["menuState"] & i) {t.className = 'dvGroupTitle open';c.style.display=''}};
-The Free Dictionary
-Word of the Day
-Article of the Day
-Daily Grammar Lesson
-Grammar Quiz
-The Free Dictionary Blog
-This Day in History
-Today's Birthday
-Today's Holiday
-Quotation of the Day
-Idiom of the Day
-In the News
-Spelling Bee
-Hangman Game
-Match Up Game
-Mismatch Game
-Live Searches
-WordHub
-What's Inside
-For Surfers
-For Webmasters
-A - Z
-My Bookmarks
-Flashcards
-English Forum
+		Available for:
+	
 
-top.opMenu(2, document.getElementById('Content_CA_CP_ctl00_dvGroupTitle'),document.getElementById('Content_CA_CP_ctl00_dvChild'));Syndicated News
-World
-BBC World News
-NPR World News
-CNN World News
-Google World News
-International Herald Tribune
-Guardian
 
-top.opMenu(16, document.getElementById('Content_CA_CP_ctl01_ctl00_dvGroupTitle'),document.getElementById('Content_CA_CP_ctl01_ctl00_dvChild'));US
-NPR US News
-CNN US News
-Google US News
-NYTimes - Home Page
-ABC News: Top Stories
 
-top.opMenu(32, document.getElementById('Content_CA_CP_ctl01_ctl01_dvGroupTitle'),document.getElementById('Content_CA_CP_ctl01_ctl01_dvChild'));Business
-CNN World Business News
-BBC World Business News
-NPR Business News
-Google Business News
 
-top.opMenu(64, document.getElementById('Content_CA_CP_ctl01_ctl02_dvGroupTitle'),document.getElementById('Content_CA_CP_ctl01_ctl02_dvChild'));Entertainment
-BBC Entertainment News
-CNN Entertainment News
-Entertainment Weekly - Movies
-Entertainment Weekly - TV Watch
-People - Celebrity News
-Google Entertainment News
 
-top.opMenu(128, document.getElementById('Content_CA_CP_ctl01_ctl03_dvGroupTitle'),document.getElementById('Content_CA_CP_ctl01_ctl03_dvChild'));Science & Tech
-BBC Science & Nature
-NYTimes Science
-CNET
-Wired
-Google Sci/Tech News
 
-top.opMenu(256, document.getElementById('Content_CA_CP_ctl01_ctl04_dvGroupTitle'),document.getElementById('Content_CA_CP_ctl01_ctl04_dvChild'));Arts & Culture
-NPR Arts & Culture
-NPR Books
-NPR Music
-NPR Education
 
-top.opMenu(512, document.getElementById('Content_CA_CP_ctl01_ctl05_dvGroupTitle'),document.getElementById('Content_CA_CP_ctl01_ctl05_dvChild'));Sports
-CNN World Sport
-ESPN
-Google Sports News
 
-top.opMenu(1024, document.getElementById('Content_CA_CP_ctl01_ctl06_dvGroupTitle'),document.getElementById('Content_CA_CP_ctl01_ctl06_dvChild'));Health
-BBC Health News
-Google Health News
 
-top.opMenu(2048, document.getElementById('Content_CA_CP_ctl01_ctl07_dvGroupTitle'),document.getElementById('Content_CA_CP_ctl01_ctl07_dvChild'));
-top.opMenu(4, document.getElementById('Content_CA_CP_ctl01_dvGroupTitle'),document.getElementById('Content_CA_CP_ctl01_dvChild'));Miscellaneous
-Weather
-Horoscope
-Recent Searches
-E-mail
+Complete English Grammar Rules
 
-top.opMenu(8, document.getElementById('Content_CA_CP_ctl02_dvGroupTitle'),document.getElementById('Content_CA_CP_ctl02_dvChild'));
-URL of the RSS/Atom feed
+100% offline and ad-free.
+175+ interactive grammar quizzes designed to help you retain what you've learned.
+Thousands of real-world example sentences. 
+Avoid common grammar mistakes.
+Quickly master basic English grammar and tackle more advanced topics.
 
+		Available for:
+	
 
 
 
 
 
+More specialty The FreeDictionary apps are available here
+Desktop Assistant for Windows
 
+	Desktop Assistant has been developed by Sphinx Software. This convenient software allows you to access The Free Dictionary’s definitions and encyclopedia entries by selecting a word or phrase with one click. It works in almost any application.
 
+	Download Desktop Assistant
 
 
+Right-Click Browser Add-on
+Browser add-ons — also known as extensions — are mini-programs that enhance the default functionality of your web browser. 
 
- What's Inside
-?×
+For Internet Explorer
 
+Dictionary Add-on is a simple right-click add-on for Internet Explorer that
+                        adds the "Definition" option to the right-click menu. No matter what
+                        website you are visiting, you can now instantly check any word's
+                        definition.
+                    
+Directions:
 
 
-English:
+                            Open the browser and navigate to any web page
+                        
+                            Highlight (or double-click) any word
+                        
+                            Right-click and select "Dictionary" in the menu
+                    
 
-Dictionary
-Thesaurus
-Medical Dictionary
-Legal Dictionary
-Financial Dictionary
-Acronyms
-Idioms
-Encyclopedia
-English Grammar
-Wikipedia
-The Free Library
+Install add-on for Internet Explorer
 
-More Languages:
 
-Spanish Dictionary
-German Dictionary
-French Dictionary
-Italian Dictionary
-Arabic Dictionary
-Chinese Dictionary (S)
-Polish Dictionary
-Portuguese Dictionary
-Dutch Dictionary
-Norwegian Dictionary
-Greek Dictionary
-Russian Dictionary
-Turkish Dictionary
-Hebrew Dictionary
 
+For Mozilla Firefox
 
+Dictionary Search Extension provides a very easy way to look up a word found on a web page or in an email.
+                    
+Simply highlight the word you want to look up, then right-click and select "Search Dictionary for ...." A new tab or browser window will open with the meaning of the word you selected.
+Install extension for Firefox
 
 
+For Chrome
 
+Double-click a word on any website and instantly get its definition at TheFreeDictionary, the world's most comprehensive dictionary!
 
+                    Finding the definition of any word on any website has never been easier!
 
+                    Instantly access definitions from TheFreeDictionary.com four easy ways:
+                    
+Double-click any word.
+Click the extension icon and search directly from your toolbar.
+Highlight any word and click the extension icon.
+Highlight any word and right-click.
 
- Live Searches
+The Chrome extension is available at Chrome WebStore 
 
 
+For Safari
 
+Double-click any word to instantly get its definition from TheFreeDictionary.com, the world's most comprehensive dictionary! Or click the icon to search the dictionary directly from your toolbar.
 
-Background: 
+                    Finding the definition of any word on any website has never been easier!
 
+                    Instantly access definitions from TheFreeDictionary.com four easy ways:
+                    
+Double-click any word.
+Click the extension icon and search directly from your toolbar.
+Highlight any word and click the extension icon.
+Highlight any word and right-click.
 
-remove this box from homepage
+Install safari extension 
 
 
 
 
-	#dvLiveSearch {
-		height: 326px;
-		overflow:hidden;
-		overflow-anchor:none;
-	}
-	#dvLiveSearch a {
-		border: solid 1px blue;
-		height: 0px;
-		margin: 0px;
-		text-align:center;
-		padding-top: 0px;
-		transition: all 0.4s ease-out;
-		height: 0px;
-		padding-top: 0px;
-		border: 0px;
-		visibility:hidden;
-		opacity: 0;
-		overflow:hidden;
-		float: left;
-		width: 100%;
-		display:block;
-	}
-	#dvLiveSearch a.sh {
-		opacity: 1;
-		height: 25px;
-		border: solid 1px gray;
-		border-radius: 4px;
-		margin: 4px 0;
-		padding-top: 3px;
-		visibility:visible;
-	}
-	#dvLiveSearch a.sh:hover {
-		background:#eee;
-	}
 
-Here's what people are searching for right now:
+Facebook Share
+Twitter
+Google+
 
 
 
@@ -504,967 +330,25 @@ Here's what people are searching for right now:
 
 
 
+Site:
+Follow:
 
- For Surfers
-?×
+Facebook
+Twitter
+Google+
+Rss
+Mail
 
+Share:
 
+Facebook
+Twitter
+LinkedIn
+Mail
 
-Mobile Apps
-Word of the Day
-Word Finder
-document.write(bm.replace('<li>','').replace('</li>','<br>'))
-Help
-Feedback
 
 
-
-
-
-
-
-
- For Webmasters
-?×
-
-
-
-Free content
-Linking
-Lookup box
-Double-click lookup
-Partner with us
-
-
-
-
-
-
-
- Weather
-?
-
-
-
-Unit: FC
-Location: 
-Background: 
-
-
-remove this box from homepage
-
-
-
-
-
-
-
-
-
-
- Recent Searches
-?×
-
-
-
-
-
-
-
-
-
-
- A - Z
-?×
-
-
-
-
-A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-
-
-
-
-
-
-
-
-
-
-
-
- Customize Your Homepage
-?×
-
-
-
-TheFreeDictionary.com now allows you to create your own personal homepage by adding and removing, dragging and dropping, and "using or losing" existing content windows. In addition, you can add your own bookmarks, weather information, horoscope, and RSS feeds from anywhere on the web.
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-(adsbygoogle = window.adsbygoogle || []).push({});
-
-
-
-
-
-
-
-
-
- Word of the Day
-?
-
-
-
-
-Background: 
-
-
-remove this box from homepage
-
-
-
-
-disputable
-
-
-Definition:
-(adjective) Open to argument or debate.
-Synonyms:arguable, debatable, mootUsage:He certainly looked at her friend a great deal, but the expression of that look was disputable.
- Discuss.
-
-
-
-
-
-
-
-
- Daily Grammar Lesson
-?
-
-
-
-Background: 
-
-
-remove this box from homepage
-
-
-Defining Noun PhrasesNoun phrases are groups of two or more words within a sentence that function grammatically as nouns. Although noun phrases primarily have a noun as the base word that is being modified, what else can they have as their structural base? More... Discuss
-
-
-
-
-
-
-
- Article of the Day
-?
-
-
-
-
-Background: 
-
-
-remove this box from homepage
-
-
-HacktivismA portmanteau of "hack" and "activism," hacktivism is the nonviolent use of illegal or legally ambiguous digital tools such as website defacement or parodies, redirects, information theft, and virtual sit-ins to achieve political ends. Acts of hacktivism are often conducted in the belief that they will have effects similar to that of regular activism or civil disobedience, but critics contend that cyber-attacks are a destructive form of protest. What is the earliest known instance of hacktivism? More... Discuss
-
-
-
-
-
-
-
- This Day in History
-?
-
-
-
-
-Background: 
-
-
-remove this box from homepage
-
-
-Three-Year-Old Madeleine McCann Goes Missing (2007)A few weeks before her fourth birthday, Madeleine McCann disappeared from an apartment in Portugal, where she, her parents, and her twin siblings were on vacation. Her disappearance received international press coverage, but despite numerous investigations by several different agencies, young Madeleine remains missing and no arrests have been made in the case. However, Portuguese authorities at different times categorized several individuals as having arguido status, which means what? More... Discuss
-
-
-
-
-
-
-
- Today's Birthday
-?
-
-
-
-
-Background: 
-
-
-remove this box from homepage
-
-
-James Brown, the Godfather of Soul (1933)One of the original inductees of the Rock and Roll Hall of Fame and one of the most influential entertainers of the 20th century, "Godfather of Soul" James Brown evolved a highly personal style that combined gospel and blues elements with a spectacular stage presence. During his five-decade career, "the Hardest-Working Man in Show Business" had numerous chart-topping singles and albums. What trademark feature of Brown's stage shows was inspired by professional wrestler Gorgeous George? More... Discuss
-
-
-
-
-
-
-
- Quotation of the Day
-?
-
-
-
-
-Background: 
-
-
-remove this box from homepage
-
-
-Yesterday, n.: The infancy of youth, the youth of manhood, the entire past of age. Ambrose Bierce (1842-1914) Discuss
-
-
-
-
-
-
-
- Mismatch
-
-
-
-
-Background: 
-
-
-remove this box from homepage
-
-
-
-
-
-Select word:
-Select opposite:
-
-wittingly
-implausibly
-
-carefully
-still
-
-upwards
-inadvertently
-
-credibly
-carelessly
-
-no longer
-downwardly
-
-
-Match each word in the left column with its antonym (opposite) on the right. When finished, click Answer to see the results. Good luck!
- 
-
-
-
-
-
-
-
-
- Ad
-
-
-
-
-
-
-
-
-
-
-
-
-
- English Language Forum
-
-
-
-
-Show Description
-Number of Items: 
-1
-2
-3
-4
-5
-6
-7
-8
-
-Background: 
-
-
-remove this box from homepage
-
-
-
-
-
-
-
-
-
-
- The Free Dictionary Blog
-
-
-
-
-Background: 
-
-
-remove this box from homepage
-
-
-
-
-
-Book-Man: The new game from The Free Dictionary
-Enter the word maze with Book-Man. How many words can you find?
-
-
-See all blog posts
-
-
-
-
-
-
-
-
-
- Flashcards
-?
-
-
-
-Background: 
-
-
-remove this box from homepage
-
-
-
-Please log in or register to use bookmarks. You can also log in with FacebookTwitterGoogle+Yahoo
-
-
-if (info.isLogin) { ById('flashcardLogin').style.display = 'none'; ById('flashcardContent').style.display = ''; waiting('flashcardCont') }
-
-
-
-
-
-
-
-
- My Bookmarks
-?
-
-
-
-Background: 
-
-
-remove this box from homepage
-
-
-
-Please log in or register to use bookmarks. You can also log in with FacebookTwitterGoogle+Yahoo
-
-
-if (info.isLogin) { document.getElementById('wordlist-login').style.display = 'none'; document.getElementById('wordlist-content').style.display = ''; waiting('word_list') }
-
-
-
-
-
-
-
-
- Hangman
-?
-
-
-
-Background: 
-
-
-remove this box from homepage
-
-
-
-
-span.hmimg {
-	background-image: url(//img.tfd.com/m/hangman.png);
-	background-repeat: no-repeat;
-	text-decoration: none;
-	display: inline-block;
-	margin: 0px;
-	vertical-align: middle;
-	font-size: 0px;
-	text-align: left;
-	color: #FFF;
-	width: 100px;
-	height: 105px;
-}
-#tfd_hm_a a{margin-right:5px}
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-	Your guess: 
- 
-
-
-New Game
-Learn the word
-Play full version
-
-
-
-
-
-
-
-
-
- Grammar Quiz
-?
-
-
-
-Background: 
-
-
-remove this box from homepage
-
-
-
-
-#grammarQuiz .aCr, .aCrU {color:green;font-weight:bold}
-#grammarQuiz .aCr:after {content:" (Correct answer)"}
-#grammarQuiz .aCrU:after {content:" (Correct!)"}
-#grammarQuiz .aWr {color:red}
-#grammarQuiz .aOth {color:gray}
-
-
-Which of the following uses an interpunct (·) incorrectly?
-
-a) re·ver·ber·ate
-b) 93,549·62
-c) 374·473 = 176,902
-d) “I hope you like working in a fast·paced environment.”
-
-
-
-Learn this topic
-
-
-
-Learn this topic
-
-
-
-Next Quiz
-
-
-
-
-
-
-
-
-
-
- Spelling Bee
-
-
-
-
-Background: 
-
-
-remove this box from homepage
-
-
-
-
-
-Difficulty level: easy
-hard
-expert
-
-
-n. A pleasingly flamboyant style or manner
-Spell the word:  
- 
-
-
-
-
-
-
-
-
-
-
-
- Match Up
-?
-
-
-
-Background: 
-
-
-remove this box from homepage
-
-
-
-
-
-Select word:
-Select match:
-
-febrifuge
-peccadillo
-
-bric-a-brac
-edema
-
-poltroon
-antipyretic
-
-indiscretion
-whatnot
-
-dropsy
-craven
-
-
-Match each word in the left column with its synonym on the right. When finished, click Answer to see the results. Good luck!
- 
-
-
-
-
-
-
-
-
- 
-?
-
-
-
-
-Game Mode:
-WordHubOld version (Words Within Words)
-
-Background: 
-
-
-remove this box from homepage
-
-
-
-Found #f words of #t
-#f/#t words#p points
-{0} word
-{0} words
-{0} words
-{0} point
-{0} points
-{0} points
-
-#wm_mode-btn {cursor:pointer; font-weight: 100;font-size: smaller;display: inline-block;vertical-align: top;height: 27px;}
-@media(max-width:1409px) and (min-width:941px) {
-	#wm_mode-btn{display:none}
-}
-@media(max-width:777px) and (min-width:621px) {
-	#wm_mode-btn{display:none}
-}
-@media(max-width:572px) {
-	#wm_mode-btn{display:none}
-}
-.wordhub{ width: 140px;text-align: center;}
-.wordwheel, .wordwheel>.container {width:	140px;height:130px;}
-div.wordwheel {clear: both;margin: 20px auto;padding: 0 10px 10px 10px;display: table-cell;position:relative}
-.wordwheel>.logo{ background: url(//img.tfd.com/wordhub-logo-120.png) no-repeat;width: 120px;height: 120px; cursor:pointer }
-.wm_logo-20{ background: url(//img.tfd.com/wordhub-logo-20.png) no-repeat;width: 20px;height: 20px;display:inline-block }
-.wordwheel>.container {overflow: hidden;position: relative;border: 1px solid #c0c0c0;border-radius: 50%;width: 120px;height: 120px;}
-.wordwheel > canvas.round-timer{width: 120px;height: 120px;}
-.wordwheel > canvas.round-timer {position: absolute;z-index: 1;top: 0;left: 10px;}
-div.wh_l{width:25px;height:25px;line-height:25px;-ms-border-radius:50%;-moz-border-radius:50%;-webkit-border-radius:50%;border-radius:50%;text-align:center;color:#fff;border-width:2px;border-style:solid;cursor:pointer;z-index:3}
-div.wh_l span {line-height: 17px;font-size: 21px;font-family: Comic Sans MS;font-variant: small-caps; }
-div.wh_l.l0 {background: #2c3e50;border-color: #2c3e50;}
-div.wh_l.l1 {background: #ed145b;border-color: #ed145b;}
-div.wh_l.l2 {background: #3498db;border-color: #3498db;}
-div.wh_l.l3 {background: #f39c12;border-color: #f39c12;}
-div.wh_l.l4 {background: #1abc9c;border-color: #1abc9c;}
-div.wh_l.l5 {background: #9b59b6;border-color: #9b59b6;}
-div.wh_l.l6 {background: #c0392b;border-color: #c0392b;}
-div.wh_l.l7 {background: #D8AE03;border-color: #D8AE03;}
-div.wh_l.l8 {background: #1abc9c;border-color: #1abc9c;}
-div.wh_l.l0.sel {background: transparent;color: #2c3e50;}
-div.wh_l.l1.sel {background: transparent;color: #ed145b;}
-div.wh_l.l2.sel {background: transparent;color: #3498db;}
-div.wh_l.l3.sel {background: transparent;color: #f39c12;}
-div.wh_l.l4.sel {background: transparent;color: #1abc9c;}
-div.wh_l.l5.sel {background: transparent;color: #9b59b6;}
-div.wh_l.l6.sel {background: transparent;color: #c0392b;}
-div.wh_l.l7.sel {background: transparent;color: #D8AE03;}
-div.wh_l.l8.sel {background: transparent;color: #1abc9c;}
-.disabled>.wordwheel>.container>.wh_l { background-color: gray;border-color: gray;cursor:default}
-span.selected-chars {color: #E74C3C;border: 3px solid #E74C3C;font-size: 17px;font-family: Comic Sans MS;font-variant: small-caps; line-height: 15px;overflow: hidden;display: inline-block;height: 25px;padding: 0 10px;-ms-border-radius: 15px;-moz-border-radius: 15px;-webkit-border-radius: 15px;border-radius: 15px;margin: 5px auto;cursor: pointer;}
-*.unselectable {-moz-user-select: -moz-none;-khtml-user-select: none;-webkit-user-select: none;-ms-user-select: none;-o-user-select: none;user-select: none;}
-.wh-answers {float: left; width: calc(100% - 140px); }
-#wm_answers{margin-top:18px}
-@media (max-width:670px) and (min-width:621px) {
-	.wh-answers {width: 100%;}
-}
-@media (max-width:1210px) and (min-width:941px) {
-	.wh-answers {width: 100%;}
-}
-@media (max-width:460px) {
-	.wh-answers {width: 100%;}
-}
-span.time-left {margin: 0 auto;color: #3498db;display: inline-block;font-weight: bold;height: 20px;}
-span.time-left.hurry-up {color: red;}
-
-#wordMaker:focus {outline: 0;}
-.wm_a.wh {margin-top: 10px;text-align: center;}
-.wm_a.wh>a {color: white;border: 2px solid #34495E;background-color: #34495E;font-size: 12px;font-family: Comic Sans MS;font-variant: small-caps; line-height: 15px;-ms-border-radius: 15px;-moz-border-radius: 15px;-webkit-border-radius: 15px;border-radius: 15px;padding: 0 5px;}
-#wm_wh_newuser>p {margin-top: 0;margin-bottom: 8px;}
-#wm_wh_results{ margin-top: 8px;font-weight:bold}
-#wm_wordhub-link a{ white-space: nowrap;}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Play your friends head-to-head at  WordHub.comOr start over
-
-
-
-Welcome to WordHub!Use the letters in the wheel to create as many words as you can before time runs out!Play with mouse: Click letters to add or erase them. Click the red circle to delete all.Play with keyboard: Type to add and Backspace to erase. Press Escape to delete all.Good luck!
-
-
-
-Chronological  
-				Alphabetical
-
-
-
-If you leave this page, you'll lose your results. Log in with one click to save your game!
-Share your results and see if your friends can find more words than you!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- Today's Holiday
-?
-
-
-
-
-Background: 
-
-
-remove this box from homepage
-
-
-Constitution Memorial Day (Japan)Constitution Memorial Day, or Kempo Kinen-Bi, is observed as a national holiday on May 3 and commemorates the adoption of the democratic constitution in 1947. The holiday is part of Golden Week, which includes Children's Day (Kodomo-no-Hi) and Greenery Day. More... Discuss
-
-
-
-
-
-
-
- Horoscope
-
-
-
-
-Background: 
-
-
-
-Day of Birth: 
-
-Month
-January
-February
-March
-April
-May
-June
-July
-August
-September
-October
-November
-December
-
-
-Day
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-
-
-1901
-1902
-1903
-1904
-1905
-1906
-1907
-1908
-1909
-1910
-1911
-1912
-1913
-1914
-1915
-1916
-1917
-1918
-1919
-1920
-1921
-1922
-1923
-1924
-1925
-1926
-1927
-1928
-1929
-1930
-1931
-1932
-1933
-1934
-1935
-1936
-1937
-1938
-1939
-1940
-1941
-1942
-1943
-1944
-1945
-1946
-1947
-1948
-1949
-1950
-1951
-1952
-1953
-1954
-1955
-1956
-1957
-1958
-1959
-1960
-1961
-1962
-Year
-1963
-1964
-1965
-1966
-1967
-1968
-1969
-1970
-1971
-1972
-1973
-1974
-1975
-1976
-1977
-1978
-1979
-1980
-1981
-1982
-1983
-1984
-1985
-1986
-1987
-1988
-1989
-1990
-1991
-1992
-1993
-1994
-1995
-1996
-1997
-1998
-1999
-2000
-2001
-2002
-2003
-2004
-2005
-2006
-2007
-2008
-2009
-2010
-
-remove this box from homepage
-
-
-
-
-
-
-
-
-
-
- Idiom of the Day
-
-
-
-
-Background: 
-
-
-remove this box from homepage
-
-
-(someone's) hands are full — Someone is too busy or has too much going on to be able to do or become involved with anything else.  More... Discuss
-
-
-
-
-
-
-
-
-
-
+Open / Close
 
 
 
