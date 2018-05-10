@@ -829,37 +829,11 @@ Full schedule
 
 
 
-11:00 - 11:06
-
-
-BBC News
-2018/05/03 10:01 GMT
-
-
-
-
-
-
-
-
-11:06 - 11:30
-
-
-The Newsroom
-03/05/2018 GMT
-
-
-
-
-
-
-
-
-11:30 - 11:32
+23:30 - 23:32
 
 
 BBC News Summary
-2018/05/03 10:30 GMT
+2018/05/03 22:30 GMT
 
 
 
@@ -868,24 +842,11 @@ BBC News Summary
 
 
 
-11:32 - 12:00
+23:32 - 00:00
 
 
-The Food Chain
-Absolute Food: Part I
-
-
-
-
-
-
-
-
-12:00 - 12:06
-
-
-BBC News
-2018/05/03 11:01 GMT
+World Business Report
+Diesel Emissions Scandal: Ex-VW Boss Winterkorn Charged in US
 
 
 
@@ -894,24 +855,11 @@ BBC News
 
 
 
-12:06 - 13:00
-
-
-Outlook
-Making a Bollywood Film for My Village
-
-
-
-
-
-
-
-
-13:00 - 13:06
+00:00 - 00:06
 
 
 BBC News
-2018/05/03 12:01 GMT
+2018/05/03 23:01 GMT
 
 
 
@@ -920,11 +868,63 @@ BBC News
 
 
 
-13:06 - 13:30
+00:06 - 01:00
+
+
+The Thought Show
+When a Democrat Met a Republican
+
+
+
+
+
+
+
+
+01:00 - 01:06
+
+
+BBC News
+2018/05/04 00:01 GMT
+
+
+
+
+
+
+
+
+01:06 - 02:00
+
+
+Business Matters
+US-China Trade Talks Begin
+
+
+
+
+
+
+
+
+02:00 - 02:06
+
+
+BBC News
+2018/05/04 01:01 GMT
+
+
+
+
+
+
+
+
+02:06 - 02:30
 
 
 The Newsroom
-03/05/2018 GMT
+04/05/2018 GMT
 
 
 
@@ -933,11 +933,11 @@ The Newsroom
 
 
 
-13:30 - 13:32
+02:30 - 02:32
 
 
 BBC News Summary
-2018/05/03 12:30 GMT
+2018/05/04 01:30 GMT
 
 
 
@@ -946,7 +946,7 @@ BBC News Summary
 
 
 
-13:32 - 14:00
+02:32 - 03:00
 
 
 Assignment
@@ -959,11 +959,11 @@ The Invisible Man of Britain’s Far Right
 
 
 
-14:00 - 14:06
+03:00 - 03:06
 
 
 BBC News
-2018/05/03 13:01 GMT
+2018/05/04 02:01 GMT
 
 
 
@@ -972,24 +972,11 @@ BBC News
 
 
 
-14:06 - 15:00
+03:06 - 03:30
 
 
-Newshour
-Syria: The World's War
-
-
-
-
-
-
-
-
-15:00 - 15:06
-
-
-BBC News
-2018/05/03 14:01 GMT
+HARDtalk
+Ukraine's Health Minister - Ulana Suprun
 
 
 
@@ -998,24 +985,11 @@ BBC News
 
 
 
-15:06 - 15:30
-
-
-The Inquiry
-What’s the Real Difference Between the Sexes?
-
-
-
-
-
-
-
-
-15:30 - 15:32
+03:30 - 03:32
 
 
 BBC News Summary
-2018/05/03 14:30 GMT
+2018/05/04 02:30 GMT
 
 
 
@@ -1024,24 +998,24 @@ BBC News Summary
 
 
 
-15:32 - 16:00
+03:32 - 04:00
 
 
-World Business Report
-South African Miners Reach Lung Disease Settlement
-
-
-
+World Football
+The Yemen coach, a Thai international and Christian Benteke
 
 
 
 
 
-16:00 - 16:06
+
+
+
+04:00 - 04:06
 
 
 BBC News
-2018/05/03 15:01 GMT
+2018/05/04 03:01 GMT
 
 
 
@@ -1050,11 +1024,37 @@ BBC News
 
 
 
-16:06 - 17:00
+04:06 - 05:00
 
 
-BBC OS
-German Nurse Kidnapped in Somalia
+Outlook
+Making a Bollywood Film for My Village
+
+
+
+
+
+
+
+
+05:00 - 05:06
+
+
+BBC News
+2018/05/04 04:01 GMT
+
+
+
+
+
+
+
+
+05:06 - 05:30
+
+
+The Newsroom
+04/05/2018 GMT
 
 
 
@@ -1064,11 +1064,11 @@ German Nurse Kidnapped in Somalia
 
 
 Last on
-17:00 - 17:06
+05:30 - 05:32
 
 
-BBC News
-2018/05/03 16:01 GMT
+BBC News Summary
+2018/05/04 04:30 GMT
 
 
 
@@ -1110,10 +1110,10 @@ Listen live
 
 
 On air
-17:06 - 18:00
+05:32 - 06:00
 
-BBC OS
-03/05/2018 GMT
+Science in Action
+The ‘Greatest Glasshouse’ in the World
 
 
 
@@ -1131,7 +1131,7 @@ Now Playing
 
 
 
-BBC OS gives a vibrant account of the day’s events with explanation and reaction from those involved.
+Re-opening of Kew glasshouse provides a home for thousands of endangered plants.
 
 
 
@@ -1144,11 +1144,11 @@ Contact us
 
 
 Next
-18:00 - 18:06
+06:00 - 06:06
 
 
 BBC News
-2018/05/03 17:01 GMT
+2018/05/04 05:01 GMT
 
 
 
@@ -1156,23 +1156,23 @@ BBC News
 
 
 
-18:06 - 19:00
+06:06 - 07:00
 
 
-Outlook
-Making a Bollywood Film for My Village
-
-
-
+Newsday
+04/05/2018 GMT
 
 
 
 
-19:00 - 19:06
+
+
+
+07:00 - 07:06
 
 
 BBC News
-2018/05/03 18:01 GMT
+2018/05/04 06:01 GMT
 
 
 
@@ -1180,11 +1180,143 @@ BBC News
 
 
 
-19:06 - 19:30
+07:06 - 08:00
+
+
+Newsday
+04/05/2018 GMT
+
+
+
+
+
+
+
+08:00 - 08:06
+
+
+BBC News
+2018/05/04 07:01 GMT
+
+
+
+
+
+
+
+08:06 - 08:30
+
+
+Newsday
+04/05/2018 GMT
+
+
+
+
+
+
+
+08:30 - 08:32
+
+
+BBC News Summary
+2018/05/04 07:30 GMT
+
+
+
+
+
+
+
+08:32 - 08:50
+
+
+Business Daily
+04/05/2018 GMT
+
+
+
+
+
+
+
+08:50 - 09:00
+
+
+Witness
+When Margaret Thatcher Came to Power
+
+
+
+
+
+
+
+09:00 - 09:06
+
+
+BBC News
+2018/05/04 08:01 GMT
+
+
+
+
+
+
+
+09:06 - 10:00
+
+
+The Real Story
+Does the Left have a Future in Latin America?
+
+
+
+
+
+
+
+10:00 - 10:06
+
+
+BBC News
+2018/05/04 09:01 GMT
+
+
+
+
+
+
+
+10:06 - 11:00
+
+
+World Update
+04/05/2018 GMT
+
+
+
+
+
+
+
+11:00 - 11:06
+
+
+BBC News
+2018/05/04 10:01 GMT
+
+
+
+
+
+
+
+11:06 - 11:30
 
 
 The Newsroom
-03/05/2018 GMT
+04/05/2018 GMT
 
 
 
@@ -1192,59 +1324,11 @@ The Newsroom
 
 
 
-19:30 - 19:32
-
-
-BBC News Summary
-2018/05/03 18:30 GMT
-
-
-
-
-
-
-
-19:32 - 20:00
-
-
-Sport Today
-2018/05/03 GMT
-
-
-
-
-
-
-
-20:00 - 20:06
-
-
-BBC News
-2018/05/03 19:01 GMT
-
-
-
-
-
-
-
-20:06 - 20:30
-
-
-The Inquiry
-What’s the Real Difference Between the Sexes?
-
-
-
-
-
-
-
-20:30 - 20:32
+11:30 - 11:32
 
 
 BBC News Summary
-2018/05/03 19:30 GMT
+2018/05/04 10:30 GMT
 
 
 
@@ -1252,23 +1336,11 @@ BBC News Summary
 
 
 
-20:32 - 21:00
+11:32 - 12:00
 
 
-Science in Action
-The ‘Greatest Glasshouse’ in the World
-
-
-
-
-
-
-
-21:00 - 21:06
-
-
-BBC News
-2018/05/03 20:01 GMT
+World Football
+The Yemen coach, a Thai international and Christian Benteke
 
 
 
@@ -1276,23 +1348,11 @@ BBC News
 
 
 
-21:06 - 22:00
-
-
-Newshour
-03/05/2018 GMT
-
-
-
-
-
-
-
-22:00 - 22:06
+12:00 - 12:06
 
 
 BBC News
-2018/05/03 21:01 GMT
+2018/05/04 11:01 GMT
 
 
 
@@ -1300,23 +1360,11 @@ BBC News
 
 
 
-22:06 - 22:30
+12:06 - 13:00
 
 
-Assignment
-The Invisible Man of Britain’s Far Right
-
-
-
-
-
-
-
-22:30 - 22:32
-
-
-BBC News Summary
-2018/05/03 21:30 GMT
+The Fifth Floor
+04/05/2018 GMT
 
 
 
@@ -1324,59 +1372,11 @@ BBC News Summary
 
 
 
-22:32 - 23:00
-
-
-The Food Chain
-Absolute Food: Part I
-
-
-
-
-
-
-
-23:00 - 23:06
+13:00 - 13:06
 
 
 BBC News
-2018/05/03 22:01 GMT
-
-
-
-
-
-
-
-23:06 - 23:20
-
-
-The Newsroom
-03/05/2018 GMT
-
-
-
-
-
-
-
-23:20 - 23:30
-
-
-Sports News
-03/05/2018 GMT
-
-
-
-
-
-
-
-23:30 - 23:32
-
-
-BBC News Summary
-2018/05/03 22:30 GMT
+2018/05/04 12:01 GMT
 
 
 
@@ -1452,36 +1452,6 @@ Today's selection of podcasts, clips and programmes
 listen
 Duration: 
 
-        1m    
-
-
-
-
-
-Curly hair comeback
-
-                    Egyptian women are celebrating their curly hair after years of straightening it
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
         3m    51s
 
 
@@ -1535,7 +1505,31 @@ Business Daily - How Economists Forgot Housework
 
 
 
-View all
+
+
+
+
+listen
+Duration: 
+
+        2m    40s
+
+
+
+
+
+Giving Birth with Just a YouTube Video to Help
+
+                    Tia Freeman posted her birthing story on Twitter - and it went viral
+                
+
+
+
+
+
+
+
+
 
 
 
@@ -2018,6 +2012,165 @@ Latest Clips
 
 
 
+listen
+Duration: 
+
+        1m    57s
+
+
+
+
+
+Inside the 'Girls Code Too' club
+
+                    We hear about a drive to teach young women computer coding in Zambia
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+listen
+Duration: 
+
+            47s
+
+
+
+
+
+'It feels like people are drowning in their own lungs'
+
+                    Thousands of South African miners with deadly lung diseases will now be paid compensation
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+listen
+Duration: 
+
+        2m    24s
+
+
+
+
+
+A community library with a difference in Lusaka
+
+                    A community library in a Lusaka neighbourhood making a difference in people's lives
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+listen
+Duration: 
+
+        12m    56s
+
+
+
+
+
+Anxiety, cricket & a dog that gave my life purpose - Sarah Taylor
+
+                    England World Cup winner Sarah Taylor opens up about her battle with mental health
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+listen
+Duration: 
+
+        3m    44s
+
+
+
+
+
+Diarrhoea vaccine holiday for Finns
+
+                    A holiday with a difference is on offer to people from Finland – but with a catch...
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+listen
+Duration: 
+
+        1m    47s
+
+
+
+
+
 What's the secret to award-winning fiction?
 
                     Author Helen Oyeyemi reveals her top criteria for a great read.
@@ -2034,6 +2187,15 @@ What's the secret to award-winning fiction?
 
 
 
+
+
+
+
+
+listen
+Duration: 
+
+        9m    40s
 
 
 
@@ -2060,134 +2222,41 @@ The race to save history's sounds
 
 
 
-The baby gorilla that became my daughter
-
-                    Appolinaire Ndohoudou and gorilla Pikin were bonded by the fact that they are both orphans
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Armenian President says Nikol Pashinyan likely to be PM
-
-                    Armen Sarkissian confirms Nikol Pashinyan is likely be interim prime minister by next week
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        3m    51s
-
-
-
-
-
-What do you do as a food writer but there’s no food?
-
-                    How one journalist resolved her dilemma
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        3m    4s
-
-
-
-
-
-'I have anxiety attacks during games' - Sarah Taylor
-
-                    England's Sarah Taylor opens up about the anxiety attacks that forced her to take a break
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-BBC Minute: On security in Somalia
-
-                    A search is underway for a German nurse kidnapped in Mogadishu
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 
 Popular Programmes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+listen
+Duration: 
+
+        17m    30s
+
+
+
+
+
+Business Daily - How Economists Forgot Housework
+
+                    Feminist economists argue that GDP statistics ignore care-giving and housework
+                
+
+
+
 
 
 
@@ -2235,15 +2304,45 @@ Newsday - Trump 'Repaid Lawyer's Stormy Hush Money'
 listen
 Duration: 
 
+        23m    
+
+
+
+
+
+The Inquiry - What’s the Real Difference Between the Sexes?
+
+                    What is there to learn about men and women from people who’ve lived as both?
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+listen
+Duration: 
+
         53m    
 
 
 
 
 
-Outlook - The KGB Spy with Two Families
+The Documentary - What Men Think - What Men Think: India
 
-                    The remarkable double life of Jack Barsky, an undercover agent in the US
+                    Masculinity plays out against a backdrop of class, caste and a rapidly changing economy
                 
 
 
@@ -2301,9 +2400,9 @@ Duration:
 
 
 
-Newshour - Armenian Opposition Leader Set To Become Prime Minister
+Newshour - Trump Says Payment to Stormy Daniels did not Violate Campaign Laws
 
-                    The Armenian opposition leader Nikol Pashinyan is set to become prime minister.
+                    Trump confirms his lawyer was reimbursed after payment to Stormy Daniels
                 
 
 
@@ -2325,75 +2424,15 @@ Newshour - Armenian Opposition Leader Set To Become Prime Minister
 listen
 Duration: 
 
-        17m    30s
+        53m    
 
 
 
 
 
-Business Daily - How Economists Forgot Housework
+Outlook - The KGB Spy with Two Families
 
-                    Feminist economists argue that GDP statistics ignore care-giving and housework
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        5m    
-
-
-
-
-
-BBC News - 2018/05/03 10:01 GMT
-
-                    The latest five minute news bulletin from BBC World Service.
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        5m    
-
-
-
-
-
-BBC News - 2018/05/03 06:01 GMT
-
-                    The latest five minute news bulletin from BBC World Service.
+                    The remarkable double life of Jack Barsky, an undercover agent in the US
                 
 
 
@@ -2812,8 +2851,8 @@ Explore the BBCHomeNewsSportWeatheriPlayerTVRadioCBBCCBeebiesFoodBitesizeMusicEa
         });
     /*]]>*/require(["istats-1","orb/cookies"],function(t,e){function o(){return"true"===s&&a}function i(){!c&&o()?setTimeout(function(){t.invoke()},"500"):t.invoke()}var n=navigator.userAgent.toLowerCase(),a=!(n.indexOf("msie")>-1)||parseInt(n.split("msie")[1],10)>10,s="true",c=!1,r=window.orb.fig;if(e.isAllowed("s1")){var u=function(e){o()&&e.geo.isUK()&&require(["megavolt-client"],function(e){e&&"function"==typeof e.getMVTIStatsLabels&&e.getMVTIStatsLabels(function(e){t.addLabels(e),c=!0})})};"function"==typeof r.load?r.load(u):u(r);try{if(!require.s.contexts._.config.paths.idcta)return void i();require(["idcta/idcta-1"],function(e){e&&"function"==typeof e.getIStatsLabels&&t.addLabels(e.getIStatsLabels()),i()},function(t){throw t})}catch(t){console&&"function"==typeof console.log&&console.log("an exception occurred while adding idcta labels to istats, invoking istats without them",t),i()}}});require.config({
             paths: {
-                "mybbc/templates": '//mybbc.files.bbci.co.uk/notification-ui/latest/templates',
-                "mybbc/notifications": '//mybbc.files.bbci.co.uk/notification-ui/latest/js'
+                "mybbc/templates": '//mybbc.files.bbci.co.uk/notification-ui/3.8.4/templates',
+                "mybbc/notifications": '//mybbc.files.bbci.co.uk/notification-ui/3.8.4/js'
             }
         });
 
@@ -2821,8 +2860,8 @@ Explore the BBCHomeNewsSportWeatheriPlayerTVRadioCBBCCBeebiesFoodBitesizeMusicEa
 
             var loadNotifications = function (isUK) {
                 if (isUK) {
-                    window.bbcpage.loadCSS('//mybbc.files.bbci.co.uk/notification-ui/latest/css/main.min.css').then(function() {
-                        NotificationsMain.run(idcta, '//mybbc.files.bbci.co.uk/notification-ui/latest/');
+                    window.bbcpage.loadCSS('//mybbc.files.bbci.co.uk/notification-ui/3.8.4/css/main.min.css').then(function() {
+                        NotificationsMain.run(idcta, '//mybbc.files.bbci.co.uk/notification-ui/3.8.4/');
                     });
                 }
             };
@@ -2945,7 +2984,7 @@ if (window.location.pathname.indexOf('worldservice') !== -1) {
     var smp = "//rmp.files.bbci.co.uk/nhp-service/1248/modules/smp.js";
     require(["on-air"], function( OnAir ) {
         OnAir.initListenLive({
-            title : "BBC OS",
+            title : "Science in Action",
             sid : "bbc_world_service",
             vpid: "bbc_world_service",
             mid: "World Service"

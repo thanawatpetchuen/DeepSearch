@@ -8,7 +8,7 @@ import sys
 import re
 import time
 from operator import itemgetter
-
+import dill
 
 class wordCount:
     def __init__(self, file):
@@ -80,7 +80,8 @@ class htmlparser(wordCount):
         self.begin()
         self.read_to_temp_html()
 
-
+    def saveFile(self,url_root):
+        dill_file = '{}_tree'.format(url_root)
 if __name__ == '__main__':
     url = 'https://en.wikipedia.org/wiki/Computer'
     html = htmlparser(url, '{}.txt'.format(url.split('//')[-1].replace('/', '').replace('.', '').replace('=', '').replace('?', '')))
@@ -88,9 +89,11 @@ if __name__ == '__main__':
     html_dict = dict()
     temp = html.beauiful_soup()
     tree = Tree()
+
     # print(len(temp))
-    temp = temp[0:100]
+    temp = temp[0:5]
     tree.create_node("Root", "root", data={'related_link': temp, 'count': html.Count2()})
+    print(tree, 'newdea')
     # print(html.Count2())
 
     for link in temp:

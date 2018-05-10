@@ -284,7 +284,7 @@ Search archived web sites
 
 Advanced Search
 
-AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"05/03/2018"}
+AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"05/04/2018"}
 
 
 
@@ -352,8 +352,8 @@ if (window.archive_analytics) {
   var vs = window.archive_analytics.get_data_packets();
   for (var i in vs) {
     vs[i]['cache_bust']=Math.random();
-    vs[i]['server_ms']=87;
-    vs[i]['server_name']="www16.us.archive.org";
+    vs[i]['server_ms']=41;
+    vs[i]['server_name']="www18.us.archive.org";
       }
 
   if ($(".more_search").size()>0) {

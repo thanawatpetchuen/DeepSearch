@@ -1,178 +1,1630 @@
 <!DOCTYPE html>
-<html lang="en" class="no-js not-logged-in client-root">
-    <head><meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<html lang="en-US">
+<head>
+	<title>
+    	   The APL Programming Language Source Code | Computer History Museum
+    </title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-        <title>
-Computer History Museum (CHM) (@computerhistory) • Instagram photos and videos
-</title>
-
-        
-        <meta name="robots" content="noimageindex, noarchive">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="theme-color" content="#000000">
-        <meta id="viewport" name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover">
-        
-
-        <link rel="manifest" href="/data/manifest.json">
-
-        
-          <link href="https://graph.instagram.com" rel="preconnect" crossorigin>
-        
-
-        
-        <link rel="preload" href="/static/bundles/base/ProfilePageContainer.js/fba3445af618.js" as="script" type="text/javascript" crossorigin="anonymous" />
-
-        <script type="text/javascript">
-        (function() {
-            var docElement = document.documentElement;
-            var classRE = new RegExp('(^|\\s)no-js(\\s|$)');
-            var className = docElement.className;
-            docElement.className = className.replace(classRE, '$1js$2');
-        })();
-        </script>
-        <script type="text/javascript">
-        (function() {
-          if ('PerformanceObserver' in window && 'PerformancePaintTiming' in window) {
-            window.__bufferedPerformance = [];
-            var ob = new PerformanceObserver(function(e) {
-              window.__bufferedPerformance.push.apply(window.__bufferedPerformance,e.getEntries());
-            });
-            ob.observe({entryTypes:['paint']});
-          }
-          window.__bufferedErrors = [];
-          window.onerror = function(message, url, line, column, error) {
-            window.__bufferedErrors.push({
-              message: message,
-              url: url,
-              line: line,
-              column: column,
-              error: error
-            });
-            return false;
-          };
-        })();
-        </script>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     
-                <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static/images/ico/apple-touch-icon-76x76-precomposed.png/932e4d9af891.png">
-                <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/images/ico/apple-touch-icon-120x120-precomposed.png/004705c9353f.png">
-                <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/images/ico/apple-touch-icon-152x152-precomposed.png/82467bc9bcce.png">
-                <link rel="apple-touch-icon-precomposed" sizes="167x167" href="/static/images/ico/apple-touch-icon-167x167-precomposed.png/515cb4eeeeee.png">
-                <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/static/images/ico/apple-touch-icon-180x180-precomposed.png/94fd767f257b.png">
-                
-                    <link rel="icon" sizes="192x192" href="/static/images/ico/favicon-192.png/b407fa101800.png">
-                
-            
-            
-                    <link rel="mask-icon" href="/static/images/ico/favicon.svg/9d8680ab8a3c.svg" color="#262626">
-                  
-                  <link rel="shortcut icon" type="image/x-icon" href="/static/images/ico/favicon.ico/dfa85bb1fd63.ico">
-                
-            
-            
-            
+    <link rel="stylesheet" type="text/css" href="/_lib/framework/bootstrap-3.2.0-dist/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="/_lib/framework/bootstrap-3.2.0-dist/css/bootstrap-theme.css" />
+	<link rel="stylesheet" type="text/css" href="/_lib/js/jquery-ui-1.11.0-no-tabs/jquery-ui-themes-1.11.0/themes/redmond/jquery-ui.min.css">
+	<link rel="stylesheet" type="text/css" href="/_lib/js/jquery-ui-1.11.0-no-tabs/jquery-ui-themes-1.11.0/themes/redmond/theme.css">
+	<link rel="stylesheet" type="text/css" href="/_lib/css/font-awesome-4.1.0/css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="/_chm/css/common/common.css" />
+    <link rel="stylesheet" type="text/css" href="/_chm/css/blog/common.css" />
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>    
     
-    
-            <link rel="alternate" href="android-app://com.instagram.android/https/instagram.com/_u/computerhistory/" />
-        
-            <meta property="al:ios:app_name" content="Instagram" />
-            <meta property="al:ios:app_store_id" content="389801252" />
-            <meta property="al:ios:url" content="instagram://user?username=computerhistory" />
-            <meta property="al:android:app_name" content="Instagram" />
-            <meta property="al:android:package" content="com.instagram.android" />
-            <meta property="al:android:url" content="https://www.instagram.com/_u/computerhistory/" />
-        <link rel="canonical" href="https://www.instagram.com/computerhistory/" /><meta content="3,703 Followers, 32 Following, 421 Posts - See Instagram photos and videos from Computer History Museum (CHM) (@computerhistory)" name="description" />
-            <meta property="og:type" content="profile" />
-            <meta property="og:image" content="https://instagram.fbkk5-3.fna.fbcdn.net/vp/2b457d3edad11af839e3519be3c062f9/5B97425A/t51.2885-19/11313699_1616900921894835_219934314_a.jpg" />
-            <meta property="og:title" content="Computer History Museum (CHM) (@computerhistory) • Instagram photos and videos" />
-            <meta property="og:description" content="3,703 Followers, 32 Following, 421 Posts - See Instagram photos and videos from Computer History Museum (CHM) (@computerhistory)" />
-            <meta property="og:url" content="https://www.instagram.com/computerhistory/" />
-        
-    <link rel="alternate" href="https://www.instagram.com/computerhistory/" hreflang="x-default" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=en" hreflang="en" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=fr" hreflang="fr" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=it" hreflang="it" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=de" hreflang="de" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es" hreflang="es" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=zh-cn" hreflang="zh-cn" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=zh-tw" hreflang="zh-tw" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=ja" hreflang="ja" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=ko" hreflang="ko" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=pt" hreflang="pt" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=pt-br" hreflang="pt-br" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=af" hreflang="af" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=cs" hreflang="cs" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=da" hreflang="da" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=el" hreflang="el" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=fi" hreflang="fi" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=hr" hreflang="hr" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=hu" hreflang="hu" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=id" hreflang="id" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=ms" hreflang="ms" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=nb" hreflang="nb" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=nl" hreflang="nl" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=pl" hreflang="pl" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=ru" hreflang="ru" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=sk" hreflang="sk" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=sv" hreflang="sv" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=th" hreflang="th" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=tl" hreflang="tl" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=tr" hreflang="tr" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=hi" hreflang="hi" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=bn" hreflang="bn" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=gu" hreflang="gu" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=kn" hreflang="kn" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=ml" hreflang="ml" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=mr" hreflang="mr" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=pa" hreflang="pa" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=ta" hreflang="ta" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=te" hreflang="te" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=ne" hreflang="ne" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=si" hreflang="si" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=ur" hreflang="ur" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=vi" hreflang="vi" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=bg" hreflang="bg" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=fr-ca" hreflang="fr-ca" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=ro" hreflang="ro" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=sr" hreflang="sr" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=uk" hreflang="uk" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=zh-hk" hreflang="zh-hk" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-pa" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-gt" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-ar" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-ni" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-uy" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-ve" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-bo" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-hn" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-cu" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-do" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-pr" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-pe" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-cr" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-sv" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-mx" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-ec" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-cl" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-co" />
-<link rel="alternate" href="https://www.instagram.com/computerhistory/?hl=es-la" hreflang="es-py" />
-    
+	<meta name="google-site-verification" content="YKoL0ECuPCNtDYcnRiL5TuUrktTCKvGBQ2Iah3nRRtg" />
+	
+	<style type="text/css">
+		#fancybox-close{right:-15px;top:-15px}
+		div#fancybox-content{border-color:#FFFFFF}
+		div#fancybox-title{background-color:#FFFFFF}
+		div#fancybox-outer{background-color:#FFFFFF}
+		div#fancybox-title-inside{color:#333333}
+	</style>
+
+	<link rel="alternate" type="application/rss+xml" title="@CHM Blog &raquo; The APL Programming Language Source Code Comments Feed" href="http://www.computerhistory.org/atchm/the-apl-programming-language-source-code/feed/" />
+<link rel='stylesheet' id='fancybox-css'  href='http://www.computerhistory.org/atchm/wp-content/plugins/fancybox-for-wordpress/fancybox/fancybox.css?ver=3.8' type='text/css' media='all' />
+<script type='text/javascript' src='//www.computerhistory.org/_lib/js/jquery-1.7.2/jquery-1.7.2.min.js?ver=3.8'></script>
+<script type='text/javascript' src='//www.computerhistory.org/_lib/js/jquery-1.10.2/jquery.color.plus-names-2.1.2.min.js?ver=3.8'></script>
+<script type='text/javascript' src='//www.computerhistory.org/_lib/js/jquery-ui-1.11.0-no-tabs/jquery-ui.min.js?ver=3.8'></script>
+<script type='text/javascript' src='//www.computerhistory.org/_lib/framework/bootstrap-3.2.0-dist/js/bootstrap.min.js?ver=3.8'></script>
+<script type='text/javascript' src='//www.computerhistory.org/_lib/js/jquery-swapvalue.js?ver=3.8'></script>
+<script type='text/javascript' src='//www.computerhistory.org/_lib/js/hoverIntent-r7.js?ver=3.8'></script>
+<script type='text/javascript' src='//www.computerhistory.org/_lib/lib/flowplayer327/flowplayer-3.2.6.min.js?ver=3.8'></script>
+<script type='text/javascript' src='//www.computerhistory.org/_lib/js/jquery.innerfade/js/jquery.innerfade.js?ver=3.8'></script>
+<script type='text/javascript' src='//www.computerhistory.org/_lib/js/scrollup-2.4.0/jquery.scrollUp.min.js?ver=3.8'></script>
+<script type='text/javascript' src='//www.computerhistory.org/_chm/js/atchm.js?ver=3.8'></script>
+<script type='text/javascript' src='http://www.computerhistory.org/atchm/wp-content/plugins/fancybox-for-wordpress/fancybox/jquery.fancybox.js?ver=1.3.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.computerhistory.org/atchm/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.computerhistory.org/atchm/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Make Software, Change the World!' href='http://www.computerhistory.org/atchm/make-software-change-the-world/' />
+<link rel='next' title='Bit by Bit: Software Collecting' href='http://www.computerhistory.org/atchm/bit-by-bit-software-collecting/' />
+<meta name="generator" content="WordPress 3.8" />
+<link rel='canonical' href='http://www.computerhistory.org/atchm/the-apl-programming-language-source-code/' />
+<link rel='shortlink' href='http://www.computerhistory.org/atchm/?p=1032' />
+
+<!-- Fancybox for WordPress -->
+<script type="text/javascript">
+jQuery(function(){
+
+jQuery.fn.getTitle = function() { // Copy the title of every IMG tag and add it to its parent A so that fancybox can show titles
+	var arr = jQuery("a.fancybox");
+	jQuery.each(arr, function() {
+		var title = jQuery(this).children("img").attr("title");
+		jQuery(this).attr('title',title);
+	})
+}
+
+// Supported file extensions
+var thumbnails = jQuery("a:has(img)").not(".nolightbox").filter( function() { return /\.(jpe?g|png|gif|bmp)$/i.test(jQuery(this).attr('href')) });
+
+thumbnails.addClass("fancybox").attr("rel","fancybox").getTitle();
+jQuery("a.fancybox").fancybox({
+	'cyclic': false,
+	'autoScale': true,
+	'padding': 10,
+	'opacity': true,
+	'speedIn': 500,
+	'speedOut': 500,
+	'changeSpeed': 300,
+	'overlayShow': true,
+	'overlayOpacity': "0.3",
+	'overlayColor': "#666666",
+	'titleShow': true,
+	'titlePosition': 'inside',
+	'enableEscapeButton': true,
+	'showCloseButton': true,
+	'showNavArrows': true,
+	'hideOnOverlayClick': true,
+	'hideOnContentClick': false,
+	'width': 560,
+	'height': 340,
+	'transitionIn': "fade",
+	'transitionOut': "fade",
+	'centerOnScroll': true
+});
+
+
+})
+</script>
+<!-- END Fancybox for WordPress -->
+<link type="text/css" rel="stylesheet" href="http://www.computerhistory.org/atchm/wp-content/plugins/wp-activity/wp-activity.css" /><link rel="stylesheet" type="text/css" href="http://www.computerhistory.org/atchm/wp-content/plugins/wp-recaptcha/recaptcha.css" />
+    <!--[if lt IE 9]>
+    	<script src="/_lib/js/html5.js"></script>
+        <style type="text/css">
+        	#topnav #searchform { width: 142px; }
+        </style>
+    <![endif]-->
+
+    <!--[if IE 8]>
+        <style>
+        	.img-responsive { width: auto; }
+        </style>
+    <![endif]-->
+
+    <!--[if lt IE 8]>
+    	<link rel="stylesheet" type="text/css" charset="utf-8" href="/_chm/css/common/bootstrap-ie7.css" />
+		<link rel="stylesheet" type="text/css" href="/_lib/css/font-awesome-3.2.1/css/font-awesome.css">
+		<link rel="stylesheet" type="text/css" href="/_lib/css/font-awesome-3.2.1/css/font-awesome-ie7.css">
+        <style>
+        	.img-responsive { max-width: 100%; height: auto; }
+        </style>
+    <![endif]-->
 </head>
-    <body class="">
-        
-    <span id="react-root"></span>
 
+<body>
+	<section id="atchm-page">
+		<header id="header">
+
+                <div id="header-top">
+                    <div id="topnav">
+                        <ul class="topnav">
+                            <li id="search">
+                                <form id="searchform" method="get" action="/search/" role="form">
+                                    <button type="submit" id="searchicon"><span class="glyphicon glyphicon-search"></span></button>
+                                    <input class="query swap_value" id="searchinput" type="text" name="q" maxlength="255" value="Site Search" /> 
+                                </form>
+                            </li>
+                            <li class="quicklinks"><a class="quicklinks" href="/getinvolved/">Get Involved</a></li>
+                            <li class="quicklinks"><a class="quicklinks" href="/contact/">Contact</a></li>
+                            <li class="quicklinks"><a class="quicklinks" href="/directions/">Directions</a></li>
+                            <li class="quicklinks"><a class="quicklinks" href="/about/">About Us</a></li>
+                            <li class="quicklinks"><a class="quicklinks" href="/"><i class="fa fa-home fa-lg"></i></a></li>
+                            <li><a class="btn btn-xs chm-donate-btn" href="http://connect.computerhistory.org/page.aspx?pid=298">Donate Now</a></li>
+                        </ul>
+                    </div>
+                </div>
+            
+                <div id="header-bottom">
+                    <div id="mainnav">
+                        <div id="logo">
+                            <a class="logo" href="/">
+                                <img id="logoimg" src="/_chm/img/chm/chm-logo.png" width="108" title="Computer History Museum" alt="Computer History Museum" />
+                            </a>        
+                        </div>
+                        
+                        <div id="globalnav">
+                            <ul class="globalnav">
+                                <li id="atchm" class="menuitem">
+                                    <a href="/atchm/"> 
+                                        <span class="btntitle">@chm</span>
+                                        <span class="btntext">Museum <br />Blog </span>
+                                    </a>
+                                </li>
+                                <li id="centers" class="menuitem">
+                                    <a href="/centers/"> 
+                                        <span class="btntitle">Centers</span>
+                                        <span class="btntext">Museum<br />Centers</span>
+                                    </a>
+                                </li>
+                                <li id="collections" class="menuitem">
+                                    <a href="/collections/"> 
+                                        <span class="btntitle">Collections</span>
+                                        <span class="btntext">Discover the <br />Museum's Offerings</span>
+                                    </a>
+                                </li>
+                                <li id="education" class="menuitem">
+	                                <a href="/education/"> 
+                                        <span class="btntitle">Education</span>
+                                        <span class="btntext">Revolutionizing<br />Learning</span>
+                                    </a>
+                                </li>
+                                <li id="events" class="menuitem">
+                                    <a href="/events/upcoming/"> 
+                                        <span class="btntitle">Events</span>
+                                        <span class="btntext">Experience the<br />World of Computing</span>
+                                    </a>
+                                </li>
+                                <li id="exhibits" class="menuitem">
+                                    <a href="/exhibits/"> 
+                                        <span class="btntitle">Exhibits</span>
+                                        <span class="btntext">Learn about the <br />People and Stories</span>
+                                    </a>
+                                </li>
+                                <li id="visitus" class="menuitem">
+                                    <a href="/visit/"> 
+                                        <span class="btntitle">Visit Us</span>
+                                        <span class="btntext">Hours <br />and Admission</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+        		</div>  
+                  
+		</header>
+
+		
+		<aside id="atchm-sidebar">
+			            
+			    <div id="atchm-sidebar-social" class="container border background chm-clear">
+    
+    	<div class="col-sm-6 col-md-6 chm-mb-12 chm-clear">
+        	<a class="col-sm-3 col-md-3 icon" href="http://www.facebook.com/computerhistory" title="Like Us on Facebook">
+            	<img class="img-responsive" src="/_chm/img/socialmedia/facebook.png" />
+            </a>
+            <div class="col-sm-9 col-md-9">
+                <span class="counter">
+                    117226                </span>
+                <span class="description">
+                    Like Us
+                </span>
+            </div>
+        </div>
+
+    	<div class="col-sm-6 col-md-6 chm-mb-12 chm-clear">
+        	<a class="col-sm-3 col-md-3 icon" href="http://twitter.com/ComputerHistory" title="Follow Us on Twitter">
+            	<img class="img-responsive" src="/_chm/img/socialmedia/twitter.png" />
+            </a>
+            <div class="col-sm-9 col-md-9">
+                <span class="counter">
+                    30070                </span>
+                <span class="description">
+                    Follow Us
+                </span>
+            </div>
+        </div>
+
+    	<div class="col-sm-6 col-md-6 chm-clear">
+        	<a class="col-sm-3 col-md-3 icon" href="http://www.youtube.com/user/ComputerHistory" title="Watch Us on YouTube">
+            	<img class="img-responsive" src="/_chm/img/socialmedia/youtube.png" />
+            </a>
+            <div class="col-sm-9 col-md-9">
+                <span class="counter">
+                    63614                </span>
+                <span class="description">
+                    Watch Us
+                </span>
+            </div>
+        </div>
+
+    	<div class="col-sm-6 col-md-6 chm-clear">
+        	<a class="col-sm-3 col-md-3 icon" href="https://www.instagram.com/computerhistory/" title="Follow Us on Instagram">
+            	<img class="img-responsive" src="/_chm/img/socialmedia/instagram.png" />
+            </a>
+            <div class="col-sm-9 col-md-9">
+                <span class="counter">
+                    3703                </span>
+                <span class="description">
+                    Follow Us
+                </span>
+            </div>
+        </div>
+        
+    </div>
+        
+            
+                <div id="atchm-sidebar-searchform" class="container border background chm-clear">
+        <form class="form-inline chm-clear" role="form" method="get" id="atchm-searchform" action="http://www.computerhistory.org/atchm">
+        	<div class="form-group col-md-12 col-sm-12">
+                <div class="input-group col-md-12 col-sm-12">
+                    <input style="width: 85%; font-size: 1em;" class="form-control" type="text" id="s" name="s" placeholder="to search, type and hit enter..." value="">
+                    <button style="width: 15%;" id="searchsubmit" type="submit" class="input-group-addon"><span class="glyphicon glyphicon-search" style="margin: 3px 0px;"></span></button>
+                </div>
+            </div>
+        </form>
+    </div>
+    
+    
+                        
+			
+
+<!-- //**********************************   TABS POPULAR, RECENT, COMMENTS, TAGS	//*************************************** -->
+                <div id="atchm-sidebar-tabs" class="tabs-container chm-clear">
+                
+                    <ul class="nav nav-tabs chm-nav-tabs">
+                        <li class="active"><a href="#atchm-sidebar-popular">Popular</a></li>
+                        <li><a href="#atchm-sidebar-recent">Recent</a></li>
+                        <li><a href="#atchm-sidebar-comments">Comments</a></li>
+                        <li><a href="#atchm-sidebar-tags">Tags</a></li>
+                    </ul> 
+                    
+                    <div class="tab-content">
+                        <div class="tab-pane chm-tab-pane fade in active chm-clear" id="atchm-sidebar-popular">
+                        	                        	<div class="post chm-clear">
+                            	<figure class="col-md-3 col-sm-3 chm-media-object">
+								                                        <a href="http://www.computerhistory.org/atchm/the-apl-programming-language-source-code/" title="The APL Programming Language Source Code">
+                                            <img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/iverson_team-542x290.jpg&amp;w=74&amp;h=60&amp;zc=1&amp;q=80" alt="The APL Programming Language Source Code" />
+                                        </a>
+                                        
+                                                                    </figure>
+                                
+                                <div class="col-md-9 col-sm-9">
+                                	<div class="info">
+                                        <a class="title block" href="http://www.computerhistory.org/atchm/the-apl-programming-language-source-code/">The APL Programming Language Source Code</a>
+                                        <span class="date col-md-8 col-sm-8 pull-left">October 10, 2012</span>
+                                        <span class="count col-md-3 col-sm-3 pull-right"><i class="fa fa-comments-o"></i> 13</span>
+                                    </div>
+                                </div>                            
+                            </div>
+							                        	<div class="post chm-clear">
+                            	<figure class="col-md-3 col-sm-3 chm-media-object">
+								                                        <a href="http://www.computerhistory.org/atchm/apple-ii-dos-source-code/" title="Apple II DOS Source Code">
+                                            <img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2013/11/apple-II-02-542x347.jpg&amp;w=74&amp;h=60&amp;zc=1&amp;q=80" alt="Apple II DOS Source Code" />
+                                        </a>
+                                        
+                                                                    </figure>
+                                
+                                <div class="col-md-9 col-sm-9">
+                                	<div class="info">
+                                        <a class="title block" href="http://www.computerhistory.org/atchm/apple-ii-dos-source-code/">Apple II DOS Source Code</a>
+                                        <span class="date col-md-8 col-sm-8 pull-left">November 12, 2013</span>
+                                        <span class="count col-md-3 col-sm-3 pull-right"><i class="fa fa-comments-o"></i> 7</span>
+                                    </div>
+                                </div>                            
+                            </div>
+							                        	<div class="post chm-clear">
+                            	<figure class="col-md-3 col-sm-3 chm-media-object">
+								                                        <a href="http://www.computerhistory.org/atchm/microsoft-word-for-windows-1-1a-source-code/" title="Microsoft Word for Windows Version 1.1a Source Code">
+                                            <img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2014/02/word_for_windows_1.1a_2-542x296.png&amp;w=74&amp;h=60&amp;zc=1&amp;q=80" alt="Microsoft Word for Windows Version 1.1a Source Code" />
+                                        </a>
+                                        
+                                                                    </figure>
+                                
+                                <div class="col-md-9 col-sm-9">
+                                	<div class="info">
+                                        <a class="title block" href="http://www.computerhistory.org/atchm/microsoft-word-for-windows-1-1a-source-code/">Microsoft Word for Windows Version 1.1a Source Code</a>
+                                        <span class="date col-md-8 col-sm-8 pull-left">March 25, 2014</span>
+                                        <span class="count col-md-3 col-sm-3 pull-right"><i class="fa fa-comments-o"></i> 7</span>
+                                    </div>
+                                </div>                            
+                            </div>
+							                        	<div class="post chm-clear">
+                            	<figure class="col-md-3 col-sm-3 chm-media-object">
+								                                        <a href="http://www.computerhistory.org/atchm/make-software-change-the-world/" title="Make Software, Change the World!">
+                                            <img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2012/09/1.-Photoshop_sm-542x362.jpg&amp;w=74&amp;h=60&amp;zc=1&amp;q=80" alt="Make Software, Change the World!" />
+                                        </a>
+                                        
+                                                                    </figure>
+                                
+                                <div class="col-md-9 col-sm-9">
+                                	<div class="info">
+                                        <a class="title block" href="http://www.computerhistory.org/atchm/make-software-change-the-world/">Make Software, Change the World!</a>
+                                        <span class="date col-md-8 col-sm-8 pull-left">October 05, 2012</span>
+                                        <span class="count col-md-3 col-sm-3 pull-right"><i class="fa fa-comments-o"></i> 5</span>
+                                    </div>
+                                </div>                            
+                            </div>
+							                        	<div class="post chm-clear">
+                            	<figure class="col-md-3 col-sm-3 chm-media-object">
+								                                        <a href="http://www.computerhistory.org/atchm/the-middleton-family-a-the-new-your-worlds-fair-1939/" title="The Middleton Family at the New York World&#8217;s Fair, 1939">
+                                            <img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2012/12/aa1939_ELEKTRO_the_Smoking_Robot_New_York_World_s_Fair.jpg&amp;w=74&amp;h=60&amp;zc=1&amp;q=80" alt="The Middleton Family at the New York World&#8217;s Fair, 1939" />
+                                        </a>
+                                        
+                                                                    </figure>
+                                
+                                <div class="col-md-9 col-sm-9">
+                                	<div class="info">
+                                        <a class="title block" href="http://www.computerhistory.org/atchm/the-middleton-family-a-the-new-your-worlds-fair-1939/">The Middleton Family at the New York World&#8217;s Fair, 1939</a>
+                                        <span class="date col-md-8 col-sm-8 pull-left">March 13, 2013</span>
+                                        <span class="count col-md-3 col-sm-3 pull-right"><i class="fa fa-comments-o"></i> 3</span>
+                                    </div>
+                                </div>                            
+                            </div>
+							                                                    </div>
+             
+                        <div class="tab-pane chm-tab-pane fade chm-clear" id="atchm-sidebar-recent">
+                        	                        	<div class="post chm-clear">
+                            	<figure class="col-md-3 col-sm-3 chm-media-object">
+								                                        <a href="http://www.computerhistory.org/atchm/2018-chm-fellow-awards/" title="2018 CHM Fellow Awards">
+                                            <img  class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2018/05/MBC_CHMFellows18_WEB-1447-542x361.jpg&amp;w=74&amp;h=60&amp;zc=1&amp;q=80" alt="2018 CHM Fellow Awards" />
+                                        </a>
+                                        
+                                                                    </figure>
+                                
+                                
+                                <div class="col-md-9 col-sm-9">
+                                	<div class="info">
+                                        <a class="title block" href="http://www.computerhistory.org/atchm/2018-chm-fellow-awards/">2018 CHM Fellow Awards</a>
+                                        <span class="date col-md-8 col-sm-8 pull-left">1 day ago</span>
+                                        <span class="count col-md-3 col-sm-3 pull-right"><i class="fa fa-comments-o"></i> 0</span>
+                                    </div>
+                                </div>                            
+                            </div>
+							                        	<div class="post chm-clear">
+                            	<figure class="col-md-3 col-sm-3 chm-media-object">
+								                                        <a href="http://www.computerhistory.org/atchm/building-the-cathedral-of-technology-the-fellow-awards-at-the-computer-history-museum/" title="Building the Cathedral of Technology: The Fellow Awards at the Computer History Museum">
+                                            <img  class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2018/04/Past-Fellows-542x402.png&amp;w=74&amp;h=60&amp;zc=1&amp;q=80" alt="Building the Cathedral of Technology: The Fellow Awards at the Computer History Museum" />
+                                        </a>
+                                        
+                                                                    </figure>
+                                
+                                
+                                <div class="col-md-9 col-sm-9">
+                                	<div class="info">
+                                        <a class="title block" href="http://www.computerhistory.org/atchm/building-the-cathedral-of-technology-the-fellow-awards-at-the-computer-history-museum/">Building the Cathedral of Technology: The Fellow Awards at the Computer History Museum</a>
+                                        <span class="date col-md-8 col-sm-8 pull-left">6 days ago</span>
+                                        <span class="count col-md-3 col-sm-3 pull-right"><i class="fa fa-comments-o"></i> 0</span>
+                                    </div>
+                                </div>                            
+                            </div>
+							                        	<div class="post chm-clear">
+                            	<figure class="col-md-3 col-sm-3 chm-media-object">
+								                                        <a href="http://www.computerhistory.org/atchm/2018-museum-fellow-dov-frohman-bentchkowsky-silicon-science-memory-survival/" title="2018 Museum Fellow Dov Frohman-Bentchkowsky: Silicon, Science, Memory &#038; Survival">
+                                            <img  class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2018/04/Frohman_1971_cIntel-Museum-542x579.jpg&amp;w=74&amp;h=60&amp;zc=1&amp;q=80" alt="2018 Museum Fellow Dov Frohman-Bentchkowsky: Silicon, Science, Memory &#038; Survival" />
+                                        </a>
+                                        
+                                                                    </figure>
+                                
+                                
+                                <div class="col-md-9 col-sm-9">
+                                	<div class="info">
+                                        <a class="title block" href="http://www.computerhistory.org/atchm/2018-museum-fellow-dov-frohman-bentchkowsky-silicon-science-memory-survival/">2018 Museum Fellow Dov Frohman-Bentchkowsky: Silicon, Science, Memory &#038; Survival</a>
+                                        <span class="date col-md-8 col-sm-8 pull-left">2 weeks ago</span>
+                                        <span class="count col-md-3 col-sm-3 pull-right"><i class="fa fa-comments-o"></i> 0</span>
+                                    </div>
+                                </div>                            
+                            </div>
+							                        	<div class="post chm-clear">
+                            	<figure class="col-md-3 col-sm-3 chm-media-object">
+								                                        <a href="http://www.computerhistory.org/atchm/2018-chm-fellow-dame-stephanie-shirley/" title="2018 Museum Fellow Dame Stephanie Shirley">
+                                            <img  class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2018/04/p01gqpm2-542x304.jpg&amp;w=74&amp;h=60&amp;zc=1&amp;q=80" alt="2018 Museum Fellow Dame Stephanie Shirley" />
+                                        </a>
+                                        
+                                                                    </figure>
+                                
+                                
+                                <div class="col-md-9 col-sm-9">
+                                	<div class="info">
+                                        <a class="title block" href="http://www.computerhistory.org/atchm/2018-chm-fellow-dame-stephanie-shirley/">2018 Museum Fellow Dame Stephanie Shirley</a>
+                                        <span class="date col-md-8 col-sm-8 pull-left">3 weeks ago</span>
+                                        <span class="count col-md-3 col-sm-3 pull-right"><i class="fa fa-comments-o"></i> 0</span>
+                                    </div>
+                                </div>                            
+                            </div>
+							                        	<div class="post chm-clear">
+                            	<figure class="col-md-3 col-sm-3 chm-media-object">
+								                                        <a href="http://www.computerhistory.org/atchm/2018-chm-fellow-guido-van-rossum-python-creator-benevolent-dictator-for-life/" title="2018 Museum Fellow Guido van Rossum, Python Creator &#038; Benevolent Dictator for Life">
+                                            <img  class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2018/04/Guido-portrait-2014-542x361.jpg&amp;w=74&amp;h=60&amp;zc=1&amp;q=80" alt="2018 Museum Fellow Guido van Rossum, Python Creator &#038; Benevolent Dictator for Life" />
+                                        </a>
+                                        
+                                                                    </figure>
+                                
+                                
+                                <div class="col-md-9 col-sm-9">
+                                	<div class="info">
+                                        <a class="title block" href="http://www.computerhistory.org/atchm/2018-chm-fellow-guido-van-rossum-python-creator-benevolent-dictator-for-life/">2018 Museum Fellow Guido van Rossum, Python Creator &#038; Benevolent Dictator for Life</a>
+                                        <span class="date col-md-8 col-sm-8 pull-left">4 weeks ago</span>
+                                        <span class="count col-md-3 col-sm-3 pull-right"><i class="fa fa-comments-o"></i> 0</span>
+                                    </div>
+                                </div>                            
+                            </div>
+							                                                    </div>
+                        
+                        
+                        
+             
+                        <div class="tab-pane chm-tab-pane fade chm-clear" id="atchm-sidebar-comments">
+                        	                        	<div class="post chm-clear">
+                            	<figure class="col-md-3 col-sm-3 chm-media-object">
+                                                                                <a href="http://www.computerhistory.org/atchm/electronic-arts-deluxepaint-early-source-code/#comment-2179972666" >                                        
+                                                <img class="img-responsive" width="74" src="https://disqus.com/api/users/avatars/olafbarthel.jpg" alt="Olaf Barthel on Electronic Arts DeluxePaint Early Source Code" />
+                                            </a>
+                                                                    </figure>
+                                
+                                <div class="col-md-9 col-sm-9">
+                                	<div class="info">
+                                    	Olaf Barthel                                        <span class="light">on</span> 
+                                        <a class="title" href="http://www.computerhistory.org/atchm/electronic-arts-deluxepaint-early-source-code/#comment-2179972666">Electronic Arts DeluxePaint Early Source Code</a>
+                                    </div>
+                                    
+                                    <div class="excerpt">
+										I learned 'C' in 1987/1988 on the Amiga, using a 1983 translation of the 19 [...]                                    </div>
+                                </div>                            
+                            
+                            </div>
+                                                    	<div class="post chm-clear">
+                            	<figure class="col-md-3 col-sm-3 chm-media-object">
+                                                                                <a href="http://www.computerhistory.org/atchm/the-homebrew-computer-club-2013-reunion/#comment-2179832478" >                                        
+                                                <img class="img-responsive" width="74" src="https://disqus.com/api/users/avatars/mattspergel.jpg" alt="Matt Spergel on The Homebrew Computer Club 2013 Reunion" />
+                                            </a>
+                                                                    </figure>
+                                
+                                <div class="col-md-9 col-sm-9">
+                                	<div class="info">
+                                    	Matt Spergel                                        <span class="light">on</span> 
+                                        <a class="title" href="http://www.computerhistory.org/atchm/the-homebrew-computer-club-2013-reunion/#comment-2179832478">The Homebrew Computer Club 2013 Reunion</a>
+                                    </div>
+                                    
+                                    <div class="excerpt">
+										If you're interested in learning about the real story behind this historic  [...]                                    </div>
+                                </div>                            
+                            
+                            </div>
+                                                    	<div class="post chm-clear">
+                            	<figure class="col-md-3 col-sm-3 chm-media-object">
+                                                                                <a href="http://www.computerhistory.org/atchm/electronic-arts-deluxepaint-early-source-code/#comment-2179201991" >                                        
+                                                <img class="img-responsive" width="74" src="https://disqus.com/api/users/avatars/alexandergriccio.jpg" alt="Alexander G. Riccio on Electronic Arts DeluxePaint Early Source Code" />
+                                            </a>
+                                                                    </figure>
+                                
+                                <div class="col-md-9 col-sm-9">
+                                	<div class="info">
+                                    	Alexander G. Riccio                                        <span class="light">on</span> 
+                                        <a class="title" href="http://www.computerhistory.org/atchm/electronic-arts-deluxepaint-early-source-code/#comment-2179201991">Electronic Arts DeluxePaint Early Source Code</a>
+                                    </div>
+                                    
+                                    <div class="excerpt">
+										Is that really what first-edition-C looked like? I'm sure glad it's changed [...]                                    </div>
+                                </div>                            
+                            
+                            </div>
+                                                    	<div class="post chm-clear">
+                            	<figure class="col-md-3 col-sm-3 chm-media-object">
+                                                                                <a href="http://www.computerhistory.org/atchm/macpaint-and-quickdraw-source-code/#comment-2177117772" >                                        
+                                                <img class="img-responsive" width="74" src="https://disqus.com/api/users/avatars/prasenjitsinghbist.jpg" alt="Prasenjit Singh Bist on MacPaint and QuickDraw Source Code" />
+                                            </a>
+                                                                    </figure>
+                                
+                                <div class="col-md-9 col-sm-9">
+                                	<div class="info">
+                                    	Prasenjit Singh Bist                                        <span class="light">on</span> 
+                                        <a class="title" href="http://www.computerhistory.org/atchm/macpaint-and-quickdraw-source-code/#comment-2177117772">MacPaint and QuickDraw Source Code</a>
+                                    </div>
+                                    
+                                    <div class="excerpt">
+										Well I am a developer too and i respect and understand the joy and exciteme [...]                                    </div>
+                                </div>                            
+                            
+                            </div>
+                                                    	<div class="post chm-clear">
+                            	<figure class="col-md-3 col-sm-3 chm-media-object">
+                                                                                <a href="http://www.computerhistory.org/atchm/electronic-arts-deluxepaint-early-source-code/#comment-2174234274" >                                        
+                                                <img class="img-responsive" width="74" src="https://disqus.com/api/users/avatars/disqus_jnTV9WO3Ub.jpg" alt="HugoDanner on Electronic Arts DeluxePaint Early Source Code" />
+                                            </a>
+                                                                    </figure>
+                                
+                                <div class="col-md-9 col-sm-9">
+                                	<div class="info">
+                                    	HugoDanner                                        <span class="light">on</span> 
+                                        <a class="title" href="http://www.computerhistory.org/atchm/electronic-arts-deluxepaint-early-source-code/#comment-2174234274">Electronic Arts DeluxePaint Early Source Code</a>
+                                    </div>
+                                    
+                                    <div class="excerpt">
+										I still miss Dpaint for animation. To bad EA doesn't have the sense to upda [...]                                    </div>
+                                </div>                            
+                            
+                            </div>
+                                                    </div>
+                        
+                        
+                        
+                        
+             
+                        <div class="tab-pane chm-tab-pane fade chm-clear" id="atchm-sidebar-tags">
+                        	<div class="post tags chm-clear">
+                            	<a href='http://www.computerhistory.org/atchm/tag/anniversary/' class='tag-link-17' title='5 topics' style='font-size: 11.180327868852px;'>Anniversary</a>
+<a href='http://www.computerhistory.org/atchm/tag/apple/' class='tag-link-8' title='22 topics' style='font-size: 14.983606557377px;'>Apple</a>
+<a href='http://www.computerhistory.org/atchm/tag/apple-computer/' class='tag-link-146' title='4 topics' style='font-size: 10.655737704918px;'>Apple Computer</a>
+<a href='http://www.computerhistory.org/atchm/tag/archives/' class='tag-link-42' title='7 topics' style='font-size: 11.967213114754px;'>Archives</a>
+<a href='http://www.computerhistory.org/atchm/tag/arpanet/' class='tag-link-18' title='5 topics' style='font-size: 11.180327868852px;'>Arpanet</a>
+<a href='http://www.computerhistory.org/atchm/tag/artificial-intelligence/' class='tag-link-151' title='4 topics' style='font-size: 10.655737704918px;'>artificial intelligence</a>
+<a href='http://www.computerhistory.org/atchm/tag/center-for-software-history/' class='tag-link-413' title='6 topics' style='font-size: 11.639344262295px;'>Center for Software History</a>
+<a href='http://www.computerhistory.org/atchm/tag/chm/' class='tag-link-326' title='55 topics' style='font-size: 17.540983606557px;'>CHM</a>
+<a href='http://www.computerhistory.org/atchm/tag/chm-live/' class='tag-link-394' title='23 topics' style='font-size: 15.114754098361px;'>CHM Live</a>
+<a href='http://www.computerhistory.org/atchm/tag/cisco/' class='tag-link-292' title='5 topics' style='font-size: 11.180327868852px;'>Cisco</a>
+<a href='http://www.computerhistory.org/atchm/tag/collection/' class='tag-link-581' title='4 topics' style='font-size: 10.655737704918px;'>collection</a>
+<a href='http://www.computerhistory.org/atchm/tag/computer-games/' class='tag-link-73' title='4 topics' style='font-size: 10.655737704918px;'>Computer Games</a>
+<a href='http://www.computerhistory.org/atchm/tag/computer-history-museum/' class='tag-link-272' title='65 topics' style='font-size: 18px;'>Computer History Museum</a>
+<a href='http://www.computerhistory.org/atchm/tag/computing/' class='tag-link-478' title='6 topics' style='font-size: 11.639344262295px;'>computing</a>
+<a href='http://www.computerhistory.org/atchm/tag/dec/' class='tag-link-22' title='4 topics' style='font-size: 10.655737704918px;'>DEC</a>
+<a href='http://www.computerhistory.org/atchm/tag/education-2/' class='tag-link-400' title='8 topics' style='font-size: 12.295081967213px;'>education</a>
+<a href='http://www.computerhistory.org/atchm/tag/eniac/' class='tag-link-123' title='5 topics' style='font-size: 11.180327868852px;'>ENIAC</a>
+<a href='http://www.computerhistory.org/atchm/tag/entrepreneurship/' class='tag-link-534' title='8 topics' style='font-size: 12.295081967213px;'>Entrepreneurship</a>
+<a href='http://www.computerhistory.org/atchm/tag/exhibits/' class='tag-link-14' title='3 topics' style='font-size: 10px;'>Exhibits</a>
+<a href='http://www.computerhistory.org/atchm/tag/exponential-center/' class='tag-link-374' title='18 topics' style='font-size: 14.459016393443px;'>Exponential Center</a>
+<a href='http://www.computerhistory.org/atchm/tag/fairchild/' class='tag-link-26' title='10 topics' style='font-size: 12.885245901639px;'>Fairchild</a>
+<a href='http://www.computerhistory.org/atchm/tag/fairchild-semiconductor/' class='tag-link-110' title='4 topics' style='font-size: 10.655737704918px;'>Fairchild Semiconductor</a>
+<a href='http://www.computerhistory.org/atchm/tag/fellow-awards/' class='tag-link-459' title='8 topics' style='font-size: 12.295081967213px;'>Fellow Awards</a>
+<a href='http://www.computerhistory.org/atchm/tag/google/' class='tag-link-12' title='5 topics' style='font-size: 11.180327868852px;'>Google</a>
+<a href='http://www.computerhistory.org/atchm/tag/gordon-moore/' class='tag-link-29' title='6 topics' style='font-size: 11.639344262295px;'>Gordon Moore</a>
+<a href='http://www.computerhistory.org/atchm/tag/history/' class='tag-link-618' title='5 topics' style='font-size: 11.180327868852px;'>history</a>
+<a href='http://www.computerhistory.org/atchm/tag/ibm/' class='tag-link-148' title='6 topics' style='font-size: 11.639344262295px;'>IBM</a>
+<a href='http://www.computerhistory.org/atchm/tag/intel/' class='tag-link-109' title='8 topics' style='font-size: 12.295081967213px;'>Intel</a>
+<a href='http://www.computerhistory.org/atchm/tag/internet/' class='tag-link-246' title='4 topics' style='font-size: 10.655737704918px;'>internet</a>
+<a href='http://www.computerhistory.org/atchm/tag/iphone/' class='tag-link-423' title='8 topics' style='font-size: 12.295081967213px;'>iPhone</a>
+<a href='http://www.computerhistory.org/atchm/tag/iphone-360/' class='tag-link-507' title='4 topics' style='font-size: 10.655737704918px;'>iPhone 360</a>
+<a href='http://www.computerhistory.org/atchm/tag/john-markoff/' class='tag-link-424' title='4 topics' style='font-size: 10.655737704918px;'>John Markoff</a>
+<a href='http://www.computerhistory.org/atchm/tag/macintosh/' class='tag-link-9' title='5 topics' style='font-size: 11.180327868852px;'>Macintosh</a>
+<a href='http://www.computerhistory.org/atchm/tag/macpaint/' class='tag-link-11' title='3 topics' style='font-size: 10px;'>MacPaint</a>
+<a href='http://www.computerhistory.org/atchm/tag/microsoft/' class='tag-link-207' title='7 topics' style='font-size: 11.967213114754px;'>Microsoft</a>
+<a href='http://www.computerhistory.org/atchm/tag/museums/' class='tag-link-460' title='7 topics' style='font-size: 11.967213114754px;'>Museums</a>
+<a href='http://www.computerhistory.org/atchm/tag/next/' class='tag-link-177' title='4 topics' style='font-size: 10.655737704918px;'>NeXT</a>
+<a href='http://www.computerhistory.org/atchm/tag/programming/' class='tag-link-119' title='12 topics' style='font-size: 13.344262295082px;'>Programming</a>
+<a href='http://www.computerhistory.org/atchm/tag/programming-language/' class='tag-link-50' title='5 topics' style='font-size: 11.180327868852px;'>Programming Language</a>
+<a href='http://www.computerhistory.org/atchm/tag/science-fiction/' class='tag-link-52' title='3 topics' style='font-size: 10px;'>Science Fiction</a>
+<a href='http://www.computerhistory.org/atchm/tag/semiconductors/' class='tag-link-27' title='10 topics' style='font-size: 12.885245901639px;'>Semiconductors</a>
+<a href='http://www.computerhistory.org/atchm/tag/silicon-valley/' class='tag-link-28' title='24 topics' style='font-size: 15.245901639344px;'>Silicon Valley</a>
+<a href='http://www.computerhistory.org/atchm/tag/software/' class='tag-link-209' title='9 topics' style='font-size: 12.622950819672px;'>software</a>
+<a href='http://www.computerhistory.org/atchm/tag/source-code/' class='tag-link-62' title='9 topics' style='font-size: 12.622950819672px;'>Source Code</a>
+<a href='http://www.computerhistory.org/atchm/tag/sri/' class='tag-link-36' title='4 topics' style='font-size: 10.655737704918px;'>SRI</a>
+<a href='http://www.computerhistory.org/atchm/tag/steve-jobs/' class='tag-link-10' title='12 topics' style='font-size: 13.344262295082px;'>Steve Jobs</a>
+<a href='http://www.computerhistory.org/atchm/tag/technology/' class='tag-link-475' title='10 topics' style='font-size: 12.885245901639px;'>technology</a>
+<a href='http://www.computerhistory.org/atchm/tag/web-history/' class='tag-link-13' title='4 topics' style='font-size: 10.655737704918px;'>Web History</a>
+<a href='http://www.computerhistory.org/atchm/tag/william-shockley/' class='tag-link-112' title='6 topics' style='font-size: 11.639344262295px;'>William Shockley</a>
+<a href='http://www.computerhistory.org/atchm/tag/xerox-parc/' class='tag-link-35' title='6 topics' style='font-size: 11.639344262295px;'>Xerox PARC</a>                            </div>
+                        </div>
+                    </div>  
+                </div>
+
+
+
+
+
+			    <div id="atchm-sidebar-categories" class="container border background chm-clear">
+    	<h2 class="title">Categories</h2>
+        
+		<ul id="categories" class="chm-plainlist alternation">
+						<li>
+					<a href="http://www.computerhistory.org/atchm/category/behind-the-scenes/" title="View all posts in Behind the Scenes"> 
+						Behind the Scenes 
+					</a>
+                    <span class="counter">(28)</span>
+				</li>
+				
+							<li>
+					<a href="http://www.computerhistory.org/atchm/category/chm-live/" title="View all posts in CHM Live"> 
+						CHM Live 
+					</a>
+                    <span class="counter">(31)</span>
+				</li>
+				
+							<li>
+					<a href="http://www.computerhistory.org/atchm/category/curatorial-insight/" title="View all posts in Curatorial Insight"> 
+						Curatorial Insight 
+					</a>
+                    <span class="counter">(67)</span>
+				</li>
+				
+							<li>
+					<a href="http://www.computerhistory.org/atchm/category/education/" title="View all posts in Education"> 
+						Education 
+					</a>
+                    <span class="counter">(10)</span>
+				</li>
+				
+							<li>
+					<a href="http://www.computerhistory.org/atchm/category/exponential-center/" title="View all posts in Exponential Center"> 
+						Exponential Center 
+					</a>
+                    <span class="counter">(24)</span>
+				</li>
+				
+							<li>
+					<a href="http://www.computerhistory.org/atchm/category/from-the-ceo/" title="View all posts in From the CEO"> 
+						From the CEO 
+					</a>
+                    <span class="counter">(2)</span>
+				</li>
+				
+							<li>
+					<a href="http://www.computerhistory.org/atchm/category/from-the-collection/" title="View all posts in From the Collection"> 
+						From the Collection 
+					</a>
+                    <span class="counter">(52)</span>
+				</li>
+				
+			        </ul>
+		<a class="more" href="http://www.computerhistory.org/atchm/categories/">View More</a>
+    </div>
+
+			
+    <div id="atchm-sidebar-archives" class="container border background chm-clear">
+      	<h2 class="title">Archives</h2>
+        
+        <ul id="archives" class="chm-plainlist alternation">             <li>
+                <a href="http://www.computerhistory.org/atchm/2018/05/">
+                    May 2018                    <span class="counter">(1)</span>
+                </a>
+            </li>
+		            <li>
+                <a href="http://www.computerhistory.org/atchm/2018/04/">
+                    April 2018                    <span class="counter">(5)</span>
+                </a>
+            </li>
+		            <li>
+                <a href="http://www.computerhistory.org/atchm/2018/03/">
+                    March 2018                    <span class="counter">(5)</span>
+                </a>
+            </li>
+		            <li>
+                <a href="http://www.computerhistory.org/atchm/2018/02/">
+                    February 2018                    <span class="counter">(5)</span>
+                </a>
+            </li>
+		            <li>
+                <a href="http://www.computerhistory.org/atchm/2018/01/">
+                    January 2018                    <span class="counter">(4)</span>
+                </a>
+            </li>
+		            <li>
+                <a href="http://www.computerhistory.org/atchm/2017/12/">
+                    December 2017                    <span class="counter">(4)</span>
+                </a>
+            </li>
+		            <li>
+                <a href="http://www.computerhistory.org/atchm/2017/11/">
+                    November 2017                    <span class="counter">(5)</span>
+                </a>
+            </li>
+		        </ul>
+        
+   		<a class="more" href="http://www.computerhistory.org/atchm/archives/">View More</a>
+
+    </div>
+
+			
+			    <div id="atchm-sidebar-bloggers" class="container border background chm-clear">
+       	<h2 class="title">Bloggers</h2>
+        
+        <div class="content">
+        	                <div class="col-sm-6 col-md-6 chm-clear">
+                    <figure class="col-md-4 col-sm-4 chm-media-object">
+                            <a href="http://www.computerhistory.org/atchm/author/cgarcia/" title="Read posts by Chris Garcia">
+							                            	<img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/userphoto/7.jpg&amp;w=35&amp;h=28&amp;zc=1&amp;q=100" alt="Read posts by Chris Garcia" />
+                                                        </a>
+                        </figure>
+                        
+                        <div class="col-md-8 col-sm-8">
+                            <a class="name" href="http://www.computerhistory.org/atchm/author/cgarcia/" title="Read posts by Chris Garcia">
+                                Chris Garcia                            </a>
+                        </div>
+                    </div>
+					                <div class="col-sm-6 col-md-6 chm-clear">
+                    <figure class="col-md-4 col-sm-4 chm-media-object">
+                            <a href="http://www.computerhistory.org/atchm/author/dspicer/" title="Read posts by Dag Spicer">
+							                            	<img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/userphoto/2.jpg&amp;w=35&amp;h=28&amp;zc=1&amp;q=100" alt="Read posts by Dag Spicer" />
+                                                        </a>
+                        </figure>
+                        
+                        <div class="col-md-8 col-sm-8">
+                            <a class="name" href="http://www.computerhistory.org/atchm/author/dspicer/" title="Read posts by Dag Spicer">
+                                Dag Spicer                            </a>
+                        </div>
+                    </div>
+					                <div class="col-sm-6 col-md-6 chm-clear">
+                    <figure class="col-md-4 col-sm-4 chm-media-object">
+                            <a href="http://www.computerhistory.org/atchm/author/mweber/" title="Read posts by Marc Weber">
+							                            	<img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/userphoto/6.jpg&amp;w=35&amp;h=28&amp;zc=1&amp;q=100" alt="Read posts by Marc Weber" />
+                                                        </a>
+                        </figure>
+                        
+                        <div class="col-md-8 col-sm-8">
+                            <a class="name" href="http://www.computerhistory.org/atchm/author/mweber/" title="Read posts by Marc Weber">
+                                Marc Weber                            </a>
+                        </div>
+                    </div>
+					                <div class="col-sm-6 col-md-6 chm-clear">
+                    <figure class="col-md-4 col-sm-4 chm-media-object">
+                            <a href="http://www.computerhistory.org/atchm/author/dlaws/" title="Read posts by David Laws">
+							                            	<img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/userphoto/85.jpg&amp;w=35&amp;h=28&amp;zc=1&amp;q=100" alt="Read posts by David Laws" />
+                                                        </a>
+                        </figure>
+                        
+                        <div class="col-md-8 col-sm-8">
+                            <a class="name" href="http://www.computerhistory.org/atchm/author/dlaws/" title="Read posts by David Laws">
+                                David Laws                            </a>
+                        </div>
+                    </div>
+					                <div class="col-sm-6 col-md-6 chm-clear">
+                    <figure class="col-md-4 col-sm-4 chm-media-object">
+                            <a href="http://www.computerhistory.org/atchm/author/lshustek/" title="Read posts by Len Shustek">
+							                            	<img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/userphoto/9.jpg&amp;w=35&amp;h=28&amp;zc=1&amp;q=100" alt="Read posts by Len Shustek" />
+                                                        </a>
+                        </figure>
+                        
+                        <div class="col-md-8 col-sm-8">
+                            <a class="name" href="http://www.computerhistory.org/atchm/author/lshustek/" title="Read posts by Len Shustek">
+                                Len Shustek                            </a>
+                        </div>
+                    </div>
+					                <div class="col-sm-6 col-md-6 chm-clear">
+                    <figure class="col-md-4 col-sm-4 chm-media-object">
+                            <a href="http://www.computerhistory.org/atchm/author/chm-editorial-team/" title="Read posts by CHM Editorial Team">
+							                            	<img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/userphoto/1717.jpg&amp;w=35&amp;h=28&amp;zc=1&amp;q=100" alt="Read posts by CHM Editorial Team" />
+                                                        </a>
+                        </figure>
+                        
+                        <div class="col-md-8 col-sm-8">
+                            <a class="name" href="http://www.computerhistory.org/atchm/author/chm-editorial-team/" title="Read posts by CHM Editorial Team">
+                                CHM Editorial Team                            </a>
+                        </div>
+                    </div>
+					                <div class="col-sm-6 col-md-6 chm-clear">
+                    <figure class="col-md-4 col-sm-4 chm-media-object">
+                            <a href="http://www.computerhistory.org/atchm/author/jdelacruz/" title="Read posts by Jennifer De La Cruz">
+							                            	<img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/userphoto/367.jpg&amp;w=35&amp;h=28&amp;zc=1&amp;q=100" alt="Read posts by Jennifer De La Cruz" />
+                                                        </a>
+                        </figure>
+                        
+                        <div class="col-md-8 col-sm-8">
+                            <a class="name" href="http://www.computerhistory.org/atchm/author/jdelacruz/" title="Read posts by Jennifer De La Cruz">
+                                Jennifer De La Cruz                            </a>
+                        </div>
+                    </div>
+					                <div class="col-sm-6 col-md-6 chm-clear">
+                    <figure class="col-md-4 col-sm-4 chm-media-object">
+                            <a href="http://www.computerhistory.org/atchm/author/dbrock/" title="Read posts by David Brock">
+							                            	<img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/userphoto/1692.jpg&amp;w=35&amp;h=28&amp;zc=1&amp;q=100" alt="Read posts by David Brock" />
+                                                        </a>
+                        </figure>
+                        
+                        <div class="col-md-8 col-sm-8">
+                            <a class="name" href="http://www.computerhistory.org/atchm/author/dbrock/" title="Read posts by David Brock">
+                                David Brock                            </a>
+                        </div>
+                    </div>
+					
+        </div>
+		<a class="more" href="http://www.computerhistory.org/atchm/bloggers/">All Bloggers</a>
+    </div>
+
+		</aside>
+	
+		<article id="atchm-content">
+
+
+        <div class="atchm-container chm-clear">
+
+            <div class="atchm-meta">
+            	<a class="home" href="http://www.computerhistory.org/atchm"><i class="fa fa-home"></i>&nbsp;Home</a>
+            </div>
+             
+			<h1>The APL Programming Language Source Code</h1>
+            
+            <div class="atchm-meta">
+                <span class="author">
+                	<a href="http://www.computerhistory.org/atchm/author/lshustek/" >
+                    	<i class="fa fa-user"></i>&nbsp;Len Shustek                    </a>
+                </span>
+                <span class="posted-date"><i class="fa fa-calendar"></i>&nbsp;&nbsp;October 10, 2012</span> 
+                <span class="posted-in"><i class="fa fa-pencil-square-o"></i>&nbsp;<a href="http://www.computerhistory.org/atchm/category/from-the-collection/" title="View all posts in From the Collection" rel="category tag">From the Collection</a></span> 
+                <a href="#disqus_thread" class="comments-count"><i class="fa fa-comments-o"></i>&nbsp;13</a>
+            </div>
+            
+            <div class="atchm-post-content"><h4 style="text-align: left;"><em>Software Gems: The Computer History Museum Historical Source Code Series</em></h4>
+<div id="attachment_1035" style="width: 213px" class="wp-caption alignleft"><a href="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/Ken_Iverson.jpg"><img class="size-medium wp-image-1035   " alt="" src="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/Ken_Iverson-213x300.jpg" width="213" height="300" /></a><p class="wp-caption-text">Ken Iverson at Harvard University</p></div>
+<p>Thousands of programming languages were invented in the first 50 years of the age of computing. Many of them were similar, and many followed a traditional, evolutionary path from their predecessors.</p>
+<p>But some revolutionary languages had a slant that differentiated them from their more general-purpose brethren. LISP was for list processing. SNOBOL was for string manipulation. SIMSCRIPT was for simulation. And APL was for mathematics, with an emphasis on array processing.</p>
+<p>What eventually became APL was first invented by Harvard professor Kenneth E. Iverson in 1957 as a mathematical notation, not as a computer programming language. Although other matrix-oriented symbol systems existed, including the concise tensor notation invented by Einstein, they were oriented more towards mathematical analysis and less towards synthesis of algorithms. Iverson, who was a student of Howard Aiken’s, taught what became known as “Iverson Notation” to his Harvard students to explain algorithms.</p>
+<p>Iverson was hired by IBM in 1960 to work with Adin Falkoff and others on his notation. In his now famous 1962 book “A Programming Language” <a href="#footnote-1">[1]</a>, he says the notation is for the description of “procedures…called algorithms or programs”, and that it is a language because it “exhibits considerable syntactic structure”. But at that point it was just a notation for people to read, not a language for programming computers. The book gives many examples of its use both as a descriptive tool (such as for documenting the definition of computer instruction sets) and as a means for expressing general algorithms (such as for sorting and searching). Anticipating resistance to something so novel, he says in the preface, “It is the central thesis of this book that the descriptive and analytical power of an adequate programming language amply repays the considerable effort required for its mastery.” Perhaps he was warning that mastering the language wasn’t trivial. Perhaps he was also signaling that, in his view, other notational languages were less than “adequate”.</p>
+<p>The team, of course, soon saw that the notation could be turned into a language for programming computers. That language, which was called APL starting in 1966, emphasized array manipulation and used unconventional symbols. It was like no other computer program language that had been invented.</p>
+<p>APL became popular when IBM introduced “APL\360” for their System/360 mainframe computer. Unlike most other languages at the time, APL\360 was also a complete interactive programming environment. The programmer, sitting at an electromechanical typewriter linked to a timeshared computer, could type APL statements and get an immediate response. Programs could be defined, debugged, run, and saved on a computer that was simultaneously being used by dozens of other people.</p>
+<p>Written entirely in 360 assembly language, this version of APL took control of the whole machine. It implemented a complete timesharing operating system in addition to a high-level language.</p>
+<p>With the permission of IBM, the Computer History Museum is pleased to make available the source code to the 1969-1972 “XM6” version of APL for the System/360 for non-commercial use.</p>
+<p>The text file contains 37,567 lines, which includes code, macros, and global definitions. The 90 individual files are separated by ‘./ ADD” commands. To access this material, you must agree to the terms of the license displayed here, which permits only non-commercial use and does not give you the right to license it to third parties by posting copies elsewhere on the web.</p>
+<p class="warning">Download <a title="Download AOL360 Source Code" href="/atchm/apl360-software-license-agreement/">APL360 Source Code</a></p>
+<p><em>Jürgen Winkelmann at ETH Zürich has done an amazing job of turning this source code into a runnable system. For more information, see<a href="http://wotho.ethz.ch/mvt4apl-2.00/" target="new"> http://wotho.ethz.ch/mvt4apl-2.00/</a>.</em></p>
+<hr class="clearafter" />
+<h2>Additional Material</h2>
+<ul class="chm-plainlist alternation">
+<li><a href="#Creating-the-APL-Programming-Language">Creating the APL Programming Language</a></li>
+<li><a href="#A-Taste-of-APL">A Taste of APL</a></li>
+<li><a href="#How-APL-was-Implemented">How APL was Implemented</a></li>
+<li><a href="#Applications-of-APL">Applications of APL</a></li>
+<li><a href="#APL-Praise-and-Criticism">APL Praise and Criticism</a></li>
+<li><a href="#A-Short-Biography-of-Ken-Iverson">A Short Biography of Ken Iverson</a></li>
+<li><a href="#Acknowledgements">Acknowledgements</a></li>
+<li><a href="#Bibliography">Bibliography</a></li>
+</ul>
+<hr class="clearafter" />
+<h2 id="Creating-the-APL-Programming-Language">Creating the APL Programming Language</h2>
+<p>Iverson’s book “A Programming Language” <a href="#footnote-1">[1]</a> uses a graphical notation that would have been difficult to directly use as a programming language for computers. He considered it an extension of matrix algebra, and used common mathematical typographic conventions like subscripts, superscripts, and distinctions based on the weight or font of characters. Here, for example, is a program for sorting numbers:</p>
+<p style="text-align: center;"><a href="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/bubble_sort.jpg"><img class="size-medium wp-image-1036 aligncenter" alt="" src="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/bubble_sort-300x212.jpg" width="300" height="212" /></a></p>
+<p>To linearize the notation for use as a computer programming language typed at a keyboard, the APL implementers certainly had to give up the use of labeled arrows for control transfers. But one feature that they were able to retain, to some extent, was the use of special symbols for primitive functions, as illustrated in this program that creates Huffman codes:</p>
+<hr class="clearafter" />
+<p style="text-align: center;"><a href="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/huffman_codes.jpg"><img class="size-medium wp-image-1037 aligncenter" alt="" src="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/huffman_codes-300x182.jpg" width="300" height="182" /></a></p>
+<p>APL uses symbols that are closer to standard mathematics than programming. For example, the symbol for division is ÷, not /. To support the unconventional symbols, APL\360 used a custom-designed keyboard with special symbols in the upper case.</p>
+<hr class="clearafter" />
+<div id="attachment_1038" style="width: 300px" class="wp-caption alignright"><a href="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/Custom-designed-keyboard.jpg"><img class="size-medium wp-image-1038  " alt="" src="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/Custom-designed-keyboard-300x95.jpg" width="300" height="95" /></a><p class="wp-caption-text">APL\360 used a custom-designed keyboard</p></div>
+<p>Even so, there were more special characters than could fit on the keyboard, so some were typed by overstriking two characters. For example, the “grade up” character <big><big>⍋</big></big>, a primitive operator used for sorting, was created by typing ∆ (shift H), then backspace, then ∣ (shift M). There was no room left for both upper- and lower-case letters, so APL supported only capital letters.</p>
+<p>For printing programs, Iverson and Falkoff got IBM to design a special type ball for their 1050 and 2741 terminals, which used the IBM Selectric typewriter mechanism.</p>
+<p><a href="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/golfball.jpg"><img class="alignright  wp-image-1040" alt="" src="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/golfball-300x240.jpg" width="201" height="152" /></a><a href="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/terminal.jpg"><img class="alignleft  wp-image-1039" alt="" src="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/terminal-300x200.jpg" width="264" height="159" /></a></p>
+<hr class="clearafter" />
+<p>Now programs could be both typed in and printed. Here, for example, is the printed version a program from the APL Language manual <a href="#footnote-2">[2]</a> that computes the mathematical determinant of a matrix:</p>
+<p style="padding-left: 30px;"><a href="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/matrix.jpg"><img class="wp-image-1041 alignleft" alt="" src="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/matrix.jpg" width="287" height="197" /></a></p>
+<hr class="clearafter" />
+<h2 id="A-Taste-of-APL" style="text-align: left;">A Taste of APL</h2>
+<p>APL is a concise high-level programming language that differs from most others developed in the 1960s in several respects:</p>
+<p><span style="text-decoration: underline;">Order of evaluation</span>: Expressions in APL are evaluated right-to-left, and there is no hierarchy of function precedence. For example, typing the expression</p>
+<p style="text-align: center;"><strong>2×4+3</strong></p>
+<p>causes the computer to immediately type the resulting value</p>
+<p style="text-align: center;"><strong>14</strong></p>
+<p>The value is not, as in many other languages that have operator precedence, 11. Of course, parentheses can be used to group a subexpression to change the evaluation order. The general rule is that the right argument of any function is the value of the expression to its right.</p>
+<p><span style="text-decoration: underline;">Automatic creation of vectors and arrays</span>: A higher-dimensional structure is automatically created by evaluating an expression that returns it, and scalars can be freely mixed. For example,</p>
+<p style="text-align: center;"><strong>A </strong>←<strong> 2 + 1 2 3</strong></p>
+<p>creates the vector “1 2 3”, add the scalar 2 to it, and creates the variable A to hold the vector whose value is</p>
+<p style="text-align: center;"><strong>3 4 5</strong></p>
+<p>Variables are never declared; they are created automatically and assume the size and shape of whatever expression is assigned to them.</p>
+<p><span style="text-decoration: underline;">A plethora of primitives</span>: APL has a rich set of built-in functions (and “operators” that are applied to functions to yield different functions) that operate on scalar, vectors, arrays, even higher-dimensional objects, and combinations of them. For example, the expression to sum the numbers in the vector “A” created above is simply</p>
+<p style="text-align: center;"><strong>+/A</strong></p>
+<p>where / is the “reduction” operator that causes the function to the left to be applied successively to all the elements of the operand to the right. The expression to compute the average of the numbers in A also uses the primitive function <em>ρ</em> to determine how many elements there are in A:</p>
+<p style="text-align: center;"><strong>(+/A) ÷ ρA</strong></p>
+<p>Here are some tables from the 1970 “APL\360 User’s Manual” <a href="#footnote-3">[3]</a> that give a flavor of the power and sophistication of the built-in APL functions and operators. (Click on the images for larger versions.)</p>
+<hr class="clearafter" />
+<p><a href="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/Tables1.jpg"><img class="size-medium wp-image-1042 alignleft" alt="" src="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/Tables1-248x300.jpg" width="248" height="300" /></a> <a href="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/table2.jpg"><img class="size-medium wp-image-1043 alignright" alt="" src="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/table2-218x300.jpg" width="218" height="300" /></a></p>
+<hr class="clearafter" />
+<p style="text-align: center;"><a href="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/table3.jpg"><img class="aligncenter size-medium wp-image-1044" alt="" src="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/table3-300x154.jpg" width="300" height="154" /></a></p>
+<hr class="clearafter" />
+<p>APL encourages you to think differently about programming, and to use temporary high-dimensional data structures as intermediate values that are then reduced using the powerful primitives. A famous example is the following short but complete program to compute all the prime numbers up to R.</p>
+<p style="text-align: center;"><strong>(~T∊T∘.×T)/T</strong>←<strong>1↓⍳R</strong></p>
+<p>Here is how this expression is evaluated:</p>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="114">
+<p align="center"><strong><span style="text-decoration: underline;">subexpression</span></strong></p>
+</td>
+<td width="326">
+<p align="center"><strong><span style="text-decoration: underline;">meaning</span></strong></p>
+</td>
+<td width="173">
+<p align="center"><strong><span style="text-decoration: underline;">value if R is 6</span></strong></p>
+</td>
+</tr>
+<tr>
+<td width="114">
+<p align="center"><strong><em>⍳R</em></strong></p>
+</td>
+<td width="326">
+<p align="center">Generate a vector of numbers from 1 to R.</p>
+</td>
+<td width="173">
+<p align="center"> 1 2 3 4 5 6</p>
+</td>
+</tr>
+<tr>
+<td width="114">
+<p align="center"><strong><em>T</em></strong><em>←</em><strong><em>1↓</em></strong></p>
+</td>
+<td width="326">
+<p align="center">Drop the first element of the vector and assign the rest to the temporary vector T.</p>
+</td>
+<td width="173">
+<p align="center">2 3 4 5 6</p>
+</td>
+</tr>
+<tr>
+<td width="114">
+<p align="center"><strong><em>T</em></strong><strong><em>∘</em></strong><strong><em>.×T</em></strong></p>
+</td>
+<td width="326">
+<p align="center">Create the multiplication outer product: a table that holds the result of multiplying each element of T by each element of T.</p>
+</td>
+<td width="173">
+<table style="width: 165px; height: 217px;" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="15">
+<p align="center">4</p>
+</td>
+<td valign="top" width="15">
+<p align="center">6</p>
+</td>
+<td valign="top" width="15">
+<p align="center">8</p>
+</td>
+<td valign="top" width="15">
+<p align="center">10</p>
+</td>
+<td valign="top" width="15">
+<p align="center">12</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="15">
+<p align="center">6</p>
+</td>
+<td valign="top" width="15">
+<p align="center">9</p>
+</td>
+<td valign="top" width="15">
+<p align="center">12</p>
+</td>
+<td valign="top" width="15">
+<p align="center">15</p>
+</td>
+<td valign="top" width="15">
+<p align="center">18</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="15">
+<p align="center">8</p>
+</td>
+<td valign="top" width="15">
+<p align="center">12</p>
+</td>
+<td valign="top" width="15">
+<p align="center">16</p>
+</td>
+<td valign="top" width="15">
+<p align="center">20</p>
+</td>
+<td valign="top" width="15">
+<p align="center">24</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="15">
+<p align="center">10</p>
+</td>
+<td valign="top" width="15">
+<p align="center">15</p>
+</td>
+<td valign="top" width="15">
+<p align="center">20</p>
+</td>
+<td valign="top" width="15">
+<p align="center">25</p>
+</td>
+<td valign="top" width="15">
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="15">
+<p align="center">12</p>
+</td>
+<td valign="top" width="15">
+<p align="center">18</p>
+</td>
+<td valign="top" width="15">
+<p align="center">24</p>
+</td>
+<td valign="top" width="15">
+<p align="center">30</p>
+</td>
+<td valign="top" width="15">
+<p align="center">36</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="center">
+</td>
+</tr>
+<tr>
+<td width="114">
+<p align="center"><strong><em>T</em></strong><strong><em>∊</em></strong><strong><em></em></strong></p>
+</td>
+<td width="326">
+<p align="center">Use the “set membership” operator to find which elements of T are in the table.</p>
+</td>
+<td width="173">
+<p align="center">0 0 1 0 1</p>
+</td>
+</tr>
+<tr>
+<td width="114">
+<p align="center"><strong><em>~</em></strong></p>
+</td>
+<td width="326">
+<p align="center">Negate the result to identify which elements of T are <span style="text-decoration: underline;">not</span> in the table.  These are the integers which do not have any multiples in the table.</p>
+</td>
+<td width="173">
+<p align="center">1 1 0 1 0</p>
+</td>
+</tr>
+<tr>
+<td width="114">
+<p align="center"><strong><em>( )/T</em></strong></p>
+</td>
+<td width="326">
+<p align="center">Select the elements of T which we have identified.    These are all the primes less than R.</p>
+</td>
+<td width="173">
+<p align="center">2 3 5</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Note that there are no loops in this program. The power of APL expressions means that conditional branches and loops are required far less often than in more traditional programming languages.</p>
+<p>APL operators can be used in easy ways for all sorts of computations that would usually require loops. For example, an expression that computes the number of elements of the vector X that are greater than 100 is</p>
+<p style="text-align: center;"> <strong>+/X&gt;100</strong></p>
+<p>It works because <strong>X&gt;100</strong> returns a bit vector of 0’s and 1’s showing which elements of <strong>X</strong> are greater than 100, and<strong> +/</strong> adds up all the bits in that vector.</p>
+<p style="text-align: left;">But conditional execution and loops are, of course, sometimes needed. In the light of later developments in structured programming, APL’s only primitive for control transfer, the “GO TO LINE x” statement →, is particularly weak. Here is an example of a function that computes the greatest common divisor of its two arguments. The last statement creates a loop by branching to the beginning. In line 2, conditional transfer of control to line 0 causes the function to exit and return the value last assigned to G.</p>
+<p style="text-align: center;"><img class="wp-image-1165 aligncenter" alt="" src="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/GCD-300x178.jpg" width="210" height="125" /></p>
+<p>To learn more about the 1960’s APL language, see the “APL Language” reference manual <a href="#footnote-2">[2]</a> and Paul Berry’s 1969 “APL\360 Primer” <a href="#footnote-4">[4]</a>.</p>
+<p>The language has of course evolved over the years, and more recent versions include control structures such as IF-THEN-ELSE.</p>
+<hr class="clearafter" />
+<h2 id="How-APL-was-Implemented">How APL was Implemented</h2>
+<p>The first computer implementation of APL notation was a batch-oriented language interpreter written in FORTRAN in 1965 for the IBM 7090 mainframe computer, by Larry Breed at the IBM Research Center in Yorktown Heights NY and Philip Abrams, then a graduate student at Stanford University.</p>
+<p>The first interactive version was written soon after for the 7093 (an experimental 7090 with virtual memory) by Larry Breed and Roger Moore. It ran under the TSM timesharing system and was whimsically called “IVSYS”, which rhymes with “IBSYS”, the name for the standard 7090 operating system. In a 2012 email Breed says,</p>
+<blockquote class="chm-blockquote chm-blockquote-clean"><p>IVSYS provided login, logout, immediate execution and function definition; it provided workspaces, both active and stored. Implementation of these was rudimentary; mostly we used whatever the TSM project offered us for login/logout/saving files. We had only a few weeks to use the 7093 before it was decommissioned and Roger and I started planning for a standalone system on System/360. In those weeks, Ken and his group saw for the first time what executable APL would be like.</p></blockquote>
+<p>Another implementation of a subset of the language was done in 1967 for the IBM 1130 minicomputer.</p>
+<p>The first implementation of APL to get widespread use outside of IBM was for the IBM System/360. Called “APL\360”, it went into service first within IBM in November 1966. (The notation &#8220;APL\360&#8243;, since the backslash was the APL &#8220;expansion&#8221; operator, also had a hidden meaning: &#8220;APL expands the 360&#8243;).</p>
+<p>Breed says of the time just before,</p>
+<blockquote class="chm-blockquote chm-blockquote-clean"><p>This period, early 1966, was the transitional time from Iverson Notation to APL. (Indeed, Adin [Falkoff] came up with &#8220;APL&#8221; in Spring &#8217;66.) Refinement and extension of the language and the environment continued for many years. There was next to no code added to make a commercial version, just paperwork.</p></blockquote>
+<p>By August 1968 APL\360 was available to IBM customers as an unsupported (“Type III”) program in IBM’s “Contributed Program Library” <a href="#footnote-5">[5]</a>. The principal implementers were Larry Breed, Dick Lathwell, and Roger Moore; others who had contributed were Adin Falkoff and Luther Woodrum.</p>
+<div id="attachment_1046" style="width: 542px" class="wp-caption alignright"><a href="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/iverson_team.jpg"><img class="size-large wp-image-1046  " alt="" src="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/iverson_team-542x290.jpg" width="542" height="290" /></a><p class="wp-caption-text">Early APL developers, from left to right: Dick Lathwell, Ken Iverson, Roger Moore, Adin Falkoff, Phil Abrams, Larry Breed. The photo was taken about 1983.</p></div>
+<p>Because of the dynamic nature of APL variables, APL\360 was implemented as an interpreter, not as a compiler that generated machine code.  Programs were stored in an internal form called a “codestring” that directly corresponded to what the user had typed. The interpreter would then examine the codestring as the program executed, and dynamically allocate and reconfigure variables as expressions were evaluated.</p>
+<p>The first versions of APL\360 took control of the entire machine. It was thus a combination operating system, file system, timesharing monitor, command interpreter, and programming language. Given the limited main memory, user workspaces were swapped out to drum or disk as needed. Performance was impressive, which Larry Breed attributes, in his clear and succinct description of the implementation <a href="#footnote-6">[6]</a>, to the ability to tailor the operating system to the requirements of the language.</p>
+<p>APL\360 was a conversational language that provided fast response and efficient execution for as many as 50 simultaneous users. Each user had an “active workspace” that held programs, variables, and the state of suspended program execution. System commands like “)LOAD”, “)SAVE”, and “)COPY” maintained the user’s library of stored workspaces. Other system commands controlled language features; for example, with “)ORIGIN” the programmer could control whether vectors and arrays are numbered starting with 0 or 1.</p>
+<p>APL was the first introduction to interactive timesharing for many in the generation of programmers who had suffered through batch programming with punched cards.</p>
+<h2 id="Applications-of-APL">Applications of APL</h2>
+<p>Even before it was a computer programming language, Iverson Notation was useful as a language for documenting algorithms for people. The classic example is the formal definition of the instruction-set architecture of the new IBM System/360 computer, which was published in an article in the IBM Systems Journal by Adin Falkoff, Ken Iverson, and Ed Sussenguth in 1965 <a href="#footnote-7">[7]</a>.</p>
+<blockquote class="chm-blockquote chm-blockquote-clean"><p>The description, which is formal rather than verbal, is accomplished by a set of programs, interacting through common variables, used in conjunction with auxiliary tables… Although the formal description is complete and self-contained, text is provided as an aid to initial study.</p></blockquote>
+<p>But the text provided in the paper is much more than that. It is a line-by-line explanation of the formal description, which means that it is also a demonstration and explanation of APL’s descriptive power.</p>
+<p>The notation used the graphical style for control transfers that was in Iverson’s book. Here, for example, is the description of a memory access operation. (Click it to enlarge.)</p>
+<p><a href="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/memory_access_operation.jpg"><img class="size-medium wp-image-1047 alignright" alt="" src="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/memory_access_operation-270x300.jpg" width="270" height="300" /></a></p>
+<p>It was the transition of APL from a notation for publication into an interactive computer programming language that made it flourish. When the APL\360 implementation was available, IBM and others stimulated use by producing diverse applications such as these:</p>
+<ul class="chm-plainlist alternation">
+<li><span style="text-decoration: underline;">Starmap</span>: A set of APL functions to calculate and plot the positions of the stars and planets. <a href="#footnote-8">[8]</a> <a href="#footnote-9">[9]</a> It was written in 1973 by Paul Berry of IBM and John Thorstensen, then an astronomy student at Bryn Mawr college, now Professor of Physics and Astronomy at Dartmouth College. It uses classical solutions to Kepler’s equations for a particular date and time and a series of rotations of coordinates to show where the planets and the stars would appear in the bowl of the sky.</li>
+<li><span style="text-decoration: underline;">IBGS</span>: Interactive Business Game Simulation: “A general computer management simulation involving decision making and planning in the functional areas of production, marketing and finance.”</li>
+<li><span style="text-decoration: underline;">Zeros and Integrals in APL</span>: “Using both classical methods such as Newton’s and Muller’s and recently developed methods such as Jenkins and Traub’s, it finds reals zeros of a real function, real and complex zeros of a polynomial with real of complex coefficients, and complex zeros of a complex function.”</li>
+<li><span style="text-decoration: underline;">Graphpak – Interactive Graphics Package for APL\360</span>: “…capabilities which range from graphics interface support at the lowest level to several application areas at higher levels…A plotting component…linear or logarithmic&#8230;curve-fitting… A descriptive geometry component allows definition, scaling, magnification, translation, rotation, and projected display of three-dimensional objects.”</li>
+<li><span style="text-decoration: underline;">Graphs and Histograms in APL</span>: “produces curves and barcharts at a typewriter terminal”.</li>
+<li><span style="text-decoration: underline;">APL Coordinate Geometry System</span>: “solves coordinate geometry problems interactively at a terminal…for use by surveyors, civil engineers, urban planners…”</li>
+<li><span style="text-decoration: underline;">APL/PDTS – Programming Development Tracking System</span>: “…to assist managers and planners in monitoring performance against plan on programming development projects.”</li>
+<li><span style="text-decoration: underline;">MINIPERT</span>: “A Critical Path Method (CPM) system for Project Management”</li>
+<li><span style="text-decoration: underline;">APL Econometric Planning Lang</span>uage: “The practicing economist, business forecaster or teacher is provided with easy-to-use tools for interactive model building and model solving.”</li>
+<li><span style="text-decoration: underline;">APL Financial Planning System</span>: “lets the financial analyst and planner design reports, specify calculation statements, enter and change data, and obtain printed reports with immediate turnaround.”</li>
+<li><span style="text-decoration: underline;">APL Text Editor and Composer</span>: “This program is designed to process text interactively at a terminal…Functions are included for entering, revising, composing, printing, and storing text…for use by secretaries, scientists, engineers, administrators or any others who produce papers, letters, reports or specifications.”</li>
+</ul>
+<p>Many of these applications emphasized interactivity, which provided a huge productivity increase compared to the batch-job processing more typical at the time. In addition, APL allowed applications to be developed much more quickly. In a 2012 email, Larry Breed noted,</p>
+<blockquote class="chm-blockquote chm-blockquote-clean"><p>Across all fields, the speed at which APL programs can be written makes it valuable for modeling and prototyping . … One example: Around 1973, Continental Can needed an inventory system for its 21 manufacturing plants. Their team of FORTRAN programmers had worked for a year, with no success in sight. One STSC salesman, in one weekend, built a usable working model in APL Plus.</p></blockquote>
+<p>The areas in which APL had the greatest penetration were in scientific, actuarial, statistical, and financial applications. For details about the progression of APL in its first 25 years, see the special 1991 issue of the IBM System Journal <a href="#footnote-10">[10]</a> with 12 papers and one essay on the subject.</p>
+<h2 id="APL-Praise-and-Criticism">APL Praise and Criticism</h2>
+<p>APL was not originally designed as a programming language.  As Iverson said,</p>
+<blockquote class="chm-blockquote chm-blockquote-clean"><p>The initial motive for developing APL was to provide a tool for writing and teaching. Although APL has been exploited mostly in commercial programming, I continue to believe that its most important use remains to be exploited: as a simple, precise, executable notation for the teaching of a wide range of subjects. <a href="#footnote-11">[11]</a></p></blockquote>
+<p>With so many terse and unusual symbols, APL computer programs, like the mathematical notation that inspired it, has a conciseness and elegance many find appealing.  APL attracts fanatic adherents.  Alan Perlis (the first recipient of the ACM’s Turing Award, in 1966) was one:</p>
+<blockquote class="chm-blockquote chm-blockquote-clean"><p>The sweep of the eye across a single sentence can expose an intricate, ingenious and beautiful interplay of operation and control that in other programming languages is observable only in several pages of text. One begins to appreciate the emergence and significance of style. <a href="#footnote-12">[12]</a></p></blockquote>
+<p>Many find the freedom of expression in APL liberating.</p>
+<blockquote class="chm-blockquote chm-blockquote-clean"><p>I used to describe [Pascal] as a ‘fascist programming language’, because it is dictatorially rigid. …If Pascal is fascist, APL is anarchist. <a href="#footnote-13">[13]</a></p></blockquote>
+<p>But APL programs are often cryptic and hard to decode.  Some have joked that it is a “write-only language” because even the author of a program might have trouble understanding it later.  It inspires programming trickery.  The challenge of writing an APL “one-liner” to implement a complete complex algorithm is hard to resist.  Here, for example, are two different APL one-liners that implement versions of John Conway’s  &#8220;<a title="Game of life" href="http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" target="new">Game of Life</a>&#8220;:</p>
+<p style="text-align: center;"><strong>life</strong>←<strong>{↑1 ω∨.∧3 4=+/,¯1 0 1∘.⊖¯1 0 1∘.⌽⊂ω}</strong></p>
+<p> <a href="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/apl_life3.jpg"><img class="alignleft size-large wp-image-1066" alt="" src="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/apl_life3-542x20.jpg" width="542" height="20" /></a></p>
+<p>Not for the faint-hearted, clearly. Dutch computer scientist Edsger Dijkstra said,</p>
+<blockquote class="chm-blockquote chm-blockquote-clean"><p>APL is a mistake, carried through to perfection. It is the language of the future for the programming techniques of the past: it creates a new generation of coding bums. <a href="#footnote-14">[14]</a></p></blockquote>
+<p>But fans of APL would say that cryptic APL coding is a bad programming style that can be an affliction with any language. APL provides a richer palette for expressing algorithms, the argument goes, so you can solve harder problems faster and with less irrelevant syntactic clutter.</p>
+<p>Whatever your view, APL and the languages it inspired, such as <a title="APL2" href="http://www-01.ibm.com/software/awdtools/apl/" target="new">APL2</a> and <a title="J Programming Langauge" href="http://en.wikipedia.org/wiki/J_(programming_language)" target="new">J</a>, are still an active part of the diverse programming language universe.</p>
+<h2 id="A-Short-Biography-of-Ken-Iverson">A Short Biography of Ken Iverson</h2>
+<p><a href="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/ken_iverson1.jpg"><img class="alignright  wp-image-1063" alt="" src="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/ken_iverson1.jpg" width="185" height="185" /></a>Kenneth Eugene Iverson was born on December 17, 1920 on a farm near Camrose, Alberta, Canada. He was educated in rural one-room schools until the end of 9th grade, when he dropped out of school because it was the height of the Depression and there was work to do on the family farm. He later said the only purpose of continuing his schooling would have been to become a schoolteacher, and that was a profession he decidedly did not want. During the long winter months he studied calculus on his own.</p>
+<p>He was drafted in 1<a href="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/Ken_Iverson2.jpg"><img class="alignleft size-medium wp-image-1062" alt="" src="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/Ken_Iverson2-166x300.jpg" width="166" height="300" /></a>942, and during his service he took enough correspondence courses to almost complete high school. After the military service he earned a B.A. in both mathematics and physics from Queen’s University in Kingston Ontario, and then an M.A. in physics from Harvard University. In 1954 he completed a PhD under computer pioneer Howard Aiken, with a thesis titled “Machine Solutions of Linear Differential Equations: Applications to a Dynamic Economic Model”.</p>
+<p>After completing his doctorate, Iverson joined the Harvard faculty to teach in Aiken’s new automatic data processing program. He was there for one year as an Instructor, and for five years as an Assistant Professor. He became increasingly frustrated with the inadequacy of conventional mathematical notation for expressing algorithms, so he began to invent his own.</p>
+<p>In 1960 Iverson joined the new IBM Research Center in Yorktown Heights, New York, on the advice of Frederick Brooks, who had been one of his teaching fellows at Harvard and was now at IBM. The two collaborated on the continuing development of the new notation. In 1962 Ken published the now-classic book “A Programming Language” <a href="#footnote-1">[1]</a>, the title of which gave the name APL to the notation which had up until then been informally called “Iverson’s notation”.</p>
+<p>Iverson continued to work on the development of APL throughout his tenure at IBM. In 1980 he left IBM and returned to Canada to work for I.P. Sharp Associates, which had established an APL-based timesharing service.</p>
+<p><a href="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/Ken_Iverson3.jpg"><img class="alignright  wp-image-1064" alt="" src="http://www.computerhistory.org/atchm/wp-content/uploads/2012/10/Ken_Iverson3.jpg" width="184" height="173" /></a>In 1987 he “retired from paid employment” and turned his full attention to the development of a more modern dialect of APL. APL was successfully being used for commercial purposes, but Iverson wanted to develop a new simple executable notation more suitable for teaching, which would be available at low cost. The first implementation of this language, called J, was announced at the APL90 Users’ Conference.</p>
+<p>Iverson’s ability to create such languages came from his &#8220;sheer enjoyment of language and words,&#8221; recalls his daughter Janet Cramer. &#8220;He read dictionaries like people read novels.&#8221; Iverson thought it was important that language, both English and mathematics, communicate clearly and concisely.</p>
+<p>With collaborators that included his son Eric, Iverson continued to work on the development of J, and he continued to publish prolifically. On Saturday, October 16, 2004 he suffered a stroke &#8211;while working on a J tutorial &#8212; and died three days later on October 19, at the age of 83.</p>
+<p>There are many stories about Ken Iverson. Here are a few:</p>
+<blockquote class="chm-blockquote chm-blockquote-clean"><p>Ken didn’t get tenure at Harvard. He did his five years as an assistant professor and the Faculty decided not to put him up for promotion. I asked him what went wrong and he said, “Well, the Dean called me in and said, ‘the trouble is, you haven’t published anything but the one little book’”.<br />
+The one little book later got [him] the Turing Award. I think that is a comment on the conventional mindset of promotion procedures rather than a comment on Ken; it’s a comment on academic procedure and on Harvard.<cite>Fred Brooks, <a title="A Celebration of Kenneth Iverson" href="http://www.computerhistory.org/events/past/#celebration-kenneth-iverson">A Celebration of Kenneth Iverson</a>, 2004-11-30</cite></p></blockquote>
+<blockquote class="chm-blockquote chm-blockquote-clean"><p>In an early talk Ken was explaining the advantages of tolerant comparison. A member of the audience asked incredulously, “Surely you don’t mean that when A=B and B=C, A may not equal C?” Without skipping a beat, Ken replied, “Any carpenter knows that!” and went on to the next question.<br />
+<cite> Paul Berry</cite></p></blockquote>
+<blockquote class="chm-blockquote chm-blockquote-clean"><p>In a social conversation with Ken, I said, “You know, Ken, you are my favorite language designer and Don Knuth is my favorite programmer.” And Ken said immediately, “What’s wrong with my programming?” <cite>Joey Tuttle, <a title="A Celebration of Kenneth Iverson" href="http://www.computerhistory.org/events/past/#celebration-kenneth-iverson">A Celebration of Kenneth Iverson</a>, 2004-11-30</cite></p></blockquote>
+<blockquote class="chm-blockquote chm-blockquote-clean"><p>In 1973 or 1974 Ken and I gave a talk at Kodak in Rochester to a group of 40 to 50 programmers who were required to work in PL/I. In the question period a senior staff member said, “If I understand what you people are saying, you are suggesting that we should adopt a new way of thinking.”<br />
+And Ken jumped up out of his chair and said, “Yes! That’s exactly what I am saying!” <cite>Joey Tuttle, <a title="A Celebration of Kenneth Iverson">A Celebration of Kenneth Iverson</a>, 2004-11-30</cite></p></blockquote>
+<h2 id="Acknowledgements">Acknowledgements</h2>
+<blockquote class="chm-blockquote chm-blockquote-clean"><p>Thanks to Michael Karasick, Yvonne Perkins, Steve Selbst, and Ken Edwards of IBM for ending my ten-year odyssey to get permission to release the APL source code. Thanks to Curtis Jones, Larry Breed, Paul Berry, and Roy Sykes for their comments on an early draft of this article. <cite>Len Shustek</cite></p></blockquote>
+<h2 id="Bibliography">Bibliography</h2>
+<ul class="chm-plainlist alternation">
+<li><a name="footnote-1"></a>[1] K. E. Iverson, A Programming Language, John Wiley and Sons, Inc., 1962.</li>
+<li><a name="footnote-2"></a>[2] <a title="IBM, &quot;APL Language,&quot; March 1975." href="http://www.bitsavers.org/pdf/ibm/apl/GC26-3847-0_APL_Language_Mar75.pdf" target="new">IBM, &#8220;APL Language,&#8221; March 1975.</a></li>
+<li><a name="footnote-3"></a>[3] <a title="IBM, &quot;APL\360 User's Manual,&quot; March 1970." href="http://www.bitsavers.org/pdf/ibm/apl/GH20-0683-1_APL_360_Users_Manual_Mar70.pdf" target="new">IBM, &#8220;APL\360 User&#8217;s Manual,&#8221; March 1970.</a></li>
+<li><a name="footnote-4"></a>[4] <a title="IBM, Paul Berry, &quot;APL\360 Primer - Student Text,&quot; 1969" href="http://www.bitsavers.org/pdf/ibm/apl/C20-1702-0_APL_360_Primer_1969.pdf" target="new">IBM, Paul Berry, &#8220;APL\360 Primer &#8211; Student Text,&#8221; 1969.</a></li>
+<li><a name="footnote-5"></a>[5]<a title="L.M. Breed and R.H. Lathwell, &quot;APL\360,&quot; 1968." href="http://www.bitsavers.org/pdf/ibm/apl/360D-03.3.007_APL_360_Aug69.pdf" target="new"> L. M. Breed and R. H. Lathwell, &#8220;APL\360,&#8221; 1968.</a></li>
+<li><a name="footnote-6"></a>[6] L. M. Breed and R. H. Lathwell, &#8220;The Implementation of APL\360,&#8221; in ACM Symposium on Experimental Systems for Interactive Applied Mathematics, 1967.</li>
+<li><a name="footnote-7"></a>[7] A. D. Falkoff, K. E. Iverson and E. H. Sussenguth, &#8220;A Formal Description of SYSTEM/360,&#8221; IBM Systems Journal, vol. 3, no. 3, pp. 198-261, 1964.</li>
+<li><a name="footnote-8"></a>[8]<a title="P.C. Berry and J.R. Thorstensen, &quot;Starmap,&quot; 1978" href="http://starmap.causeway.co.uk/docs/star.htm" target="new"> P. C. Berry and J. R. Thorstensen, &#8220;Starmap,&#8221; 1978.</a></li>
+<li><a name="footnote-9"></a>[9] P. C. Berry and J. R. Thorstensen, &#8220;Starmap,&#8221; IBM Systems Development Division, 1975.</li>
+<li><a name="footnote-10"></a>[10] IBM Systems Journal, vol. 30, no. 4, 1991.</li>
+<li><a name="footnote-11"></a>[11] K. E. Iverson, &#8220;A Personal View of APL,&#8221; IBM Systems Journal, vol. 30, no. 4, 1991.</li>
+<li><a name="footnote-12"></a>[12] A. J. Perlis, &#8220;In Praise of APL: A Language for Lyrical Programming,&#8221; SIAM News, June 1977.</li>
+<li><a name="footnote-13"></a>[13] <a title="B. McCormick, &quot;A Programming Language,&quot; 2000,2002." href="http://www.users.cloud9.net/~bradmcc/APL.html" target="new">B. McCormick, &#8220;A Programming Language,&#8221; 2000,2002.</a></li>
+<li><a name="footnote-14"></a>[14] E. W. Dijkstra, &#8220;How Do We Tell Truths That Might Hurt?&#8221;,&#8221; SIGPLAN Notices, vol. 17, no. 5, May 1982.</li>
+<li><a name="footnote-15"></a>[15] A. D. Falkoff and K. E. Iverson, &#8220;The Design of APL,&#8221; IBM Journal of Research and Development, vol. 17, no. 4, 1973.</li>
+<li><a name="footnote-16"></a>[16] A. D. Falkoff and K. E. Iversion, &#8220;The Evolution of APL,&#8221; SIGPLAN Notices, vol. 13, no. 8, pp. 45-57, August 1978.</li>
+<li><a name="footnote-17"></a>[17] <a title="L. Breed, &quot;How We Got to APL\1130,&quot; 10 May 2004." href="http://archive.computerhistory.org/resources/text/2009/102636222.05.01.acc.pdf" target="new">L. Breed, &#8220;How We Got to APL\1130,&#8221; 10 May 2004.</a></li>
+<li><a name="footnote-18"></a>[18] ACM, &#8220;Proceedings of the APL&#8217;69 Conference on APL,&#8221; SUNY Binghamton, NY, 1969.</li>
+<li><a name="footnote-18"></a>[19]&#8220;<a href="http://www.myspace.com/video/vid/60771080" target="new">The Origins of APL &#8211; 1974</a>&#8220;; a wonderful interview with the original developers of APL.</li>
+</ul>
+<h3>Historical Source Code Releases @CHM</h3>
+<ul class="chm-bulletlist alternation">
+<li><a href="http://www.computerhistory.org/atchm/macpaint-and-quickdraw-source-code">MacPaint and QuickDraw Source Code</a>, July 18, 2010</li>
+<li><a href="http://www.computerhistory.org/atchm/the-apl-programming-language-source-code/">APL Programming Language Source Code</a>, October 10, 2012</li>
+<li><a href="http://www.computerhistory.org/atchm/adobe-photoshop-source-code/">Adobe Photoshop Source Code</a>, February 13, 2013</li>
+<li><a href="http://www.computerhistory.org/atchm/apple-ii-dos-source-code/">Apple II DOS Source Code</a>, November 12, 2013</li>
+<li><a href="http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/">Microsoft MS-DOS Early Source Code</a>, March 25, 2014</li>
+<li><a href="http://www.computerhistory.org/atchm/microsoft-word-for-windows-1-1a-source-code/">Microsoft Word for Windows Version 1.1a Source Code</a>, March 25, 2014</li>
+<li><a href="http://www.computerhistory.org/atchm/early-digital-research-cpm-source-code/">Early Digital Research CP/M Source Code</a>, October 1, 2014</li>
+<li><a href="http://www.computerhistory.org/atchm/xerox-alto-source-code/">Xerox Alto Source Code</a>, October 21, 2014</li>
+<li><a href="http://www.computerhistory.org/atchm/electronic-arts-deluxepaint-early-source-code/">Electronic Arts DeluxePaint Early Source Code</a>, July 22, 2015</li>
+</ul>
+</div>
+        </div>
+            
+                <div id="atchm-related-articles" class="atchm-container atchm-border-top atchm-border-bottom atchm-equal-height chm-clear">
+	        <h2>RELATED ARTICLES</h2>
+            
+            		
+                    <div class="article col-md-6 col-sm-6 chm-clear">
+                    	<figure class="col-md-3 col-sm-3 chm-media-object">
+						                        	<a href="http://www.computerhistory.org/atchm/the-shocking-truth-behind-arnold-nordsiecks-differential-analyzer/" title="The Shocking Truth Behind Arnold Nordsieck’s Differential Analyzer">
+                            	<img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2018/01/102688183p-03-01-acc-542x349.jpg&amp;w=260&amp;h=200&amp;zc=1&amp;q=80" alt="The Shocking Truth Behind Arnold Nordsieck’s Differential Analyzer" />
+                            </a>
+                                                </figure>
+                                
+                        <div class="col-md-9 col-sm-9">
+                        	<div class="info atchm-adjust-height chm-clear">
+                                <a class="title block" href="http://www.computerhistory.org/atchm/the-shocking-truth-behind-arnold-nordsiecks-differential-analyzer/">The Shocking Truth Behind Arnold Nordsieck’s Differential Analyzer</a>
+                                <span class="date">January 18, 2018</span>
+                            </div>
+                        </div>
+                	</div>
+				
+                    <div class="article col-md-6 col-sm-6 chm-clear">
+                    	<figure class="col-md-3 col-sm-3 chm-media-object">
+						                        	<a href="http://www.computerhistory.org/atchm/in-the-holiday-spirit-festive-music-by-computer/" title="In the Holiday Spirit: Festive Music by Computer!">
+                            	<img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2017/12/download.jpg&amp;w=260&amp;h=200&amp;zc=1&amp;q=80" alt="In the Holiday Spirit: Festive Music by Computer!" />
+                            </a>
+                                                </figure>
+                                
+                        <div class="col-md-9 col-sm-9">
+                        	<div class="info atchm-adjust-height chm-clear">
+                                <a class="title block" href="http://www.computerhistory.org/atchm/in-the-holiday-spirit-festive-music-by-computer/">In the Holiday Spirit: Festive Music by Computer!</a>
+                                <span class="date">December 21, 2017</span>
+                            </div>
+                        </div>
+                	</div>
+				
+                    <div class="article col-md-6 col-sm-6 chm-clear">
+                    	<figure class="col-md-3 col-sm-3 chm-media-object">
+						                        	<a href="http://www.computerhistory.org/atchm/into-the-archives-a-look-back-with-robotic-artist-harold-cohen/" title="Into the Archives: A Look Back with &#8220;Robotic Artist&#8221; Harold Cohen">
+                            	<img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2016/05/IMG_6630-542x406.jpg&amp;w=260&amp;h=200&amp;zc=1&amp;q=80" alt="Into the Archives: A Look Back with &#8220;Robotic Artist&#8221; Harold Cohen" />
+                            </a>
+                                                </figure>
+                                
+                        <div class="col-md-9 col-sm-9">
+                        	<div class="info atchm-adjust-height chm-clear">
+                                <a class="title block" href="http://www.computerhistory.org/atchm/into-the-archives-a-look-back-with-robotic-artist-harold-cohen/">Into the Archives: A Look Back with &#8220;Robotic Artist&#8221; Harold Cohen</a>
+                                <span class="date">October 20, 2017</span>
+                            </div>
+                        </div>
+                	</div>
+				
+                    <div class="article col-md-6 col-sm-6 chm-clear">
+                    	<figure class="col-md-3 col-sm-3 chm-media-object">
+						                        	<a href="http://www.computerhistory.org/atchm/seymour-cray-the-man-who-brought-style-to-supercomputers/" title="Seymour Cray: The Man Who Brought Style to Supercomputers">
+                            	<img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2017/09/Blue-542x498.jpeg&amp;w=260&amp;h=200&amp;zc=1&amp;q=80" alt="Seymour Cray: The Man Who Brought Style to Supercomputers" />
+                            </a>
+                                                </figure>
+                                
+                        <div class="col-md-9 col-sm-9">
+                        	<div class="info atchm-adjust-height chm-clear">
+                                <a class="title block" href="http://www.computerhistory.org/atchm/seymour-cray-the-man-who-brought-style-to-supercomputers/">Seymour Cray: The Man Who Brought Style to Supercomputers</a>
+                                <span class="date">September 14, 2017</span>
+                            </div>
+                        </div>
+                	</div>
+		        
+        </div>
+	<!-- related articles -->
+        
         
 
+        <div id="atchm-about-author" class="atchm-container atchm-border-bottom chm-clear">
+			<h2 class="title">ABOUT <span class="to-upper-case">LEN SHUSTEK</span></h2>
+            
+            <figure class="col-md-3 col-sm-3 chm-media-object">
+            	<a href="http://www.computerhistory.org/atchm/author/lshustek/" title="Read all posts by Len Shustek">
+                                    <img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/userphoto/9.jpg&amp;w=240&amp;h=240&amp;zc=1&amp;q=100" alt="Read all posts by Len Shustek" />
+                        
+                                  </a>
+            </figure>
+                                
+            <div class="col-md-9 col-sm-9">
+                <div class="info chm-clear">
+                    <p>Len Shustek is chairman of the board of trustees of the Computer History Museum. In 1979, he co-founded Nestar Systems, an early developer of networks for personal computers. In 1986, he co-founded Network General, a manufacturer of network analysis tools including The Sniffer™. The company became Network Associates after merging with McAfee Associates and PGP.  ...</p>
+                    <a class="more" href="http://www.computerhistory.org/atchm/author/lshustek/" title="More Len Shustek Articles">More</a>
+                </div>
+            </div>
+            
+        </div>
         
-            <script type="text/javascript">window._sharedData = {"activity_counts":null,"config":{"csrf_token":"Remzg218ZZTRe470dyF9aY9Slmfsbwth","viewer":null},"supports_es6":false,"country_code":"TH","language_code":"en","locale":"en_US","entry_data":{"ProfilePage":[{"logging_page_id":"profilePage_399381028","show_suggested_profiles":false,"graphql":{"user":{"biography":"CHM explores the history of computing and its ongoing impact on society.","blocked_by_viewer":false,"country_block":false,"external_url":"http://www.computerhistory.org/","external_url_linkshimmed":"https://l.instagram.com/?u=http%3A%2F%2Fwww.computerhistory.org%2F\u0026e=ATOr4vqaHV9wN_IR4RFJ_M7zB0IbgTU4y4sjBrjbTOK618BL4o8eMMbFPG5xSvjb2jMGWfNJ","edge_followed_by":{"count":3703},"followed_by_viewer":false,"edge_follow":{"count":32},"follows_viewer":false,"full_name":"Computer History Museum (CHM)","has_blocked_viewer":false,"has_highlight_reel":false,"has_requested_viewer":false,"id":"399381028","is_private":false,"is_verified":false,"mutual_followers":null,"profile_pic_url":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/2b457d3edad11af839e3519be3c062f9/5B97425A/t51.2885-19/11313699_1616900921894835_219934314_a.jpg","profile_pic_url_hd":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/2b457d3edad11af839e3519be3c062f9/5B97425A/t51.2885-19/11313699_1616900921894835_219934314_a.jpg","requested_by_viewer":false,"username":"computerhistory","connected_fb_page":null,"edge_owner_to_timeline_media":{"count":421,"page_info":{"has_next_page":true,"end_cursor":"AQDkZO-Z_PdDZYcSbTBjngKuhSWp4HC73AzBaS1Fj4xG4JD2w9YgmkgPYmFR1CLqb-bc8t_NKHdAEeLDQn3g3v2TWyHDs3WMwSwvJ7-gV9B6-w"},"edges":[{"node":{"__typename":"GraphImage","id":"1473687905037162665","edge_media_to_caption":{"edges":[{"node":{"text":"\u202aDoesn't #CHM docent Pat look great on the jumbotron? @GSWfoundation #learningwithoutlimits \u202c#dubnation"}}]},"shortcode":"BRzl1d5h5ip","edge_media_to_comment":{"count":4},"comments_disabled":false,"taken_at_timestamp":1489897309,"dimensions":{"height":640,"width":640},"display_url":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/b5bb3e955be69bf3fd41f58394365d1c/5B864757/t51.2885-15/e35/17268071_1659500844065957_4940352725691924480_n.jpg","edge_liked_by":{"count":62},"edge_media_preview_like":{"count":62},"gating_info":null,"media_preview":"ACoqxY4lYFi6LgdDnn24Bqw1qsIDSBmV+mDjqMg8g5qhW+k+YYxn7oXt/n0p3SBK5T+xgKSQcjgkNxnnHG3P4VELJ8Z44OCeeD+We1dMboIpZhgj/P8ALk+lQi8DpwQWx1AJHv6cj0ptpaPcai2r9DmzDkfKyrjqGYZJ9QMDA9BTTbSD+7/32n+NNuG3yM3XJqGgkdirkUuV8s4XHIY+xzj688flUAIx159O1P2ELuPfp/n1NIC08qz7VXJZV6uQMnuck+nQUjyCFNoC5bOSrFsdOoBwD+dVhHu47dfUfnTShPH5UaWsFyLrzTcVKVNG4DjFAE6wmQ7UwzNznp9R/X9KmUIqgYJIz0HX3+orVZQrxhQByegx0Xj8qfGoDNgY5/njP51yyq2vp+Pm0XymMsbSHaCQQOM5H8vXNNkTy3IwQRggHrW4/X6SR/yFMvkXaTgZx6e9VGpzdBcpif7SjBPY9e4OPUfqD+dJ5RPRR/30KtWf+sB/2T/I1mGtiT//2Q==","owner":{"id":"399381028"},"thumbnail_src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/b5bb3e955be69bf3fd41f58394365d1c/5B864757/t51.2885-15/e35/17268071_1659500844065957_4940352725691924480_n.jpg","thumbnail_resources":[{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/810a4f5c9463e3e760344c17cb94959d/5B839D00/t51.2885-15/s150x150/e35/17268071_1659500844065957_4940352725691924480_n.jpg","config_width":150,"config_height":150},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/551b1d2b8bec43a0093a6fa762d2ae32/5B832594/t51.2885-15/s240x240/e35/17268071_1659500844065957_4940352725691924480_n.jpg","config_width":240,"config_height":240},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/83cafd8a76231822a963a12ce5cab515/5B8E0830/t51.2885-15/s320x320/e35/17268071_1659500844065957_4940352725691924480_n.jpg","config_width":320,"config_height":320},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/b91906c9ab045312a73447485861e9e8/5B774468/t51.2885-15/s480x480/e35/17268071_1659500844065957_4940352725691924480_n.jpg","config_width":480,"config_height":480},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/b5bb3e955be69bf3fd41f58394365d1c/5B864757/t51.2885-15/e35/17268071_1659500844065957_4940352725691924480_n.jpg","config_width":640,"config_height":640}],"is_video":false}},{"node":{"__typename":"GraphImage","id":"1473650106975976345","edge_media_to_caption":{"edges":[{"node":{"text":"Let's go warriors!!! Major thanks to @gswfoundation and to #Kevindurant for generously donating tickets to #chm staffers for tonight's game! #dubnation #slatenight #learningwithoutlimits"}}]},"shortcode":"BRzdPbthPuZ","edge_media_to_comment":{"count":2},"comments_disabled":false,"taken_at_timestamp":1489892804,"dimensions":{"height":1080,"width":1080},"display_url":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/9dbd730eb45b68ee32271e02ffbc320b/5B8CAFC8/t51.2885-15/e35/17265958_1848331435426506_7455803736816877568_n.jpg","edge_liked_by":{"count":55},"edge_media_preview_like":{"count":55},"gating_info":null,"media_preview":"ACoqwcUuKmVd3vjr9Ktiwlxwv6j/AB60OSW7EJa3r267OuM4yOmTk9x3p1xqDyoY8DDccDH9TThp8oGAO4Oc/wBPaoZbWWIbnU49eMUKpGWisx6ruUNtJipyOfT/AD3pu33qhE6DcSCeg9+3pXRWkoMIY/wjB/Cubszlhnnt+fHNbemyjay8fKf5/wBOw9a5p7+lvxuvzsWi48pUkBdwA3ZB/wA/nTFuBIo3DYWzwcEY56/XBpXuYlbYzKMgY5HPXI9vxptw0aKr8E7lAA+v8qhtLS2/9dx+Zm3toIxvXhT681mZA444/wBmuka4jYtG23gkYYnkAckAKeK5N5X3HBOMnua2i76MlipKUII/hORUqyc5zt9SPf2qrRV2EOJyT71YS42rtOTyD14446D2qtRRa4Fu7kjaTdGSQeScnr+PP19aqZHpSUUJWVgP/9k=","owner":{"id":"399381028"},"thumbnail_src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/d2869b7b27e0712f7e0e240c5e3d5143/5B80EEE2/t51.2885-15/s640x640/sh0.08/e35/17265958_1848331435426506_7455803736816877568_n.jpg","thumbnail_resources":[{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/902e33804662be38df2c9f73758bc4b5/5B91459F/t51.2885-15/s150x150/e35/17265958_1848331435426506_7455803736816877568_n.jpg","config_width":150,"config_height":150},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/a2c347b6eb356f871d966ae1aa1f80e3/5B905B0B/t51.2885-15/s240x240/e35/17265958_1848331435426506_7455803736816877568_n.jpg","config_width":240,"config_height":240},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/b9e78fb98882c199001415b667983566/5B7DC4AF/t51.2885-15/s320x320/e35/17265958_1848331435426506_7455803736816877568_n.jpg","config_width":320,"config_height":320},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/3d39b0c443024810a625cc6c5c79e1be/5B9071F7/t51.2885-15/s480x480/e35/17265958_1848331435426506_7455803736816877568_n.jpg","config_width":480,"config_height":480},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/d2869b7b27e0712f7e0e240c5e3d5143/5B80EEE2/t51.2885-15/s640x640/sh0.08/e35/17265958_1848331435426506_7455803736816877568_n.jpg","config_width":640,"config_height":640}],"is_video":false}},{"node":{"__typename":"GraphImage","id":"1462920255017280736","edge_media_to_caption":{"edges":[{"node":{"text":"The fox component sculpture is one of several originally designed and constructed for Honeywell Information Systems as part of their \"The Other Computer Company\" ad series. The ads, featured in Datamation from 1964-1978, were the brainchild of Boston's BBDO ad agency (akin to Mad Men's Sterling Cooper Draper Price). #worldwildlifeday #fox #Honeywell"}}]},"shortcode":"BRNVjiXB2Tg","edge_media_to_comment":{"count":2},"comments_disabled":false,"taken_at_timestamp":1488613705,"dimensions":{"height":320,"width":320},"display_url":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/ef176a31f7a57bad9c0a37ec01c53d37/5B7D4802/t51.2885-15/e35/16908620_1700289866938168_4004479562346921984_n.jpg","edge_liked_by":{"count":59},"edge_media_preview_like":{"count":59},"gating_info":null,"media_preview":"ACoq323diPy/+vTNrn+L/wAdFV576OFtvLN6Cqv9pnuuB9aTaRSi3saDRuQRvPT0H+FUrO+JG2fgj+L19j70g1NfTHv2rMPzMZMg55I6HJPbtjnNK99h8tvi0NK41B2B8gFQvVjjp7Cq41Ob1H5VXKqpO9wR6L/U9/pVcyeh47cf/Xql5ku3Qsi3kZGmfIPYHqeeT7VXRGkbYoyx7f1PoB61sTzJKhUMRn26+30NQ2U8YU5IDE8nGMjt+FTylcz2M943jJDjH170DYE989zjmrV7KJRkfwZ/EeorMkQMuR65z2xjpjrn0NCVmDldK5HcRzRnEgK56emPYjgj6Uzn3rRkGUwgYgAYUnPPGfoP1pgQ1RFwMwxk0kvJBTC98gdR+Z/kKqVZk6fjQATsWjIwRjkHtVW3kbJzyuOc9B/n86N7FQCTjPTPFVx1pLUbVjRO+PlTkD1P8j3+lRfaXpW6N/vf0qCqJP/Z","owner":{"id":"399381028"},"thumbnail_src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/ef176a31f7a57bad9c0a37ec01c53d37/5B7D4802/t51.2885-15/e35/16908620_1700289866938168_4004479562346921984_n.jpg","thumbnail_resources":[{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/fbdf2b54dac502d615382c3376fb0eb4/5B86C355/t51.2885-15/s150x150/e35/16908620_1700289866938168_4004479562346921984_n.jpg","config_width":150,"config_height":150},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/27d3a13831727da204b42b4e2ced98ad/5B8304C1/t51.2885-15/s240x240/e35/16908620_1700289866938168_4004479562346921984_n.jpg","config_width":240,"config_height":240},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/ef176a31f7a57bad9c0a37ec01c53d37/5B7D4802/t51.2885-15/e35/16908620_1700289866938168_4004479562346921984_n.jpg","config_width":320,"config_height":320},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/ef176a31f7a57bad9c0a37ec01c53d37/5B7D4802/t51.2885-15/e35/16908620_1700289866938168_4004479562346921984_n.jpg","config_width":480,"config_height":480},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/ef176a31f7a57bad9c0a37ec01c53d37/5B7D4802/t51.2885-15/e35/16908620_1700289866938168_4004479562346921984_n.jpg","config_width":640,"config_height":640}],"is_video":false}},{"node":{"__typename":"GraphImage","id":"1462004824504901350","edge_media_to_caption":{"edges":[{"node":{"text":"What tech books are you reading for #worldbookday? What books are you reading for #womenshistorymonth? #chmstore #siliconvalley"}}]},"shortcode":"BRKFaRQhZ7m","edge_media_to_comment":{"count":6},"comments_disabled":false,"taken_at_timestamp":1488504578,"dimensions":{"height":1080,"width":1080},"display_url":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/34fa81774c7db9b265c6a9ccdb7fa349/5B86AEB3/t51.2885-15/e35/16908006_1793354967659516_5779772708959027200_n.jpg","edge_liked_by":{"count":95},"edge_media_preview_like":{"count":95},"gating_info":null,"media_preview":"ACoqqOWA35HUcYJ4P6k/jj0IqB4XIG0HqynAPY8Z/Op3YICy4GPTPfv1oid1nKZON3XPQn7pP6cmncQJF5nyZK5Byp5wV7c/Q9KQp5YMbc8E8dQDxnHpn3qd1e2YB/Xdk8k5Jz3+vWntCTPuA38YwAf8jGKnrdbfqV0KkSKAFJ+YnnHOPWmG5cHA5H1H+FSyImxZCCAzHOM8Y7DPr1qQadIRweKYvIhONpXrkEdalVC5LqoJ+XnnIIAB7d8ZpkAB5cZwSDn69hVqDCu+AVBA6cf3gcfpUvRD3diO6nfIkaPgDvuIIPTnj+dWoJH3iTHCYBAbBOQMEqf8fWnSXUMcAifJIPA698g+tVIrjBJxvUYIJyBgH/PB/Gl00GTQxxuzIeSckDspz+XTv+lZjX0qEqGbAOBye34VbjYhipGVByx/2Sc9u4xwe1Upbdt7bWG3Jxz2zxQvMXoTwRFzguEDgt/OoIHOW25J6fUf596hU5Iz6D+Zp0P3j9ateYvQlUtKSmCzg9zwBn3pVdkJRh975eD/AC/zjvVq7+XOOPm7fjS23Lj6f1FTcu2lyxFajILHj+L1K/3eO+cHPtSmxi7SSAem4ce3SpZTwfoax6ncNj//2Q==","owner":{"id":"399381028"},"thumbnail_src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/f8ce38f92aa7858ada478ed0ed8f2710/5B976899/t51.2885-15/s640x640/sh0.08/e35/16908006_1793354967659516_5779772708959027200_n.jpg","thumbnail_resources":[{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/9f6080b4a958c8f4b54fffaed230f21a/5B7665E4/t51.2885-15/s150x150/e35/16908006_1793354967659516_5779772708959027200_n.jpg","config_width":150,"config_height":150},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/c84e7e42f1be17891ce5f87275019b5d/5B967970/t51.2885-15/s240x240/e35/16908006_1793354967659516_5779772708959027200_n.jpg","config_width":240,"config_height":240},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/f829f8580e9911f4880690ac7815a2f9/5B7A04D4/t51.2885-15/s320x320/e35/16908006_1793354967659516_5779772708959027200_n.jpg","config_width":320,"config_height":320},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/4199e9a9600a7160b73696911a18a9dc/5B94318C/t51.2885-15/s480x480/e35/16908006_1793354967659516_5779772708959027200_n.jpg","config_width":480,"config_height":480},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/f8ce38f92aa7858ada478ed0ed8f2710/5B976899/t51.2885-15/s640x640/sh0.08/e35/16908006_1793354967659516_5779772708959027200_n.jpg","config_width":640,"config_height":640}],"is_video":false}},{"node":{"__typename":"GraphImage","id":"1450925489186230148","edge_media_to_caption":{"edges":[{"node":{"text":"With Valentine's Day yesterday there is a lot of talk about hearts!\n\nDid you know that early pacemakers were external? Medtronic founder Earl Bakken designed one in the late 1950s that used silicon transistors. Its controls were in the box; implanted electrical leads connected to the heart muscle.\n\n#CHM #SiliconValley #ValentinesDay #hearts #medicine"}}]},"shortcode":"BQiuQuKgU-E","edge_media_to_comment":{"count":0},"comments_disabled":false,"taken_at_timestamp":1487183818,"dimensions":{"height":1080,"width":1080},"display_url":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/9812b65fe394833078f5f25ed8ee6504/5B94B1AB/t51.2885-15/e35/16583635_252587401862414_3894594559245549568_n.jpg","edge_liked_by":{"count":46},"edge_media_preview_like":{"count":46},"gating_info":null,"media_preview":"ACoqptVdk3n0xVgnNOihbO4jC9qybsjeKu0kRIJI/mU8ir5mk8rzB2Bz0654NVpfkA9DWnbRk2rdyQ1OL0M6u9uxjLeSvxu5PThcfyq+seQM9cc/WsyC3Eu75lUqMgE4z+fpWzHKCoJ7gfyqmQijAQBmtFeazIWATPpmrqNxXNLc9GFnHTyHSHYRgcE4Pf8AOtK2AUFF4Cnt71QBpBctHwmOeuc/0Ipx30M6q013KmpWO1t8YJDdQOce9SQ/cX/dH8qnNxJ/s/kf/iqUNnk1tc40rGXFgRnPvViA5Qd+KqD/AFVZeSOlRy81/U3jPktpfQ6fOBk8VCXDAMOnP8657cTwSTWrb/6lfq386ahy6ilNy0LxYYqD7SBUb9KzyOa0sZH/2Q==","owner":{"id":"399381028"},"thumbnail_src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/8070bea26171959cbd4fbcdc7e10b746/5B9BC0CA/t51.2885-15/s640x640/sh0.08/e35/16583635_252587401862414_3894594559245549568_n.jpg","thumbnail_resources":[{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/a87767648dd542f970c4df4f59b7d55e/5B7D8CCE/t51.2885-15/s150x150/e35/16583635_252587401862414_3894594559245549568_n.jpg","config_width":150,"config_height":150},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/341607bc6a297fa7ecbe207f078799b4/5B8FC4F1/t51.2885-15/s240x240/e35/16583635_252587401862414_3894594559245549568_n.jpg","config_width":240,"config_height":240},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/5184ef02fe2cb9b35c0571943dff4832/5B850389/t51.2885-15/s320x320/e35/16583635_252587401862414_3894594559245549568_n.jpg","config_width":320,"config_height":320},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/cf80583d30f59271e8aad82f1860334d/5B89520F/t51.2885-15/s480x480/e35/16583635_252587401862414_3894594559245549568_n.jpg","config_width":480,"config_height":480},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/8070bea26171959cbd4fbcdc7e10b746/5B9BC0CA/t51.2885-15/s640x640/sh0.08/e35/16583635_252587401862414_3894594559245549568_n.jpg","config_width":640,"config_height":640}],"is_video":false}},{"node":{"__typename":"GraphImage","id":"1441705351786501021","edge_media_to_caption":{"edges":[{"node":{"text":"#throwback to when sectors were in style. The compass-like sector, developed in the late 1500s, can perform a tremendous range of approximate computations, from basic arithmetic to calculating areas and volumes or converting currencies. #tbt #sectors #technology #computers #history"}}]},"shortcode":"BQB92EEA5Od","edge_media_to_comment":{"count":5},"comments_disabled":false,"taken_at_timestamp":1486084692,"dimensions":{"height":1080,"width":1080},"display_url":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/d7f1bfd5ef677fbcb8aa222f02c3cbc7/5B7A7306/t51.2885-15/e35/16230186_242941699494892_8775066107867299840_n.jpg","edge_liked_by":{"count":97},"edge_media_preview_like":{"count":97},"gating_info":null,"media_preview":"ACoqBz/n+lDMEGSePX/Cq73AXjqfT0+v+FVmYyck5rBLuXcvW90ofBXIPGf4v8+1Xp7FHYMvysRwR9R17dPxqrZW38RIDkZVe+P7349q0XmMARANzSHkHoAOv41oIz5LdhIu8AEdWHIOemfbvg1oiyyO35UrKJPnX5TwD+HpVBppASM0wMNWB61es4A5LvxGnJ98dv8AH8qhR4p+JPkb+8On+fr+dak8ZMISPpxkDuP/ANfWgCqC0756eYc8dQq9PoPT3FbqEONp6etZsEDqC7jDHgewFaUAwv1pAL5ewYHrWU0fJ+taSnL/AI1XYcn60AcqAat29zJB905H909P/rfhTBUmBiqEbltfxzcH5G9D/Q/5NXSAcdsdMcf5Fcka2tOYtFyScHuaQFyPKOM+9QM4yfqasms1up+ppDP/2Q==","owner":{"id":"399381028"},"thumbnail_src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/a58c592972b75f0c81f453550c36909b/5B7BE467/t51.2885-15/s640x640/sh0.08/e35/16230186_242941699494892_8775066107867299840_n.jpg","thumbnail_resources":[{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/8e980c5eed95bfaf9fc69ff2dbb02d20/5B626763/t51.2885-15/s150x150/e35/16230186_242941699494892_8775066107867299840_n.jpg","config_width":150,"config_height":150},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/fa7a3e7a5cda70f057111e1194d815ca/5B920E5C/t51.2885-15/s240x240/e35/16230186_242941699494892_8775066107867299840_n.jpg","config_width":240,"config_height":240},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/28500ee84e8a4bea39a5e903577814df/5B8A7D24/t51.2885-15/s320x320/e35/16230186_242941699494892_8775066107867299840_n.jpg","config_width":320,"config_height":320},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/4583d17952480a3db51004755c0e3707/5B8662A2/t51.2885-15/s480x480/e35/16230186_242941699494892_8775066107867299840_n.jpg","config_width":480,"config_height":480},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/a58c592972b75f0c81f453550c36909b/5B7BE467/t51.2885-15/s640x640/sh0.08/e35/16230186_242941699494892_8775066107867299840_n.jpg","config_width":640,"config_height":640}],"is_video":false}},{"node":{"__typename":"GraphImage","id":"1437881332419239218","edge_media_to_caption":{"edges":[{"node":{"text":"Car crash test dummies crashed through the exhibition last week and found themselves  glued inside the MRI tunnel. #imwithdummy #makesoftware #carcrashsimulation #MRI"}}]},"shortcode":"BP0YXQgA50y","edge_media_to_comment":{"count":0},"comments_disabled":false,"taken_at_timestamp":1485628833,"dimensions":{"height":1080,"width":1080},"display_url":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/73fed395064fddfb4de20779199efa37/5B79891C/t51.2885-15/e35/16228819_1853888101533871_522789135870590976_n.jpg","edge_liked_by":{"count":49},"edge_media_preview_like":{"count":49},"gating_info":null,"media_preview":"ACoqltLAzfO+VX0PU/iMcfUZNbccKRjCgCngBRgfhUcsqxLvc8D05/AAUySTioJbSOUcjB9RwapNq8S4LK4Vs4OBxg4IIzkY/kRWmrZ5FK4HM3kMkDbW5VuhHQ/4H259aztxHc12k0SzoUbv+hrnWtiCR6VtBXvql6jOm7/Suf1K6CyqoztBO7sM8YPvjP0rcPBIwTn071SuIV2EzAOmeh6r9GGDj1rlc7bq6GirbufILnCMTjpkZJwD34Py59hV6NCknUfPgnr94DBwOmCO/t3rLd41h3RFgkeCA2dpww4I75/hP51pwAyt5rLswSF+YHKkA5OOPwrPWUrx2u/La2nzGXu9VmRcngdasd656bWVR2UDIDEZ9cGukg2kuUdQ2QpxnBIyM9jWdqt3F5ew8788Dk8fp1x16isXy19B+QoEa+g/IUmr6DFhuDNH9mbjI4f0C/NhvUfqPetjS7xBAodhuHGCeg7Z/Csfy09B+Qo8pP7o/IVKik7rve3nqn/XkM277UUSFvJYM5469M9SPU+grka0/KT+6PyFJ5Sf3R+QqxH/2Q==","owner":{"id":"399381028"},"thumbnail_src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/2b1350c27ba6ff41dc4cf7f728d90e04/5B93ED7D/t51.2885-15/s640x640/sh0.08/e35/16228819_1853888101533871_522789135870590976_n.jpg","thumbnail_resources":[{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/ba05f70c4ca3041d59a53eb8150ab000/5B945A79/t51.2885-15/s150x150/e35/16228819_1853888101533871_522789135870590976_n.jpg","config_width":150,"config_height":150},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/c7a66b4f348480cb7e811cc1785210d3/5B825846/t51.2885-15/s240x240/e35/16228819_1853888101533871_522789135870590976_n.jpg","config_width":240,"config_height":240},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/80ed542e38740db16a2e1fc53aff2451/5B8CC63E/t51.2885-15/s320x320/e35/16228819_1853888101533871_522789135870590976_n.jpg","config_width":320,"config_height":320},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/6ba5af70b5a2e1506bd3d66918cce25a/5B85B3B8/t51.2885-15/s480x480/e35/16228819_1853888101533871_522789135870590976_n.jpg","config_width":480,"config_height":480},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/2b1350c27ba6ff41dc4cf7f728d90e04/5B93ED7D/t51.2885-15/s640x640/sh0.08/e35/16228819_1853888101533871_522789135870590976_n.jpg","config_width":640,"config_height":640}],"is_video":false}},{"node":{"__typename":"GraphImage","id":"1437878631153190865","edge_media_to_caption":{"edges":[{"node":{"text":"Make Software: Change the World! Is now open to the public!  Fly through World of Warcraft\u2019s fantastic world of Azeroth, learn Photoshop from the pros, try your hand at coding, and speed-text your way to victory in Make Software: Change the World! Make Software explores the history, impact, and technology behind seven game-changing applications: MP3, Photoshop, MRI, Car Crash Simulation, Wikipedia, Texting, and World of Warcraft. The Stata Family Foundation Software Lab is at the center of the exhibition, where visitors are introduced to basic programming concepts and encouraged to try coding hands-on. #makesoftware #nowopen #adobephotoshop #mri #wikipedia #carcrashsimulation #texting #WoW #worldofwarcraft #mp3 #exhibitions"}}]},"shortcode":"BP0Xv8wAsfR","edge_media_to_comment":{"count":2},"comments_disabled":false,"taken_at_timestamp":1485628511,"dimensions":{"height":1080,"width":1080},"display_url":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/708777635c1198bbcd14f0d2e0fc62db/5B84D06F/t51.2885-15/e35/16122634_1307603069317188_1110014609521115136_n.jpg","edge_liked_by":{"count":44},"edge_media_preview_like":{"count":153},"gating_info":null,"media_preview":"ACoqi84HjkEcY6j+h/nT44iPnPyfXjP+fz+lWXtvKcMvU9Pb168fj+lSiFup6+v/ANc/0xU2LM28fyUyg7454P6Vmi6m6J8v+6Ofz5Nbl3EZE2jLHPbn/wDVWaLCU9Ebn2NF+4ifTN7F9xy3BG4n3rQLMDjafyqraWskAYshAOOvHTNWfOUev5j/AAqWUtiaWTyueVU46/596nuLaE/NICcnuTjjp7CuUe8klYO7ZK8j0H0Hb+dX49alX7w3j/PeruQbtsGV5OcjK4Hpxz+Zq3lvb9ax9JmMwc42jcCAOgyOgrYxSGQXBYQuehwcEZrnxp6tznrz1atzUDi3k7fKa5db1lAGAcDHU0DVupn09asbF9B+VLsX0H5UyR8F3JBxGcA9RgH+daSatKPvBW/MVmKo9B+VSbR6CkM0Z9UWWJo2UgspA5BGf0rD2D1q2VHoKTaPQUgP/9k=","owner":{"id":"399381028"},"thumbnail_src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/482104d0909d336339e4015c0efdaf1c/5B8F9645/t51.2885-15/s640x640/sh0.08/e35/16122634_1307603069317188_1110014609521115136_n.jpg","thumbnail_resources":[{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/282d7874f93ae9cfb70e359bee389ec8/5B7E7F38/t51.2885-15/s150x150/e35/16122634_1307603069317188_1110014609521115136_n.jpg","config_width":150,"config_height":150},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/cc3f6d0940a201ec3c4739095da44c99/5B8483AC/t51.2885-15/s240x240/e35/16122634_1307603069317188_1110014609521115136_n.jpg","config_width":240,"config_height":240},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/397720ee155d7584a1a5f51df37d5efc/5B628A08/t51.2885-15/s320x320/e35/16122634_1307603069317188_1110014609521115136_n.jpg","config_width":320,"config_height":320},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/c1d303073d451cb724b92b063bcabac4/5B77B750/t51.2885-15/s480x480/e35/16122634_1307603069317188_1110014609521115136_n.jpg","config_width":480,"config_height":480},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/482104d0909d336339e4015c0efdaf1c/5B8F9645/t51.2885-15/s640x640/sh0.08/e35/16122634_1307603069317188_1110014609521115136_n.jpg","config_width":640,"config_height":640}],"is_video":false}},{"node":{"__typename":"GraphImage","id":"1437117926216914572","edge_media_to_caption":{"edges":[{"node":{"text":"Thank you to all of our guests the last two weeks who have helped us celebrate our new exhibit: Make Software! Change the World! Can't wait until tomorrow when it is OFFICIALLY OPEN! #makesoftware #museums #exhibits #siliconvalley"}}]},"shortcode":"BPxqyPEgVaM","edge_media_to_comment":{"count":0},"comments_disabled":false,"taken_at_timestamp":1485537828,"dimensions":{"height":1080,"width":1080},"display_url":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/2db1c11b2cc5c0abe6ca28245f051b5b/5B625362/t51.2885-15/e35/16123625_1858778764343821_2795830981628526592_n.jpg","edge_liked_by":{"count":42},"edge_media_preview_like":{"count":42},"gating_info":null,"media_preview":"ACoqgaVUICncMflQJQSD71UVakANc7Rw8iLYkXGc8UvmoOc4z0quE9aQ47frUi9mvMnWRf4jn060mT7VWYAjnGahyadrlKmtyxGOx4B6nFW1hDAlTnA+n061GuFGCAfrn/GnLNs6KORjv/j1oVupvy9xWhbGCAD6557f4im/ZpAcEc/X2z/KmM7Ocn/PenfaJPU/5GP5cU9BWRHICvykAH16mocCpHYucnrUWaXoK1iyGzSYzTBU8X3hUvQ1Ywrio6uTiqZojqrkDCcUzFKabWgH/9k=","owner":{"id":"399381028"},"thumbnail_src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/ef1c009ea9f0d40c95289d7a54aa5350/5B8ED548/t51.2885-15/s640x640/sh0.08/e35/16123625_1858778764343821_2795830981628526592_n.jpg","thumbnail_resources":[{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/d73ebef37e21e6e61fb4d0ae54f19d69/5B925F35/t51.2885-15/s150x150/e35/16123625_1858778764343821_2795830981628526592_n.jpg","config_width":150,"config_height":150},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/45f207bb58da63ba66d15629f66e8b71/5B7BCEA1/t51.2885-15/s240x240/e35/16123625_1858778764343821_2795830981628526592_n.jpg","config_width":240,"config_height":240},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/b360ecd3b2ddda5004bc8d939dc72ade/5B996A05/t51.2885-15/s320x320/e35/16123625_1858778764343821_2795830981628526592_n.jpg","config_width":320,"config_height":320},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/8039feffbc5785fd2ddfd1025545952b/5B83A15D/t51.2885-15/s480x480/e35/16123625_1858778764343821_2795830981628526592_n.jpg","config_width":480,"config_height":480},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/ef1c009ea9f0d40c95289d7a54aa5350/5B8ED548/t51.2885-15/s640x640/sh0.08/e35/16123625_1858778764343821_2795830981628526592_n.jpg","config_width":640,"config_height":640}],"is_video":false}},{"node":{"__typename":"GraphImage","id":"1431773125325956323","edge_media_to_caption":{"edges":[{"node":{"text":"#NowandThen Digital vs. Manual Photo Editing\n\nBefore Photoshop, photographers used manual photo editing techniques, like photomontage, combination printing, overpainting, and retouching, to alter reality. The fairies in this 1917 photograph are paper cutouts, secured in the ground with hatpins. (Images: Erik Johansson and National Media Museum/Science \u0026 Society Picture Library) #MakeSoftware #StoryoftheWeek #photoshop"}}]},"shortcode":"BPerhJWASTj","edge_media_to_comment":{"count":0},"comments_disabled":false,"taken_at_timestamp":1484900678,"dimensions":{"height":687,"width":1080},"display_url":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/27ae001614653d4afba75dd7e1f923ff/5B94E924/t51.2885-15/e35/16122571_582549671937722_3413079277405470720_n.jpg","edge_liked_by":{"count":32},"edge_media_preview_like":{"count":32},"gating_info":null,"media_preview":"ACoaqrfTk4BOfqf8aGvpl4JOfqf8auC1USM8Z+4dxRhjHOT7YxyPXpVeaOKSMzbvmbt2yTwOM44HNAyewne4k2yZIUbhyeoPHU1duody/ISh3ZO3JJzyefTnP4Vl2JKuSvJ24/Mj/GrkEy7mYs3ygE5GfqOOtQ+wvM0kiTbhgDu657/59KcYoyckDJ9//r1myXkUuQCcY7jGD2xznP4dKzxBD/fkH4UxEWyTrnnOc5pqwsPT866byU/ur+QpphT+6v5Ci5djIsYjuO7+7/7MDS3N2ozHCOvDP6+uPX3P5VPqKhISVAXLKDjjjPT6VkHpUtjSGwAEt7YqkXJPWr8H3m/CtqKJNi/KvQdh6UJ2b+QraI//2Q==","owner":{"id":"399381028"},"thumbnail_src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/baea2666bcf9437129e0d4ea3da733ed/5B7D820F/t51.2885-15/s640x640/sh0.08/e35/c193.0.675.675/16122571_582549671937722_3413079277405470720_n.jpg","thumbnail_resources":[{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/70f73507c682308c76e3240cf9da7292/5B7D034C/t51.2885-15/s150x150/e35/c193.0.675.675/16122571_582549671937722_3413079277405470720_n.jpg","config_width":150,"config_height":150},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/1daffc571c66d68d0cd209920cd387b2/5B7665DA/t51.2885-15/s240x240/e35/c193.0.675.675/16122571_582549671937722_3413079277405470720_n.jpg","config_width":240,"config_height":240},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/bcbd3d77f05dc7888973710a2d5cdd4c/5B8C6732/t51.2885-15/s320x320/e35/c193.0.675.675/16122571_582549671937722_3413079277405470720_n.jpg","config_width":320,"config_height":320},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/9619712bb9ab76108769a71d5cdc2f53/5B85591B/t51.2885-15/s480x480/e35/c193.0.675.675/16122571_582549671937722_3413079277405470720_n.jpg","config_width":480,"config_height":480},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/baea2666bcf9437129e0d4ea3da733ed/5B7D820F/t51.2885-15/s640x640/sh0.08/e35/c193.0.675.675/16122571_582549671937722_3413079277405470720_n.jpg","config_width":640,"config_height":640}],"is_video":false}},{"node":{"__typename":"GraphImage","id":"1430058721198772505","edge_media_to_caption":{"edges":[{"node":{"text":"#featuredartifact Display install disk, ca. 1987....Display was the name of the image-editing program developed by John and Thomas Knoll, before they renamed it Photoshop in 1988. This is the original disk containing Display. #MakeSoftware #StoryoftheWeek #photoshop"}}]},"shortcode":"BPYltSFAJEZ","edge_media_to_comment":{"count":3},"comments_disabled":false,"taken_at_timestamp":1484696305,"dimensions":{"height":1080,"width":1080},"display_url":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/fd9b6cfb4058a497bdcd82cc7335302b/5B7EF223/t51.2885-15/e35/15875922_244076426034373_3387070755052191744_n.jpg","edge_liked_by":{"count":114},"edge_media_preview_like":{"count":114},"gating_info":null,"media_preview":"ACoqRi8lwY9zDc5HU8cn3q99gP8Az1b/AD+NUN4S6LNwBIcn8TWub2H++PyP+FdEuZW5e3YwjZ35u/crfYP+mzf5/GnDTyekr/5/Gp/tsHdx+R/wpRfQD+Mfkf8ACs7z8/u/4Bdo+X3/APBOfkkkUkBicHHJPb8etdbH90fQfyrkHOWJHcmuvj+6PoP5VpV2RFPqcpc/65/95v5moamuf9a/+838zTdg27jnmtr2SMbXbsR0VKEXG7JH5U4xDHU9M9P/AK9Lnje3UfJK1+hAa7GP7o+g/lXHGuxj+6PoP5VnV6fM0pdTk7r/AFz/AO+386ceYh9f8a27uJGfJUEkdSBSpDHtHyr+QpOWkX6DUdWu5zsjBVG4ZA+vc06F0bJUdiM856e9dB5Sf3R+QphiQn7o/IVje7v5mtrK3kc8TXZR/cH0H8qy5YI8D5V/If4VrDgVrUd7GdNWuf/Z","owner":{"id":"399381028"},"thumbnail_src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/d5c13f6d941401e0cca85845f81a4e08/5B990E42/t51.2885-15/s640x640/sh0.08/e35/15875922_244076426034373_3387070755052191744_n.jpg","thumbnail_resources":[{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/f945193a7b664a8dc44cdc5beb503057/5B99C346/t51.2885-15/s150x150/e35/15875922_244076426034373_3387070755052191744_n.jpg","config_width":150,"config_height":150},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/91f7c0b49e5d79770d3365ff0adf14ae/5B7D7779/t51.2885-15/s240x240/e35/15875922_244076426034373_3387070755052191744_n.jpg","config_width":240,"config_height":240},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/67dd9a1bef22163f4961214f1f77294e/5B942F01/t51.2885-15/s320x320/e35/15875922_244076426034373_3387070755052191744_n.jpg","config_width":320,"config_height":320},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/2ae705a3c65c1354b99129d26a89bd0a/5B850787/t51.2885-15/s480x480/e35/15875922_244076426034373_3387070755052191744_n.jpg","config_width":480,"config_height":480},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/d5c13f6d941401e0cca85845f81a4e08/5B990E42/t51.2885-15/s640x640/sh0.08/e35/15875922_244076426034373_3387070755052191744_n.jpg","config_width":640,"config_height":640}],"is_video":false}},{"node":{"__typename":"GraphImage","id":"1429507056028648524","edge_media_to_caption":{"edges":[{"node":{"text":"#StoryoftheWeek #photoshop introduced an unprecedented tool for shaping emotions, opinions, and actions, from art and advertising to propaganda, from science to selfies. (Detail of \u201cTimes Square,\u201d by Bert Monroy) #MakeSoftware #Photoshop #countingdown #adobephotoshop"}}]},"shortcode":"BPWoRf2gIRM","edge_media_to_comment":{"count":0},"comments_disabled":false,"taken_at_timestamp":1484630542,"dimensions":{"height":714,"width":1080},"display_url":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/9d057b2685bf6e8e551c75256e6b4cfb/5B882735/t51.2885-15/e35/15802041_195657627569528_5641428161632665600_n.jpg","edge_liked_by":{"count":27},"edge_media_preview_like":{"count":27},"gating_info":null,"media_preview":"ACob0reHzI1dnkywycNSFMEjdLx7k/yqe1IEKem2kuIhPjDAFc+/UY9RjH+fWhsSKcTb13M7rkn+I9jjvVmOESDIkkP0eqaSLAE3Z2gsMDPOPYk5/E1sKoHTjNCDQ50ySbgN78kfxN6/WoXu5QSA7cE9zUjffXjow59eetUpPvH6n+dWQdGkXn2qqMcqCM9KhsbJrRmZsHcc8dvzNRwTOiBVOAowBxUguZPX9B/hWbim7/1oaX0t0LUWxiSQCMnGQMde1W6xY5GQYU4xnH+TTvtcv979B/hVIRTLAsp9/wD2aqUnLn6n+daOxcZ/H+tRGBDyR19z/jVIl+R//9k=","owner":{"id":"399381028"},"thumbnail_src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/b458424974fc21aab3b04d378f076637/5B79BCA2/t51.2885-15/s640x640/sh0.08/e35/c183.0.714.714/15802041_195657627569528_5641428161632665600_n.jpg","thumbnail_resources":[{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/4bb146f12df8bedc8965c56d688d72b3/5B808DE1/t51.2885-15/s150x150/e35/c183.0.714.714/15802041_195657627569528_5641428161632665600_n.jpg","config_width":150,"config_height":150},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/c421e7e0660962d9ecd6f3666be4cd6f/5B84FA77/t51.2885-15/s240x240/e35/c183.0.714.714/15802041_195657627569528_5641428161632665600_n.jpg","config_width":240,"config_height":240},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/ca413536ca14289719bd3b9c1fa7ad28/5B8E5A9F/t51.2885-15/s320x320/e35/c183.0.714.714/15802041_195657627569528_5641428161632665600_n.jpg","config_width":320,"config_height":320},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/21164698729a88bc4ac2dd2f9393dd12/5B9914B6/t51.2885-15/s480x480/e35/c183.0.714.714/15802041_195657627569528_5641428161632665600_n.jpg","config_width":480,"config_height":480},{"src":"https://instagram.fbkk5-3.fna.fbcdn.net/vp/b458424974fc21aab3b04d378f076637/5B79BCA2/t51.2885-15/s640x640/sh0.08/e35/c183.0.714.714/15802041_195657627569528_5641428161632665600_n.jpg","config_width":640,"config_height":640}],"is_video":false}}]},"edge_saved_media":{"count":0,"page_info":{"has_next_page":false,"end_cursor":null},"edges":[]},"edge_media_collections":{"count":0,"page_info":{"has_next_page":false,"end_cursor":null},"edges":[]}}}}]},"gatekeepers":{"ld":true,"seo":true,"seoht":true,"lh":true,"saa":true},"knobs":{"acct:ntb":0,"cb":1},"qe":{"dash_for_vod":{"g":"","p":{}},"aysf":{"g":"","p":{}},"bc3l":{"g":"","p":{}},"comment_reporting":{"g":"","p":{}},"direct_conversation_reporting":{"g":"","p":{}},"direct_reporting":{"g":"","p":{}},"reporting":{"g":"","p":{}},"media_reporting":{"g":"","p":{}},"acc_recovery_link":{"g":"","p":{}},"notif":{"g":"","p":{}},"drct_nav":{"g":"","p":{}},"pl_pivot_li":{"g":"","p":{}},"pl_pivot_lo":{"g":"","p":{}},"404_as_react":{"g":"","p":{}},"acc_recovery":{"g":"","p":{}},"client_gql":{"g":"","p":{}},"collections":{"g":"","p":{}},"comment_ta":{"g":"","p":{}},"connections":{"g":"","p":{}},"disc_ppl":{"g":"","p":{}},"embeds":{"g":"","p":{}},"ebdsim_li":{"g":"","p":{}},"ebdsim_lo":{"g":"","p":{}},"es6":{"g":"","p":{}},"exit_story_creation":{"g":"","p":{}},"gdpr_logged_out":{"g":"","p":{}},"appsell":{"g":"","p":{}},"imgopt":{"g":"","p":{}},"follow_button":{"g":"","p":{}},"loggedout":{"g":"launch","p":{"new_cta":"true","remove_upsell_banner":"true","update_nav":"true"}},"loggedout_upsell":{"g":"control_without_new_loggedout_upsell_content_03_15_18","p":{"has_new_loggedout_upsell_content":"false"}},"us_li":{"g":"","p":{}},"msisdn":{"g":"","p":{}},"bg_sync":{"g":"","p":{}},"onetaplogin":{"g":"control","p":{"after_login":"false","storage_version":"one_tap_after_login_v2"}},"onetaplogin_userbased":{"g":"","p":{}},"login_poe":{"g":"","p":{}},"prvcy_tggl":{"g":"","p":{}},"private_lo":{"g":"","p":{}},"profile_photo_nux_fbc_v2":{"g":"","p":{}},"push_notifications":{"g":"","p":{}},"reg":{"g":"","p":{}},"reg_vp":{"g":"","p":{}},"feed_vp":{"g":"","p":{}},"report_haf":{"g":"","p":{}},"report_media":{"g":"","p":{}},"report_profile":{"g":"","p":{}},"save":{"g":"","p":{}},"sidecar":{"g":"","p":{}},"su_universe":{"g":"","p":{}},"stale":{"g":"","p":{}},"stories_lo":{"g":"control_03_15","p":{"stories_profile":"false"}},"stories":{"g":"","p":{}},"tp_pblshr":{"g":"","p":{}},"video":{"g":"","p":{}},"gdpr_settings":{"g":"","p":{}},"gdpr_eu_tos":{"g":"","p":{}},"gdpr_row_tos":{"g":"","p":{}},"fd_gr":{"g":"","p":{}}},"hostname":"www.instagram.com","platform":"web","rhx_gis":"63cb628fba29b4fdc837565c8107afd6","nonce":"q6bfC523XCIXOfocLWwgHQ==","is_bot":true,"zero_data":{},"rollout_hash":"67c717392909","bundle_variant":"base","probably_has_app":false,"show_app_install":true};</script>
-            <script type="text/javascript" src="/static/bundles/base/Polyfills.js/9b36f184e49e.js" crossorigin="anonymous"></script>
-            <script type="text/javascript" src="/static/bundles/base/Vendor.js/0b34a2e2f7c2.js" crossorigin="anonymous"></script>
-<script type="text/javascript">!function(e){var a=window.webpackJsonp;window.webpackJsonp=function(n,r,i){for(var c,f,s,d=0,g=[];d<n.length;d++)f=n[d],o[f]&&g.push(o[f][0]),o[f]=0;for(c in r)Object.prototype.hasOwnProperty.call(r,c)&&(e[c]=r[c]);for(a&&a(n,r,i);g.length;)g.shift()();if(i)for(d=0;d<i.length;d++)s=t(t.s=i[d]);return s};var n={},o={65:0};function t(a){if(n[a])return n[a].exports;var o=n[a]={i:a,l:!1,exports:{}};return e[a].call(o.exports,o,o.exports,t),o.l=!0,o.exports}t.e=function(e){var a=o[e];if(0===a)return new Promise(function(e){e()});if(a)return a[2];var n=new Promise(function(n,t){a=o[e]=[n,t]});a[2]=n;var r=document.getElementsByTagName("head")[0],i=document.createElement("script");i.type="text/javascript",i.charset="utf-8",i.async=!0,i.timeout=12e4,i.crossOrigin="anonymous",t.nc&&i.setAttribute("nonce",t.nc),i.src=t.p+""+({0:"SettingsModules",1:"ProfilePageContainer",2:"MobileStoriesPage",3:"DesktopStoriesPage",4:"LikedByListContainer",5:"FollowListContainer",6:"CreationModules",7:"LocationPageContainer",8:"DiscoverMediaPageContainer",9:"DiscoverEmbedsPageContainer",10:"TagPageContainer",11:"UserCollectionMediaPageContainer",12:"DebugInfoNub",13:"FeedPageContainer",14:"PostPageContainer",15:"LandingPage",16:"LoginAndSignupPage",17:"ResetPasswordPageContainer",18:"FBSignupPage",19:"TermsUnblockPage",20:"NewUserInterstitial",21:"DirectInboxPageContainer",22:"DiscoverPeoplePageContainer",23:"MultiStepSignupPage",24:"IGTVVideoUploadPageContainer",25:"UserCollectionsPageContainer",26:"DataDownloadRequestPage",27:"ContactHistoryPage",28:"AccessToolViewAllPage",29:"AccessToolPage",30:"OneTapUpsell",31:"DataDownloadRequestConfirmPage",32:"DataControlsSupportPage",33:"EmailConfirmationPage",34:"LocationsDirectoryLandingPage",35:"LocationsDirectoryCountryPage",36:"LocationsDirectoryCityPage",37:"NewTermsConfirmPage",38:"SuggestedDirectoryLandingPage",39:"ProfilesDirectoryLandingPage",40:"HashtagsDirectoryLandingPage",41:"OAuthPermissionsPage",42:"DirectoryPage",43:"HttpErrorPage",44:"ActivityFeedPage",45:"StoryCreationPage",46:"ParentalConsentPage",47:"ParentalConsentNotParentPage",48:"CheckpointUnderageAppealPage",49:"AccountPrivacyBugPage",50:"ContactInvitesOptOutPage",51:"ContactInvitesOptOutStatusPage",52:"Report",53:"Copyright",54:"SupportInfo",55:"Community",56:"Verification",57:"Challenge",58:"Consumer",59:"EmailSnoozePage",60:"EmailUnsubscribePage",61:"ConfirmFollowDialog",62:"NotificationLandingPage"}[e]||e)+".js/"+{0:"edd8a26db318",1:"fba3445af618",2:"1a84a6a0c2ad",3:"afc7b1cf4e17",4:"308aa79a9eb4",5:"a6f662d5be29",6:"ce8a7ddf797b",7:"fa020870096d",8:"9cbcda518892",9:"1922a01a29cf",10:"00950d2cc6e6",11:"ef644441c4ad",12:"41d3dc2ac0eb",13:"4958daf2025e",14:"48ed83597b12",15:"b866656a0d25",16:"93b32f3754c4",17:"a5480c47d2fa",18:"b82afe1b8581",19:"26d7181f1a3e",20:"9b9975ca954d",21:"37b44898b714",22:"eab376fd170c",23:"2add32511a63",24:"05b67d10307c",25:"1f45aa27d221",26:"2948be1b9a21",27:"f8f6d364856e",28:"ae08a60f36ca",29:"17095124358e",30:"6ef5f7718531",31:"8981be0fa738",32:"8a699410d1cf",33:"d7878482ffa2",34:"a95b33c1dd35",35:"ca55be7a0679",36:"ecfb804ae1eb",37:"fc8d00ea540e",38:"acf94f2ea8b8",39:"7f67079dd71c",40:"3ddbeca3dea6",41:"67e5b7300e39",42:"79749030a125",43:"a2b2b25c48b7",44:"f99fb74daefc",45:"4fd612504cc6",46:"3cf9ba8975db",47:"7f981969a198",48:"6a54f9274db1",49:"f6a6eabe7320",50:"dfe6a5b08892",51:"394051e47112",52:"6028813604c6",53:"e44264251170",54:"44386ecf012c",55:"2fd72c4abcc4",56:"cf4473e38a2c",57:"1c5511900727",58:"7caa9fea8787",59:"eaaa01c3f242",60:"8cc611026854",61:"6ee316c2c569",62:"66c6ffb99a4c"}[e]+".js";var c=setTimeout(f,12e4);function f(){i.onerror=i.onload=null,clearTimeout(c);var a=o[e];0!==a&&(a&&a[1](new Error("Loading chunk "+e+" failed.")),o[e]=void 0)}return i.onerror=i.onload=f,r.appendChild(i),n},t.m=e,t.c=n,t.d=function(e,a,n){t.o(e,a)||Object.defineProperty(e,a,{configurable:!1,enumerable:!0,get:n})},t.n=function(e){var a=e&&e.__esModule?function(){return e.default}:function(){return e};return t.d(a,"a",a),a},t.o=function(e,a){return Object.prototype.hasOwnProperty.call(e,a)},t.p="/static/bundles/base/",t.oe=function(e){throw console.error(e),e}}([]);</script>
-            <script type="text/javascript" src="/static/bundles/base/ProfilePageContainer.js/fba3445af618.js" crossorigin="anonymous" charset="utf-8" async=""></script>
-<script type="text/javascript" src="/static/bundles/base/en_US.js/c54ea715d8a4.js" crossorigin="anonymous"></script>
-<script type="text/javascript" src="/static/bundles/base/ConsumerCommons.js/57810c666e73.js" crossorigin="anonymous"></script>
-<script type="text/javascript" src="/static/bundles/base/Consumer.js/7caa9fea8787.js" crossorigin="anonymous"></script>
+
+<!-- about author -->
         
-    </body>
+		
+<div id="disqus_thread">
+                    <div id="dsq-content">
+
+
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1" id="dsq-comment-27">
+        <div id="dsq-comment-header-27" class="dsq-comment-header">
+            <cite id="dsq-cite-27">
+                <span id="dsq-author-user-27">clathwell</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-27" class="dsq-comment-body">
+            <div id="dsq-comment-message-27" class="dsq-comment-message"><p>Dear Len,</p>
+<p>What a great way to honour the 50th anniversary of the publication of A Programming Language.  There is a subtle wave of appreciation for your leadership here quietly sweeping the planet.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-28">
+        <div id="dsq-comment-header-28" class="dsq-comment-header">
+            <cite id="dsq-cite-28">
+                <span id="dsq-author-user-28">bobc4012</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-28" class="dsq-comment-body">
+            <div id="dsq-comment-message-28" class="dsq-comment-message"><p>APL was a great language. It was used internally by IBM. Unfortunately, IBM management never had the foresight to push it as a mainstream language. Just like so many other things. If IBM management hadn&#8217;t been so fixated on PL/I and MVS (sold the big iron) and looked at VM and APL plus their own internal version of PL/I (the internal was more powerful than C), Unix and C would have been another &#8220;interesting&#8221; OS and language.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-2" id="dsq-comment-31">
+        <div id="dsq-comment-header-31" class="dsq-comment-header">
+            <cite id="dsq-cite-31">
+http://myindigolives.wordpress.com/                <span id="dsq-author-user-31">Ellie Kesselman</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-31" class="dsq-comment-body">
+            <div id="dsq-comment-message-31" class="dsq-comment-message"><p>Bob,<br />
+Yes, thank you! Here&#8217;s why: While at IBM, I recall MVS and Fortran 77. I used SAS for modeling* accessed via my development login to VM. I couldn&#8217;t recall the context for using APL though. Now I remember; it was just as you described! </p>
+<p>We only coded in APL internally, within GPD (Tucson and of course, South San Jose), for DASD performance and competitive analysis, never for anything beyond IBM. I have pleasant memories of APL. I <strong>definitely</strong> commented my code. There were others who took pride in having as few blank spaces as possible, a solid, monolithic block of symbols!</p>
+<p>Thank you so much, Computer History Museum, for noting the 50th anniversary of the publication of <em>A Programming Language</em>. It brings back many sweet memories. I didn&#8217;t know it at the time, but the happiest years of my life were threaded with lines of APL code.</p>
+<p><i>* We used Minitab, then SAS at IBM. I had never even heard of SPSS back then!</i></p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-even depth-1" id="dsq-comment-29">
+        <div id="dsq-comment-header-29" class="dsq-comment-header">
+            <cite id="dsq-cite-29">
+                <span id="dsq-author-user-29">TaliesinSoft</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-29" class="dsq-comment-body">
+            <div id="dsq-comment-message-29" class="dsq-comment-message"><p>Not to be forgotten is that following IBM&#8217;s release of APL a number of other releases occurred, both from time sharing services and from computer companies. As for myself I headed the APL\700 project at Burroughs for about eight years. I will, with pride, take responsibility for a number of additions to the language, additions which were included in the adopted standard for APL. Currently I am an avid user of Dyalog APL which is actively maintained by; a company in England.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment even depth-2" id="dsq-comment-202">
+        <div id="dsq-comment-header-202" class="dsq-comment-header">
+            <cite id="dsq-cite-202">
+                <span id="dsq-author-user-202">ka1axy</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-202" class="dsq-comment-body">
+            <div id="dsq-comment-message-202" class="dsq-comment-message"><p>When I was an engineer in the communications and networking group at Data General, I wrote firmware to allow our D200 video terminal to perform the gymnastics necessary to support a DG version of APL. This meant adding a firmware routine to detect and display overstruck characters, by looking at the current character being displayed at the cursor position and using it, with the newly input character code to search a data structure for the character code of the composite overstruck character. I was pretty proud of that code. </p>
+<p>As far as I know, Data General&#8217;s APL went pretty much nowhere.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-32">
+        <div id="dsq-comment-header-32" class="dsq-comment-header">
+            <cite id="dsq-cite-32">
+                <span id="dsq-author-user-32">chuckwegrzyn</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-32" class="dsq-comment-body">
+            <div id="dsq-comment-message-32" class="dsq-comment-message"><p>I was lucky to be a student in 1967 working at SRA (part of IBM). I got to play around with APL/360 as it was being developed. In fact IBM held introduction to APL classes!</p>
+<p>I got to meet most of the people in your picture, as well as many others working on APL for the 1130 series of computers. It was a fun time!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-33">
+        <div id="dsq-comment-header-33" class="dsq-comment-header">
+            <cite id="dsq-cite-33">
+                <span id="dsq-author-user-33">davecortesi</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-33" class="dsq-comment-body">
+            <div id="dsq-comment-message-33" class="dsq-comment-message"><p>Thanks for making the APL\360 code available. For anyone browsing it, I call your attention to the SVRAPE macro at line and the constant YYRAPE at line 884, defined as Request Anomalous Protection Exception. The actual implementation of the macro is at line 4492. What it does is to execute the single instruction following the macro in Supervisor mode, so that the programmer could, presumably judiciously and with great care, bypass Storage Protection to patch memory that didn&#8217;t belong to APL. For example at line 2872 it is used to move two bytes to location 2. At line 12416 it is storing a word into protected memory owned by the OS.</p>
+<p>The DOS/360 version of the APL system, used in the lower-end computers (363/30, 360/40), APL basically took over the system from the OS and ran the hardware on its own. In the larger machines under MVS, it behaved itself but still occasionally RAPED the OS.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-34">
+        <div id="dsq-comment-header-34" class="dsq-comment-header">
+            <cite id="dsq-cite-34">
+                <span id="dsq-author-user-34">lexx</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-34" class="dsq-comment-body">
+            <div id="dsq-comment-message-34" class="dsq-comment-message"><p>I see the programs I wrote for grade and indexing are in there, from lines 14,458 to 16,184.  I remember in 1966 I was working on<br />
+sorting, and I had collected data from running<br />
+a program that did all intercylinder seeks on<br />
+a disk 50 times, and I wanted to sort them by<br />
+absolute value.<br />
+Since I had already written indexing, I put in a check for my user ID and sort became ibeam something. Then I used it to sort the numbers.  It turned out that it was more useful return the indices of the elements in<br />
+order, so I computed them.</p>
+<p>This went on for 3 or 4 weeks in 1966, and then I got a call from Adin Falkoff, asking<br />
+me to change the user id check so others could play with it too.</p>
+<p>Then Ken Iverson got all excited when he found out that the grade of a permutation was<br />
+the inverse of a permutation, and that&#8217;s how grade got in the language.</p>
+<p>The algorithm uses a partial order tree.<br />
+The partial order tree is similar to a heap tree, but it does half as many compares.</p>
+<p>I first used the partial order tree in<br />
+phase 1 of the 7070 hypertape sort, in 1962<br />
+and released in 1963.  </p>
+<p>Can you get IBM to make the source for the 7070 sort available?  That would be interesting.</p>
+<p>The grade program is only 225 lines long.<br />
+It worked correctly from the first install forever.</p>
+<p>By contrast, the 7070 phase sort was 8,000 lines long, and took 18 months to write.<br />
+But it was released in July on 1963, and had<br />
+no bugs forever.  By contrast, phase 2 had<br />
+200 APARs in the first 60 days after release.</p>
+<p>I think it is important for a program to have no bugs forever.  You never know when someone&#8217;s life may depend on it.</p>
+<p>After I wrote APL indexing, with 7 dimensional arrays, after an initial checkout period, it also had no bugs forever,<br />
+except for one thing that was actually a design error.  When checking arrays for compatible dimensions, it used an exclusive or of the two dimension vectors, shifted.<br />
+But that had the unintended consequence that<br />
+a 2 x 4 array looked as if it had the same dimensions as a 4 x 2 array.</p>
+<p>This did not cause any serious problems, but it did allow user errors to slip by, which eventually did happen.</p>
+<p>When the VM microcode APL was done, all or most all of the operations ran 10 to 25 x faster, except for grade, indexing, and up down arrows, which I also wrote.  These operations did not run any faster.</p>
+<p>When I was integrating the grade into the APL<br />
+system, I had to change OP control.  Op control looks at the operation, its inputs and outputs, and computes the type of the result.</p>
+<p>There was no logic in Op control to handle<br />
+grade, so I ended up rewriting Op control to add the grade logic. It was then 4 pages long, instead of 8 pages long, and the whole APL interpreter ran 2.5 times faster than before.  No one ever noticed, but I did.<br />
+All of my programs ran 2.5 x faster.</p>
+<p>Luther Woodrum</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-36">
+        <div id="dsq-comment-header-36" class="dsq-comment-header">
+            <cite id="dsq-cite-36">
+                <span id="dsq-author-user-36">brentl</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-36" class="dsq-comment-body">
+            <div id="dsq-comment-message-36" class="dsq-comment-message"><p>Congratulations. A beautiful exhibit. As an assembler programmer who started in 1967, and a sometime APL user, I found this nostalgic, and the source code surprisingly strange! </p>
+<p>By the way, the source code contains two copies of APLSUPC. Fortunately, they are identical.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-40">
+        <div id="dsq-comment-header-40" class="dsq-comment-header">
+            <cite id="dsq-cite-40">
+                <span id="dsq-author-user-40">Zinc</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-40" class="dsq-comment-body">
+            <div id="dsq-comment-message-40" class="dsq-comment-message"><p>Thanks much for your efforts making this available.  In the early &#8217;70s I attended a JC in Southern California that had a System/360 with about 80 APL terminals for student use.  It was my first experience with a computer and APL was the first language I learned. I&#8217;ve since learned many others and am still a professional software developer. In many ways, language power has never since attained that which that original APL provided.  I also wrote my own APL interpreter on Windows for my own use as a quick calculator and so I can continue to enjoy its merits.<br />
+ At the JC a bug was discovered in the interpreter in the laminate operator that allowed you to create a matrix with negative dimensions that could be used to access any part of the system, including protected areas and password files, so it was also an initial exposure to &#8220;hacking&#8221;.  Fond memories.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-42">
+        <div id="dsq-comment-header-42" class="dsq-comment-header">
+            <cite id="dsq-cite-42">
+                <span id="dsq-author-user-42">lobachevsky</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-42" class="dsq-comment-body">
+            <div id="dsq-comment-message-42" class="dsq-comment-message"><p>What I find amazing is that like operating a fleet of steam locomotives, today&#8217;s mainstream languages like Java are incredibly labour-intensive.  APL was quite the opposite.  No wonder work is going to India.  (I suppose you can still find steam locomotives there too)</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-50">
+        <div id="dsq-comment-header-50" class="dsq-comment-header">
+            <cite id="dsq-cite-50">
+                <span id="dsq-author-user-50">Dick Conklin</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-50" class="dsq-comment-body">
+            <div id="dsq-comment-message-50" class="dsq-comment-message"><p>I also worked on APL during the 1970s, first the mainframe version, then the desktop IBM 5100 (with the built-in postcard-size screen). Was also active in the APL Users Group. My next project was the IBM PC, including the APL interpreter created by IBM&#8217;s Madrid Scientific Center. I tried to get the IBM Palo Alto folks to consider a radical idea &#8212; merging APL with a spreadsheet so that the cell formulas could be written in APL. They thought I was nuts!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="dsq-comment-204">
+        <div id="dsq-comment-header-204" class="dsq-comment-header">
+            <cite id="dsq-cite-204">
+                <span id="dsq-author-user-204">PeterCapek</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-204" class="dsq-comment-body">
+            <div id="dsq-comment-message-204" class="dsq-comment-message"><p>The 360 implementation of APL introduced the notion of a workspace, for the first time, as far as I know.  While APL-the-language is a wonderful tool, it always seemed to me beyond that that it was, especially for its time an excellent <em>implementation</em> (reliable, fast, responsive, useable, &#8230;) and I think that contributed as much to its (too) modest success.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var disqus_url = 'http://www.computerhistory.org/atchm/the-apl-programming-language-source-code/';
+    var disqus_identifier = '1032 http://www.computerhistory.org/atchm/?p=1032';
+    var disqus_container_id = 'disqus_thread';
+    var disqus_domain = 'disqus.com';
+    var disqus_shortname = 'atchm';
+    var disqus_title = "The APL Programming Language Source Code";
+        var disqus_config = function () {
+        var config = this; // Access to the config object
+        config.language = '';
+
+        /*
+           All currently supported events:
+            * preData — fires just before we request for initial data
+            * preInit - fires after we get initial data but before we load any dependencies
+            * onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+            * afterRender - fires when template is rendered but before we show it
+            * onReady - everything is done
+         */
+
+        config.callbacks.preData.push(function() {
+            // clear out the container (its filled for SEO/legacy purposes)
+            document.getElementById(disqus_container_id).innerHTML = '';
+        });
+                    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var DsqLocal = {
+        'trackbacks': [
+        ],
+        'trackback_url': "http:\/\/www.computerhistory.org\/atchm\/the-apl-programming-language-source-code\/trackback\/"    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/embed.js?pname=wordpress&pver=2.74';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+/* ]]> */
+</script>
+    
+
+
+
+
+
+
+		</article>
+		
+		<footer id="footer">
+        	<div id="footerbottom">
+            	<div id="chminfo" class="inner">
+                    <span id="copyright" class="floatleft mt-10">
+                        Copyright &copy; <script type="text/javascript">var currentTime = new Date(); document.write(currentTime.getFullYear()); </script> Computer History Museum
+                    </span>
+                    <span id="navigation" class="floatright mt-10">
+                        <a href="/terms/">TERMS OF USE</a> &nbsp;
+                        <a href="/privacy/">PRIVACY</a> &nbsp;
+                        <a href="/sitemap/">SITE MAP</a>
+                    </span>
+                </div>
+            </div>
+		</footer>
+        
+        
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            
+            ga('create', 'UA-604998-1', 'computerhistory.org');
+            ga('send', 'pageview');
+        </script>       
+
+		    <script type="text/javascript">
+    // <![CDATA[
+        var disqus_shortname = 'atchm';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) url = url[0];
+                    else url = url[1]
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + 'disqus.com/forums/' + disqus_shortname + '/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    //]]>
+    </script>
+<script type='text/javascript' src='http://www.computerhistory.org/atchm/wp-content/plugins/page-links-to/js/new-tab.min.js?ver=2.9.8'></script>
+	</section>
+    
+</body>
 </html>
+
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: www.computerhistory.org @ 2018-05-03 21:09:55 by W3 Total Cache -->

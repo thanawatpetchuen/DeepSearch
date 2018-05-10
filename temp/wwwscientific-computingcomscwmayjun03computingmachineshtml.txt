@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app19.us.archive.org';v.server_ms=861;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1525205731.0" charset="utf-8"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app43.us.archive.org';v.server_ms=1153;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1525205731.0" charset="utf-8"></script>
 
 <script type="text/javascript">
 __wbhack.init('https://web.archive.org/web');
@@ -156,7 +156,7 @@ __wm.bt(575,27,25,2,"web","http://www.scientific-computing.com/scwmayjun03comput
 </body>
 </html><!--
      FILE ARCHIVED ON 09:24:49 Feb 05, 2012 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 16:27:31 May 03, 2018.
+     INTERNET ARCHIVE ON 04:46:32 May 04, 2018.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -164,15 +164,15 @@ __wm.bt(575,27,25,2,"web","http://www.scientific-computing.com/scwmayjun03comput
 -->
 <!--
 playback timings (ms):
-  LoadShardBlock: 408.308 (3)
-  esindex: 0.007
-  captures_list: 619.525
-  CDXLines.iter: 13.318 (3)
-  PetaboxLoader3.datanode: 318.578 (4)
-  exclusion.robots.fetch: 191.912 (4)
-  exclusion.robots: 192.68
-  exclusion.robots.policy: 0.293
-  RedisCDXSource: 1.108
-  PetaboxLoader3.resolve: 163.084
-  load_resource: 217.94
+  LoadShardBlock: 781.014 (3)
+  esindex: 0.009
+  captures_list: 996.69
+  CDXLines.iter: 11.208 (3)
+  PetaboxLoader3.datanode: 559.053 (4)
+  exclusion.robots.fetch: 47.349 (4)
+  exclusion.robots: 48.3
+  exclusion.robots.policy: 0.36
+  RedisCDXSource: 152.385
+  PetaboxLoader3.resolve: 131.016
+  load_resource: 131.66
 -->

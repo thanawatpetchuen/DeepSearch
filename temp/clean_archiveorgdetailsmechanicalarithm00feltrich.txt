@@ -292,7 +292,7 @@ Search archived web sites
 
 Advanced Search
 
-AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"05/03/2018"}
+AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"05/04/2018"}
 
 
 
@@ -440,7 +440,7 @@ Share This Collection
 
 
 
-        16,036,512        
+        16,036,699        
           RESULTS        
 rss
 
@@ -470,7 +470,7 @@ Media Type
 
 
 
-                                            4,839                          
+                                            4,840                          
 
                 collections              
 
@@ -479,7 +479,7 @@ Media Type
 
 
 
-                                            16,031,668                          
+                                            16,031,854                          
 
                 texts              
 
@@ -519,7 +519,7 @@ Availability
 
 
 
-                                            15,389,099                          
+                                            15,389,265                          
 
                 Always Available              
 
@@ -528,7 +528,7 @@ Availability
 
 
 
-                                            542,862                          
+                                            538,926                          
 
                 Available to Borrow              
 
@@ -537,7 +537,7 @@ Availability
 
 
 
-                                            104,551                          
+                                            108,508                          
 
                 Waitlist              
 
@@ -550,7 +550,7 @@ Year
 
 
 
-                                            262,481                          
+                                            262,443                          
 
                 2015              
 
@@ -559,7 +559,7 @@ Year
 
 
 
-                                            140,504                          
+                                            140,420                          
 
                 2014              
 
@@ -568,7 +568,7 @@ Year
 
 
 
-                                            152,016                          
+                                            151,975                          
 
                 2013              
 
@@ -577,7 +577,7 @@ Year
 
 
 
-                                            201,825                          
+                                            201,810                          
 
                 2012              
 
@@ -586,7 +586,7 @@ Year
 
 
 
-                                            227,230                          
+                                            227,182                          
 
                 2011              
 
@@ -595,7 +595,7 @@ Year
 
 
 
-                                            109,635                          
+                                            109,594                          
 
                 2010              
 
@@ -672,7 +672,7 @@ Collection
 
 
 
-                                            2,799,283                          
+                                            2,799,594                          
 
 American Libraries 
 
@@ -760,7 +760,7 @@ Creator
 
 
 
-                                            315,882                          
+                                            315,883                          
 
                 central intelligence agency              
 
@@ -769,7 +769,7 @@ Creator
 
 
 
-                                            307,661                          
+                                            309,573                          
 
                 defense technical information center              
 
@@ -794,7 +794,7 @@ Language
 
 
 
-                                            12,587,674                          
+                                            12,588,323                          
 
                 English              
 
@@ -803,7 +803,7 @@ Language
 
 
 
-                                            539,538                          
+                                            538,678                          
 
                 German              
 
@@ -812,7 +812,7 @@ Language
 
 
 
-                                            489,764                          
+                                            489,804                          
 
                 French              
 
@@ -821,7 +821,7 @@ Language
 
 
 
-                                            257,047                          
+                                            257,052                          
 
                 Dutch              
 
@@ -830,7 +830,7 @@ Language
 
 
 
-                                            189,183                          
+                                            189,201                          
 
                 Italian              
 
@@ -839,7 +839,7 @@ Language
 
 
 
-                                            184,856                          
+                                            184,907                          
 
                 Spanish              
 
@@ -4364,15 +4364,15 @@ arkiver2Archivist
  
 
 
+HubzArchivist 
+ 
+
+
 admin-andrea-millsArchivist 
  
 
 
 Jason ScottArchivist 
- 
-
-
-Diario HelveciaArchivist 
  
 
 
@@ -4416,8 +4416,22 @@ Date
 
 
 
- "Sorry, epub creation failed"
+ Issue persists: epub creation failed
  
+
+AncientAxim
+
+
+          0        
+
+May 3, 2018 4:44pm
+May 3, 2018 4:44pm
+
+
+
+
+"Sorry, epub creation failed"
+
 
 AncientAxim
 
@@ -4430,8 +4444,8 @@ May 2, 2018 3:37pm
 
 
 
-             Any file I try same error
- 
+                      Any file I try same error
+
 
 AncientAxim
 
@@ -4500,8 +4514,8 @@ Apr 17, 2018 5:00pm
 
 
 
-             Re: Can't get ePub version
- 
+                      Re: Can't get ePub version
+
 
 AncientAxim
 
@@ -5073,34 +5087,6 @@ Feb 9, 2018 10:48am
 
 
 
-
-Add item to collections
-
-
-gingerbeardman
-
-
-          1        
-
-Feb 8, 2018 7:01am
-Feb 8, 2018 7:01am
-
-
-
-
-                      Re: Add item to collections
-
-
-Jeff Kaplan
-
-
-          0        
-
-Feb 9, 2018 11:39am
-Feb 9, 2018 11:39am
-
-
-
 View more forum posts 
 
 
@@ -5118,8 +5104,8 @@ if (window.archive_analytics) {
   var vs = window.archive_analytics.get_data_packets();
   for (var i in vs) {
     vs[i]['cache_bust']=Math.random();
-    vs[i]['server_ms']=1239;
-    vs[i]['server_name']="www16.us.archive.org";
+    vs[i]['server_ms']=152;
+    vs[i]['server_name']="www18.us.archive.org";
       }
 
   if ($(".more_search").size()>0) {

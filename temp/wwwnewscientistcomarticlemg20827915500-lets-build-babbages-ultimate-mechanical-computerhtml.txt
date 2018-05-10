@@ -419,7 +419,55 @@ googletag.enableServices();
 
 		        </section>
         <section class="article-wrapper">
-            <h2 class="article-wrapper__heading">RECOMMENDED</h2><ul class='article-list'><li><ul class="article-list__row"><li class="article-list__item article-list__item--no-border article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167894-flying-beetle-cyborgs-guided-with-tiny-battery-powered-backpacks/" class="article-card__image-link-wrapper">
+            <h2 class="article-wrapper__heading">RECOMMENDED</h2><ul class='article-list'><li><ul class="article-list__row"><li class="article-list__item article-list__item--no-border article-card article-card--3col">  <a href="https://www.newscientist.com/article/2168086-alan-turing-inspired-a-faster-way-to-make-seawater-drinkable/" class="article-card__image-link-wrapper">
+      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2017/09/06000100/00120273-300x200.jpg" class="article-card__image wp-post-image" alt="Bolivia’s salt flats" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2017/09/06000100/00120273-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2017/09/06000100/00120273-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2017/09/06000100/00120273-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2017/09/06000100/00120273-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2017/09/06000100/00120273.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2017/09/06000100/00120273-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+      <div class="article-card__details">
+          <span class="article-card__eyebrow article-card__eyebrow">
+              <a href="/article-type/daily-news/" class="link--news">
+                  Daily news              </a>
+          </span>
+          <a href="https://www.newscientist.com/article/2168086-alan-turing-inspired-a-faster-way-to-make-seawater-drinkable/">
+              <h2 class="article-card__heading blue-hover-link">Alan Turing inspired a faster way to make seawater drinkable</h2>
+              <p class="article-card__strap">Computer pioneer Alan Turing’s only chemistry paper has inspired a new material that can remove salt from seawater five times faster than traditional filters</p>
+          </a>
+      </div>
+</li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2168058-your-bones-contain-crystals-shaped-like-fingers-and-hands/" class="article-card__image-link-wrapper">
+      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03152704/reznikov3hr-300x200.jpg" class="article-card__image wp-post-image" alt="3D image of bone structure" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03152704/reznikov3hr-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03152704/reznikov3hr-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03152704/reznikov3hr-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03152704/reznikov3hr-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03152704/reznikov3hr.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03152704/reznikov3hr-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+      <div class="article-card__details">
+          <span class="article-card__eyebrow article-card__eyebrow">
+              <a href="/article-type/daily-news/" class="link--news">
+                  Daily news              </a>
+          </span>
+          <a href="https://www.newscientist.com/article/2168058-your-bones-contain-crystals-shaped-like-fingers-and-hands/">
+              <h2 class="article-card__heading blue-hover-link">Your bones contain crystals shaped like fingers and hands</h2>
+              <p class="article-card__strap">A blurry brown picture is the most detailed 3D image of bone ever produced. The model gives unique insight into the crystals inside our bones</p>
+          </a>
+      </div>
+</li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2168077-people-adapted-to-the-cold-and-got-more-migraines-as-a-result/" class="article-card__image-link-wrapper">
+      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03173248/gettyimages-902132724-300x200.jpg" class="article-card__image wp-post-image" alt="Life in the north may have shaped some people in an unexpected way" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03173248/gettyimages-902132724-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03173248/gettyimages-902132724-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03173248/gettyimages-902132724-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03173248/gettyimages-902132724-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03173248/gettyimages-902132724.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03173248/gettyimages-902132724-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+      <div class="article-card__details">
+          <span class="article-card__eyebrow article-card__eyebrow">
+              <a href="/article-type/daily-news/" class="link--news">
+                  Daily news              </a>
+          </span>
+          <a href="https://www.newscientist.com/article/2168077-people-adapted-to-the-cold-and-got-more-migraines-as-a-result/">
+              <h2 class="article-card__heading blue-hover-link">People adapted to the cold and got more migraines as a result</h2>
+              <p class="article-card__strap">A gene variant that helps humans cope with colder climates also seems to have put people living in northerly regions at a higher risk of migraine</p>
+          </a>
+      </div>
+</li></ul></li><li><ul class="article-list__row"><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2168088-stars-from-outside-the-milky-way-seen-zooming-through-the-galaxy/" class="article-card__image-link-wrapper">
+      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03181931/gh3dhf-300x200.jpg" class="article-card__image wp-post-image" alt="The Gaia satellite has pinpointed stars that have been flung through our galaxy" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03181931/gh3dhf-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03181931/gh3dhf-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03181931/gh3dhf-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03181931/gh3dhf-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03181931/gh3dhf.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03181931/gh3dhf-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+      <div class="article-card__details">
+          <span class="article-card__eyebrow article-card__eyebrow">
+              <a href="/article-type/daily-news/" class="link--news">
+                  Daily news              </a>
+          </span>
+          <a href="https://www.newscientist.com/article/2168088-stars-from-outside-the-milky-way-seen-zooming-through-the-galaxy/">
+              <h2 class="article-card__heading blue-hover-link">Stars from outside the Milky Way seen zooming through the galaxy</h2>
+              <p class="article-card__strap">We’ve seen two runaway stars hurtling through the galaxy at more than 700 kilometres per second, and dozens more going so fast they could escape the Milky Way</p>
+          </a>
+      </div>
+</li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167894-flying-beetle-cyborgs-guided-with-tiny-battery-powered-backpacks/" class="article-card__image-link-wrapper">
       <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03170253/cyborg3b-300x200.jpg" class="article-card__image wp-post-image" alt="cyborg3b" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03170253/cyborg3b-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03170253/cyborg3b-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03170253/cyborg3b-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03170253/cyborg3b-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03170253/cyborg3b.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03170253/cyborg3b-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
       <div class="article-card__details">
           <span class="article-card__eyebrow article-card__eyebrow">
@@ -443,7 +491,9 @@ googletag.enableServices();
               <p class="article-card__strap">All complex organisms rely on tiny nodules called mitochondria to supply their cells with energy – but mistletoe’s mitochondria don’t work and yet it survives</p>
           </a>
       </div>
-</li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2168046-the-uks-plan-to-build-a-rival-gps-is-a-bonkers-brexit-scheme/" class="article-card__image-link-wrapper">
+</li></ul></li></ul>        </section>
+        <section class="article-wrapper">
+            <h2 class="article-wrapper__heading">LATEST CHOICE</h2><ul class="article-list"><li><ul class="article-list__row"><li class="article-list__item article-list__item--no-border article-card article-card--3col">  <a href="https://www.newscientist.com/article/2168046-the-uks-plan-to-build-a-rival-gps-is-a-bonkers-brexit-scheme/" class="article-card__image-link-wrapper">
       <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03151227/d3brht-300x200.jpg" class="article-card__image wp-post-image" alt="Man looks at globe surrounded by mini satellites mounted on metal arcs" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03151227/d3brht-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03151227/d3brht-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03151227/d3brht-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03151227/d3brht-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03151227/d3brht.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03151227/d3brht-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
       <div class="article-card__details">
           <span class="article-card__eyebrow article-card__eyebrow">
@@ -455,7 +505,19 @@ googletag.enableServices();
               <p class="article-card__strap">Now the UK is excluded from contracts to build Europe’s Galileo satellites, it wants to talk up building its own system to keep aerospace firms from leaving</p>
           </a>
       </div>
-</li></ul></li><li><ul class="article-list__row"><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2168025-magical-regrowth-kew-gardens-opens-revamped-temperate-house/" class="article-card__image-link-wrapper">
+</li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167753-smart-people-literally-have-bigger-brain-cells-than-the-rest/" class="article-card__image-link-wrapper">
+      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01143306/c0195196-pyramidal_cells_in_the_brain_artwork-300x200.jpg" class="article-card__image wp-post-image" alt="Neurons with more connections may store more memories" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01143306/c0195196-pyramidal_cells_in_the_brain_artwork-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01143306/c0195196-pyramidal_cells_in_the_brain_artwork-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01143306/c0195196-pyramidal_cells_in_the_brain_artwork-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01143306/c0195196-pyramidal_cells_in_the_brain_artwork-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01143306/c0195196-pyramidal_cells_in_the_brain_artwork.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01143306/c0195196-pyramidal_cells_in_the_brain_artwork-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+      <div class="article-card__details">
+          <span class="article-card__eyebrow article-card__eyebrow">
+              <a href="/article-type/daily-news/" class="link--news">
+                  Daily news              </a>
+          </span>
+          <a href="https://www.newscientist.com/article/2167753-smart-people-literally-have-bigger-brain-cells-than-the-rest/">
+              <h2 class="article-card__heading blue-hover-link">Smart people literally have bigger brain cells than the rest</h2>
+              <p class="article-card__strap">For the first time, IQ has been linked to neuron size and performance. The breakthrough could lead to new ways to enhance human intelligence</p>
+          </a>
+      </div>
+</li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2168025-magical-regrowth-kew-gardens-opens-revamped-temperate-house/" class="article-card__image-link-wrapper">
       <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03135846/ggardner-9808-300x200.jpg" class="article-card__image wp-post-image" alt="Kew" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03135846/ggardner-9808-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03135846/ggardner-9808-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03135846/ggardner-9808-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03135846/ggardner-9808-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03135846/ggardner-9808.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/03135846/ggardner-9808-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
       <div class="article-card__details">
           <span class="article-card__eyebrow article-card__eyebrow">
@@ -465,6 +527,18 @@ googletag.enableServices();
           <a href="https://www.newscientist.com/article/2168025-magical-regrowth-kew-gardens-opens-revamped-temperate-house/">
               <h2 class="article-card__heading blue-hover-link">Magical regrowth: Kew Gardens opens revamped Temperate House</h2>
               <p class="article-card__strap">Restoring the world’s largest Victorian glasshouse to its former architectural glory at the UK’s famous gardens has also reinvented it for the 21st century</p>
+          </a>
+      </div>
+</li></ul></li><li><ul class="article-list__row"><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167573-our-understanding-of-the-universes-expansion-is-really-wrong/" class="article-card__image-link-wrapper">
+      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/03152825/gaia-dust_1200x800-300x200.jpg" class="article-card__image wp-post-image" alt="gaia-dust_1200x800" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/03152825/gaia-dust_1200x800-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/03152825/gaia-dust_1200x800-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/03152825/gaia-dust_1200x800-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/03152825/gaia-dust_1200x800-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/03152825/gaia-dust_1200x800.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/03152825/gaia-dust_1200x800-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+      <div class="article-card__details">
+          <span class="article-card__eyebrow article-card__eyebrow">
+              <a href="/article-type/daily-news/" class="link--news">
+                  Daily news              </a>
+          </span>
+          <a href="https://www.newscientist.com/article/2167573-our-understanding-of-the-universes-expansion-is-really-wrong/">
+              <h2 class="article-card__heading blue-hover-link">Our understanding of the universe's expansion is really wrong</h2>
+              <p class="article-card__strap">Last week, the Gaia spacecraft released the best 3D map of our galaxy, which revealed scars in the Milky Way and deepened confusion about how fast the cosmos is expanding</p>
           </a>
       </div>
 </li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2168017-why-breast-screening-error-stories-are-getting-death-stats-wrong/" class="article-card__image-link-wrapper">
@@ -491,33 +565,7 @@ googletag.enableServices();
               <p class="article-card__strap">The contaminated romaine lettuce that has spread illness across 25 states is now responsible for one death, and the source of the E. coli outbreak is still unknown</p>
           </a>
       </div>
-</li></ul></li></ul>        </section>
-        <section class="article-wrapper">
-            <h2 class="article-wrapper__heading">LATEST CHOICE</h2><ul class="article-list"><li><ul class="article-list__row"><li class="article-list__item article-list__item--no-border article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167753-smart-people-literally-have-bigger-brain-cells-than-the-rest/" class="article-card__image-link-wrapper">
-      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01143306/c0195196-pyramidal_cells_in_the_brain_artwork-300x200.jpg" class="article-card__image wp-post-image" alt="Neurons with more connections may store more memories" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01143306/c0195196-pyramidal_cells_in_the_brain_artwork-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01143306/c0195196-pyramidal_cells_in_the_brain_artwork-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01143306/c0195196-pyramidal_cells_in_the_brain_artwork-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01143306/c0195196-pyramidal_cells_in_the_brain_artwork-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01143306/c0195196-pyramidal_cells_in_the_brain_artwork.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01143306/c0195196-pyramidal_cells_in_the_brain_artwork-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
-      <div class="article-card__details">
-          <span class="article-card__eyebrow article-card__eyebrow">
-              <a href="/article-type/daily-news/" class="link--news">
-                  Daily news              </a>
-          </span>
-          <a href="https://www.newscientist.com/article/2167753-smart-people-literally-have-bigger-brain-cells-than-the-rest/">
-              <h2 class="article-card__heading blue-hover-link">Smart people literally have bigger brain cells than the rest</h2>
-              <p class="article-card__strap">For the first time, IQ has been linked to neuron size and performance. The breakthrough could lead to new ways to enhance human intelligence</p>
-          </a>
-      </div>
-</li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167573-our-understanding-of-the-universes-expansion-is-really-wrong/" class="article-card__image-link-wrapper">
-      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/03152825/gaia-dust_1200x800-300x200.jpg" class="article-card__image wp-post-image" alt="gaia-dust_1200x800" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/03152825/gaia-dust_1200x800-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/03152825/gaia-dust_1200x800-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/03152825/gaia-dust_1200x800-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/03152825/gaia-dust_1200x800-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/03152825/gaia-dust_1200x800.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/03152825/gaia-dust_1200x800-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
-      <div class="article-card__details">
-          <span class="article-card__eyebrow article-card__eyebrow">
-              <a href="/article-type/daily-news/" class="link--news">
-                  Daily news              </a>
-          </span>
-          <a href="https://www.newscientist.com/article/2167573-our-understanding-of-the-universes-expansion-is-really-wrong/">
-              <h2 class="article-card__heading blue-hover-link">Our understanding of the universe's expansion is really wrong</h2>
-              <p class="article-card__strap">Last week, the Gaia spacecraft released the best 3D map of our galaxy, which revealed scars in the Milky Way and deepened confusion about how fast the cosmos is expanding</p>
-          </a>
-      </div>
-</li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167991-cambridge-analytica-has-shut-down-amid-ongoing-data-scandal/" class="article-card__image-link-wrapper">
+</li></ul></li><li><ul class="article-list__row"><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167991-cambridge-analytica-has-shut-down-amid-ongoing-data-scandal/" class="article-card__image-link-wrapper">
       <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02224023/dscf6245-300x200.jpg" class="article-card__image wp-post-image" alt="The firm that harvested data from millions of Facebook users has shut down" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02224023/dscf6245-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02224023/dscf6245-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02224023/dscf6245-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02224023/dscf6245-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02224023/dscf6245.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02224023/dscf6245-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
       <div class="article-card__details">
           <span class="article-card__eyebrow article-card__eyebrow">
@@ -529,7 +577,7 @@ googletag.enableServices();
               <p class="article-card__strap">Cambridge Analytica, the firm that harvested data from up to 87 million Facebook users without their knowledge, is declaring bankruptcy and closing up shop</p>
           </a>
       </div>
-</li></ul></li><li><ul class="article-list__row"><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167974-are-we-deluding-ourselves-when-we-shop-for-eco-friendly-stuff/" class="article-card__image-link-wrapper">
+</li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167974-are-we-deluding-ourselves-when-we-shop-for-eco-friendly-stuff/" class="article-card__image-link-wrapper">
       <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02172725/egx9n5-300x200.jpg" class="article-card__image wp-post-image" alt="Smiling shopper looks at garment label" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02172725/egx9n5-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02172725/egx9n5-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02172725/egx9n5-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02172725/egx9n5-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02172725/egx9n5.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02172725/egx9n5-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
       <div class="article-card__details">
           <span class="article-card__eyebrow article-card__eyebrow">
@@ -541,7 +589,19 @@ googletag.enableServices();
               <p class="article-card__strap">A highly critical new report questions the worth of the sustainability logos that appear on many products. Are they still a force for good, wonders <strong>Fred Pearce</strong></p>
           </a>
       </div>
-</li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167961-ancient-humans-in-philippines-may-have-given-rise-to-hobbits/" class="article-card__image-link-wrapper">
+</li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167952-colossal-exoplanet-has-an-enormous-comet-like-tail-of-helium/" class="article-card__image-link-wrapper">
+      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02162658/enginehousevfx_image-300x200.jpg" class="article-card__image wp-post-image" alt="A large black cloud of metastable helium around an exoplanet near its star" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02162658/enginehousevfx_image-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02162658/enginehousevfx_image-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02162658/enginehousevfx_image-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02162658/enginehousevfx_image-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02162658/enginehousevfx_image.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02162658/enginehousevfx_image-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+      <div class="article-card__details">
+          <span class="article-card__eyebrow article-card__eyebrow">
+              <a href="/article-type/daily-news/" class="link--news">
+                  Daily news              </a>
+          </span>
+          <a href="https://www.newscientist.com/article/2167952-colossal-exoplanet-has-an-enormous-comet-like-tail-of-helium/">
+              <h2 class="article-card__heading blue-hover-link">Colossal exoplanet has an enormous comet-like tail of helium</h2>
+              <p class="article-card__strap">A huge planet is losing its atmosphere in a stream trailing off its night side, and we’ve seen the first signs of helium on an exoplanet in its comet-like tail</p>
+          </a>
+      </div>
+</li></ul></li><li><ul class="article-list__row"><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167961-ancient-humans-in-philippines-may-have-given-rise-to-hobbits/" class="article-card__image-link-wrapper">
       <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02165313/img_5372-300x200.jpg" class="article-card__image wp-post-image" alt="This Philippine rhino was butchered - but by whom?" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02165313/img_5372-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02165313/img_5372-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02165313/img_5372-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02165313/img_5372-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02165313/img_5372.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02165313/img_5372-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
       <div class="article-card__details">
           <span class="article-card__eyebrow article-card__eyebrow">
@@ -565,18 +625,6 @@ googletag.enableServices();
               <p class="article-card__strap">Encrypted quantum messages are limited by how far photons can stably pass through optical fibres, but they can now travel the distance between London and Paris</p>
           </a>
       </div>
-</li></ul></li><li><ul class="article-list__row"><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167952-colossal-exoplanet-has-an-enormous-comet-like-tail-of-helium/" class="article-card__image-link-wrapper">
-      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02162658/enginehousevfx_image-300x200.jpg" class="article-card__image wp-post-image" alt="A large black cloud of metastable helium around an exoplanet near its star" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02162658/enginehousevfx_image-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02162658/enginehousevfx_image-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02162658/enginehousevfx_image-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02162658/enginehousevfx_image-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02162658/enginehousevfx_image.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02162658/enginehousevfx_image-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
-      <div class="article-card__details">
-          <span class="article-card__eyebrow article-card__eyebrow">
-              <a href="/article-type/daily-news/" class="link--news">
-                  Daily news              </a>
-          </span>
-          <a href="https://www.newscientist.com/article/2167952-colossal-exoplanet-has-an-enormous-comet-like-tail-of-helium/">
-              <h2 class="article-card__heading blue-hover-link">Colossal exoplanet has an enormous comet-like tail of helium</h2>
-              <p class="article-card__strap">A huge planet is losing its atmosphere in a stream trailing off its night side, and we’ve seen the first signs of helium on an exoplanet in its comet-like tail</p>
-          </a>
-      </div>
 </li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167883-brexit-and-trump-votes-screwed-with-our-heart-rates-for-months/" class="article-card__image-link-wrapper">
       <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02164610/gettyimages-542670014-300x200.jpg" class="article-card__image wp-post-image" alt="Campaigners not getting enough sleep" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02164610/gettyimages-542670014-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02164610/gettyimages-542670014-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02164610/gettyimages-542670014-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02164610/gettyimages-542670014-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02164610/gettyimages-542670014.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02164610/gettyimages-542670014-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
       <div class="article-card__details">
@@ -589,7 +637,7 @@ googletag.enableServices();
               <p class="article-card__strap">A study of nearly 12,000 people wearing health monitoring devices shows how people’s biological rhythms fall out of sync after big political events</p>
           </a>
       </div>
-</li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167926-inquiry-launched-into-450000-missed-breast-cancer-screenings/" class="article-card__image-link-wrapper">
+</li></ul></li><li><ul class="article-list__row"><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167926-inquiry-launched-into-450000-missed-breast-cancer-screenings/" class="article-card__image-link-wrapper">
       <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02145055/18297845-1-1-300x200.jpg" class="article-card__image wp-post-image" alt="Missed diagnosis" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02145055/18297845-1-1-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02145055/18297845-1-1-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02145055/18297845-1-1-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02145055/18297845-1-1-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02145055/18297845-1-1.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02145055/18297845-1-1-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
       <div class="article-card__details">
           <span class="article-card__eyebrow article-card__eyebrow">
@@ -601,7 +649,7 @@ googletag.enableServices();
               <p class="article-card__strap">A "colossal" computer error meant 450,000 women missed crucial breast cancer screening appointments, possibly resulting in hundreds of avoidable deaths</p>
           </a>
       </div>
-</li></ul></li><li><ul class="article-list__row"><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167850-ai-can-predict-your-personality-just-by-how-your-eyes-move/" class="article-card__image-link-wrapper">
+</li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167850-ai-can-predict-your-personality-just-by-how-your-eyes-move/" class="article-card__image-link-wrapper">
       <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02142118/gettyimages-674982405-300x200.jpg" class="article-card__image wp-post-image" alt="A window to the soul" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02142118/gettyimages-674982405-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02142118/gettyimages-674982405-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02142118/gettyimages-674982405-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02142118/gettyimages-674982405-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02142118/gettyimages-674982405.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02142118/gettyimages-674982405-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
       <div class="article-card__details">
           <span class="article-card__eyebrow article-card__eyebrow">
@@ -625,28 +673,28 @@ googletag.enableServices();
               <p class="article-card__strap">Filling your diet with plants, fish and oil and limiting your intake of processed food may slow the build-up of amyloid plaque, delaying the onslaught of Alzheimer's</p>
           </a>
       </div>
-</li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/mg23831762-800-this-mind-reading-hearing-aid-knows-who-youre-listening-to/" class="article-card__image-link-wrapper">
-      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02114701/setup_ear-copy-300x200.jpg" class="article-card__image wp-post-image" alt="Prototype hearing aid" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02114701/setup_ear-copy-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02114701/setup_ear-copy-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02114701/setup_ear-copy-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02114701/setup_ear-copy-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02114701/setup_ear-copy.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/02114701/setup_ear-copy-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+</li></ul></li><li><ul class="article-list__row"><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167783-a-male-pill-will-be-a-breakthrough-for-science-but-not-for-women/" class="article-card__image-link-wrapper">
+      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01171804/p6080099-sperm_production-spl-300x200.jpg" class="article-card__image wp-post-image" alt="Sperm cells" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01171804/p6080099-sperm_production-spl-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01171804/p6080099-sperm_production-spl-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01171804/p6080099-sperm_production-spl-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01171804/p6080099-sperm_production-spl-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01171804/p6080099-sperm_production-spl.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01171804/p6080099-sperm_production-spl-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
       <div class="article-card__details">
           <span class="article-card__eyebrow article-card__eyebrow">
-              <a href="/article-type/news-tech/" class="link--news">
-                  News &amp; Technology              </a>
+              <a href="/article-type/comment/" class="link--news">
+                  Comment              </a>
           </span>
-          <a href="https://www.newscientist.com/article/mg23831762-800-this-mind-reading-hearing-aid-knows-who-youre-listening-to/">
-              <h2 class="article-card__heading blue-hover-link">This mind-reading hearing aid knows who you're listening to</h2>
-              <p class="article-card__strap">An ear mounted device with a battery of brain-scanning electrodes knows which sounds you're paying attention to – it might also help you get a good night's sleep</p>
+          <a href="https://www.newscientist.com/article/2167783-a-male-pill-will-be-a-breakthrough-for-science-but-not-for-women/">
+              <h2 class="article-card__heading blue-hover-link">A male pill will be a breakthrough for science but not for women</h2>
+              <p class="article-card__strap">Research is closing in on the elusive male contraceptive pill. But will it really lead to men taking more responsibility for birth control, wonders <strong>Lara Williams</strong></p>
           </a>
       </div>
-</li></ul></li><li><ul class="article-list__row"><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/mg23831750-200-origin-of-our-species-why-humans-were-once-so-much-more-diverse/" class="article-card__image-link-wrapper">
-      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23142319/mongrelmain-300x200.jpg" class="article-card__image wp-post-image" alt="origins artwork" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23142319/mongrelmain-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23142319/mongrelmain-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23142319/mongrelmain-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23142319/mongrelmain-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23142319/mongrelmain.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23142319/mongrelmain-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+</li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167664-north-koreas-nuclear-free-pledge-comes-with-a-massive-catch/" class="article-card__image-link-wrapper">
+      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30151637/rexfeatures_9643885i-300x200.jpg" class="article-card__image wp-post-image" alt="Kim Jong-un and Moon Jae-in" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30151637/rexfeatures_9643885i-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30151637/rexfeatures_9643885i-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30151637/rexfeatures_9643885i-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30151637/rexfeatures_9643885i-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30151637/rexfeatures_9643885i.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30151637/rexfeatures_9643885i-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
       <div class="article-card__details">
           <span class="article-card__eyebrow article-card__eyebrow">
-              <a href="/article-type/feature/" class="link--features">
-                  Feature              </a>
+              <a href="/article-type/analysis/" class="link--news">
+                  Analysis              </a>
           </span>
-          <a href="https://www.newscientist.com/article/mg23831750-200-origin-of-our-species-why-humans-were-once-so-much-more-diverse/">
-              <h2 class="article-card__heading blue-hover-link">Origin of our species: Why humans were once so much more diverse</h2>
-              <p class="article-card__strap"><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The idea that all humans evolved from a small population in East Africa turns out to be wrong. Our beginnings were far stranger and more colourful&quot;}" data-sheets-userformat="{&quot;2&quot;:641,&quot;3&quot;:[null,0],&quot;10&quot;:0,&quot;12&quot;:0}">The idea that all humans evolved from a small population in East Africa turns out to be wrong. Our beginnings were far stranger and more colourful</span></p>
+          <a href="https://www.newscientist.com/article/2167664-north-koreas-nuclear-free-pledge-comes-with-a-massive-catch/">
+              <h2 class="article-card__heading blue-hover-link">North Korea's nuclear-free pledge comes with a massive catch</h2>
+              <p class="article-card__strap">Last week saw a historic meeting between the leaders of North and South Korea, but the promise of a nuclear-free Korean Peninsula may not be so easy</p>
           </a>
       </div>
 </li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167856-giant-sea-spiders-sit-and-wait-for-prey-to-knock-themselves-out/" class="article-card__image-link-wrapper">
@@ -661,43 +709,53 @@ googletag.enableServices();
               <p class="article-card__strap">Huge sea spiders move excruciatingly slowly, but they can still catch prey animals that move much faster than them – because their prey sometimes crash into the seafloor</p>
           </a>
       </div>
-</li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167780-weve-mapped-90-per-cent-of-the-stars-in-our-bit-of-the-galaxy/" class="article-card__image-link-wrapper">
-      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01173019/pia13994-300x200.jpg" class="article-card__image wp-post-image" alt="We&#039;ve mapped most of the stars in our cosmic neighbourhood" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01173019/pia13994-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01173019/pia13994-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01173019/pia13994-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01173019/pia13994-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01173019/pia13994.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01173019/pia13994-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+</li></ul></li></ul>
+        </section>
+        <section class="article-wrapper">
+            <h2 class="article-wrapper__heading">EDITOR'S CHOICE</h2><ul class='article-list'><li class='article-list__item article-list__item--no-border article-card article-card--row-details'>
+  <a href="https://www.newscientist.com/article/mg23831750-200-origin-of-our-species-why-humans-were-once-so-much-more-diverse/" class="article-card__image-link-wrapper">
+      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23142319/mongrelmain-300x200.jpg" class="article-card__image wp-post-image" alt="origins artwork" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23142319/mongrelmain-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23142319/mongrelmain-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23142319/mongrelmain-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23142319/mongrelmain-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23142319/mongrelmain.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23142319/mongrelmain-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+      <div class="article-card__details">
+          <span class="article-card__eyebrow article-card__eyebrow">
+              <a href="/article-type/feature/" class="link--features">
+                  Feature              </a>
+          </span>
+          <a href="https://www.newscientist.com/article/mg23831750-200-origin-of-our-species-why-humans-were-once-so-much-more-diverse/">
+              <h2 class="article-card__heading blue-hover-link">Origin of our species: Why humans were once so much more diverse</h2>
+              <p class="article-card__strap"><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The idea that all humans evolved from a small population in East Africa turns out to be wrong. Our beginnings were far stranger and more colourful&quot;}" data-sheets-userformat="{&quot;2&quot;:641,&quot;3&quot;:[null,0],&quot;10&quot;:0,&quot;12&quot;:0}">The idea that all humans evolved from a small population in East Africa turns out to be wrong. Our beginnings were far stranger and more colourful</span></p>
+          </a>
+      </div>
+</li>
+<li class='article-list__item article-card article-card--row-details'>
+  <a href="https://www.newscientist.com/article/2167695-women-who-eat-more-pasta-tend-to-get-menopause-earlier/" class="article-card__image-link-wrapper">
+      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30165752/p1166m1231615-300x200.jpg" class="article-card__image wp-post-image" alt="A plate of pasta" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30165752/p1166m1231615-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30165752/p1166m1231615-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30165752/p1166m1231615-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30165752/p1166m1231615-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30165752/p1166m1231615.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30165752/p1166m1231615-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
       <div class="article-card__details">
           <span class="article-card__eyebrow article-card__eyebrow">
               <a href="/article-type/daily-news/" class="link--news">
                   Daily news              </a>
           </span>
-          <a href="https://www.newscientist.com/article/2167780-weve-mapped-90-per-cent-of-the-stars-in-our-bit-of-the-galaxy/">
-              <h2 class="article-card__heading blue-hover-link">We’ve mapped 90 per cent of the stars in our bit of the galaxy</h2>
-              <p class="article-card__strap">We have plotted almost all the stars near Earth, and the majority are peaceful enough that life on the planets around them could be possible</p>
+          <a href="https://www.newscientist.com/article/2167695-women-who-eat-more-pasta-tend-to-get-menopause-earlier/">
+              <h2 class="article-card__heading blue-hover-link">Women who eat more pasta tend to get menopause earlier</h2>
+              <p class="article-card__strap">Eating more white pasta and rice has been linked to reaching menopause a year or so earlier than average, while eating oily fish is linked to later menopause</p>
           </a>
       </div>
-</li></ul></li><li><ul class="article-list__row"><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167783-a-male-pill-will-be-a-breakthrough-for-science-but-not-for-women/" class="article-card__image-link-wrapper">
-      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01171804/p6080099-sperm_production-spl-300x200.jpg" class="article-card__image wp-post-image" alt="Sperm cells" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01171804/p6080099-sperm_production-spl-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01171804/p6080099-sperm_production-spl-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01171804/p6080099-sperm_production-spl-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01171804/p6080099-sperm_production-spl-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01171804/p6080099-sperm_production-spl.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01171804/p6080099-sperm_production-spl-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
-      <div class="article-card__details">
-          <span class="article-card__eyebrow article-card__eyebrow">
-              <a href="/article-type/comment/" class="link--news">
-                  Comment              </a>
-          </span>
-          <a href="https://www.newscientist.com/article/2167783-a-male-pill-will-be-a-breakthrough-for-science-but-not-for-women/">
-              <h2 class="article-card__heading blue-hover-link">A male pill will be a breakthrough for science but not for women</h2>
-              <p class="article-card__strap">Research is closing in on the elusive male contraceptive pill. But will it really lead to men taking more responsibility for birth control, wonders <strong>Lara Williams</strong></p>
-          </a>
-      </div>
-</li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/2167766-laser-sticker-contacts-could-let-you-shoot-beams-from-your-eyes/" class="article-card__image-link-wrapper">
-      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01150541/dxt5dd-300x200.jpg" class="article-card__image wp-post-image" alt="Eat your heart out, X-Men fans" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01150541/dxt5dd-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01150541/dxt5dd-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01150541/dxt5dd-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01150541/dxt5dd-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01150541/dxt5dd.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/05/01150541/dxt5dd-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
+</li>
+<li class='article-list__item article-card article-card--row-details'>
+  <a href="https://www.newscientist.com/article/2167711-lightning-hit-a-womans-home-and-switched-off-her-brain-implant/" class="article-card__image-link-wrapper">
+      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30171459/gettyimages-482731190-300x200.jpg" class="article-card__image wp-post-image" alt="Lightning strike" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30171459/gettyimages-482731190-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30171459/gettyimages-482731190-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30171459/gettyimages-482731190-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30171459/gettyimages-482731190-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30171459/gettyimages-482731190.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/30171459/gettyimages-482731190-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
       <div class="article-card__details">
           <span class="article-card__eyebrow article-card__eyebrow">
               <a href="/article-type/daily-news/" class="link--news">
                   Daily news              </a>
           </span>
-          <a href="https://www.newscientist.com/article/2167766-laser-sticker-contacts-could-let-you-shoot-beams-from-your-eyes/">
-              <h2 class="article-card__heading blue-hover-link">Laser-sticker contacts could let you shoot beams from your eyes</h2>
-              <p class="article-card__strap">Flexible lasers you can stick to anything can embed a security tag onto banknotes or contact lenses, and emit lasers when light shines on them</p>
+          <a href="https://www.newscientist.com/article/2167711-lightning-hit-a-womans-home-and-switched-off-her-brain-implant/">
+              <h2 class="article-card__heading blue-hover-link">Lightning hit a woman's home and switched off her brain implant</h2>
+              <p class="article-card__strap">Doctors are warning that some people should change the way they recharge their brain implants, after a lightning strike shut down a woman’s stimulation device</p>
           </a>
       </div>
-</li><li class="article-list__item article-card article-card--3col">  <a href="https://www.newscientist.com/article/mg23831750-400-the-original-social-justice-warrior-who-smashed-stereotypes/" class="article-card__image-link-wrapper">
+</li>
+<li class='article-list__item article-card article-card--row-details'>
+  <a href="https://www.newscientist.com/article/mg23831750-400-the-original-social-justice-warrior-who-smashed-stereotypes/" class="article-card__image-link-wrapper">
       <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23144500/gettyimages-56534975-300x200.jpg" class="article-card__image wp-post-image" alt="Margaret Mead&#039;s writings were a brazen challenge to America&#039;s conservative social values" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23144500/gettyimages-56534975-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23144500/gettyimages-56534975-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23144500/gettyimages-56534975-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23144500/gettyimages-56534975-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23144500/gettyimages-56534975.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/23144500/gettyimages-56534975-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
       <div class="article-card__details">
           <span class="article-card__eyebrow article-card__eyebrow">
@@ -707,64 +765,6 @@ googletag.enableServices();
           <a href="https://www.newscientist.com/article/mg23831750-400-the-original-social-justice-warrior-who-smashed-stereotypes/">
               <h2 class="article-card__heading blue-hover-link">The original social justice warrior who smashed stereotypes</h2>
               <p class="article-card__strap"><strong>Margaret Mead</strong>’s 1920s solo trip to live among people in Samoa was just the start of a boundary-breaking and myth-demolishing career</p>
-          </a>
-      </div>
-</li></ul></li></ul>
-        </section>
-        <section class="article-wrapper">
-            <h2 class="article-wrapper__heading">EDITOR'S CHOICE</h2><ul class='article-list'><li class='article-list__item article-list__item--no-border article-card article-card--row-details'>
-  <a href="https://www.newscientist.com/article/2166833-more-education-is-what-makes-people-live-longer-not-more-money/" class="article-card__image-link-wrapper">
-      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/18161503/00100269-300x200.jpg" class="article-card__image wp-post-image" alt="A school room" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/18161503/00100269-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/18161503/00100269-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/18161503/00100269-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/18161503/00100269-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/18161503/00100269.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/18161503/00100269-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
-      <div class="article-card__details">
-          <span class="article-card__eyebrow article-card__eyebrow">
-              <a href="/article-type/daily-news/" class="link--news">
-                  Daily news              </a>
-          </span>
-          <a href="https://www.newscientist.com/article/2166833-more-education-is-what-makes-people-live-longer-not-more-money/">
-              <h2 class="article-card__heading blue-hover-link">More education is what makes people live longer, not more money</h2>
-              <p class="article-card__strap">As countries get richer, their citizens live longer. We’ve long thought that rising wealth was responsible for this, but it turns out education is the cause</p>
-          </a>
-      </div>
-</li>
-<li class='article-list__item article-card article-card--row-details'>
-  <a href="https://www.newscientist.com/article/mg23831740-400-the-origins-of-sexism-how-men-came-to-rule-12000-years-ago/" class="article-card__image-link-wrapper">
-      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/16141426/origins-300x200.jpg" class="article-card__image wp-post-image" alt="sexism artwork 1" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/16141426/origins-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/16141426/origins-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/16141426/origins-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/16141426/origins-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/16141426/origins.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/16141426/origins-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
-      <div class="article-card__details">
-          <span class="article-card__eyebrow article-card__eyebrow">
-              <a href="/article-type/feature/" class="link--features">
-                  Feature              </a>
-          </span>
-          <a href="https://www.newscientist.com/article/mg23831740-400-the-origins-of-sexism-how-men-came-to-rule-12000-years-ago/">
-              <h2 class="article-card__heading blue-hover-link">The origins of sexism: How men came to rule 12,000 years ago</h2>
-              <p class="article-card__strap"><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Human societies weren’t always male-dominated. The switch came when we became farmers – and that suggests ways to roll back towards a more equal system&quot;}" data-sheets-userformat="{&quot;2&quot;:641,&quot;3&quot;:[null,0],&quot;10&quot;:0,&quot;12&quot;:0}">Human societies weren’t always male-dominated. The switch came when we became farmers – and that suggests ways to roll back towards a more equal system</span></p>
-          </a>
-      </div>
-</li>
-<li class='article-list__item article-card article-card--row-details'>
-  <a href="https://www.newscientist.com/article/mg23831740-900-why-the-patriarchy-isnt-good-for-men-and-how-to-fix-it/" class="article-card__image-link-wrapper">
-      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/17173210/gettyimages-9082771541-300x200.jpg" class="article-card__image wp-post-image" alt="GettyImages-908277154" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/17173210/gettyimages-9082771541-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/17173210/gettyimages-9082771541-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/17173210/gettyimages-9082771541-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/17173210/gettyimages-9082771541-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/17173210/gettyimages-9082771541.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/17173210/gettyimages-9082771541-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
-      <div class="article-card__details">
-          <span class="article-card__eyebrow article-card__eyebrow">
-              <a href="/article-type/feature/" class="link--features">
-                  Feature              </a>
-          </span>
-          <a href="https://www.newscientist.com/article/mg23831740-900-why-the-patriarchy-isnt-good-for-men-and-how-to-fix-it/">
-              <h2 class="article-card__heading blue-hover-link">Why the patriarchy isn't good for men and how to fix it</h2>
-              <p class="article-card__strap">Societies can be taught to be less misogynistic, but the first step is understanding how gender norms have backfired on men as well as women</p>
-          </a>
-      </div>
-</li>
-<li class='article-list__item article-card article-card--row-details'>
-  <a href="https://www.newscientist.com/article/mg23831740-700-how-protective-parents-exacerbate-gender-differences/" class="article-card__image-link-wrapper">
-      <img src="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/16142717/patriarchy_naturevnuture-300x200.jpg" class="article-card__image wp-post-image" alt="sexism artwork 2" srcset="https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/16142717/patriarchy_naturevnuture-150x100.jpg 150w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/16142717/patriarchy_naturevnuture-300x200.jpg 300w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/16142717/patriarchy_naturevnuture-768x512.jpg 768w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/16142717/patriarchy_naturevnuture-600x400.jpg 600w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/16142717/patriarchy_naturevnuture.jpg 1200w, https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2018/04/16142717/patriarchy_naturevnuture-800x533.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />  </a>
-      <div class="article-card__details">
-          <span class="article-card__eyebrow article-card__eyebrow">
-              <a href="/article-type/feature/" class="link--features">
-                  Feature              </a>
-          </span>
-          <a href="https://www.newscientist.com/article/mg23831740-700-how-protective-parents-exacerbate-gender-differences/">
-              <h2 class="article-card__heading blue-hover-link">How protective parents exacerbate gender differences</h2>
-              <p class="article-card__strap">Yes, men’s and women’s brains are wired differently – but the science shows that outside influences can also shape our gender identity</p>
           </a>
       </div>
 </li>
@@ -812,16 +812,16 @@ googletag.enableServices();
             <section class="trending promo-box promo-card">
                 <h3 class="promo-card__heading">Popular</h3>
                             <ul class="no-bullets">                <li>
-                    <a href="https://www.newscientist.com/article/2167695-women-who-eat-more-pasta-tend-to-get-menopause-earlier/"><h4 class="blue-hover-link">Women who eat more pasta tend to get menopause earlier</h4></a>
-                    <!--  <span class="time">3 days ago</span> -->
-                </li>
-                            <li>
                     <a href="https://www.newscientist.com/article/2167423-horses-remember-if-you-smiled-or-frowned-when-they-last-saw-you/"><h4 class="blue-hover-link">Horses remember if you smiled or frowned when they last saw you</h4></a>
                     <!--  <span class="time">1 week ago</span> -->
                 </li>
                             <li>
-                    <a href="https://www.newscientist.com/article/2167537-the-european-union-has-decided-to-ban-bee-killing-pesticides/"><h4 class="blue-hover-link">The European Union has decided to ban bee-killing pesticides</h4></a>
-                    <!--  <span class="time">6 days ago</span> -->
+                    <a href="https://www.newscientist.com/article/2167753-smart-people-literally-have-bigger-brain-cells-than-the-rest/"><h4 class="blue-hover-link">Smart people literally have bigger brain cells than the rest</h4></a>
+                    <!--  <span class="time">3 days ago</span> -->
+                </li>
+                            <li>
+                    <a href="https://www.newscientist.com/article/2167766-laser-sticker-contacts-could-let-you-shoot-beams-from-your-eyes/"><h4 class="blue-hover-link">Laser-sticker contacts could let you shoot beams from your eyes</h4></a>
+                    <!--  <span class="time">3 days ago</span> -->
                 </li>
                         </ul>
                                                 </section>
@@ -969,7 +969,7 @@ googletag.enableServices();
                 <form action="/registration/" method="GET">
                     <input type="hidden" name="newsletter" value="true">
                     <input type="hidden" name="disable_errors" value="true">
-<input type="hidden" id="registrationonce" name="registrationonce" value="62efdd7757" /><input type="hidden" name="_wp_http_referer" value="/" />                    <input type="text" size="40" name="email">
+<input type="hidden" id="registrationonce" name="registrationonce" value="bb14d7b9fe" /><input type="hidden" name="_wp_http_referer" value="/" />                    <input type="text" size="40" name="email">
                     <input type="submit" class="green-button" value="Join">
                 </form>
             </div>
@@ -1202,19 +1202,19 @@ var addthis_share = {};
 
 <!-- This site is patched against a big problem not solved since WordPress 2.5 -->
 
-<!--wp_footer--><!-- Debug: AUTH[noauth] QC[40] RB[] SB[] T[0.79279398918152] PM[23.9932]-->
+<!--wp_footer--><!-- Debug: AUTH[noauth] QC[40] RB[] SB[] T[0.89484691619873] PM[23.914184]-->
 <script type="text/javascript">
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=9&cb=350210299';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=9&cb=112191393';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
 </script></body>
 </html>
 
-<!-- Dynamic page generated in 0.876 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2018-05-03 17:19:59 -->
+<!-- Dynamic page generated in 1.320 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2018-05-04 05:01:08 -->
 
 <!-- super cache -->

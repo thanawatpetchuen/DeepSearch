@@ -716,7 +716,7 @@ _tag.dcsCollect();
 	}
 	
 	var NTPT_IMAGE_LOCATION = 'https://origin.www.ieee.org/';
-	var NTPT_PGEXTRA= "ip=" + '140.98.93.79';
+	var NTPT_PGEXTRA= "ip=" + '140.98.93.78';
 	if(userInfoId != null && userInfoId != "" && userInfoId != "null" ){
 		NTPT_PGEXTRA = NTPT_PGEXTRA + "&un=" + userInfoId + "&un3=" + userInfoId;
 	}

@@ -9,7 +9,7 @@
           <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <script>window.archive_setup=[]</script>
         <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
-            <script src="//archive.org/includes/analytics.js?v=bae4e3e" type="text/javascript"></script>
+            <script src="//archive.org/includes/analytics.js?v=ef2507c" type="text/javascript"></script>
 
     <script>
       'use strict';
@@ -21,11 +21,11 @@
       }
     </script>
         <script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
-    <script src="//archive.org/includes/polyfill.min.js?v=bae4e3e" type="text/javascript"></script>
+    <script src="//archive.org/includes/polyfill.min.js?v=ef2507c" type="text/javascript"></script>
     <script src="https://archive.org/includes/node_modules/react/dist/react.min.js?v15.1.0" type="text/javascript"></script>
     <script src="https://archive.org/includes/node_modules/react-dom/dist/react-dom.min.js?v15.1.0" type="text/javascript"></script>
-    <script src="https://archive.org/includes/archive.min.js?v=bae4e3e" type="text/javascript"></script>
-    <link href="//archive.org/includes/archive.min.css?v=bae4e3e" rel="stylesheet" type="text/css"/>
+    <script src="https://archive.org/includes/archive.min.js?v=ef2507c" type="text/javascript"></script>
+    <link href="//archive.org/includes/archive.min.css?v=ef2507c" rel="stylesheet" type="text/css"/>
     <link rel="SHORTCUT ICON" href="https://archive.org/images/glogo.jpg"/>
       </head>
   <body class="navia ">
@@ -467,7 +467,7 @@
         >Advanced Search</a>
           </div>
     
-                            <script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"05/03/2018"}</script>
+                            <script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"05/04/2018"}</script>
     
                         <input type="submit" value="Search"/>
                       </form>
@@ -550,31 +550,31 @@
     </div><!--/#wrap-->
     
     <!-- Timing ...
-     rendered on: www16.us.archive.org
+     rendered on: www30.us.archive.org
  seconds diff sec               message   stack(file:line:function)
 =========================================================
   0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/account/login.php:1:require
                                              |common/ia:55:require_once
                                              |setup.php:329:log
-  0.0001   0.0001   begin session_start   var/cache/petabox/petabox/www/sf/account/login.php:46:session_start
+  0.0002   0.0002   begin session_start   var/cache/petabox/petabox/www/sf/account/login.php:46:session_start
                                              |common/Cookies.inc:61:log
-  0.0019   0.0018    done session_start   var/cache/petabox/petabox/www/sf/account/login.php:46:session_start
+  0.0026   0.0025    done session_start   var/cache/petabox/petabox/www/sf/account/login.php:46:session_start
                                              |common/Cookies.inc:67:log
-  0.0019   0.0001   begin session_start   var/cache/petabox/petabox/www/sf/account/login.php:60:logout
+  0.0027   0.0001   begin session_start   var/cache/petabox/petabox/www/sf/account/login.php:60:logout
                                              |common/Cookies.inc:45:session_start
                                              |Cookies.inc:61:log
-  0.0020   0.0000    done session_start   var/cache/petabox/petabox/www/sf/account/login.php:60:logout
+  0.0028   0.0000    done session_start   var/cache/petabox/petabox/www/sf/account/login.php:60:logout
                                              |common/Cookies.inc:45:session_start
                                              |Cookies.inc:67:log
-  0.0022   0.0002   begin session_start   var/cache/petabox/petabox/www/sf/account/login.php:64:head
+  0.0030   0.0003   begin session_start   var/cache/petabox/petabox/www/sf/account/login.php:64:head
                                              |common/Nav.inc:67:__construct
                                              |Nav.inc:135:session_start
                                              |Cookies.inc:61:log
-  0.0022   0.0000    done session_start   var/cache/petabox/petabox/www/sf/account/login.php:64:head
+  0.0031   0.0001    done session_start   var/cache/petabox/petabox/www/sf/account/login.php:64:head
                                              |common/Nav.inc:67:__construct
                                              |Nav.inc:135:session_start
                                              |Cookies.inc:67:log
-  0.0382   0.0360              bug dump   var/cache/petabox/petabox/www/sf/account/login.php:138:footer
+  0.0752   0.0721              bug dump   var/cache/petabox/petabox/www/sf/account/login.php:138:footer
                                              |common/setup.php:130:footer
                                              |Nav.inc:1392:dump
                                              |Bug.inc:120:log
@@ -584,8 +584,8 @@ if (window.archive_analytics) {
   var vs = window.archive_analytics.get_data_packets();
   for (var i in vs) {
     vs[i]['cache_bust']=Math.random();
-    vs[i]['server_ms']=38;
-    vs[i]['server_name']="www16.us.archive.org";
+    vs[i]['server_ms']=75;
+    vs[i]['server_name']="www30.us.archive.org";
       }
 
   if ($(".more_search").size()>0) {

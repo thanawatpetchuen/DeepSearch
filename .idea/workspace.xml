@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50ece07f-21af-4247-9d8e-01735f0a0c64" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Deep_withGUI.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepSearch.py" afterPath="$PROJECT_DIR$/DeepSearch.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asd.py" afterPath="$PROJECT_DIR$/asd.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final.txt" afterPath="$PROJECT_DIR$/final.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result/tree.json" afterPath="$PROJECT_DIR$/result/tree.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result/tree.txt" afterPath="$PROJECT_DIR$/result/tree.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/abwikipediaorgwiki%D0%90%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D1%83%D1%82%D0%B5%D1%80.txt" afterPath="$PROJECT_DIR$/temp/abwikipediaorgwiki%D0%90%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D1%83%D1%82%D0%B5%D1%80.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/acewikipediaorgwikiKomputer.txt" afterPath="$PROJECT_DIR$/temp/acewikipediaorgwikiKomputer.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/afwikipediaorgwikiRekenaar.txt" afterPath="$PROJECT_DIR$/temp/afwikipediaorgwikiRekenaar.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/alswikipediaorgwikiComputer.txt" afterPath="$PROJECT_DIR$/temp/alswikipediaorgwikiComputer.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/amwikipediaorgwiki%E1%8A%AE%E1%88%9D%E1%8D%92%E1%8B%A9%E1%89%B0%E1%88%AD.txt" afterPath="$PROJECT_DIR$/temp/amwikipediaorgwiki%E1%8A%AE%E1%88%9D%E1%8D%92%E1%8B%A9%E1%89%B0%E1%88%AD.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/angwikipediaorgwikiSpearctelle.txt" afterPath="$PROJECT_DIR$/temp/angwikipediaorgwikiSpearctelle.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/anwikipediaorgwikiOrdinador.txt" afterPath="$PROJECT_DIR$/temp/anwikipediaorgwikiOrdinador.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/archiveorgdetailsmechanicalarithm00feltrich.txt" afterPath="$PROJECT_DIR$/temp/archiveorgdetailsmechanicalarithm00feltrich.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/arcwikipediaorgwiki%DC%9A%DC%AB%DC%98%DC%92%DC%90_(%DC%A1%DC%90%DC%9F%DC%A2%DC%90).txt" afterPath="$PROJECT_DIR$/temp/arcwikipediaorgwiki%DC%9A%DC%AB%DC%98%DC%92%DC%90_(%DC%A1%DC%90%DC%9F%DC%A2%DC%90).txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/arstechnicacomuncategorized200812global-notebook-shipments-finally-overtake-desktops.txt" afterPath="$PROJECT_DIR$/temp/arstechnicacomuncategorized200812global-notebook-shipments-finally-overtake-desktops.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/arwikipediaorgwiki%D8%AD%D8%A7%D8%B3%D9%88%D8%A8.txt" afterPath="$PROJECT_DIR$/temp/arwikipediaorgwiki%D8%AD%D8%A7%D8%B3%D9%88%D8%A8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/astwikipediaorgwikiComputadora.txt" afterPath="$PROJECT_DIR$/temp/astwikipediaorgwikiComputadora.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/aswikipediaorgwiki%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A7%B0.txt" afterPath="$PROJECT_DIR$/temp/aswikipediaorgwiki%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A7%B0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/azbwikipediaorgwiki%D8%A8%DB%8C%D9%84%DA%AF%DB%8C%E2%80%8C%D8%B3%D8%A7%DB%8C%D8%A7%D8%B1.txt" afterPath="$PROJECT_DIR$/temp/azbwikipediaorgwiki%D8%A8%DB%8C%D9%84%DA%AF%DB%8C%E2%80%8C%D8%B3%D8%A7%DB%8C%D8%A7%D8%B1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/azwikipediaorgwikiKomp%C3%BCter.txt" afterPath="$PROJECT_DIR$/temp/azwikipediaorgwikiKomp%C3%BCter.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/barwikipediaorgwikiRechna.txt" afterPath="$PROJECT_DIR$/temp/barwikipediaorgwikiRechna.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/bawikipediaorgwiki%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80.txt" afterPath="$PROJECT_DIR$/temp/bawikipediaorgwiki%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/be-x-oldwikipediaorgwiki%D0%9A%D0%B0%D0%BC%D0%BF%D1%83%D1%82%D0%B0%D1%80.txt" afterPath="$PROJECT_DIR$/temp/be-x-oldwikipediaorgwiki%D0%9A%D0%B0%D0%BC%D0%BF%D1%83%D1%82%D0%B0%D1%80.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/bewikipediaorgwiki%D0%9A%D0%B0%D0%BC%D0%BF%E2%80%99%D1%8E%D1%82%D0%B0%D1%80.txt" afterPath="$PROJECT_DIR$/temp/bewikipediaorgwiki%D0%9A%D0%B0%D0%BC%D0%BF%E2%80%99%D1%8E%D1%82%D0%B0%D1%80.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/bgwikipediaorgwiki%D0%9A%D0%BE%D0%BC%D0%BF%D1%8E%D1%82%D1%8A%D1%80.txt" afterPath="$PROJECT_DIR$/temp/bgwikipediaorgwiki%D0%9A%D0%BE%D0%BC%D0%BF%D1%8E%D1%82%D1%8A%D1%80.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/bhwikipediaorgwiki%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F%E0%A4%B0.txt" afterPath="$PROJECT_DIR$/temp/bhwikipediaorgwiki%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F%E0%A4%B0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/biwikipediaorgwikiCompter.txt" afterPath="$PROJECT_DIR$/temp/biwikipediaorgwikiCompter.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/bnwikipediaorgwiki%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A6%B0.txt" afterPath="$PROJECT_DIR$/temp/bnwikipediaorgwiki%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A6%B0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/bowikipediaorgwiki%E0%BD%82%E0%BE%B3%E0%BD%BC%E0%BD%82%E0%BC%8B%E0%BD%80%E0%BE%B3%E0%BD%91%E0%BC%8D.txt" afterPath="$PROJECT_DIR$/temp/bowikipediaorgwiki%E0%BD%82%E0%BE%B3%E0%BD%BC%E0%BD%82%E0%BC%8B%E0%BD%80%E0%BE%B3%E0%BD%91%E0%BC%8D.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/brwikipediaorgwikiUrzhiataer.txt" afterPath="$PROJECT_DIR$/temp/brwikipediaorgwikiUrzhiataer.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/bswikipediaorgwikiRa%C4%8Dunar.txt" afterPath="$PROJECT_DIR$/temp/bswikipediaorgwikiRa%C4%8Dunar.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/bxrwikipediaorgwiki%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80.txt" afterPath="$PROJECT_DIR$/temp/bxrwikipediaorgwiki%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/cawikipediaorgwikiOrdinador.txt" afterPath="$PROJECT_DIR$/temp/cawikipediaorgwikiOrdinador.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_abwikipediaorgwiki%D0%90%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D1%83%D1%82%D0%B5%D1%80.txt" afterPath="$PROJECT_DIR$/temp/clean_abwikipediaorgwiki%D0%90%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D1%83%D1%82%D0%B5%D1%80.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_acewikipediaorgwikiKomputer.txt" afterPath="$PROJECT_DIR$/temp/clean_acewikipediaorgwikiKomputer.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_afwikipediaorgwikiRekenaar.txt" afterPath="$PROJECT_DIR$/temp/clean_afwikipediaorgwikiRekenaar.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_amwikipediaorgwiki%E1%8A%AE%E1%88%9D%E1%8D%92%E1%8B%A9%E1%89%B0%E1%88%AD.txt" afterPath="$PROJECT_DIR$/temp/clean_amwikipediaorgwiki%E1%8A%AE%E1%88%9D%E1%8D%92%E1%8B%A9%E1%89%B0%E1%88%AD.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_angwikipediaorgwikiSpearctelle.txt" afterPath="$PROJECT_DIR$/temp/clean_angwikipediaorgwikiSpearctelle.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_anwikipediaorgwikiOrdinador.txt" afterPath="$PROJECT_DIR$/temp/clean_anwikipediaorgwikiOrdinador.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_archiveorgdetailsmechanicalarithm00feltrich.txt" afterPath="$PROJECT_DIR$/temp/clean_archiveorgdetailsmechanicalarithm00feltrich.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_arstechnicacomuncategorized200812global-notebook-shipments-finally-overtake-desktops.txt" afterPath="$PROJECT_DIR$/temp/clean_arstechnicacomuncategorized200812global-notebook-shipments-finally-overtake-desktops.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_aswikipediaorgwiki%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A7%B0.txt" afterPath="$PROJECT_DIR$/temp/clean_aswikipediaorgwiki%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A7%B0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_azbwikipediaorgwiki%D8%A8%DB%8C%D9%84%DA%AF%DB%8C%E2%80%8C%D8%B3%D8%A7%DB%8C%D8%A7%D8%B1.txt" afterPath="$PROJECT_DIR$/temp/clean_azbwikipediaorgwiki%D8%A8%DB%8C%D9%84%DA%AF%DB%8C%E2%80%8C%D8%B3%D8%A7%DB%8C%D8%A7%D8%B1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_bawikipediaorgwiki%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80.txt" afterPath="$PROJECT_DIR$/temp/clean_bawikipediaorgwiki%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_bewikipediaorgwiki%D0%9A%D0%B0%D0%BC%D0%BF%E2%80%99%D1%8E%D1%82%D0%B0%D1%80.txt" afterPath="$PROJECT_DIR$/temp/clean_bewikipediaorgwiki%D0%9A%D0%B0%D0%BC%D0%BF%E2%80%99%D1%8E%D1%82%D0%B0%D1%80.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_bhwikipediaorgwiki%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F%E0%A4%B0.txt" afterPath="$PROJECT_DIR$/temp/clean_bhwikipediaorgwiki%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F%E0%A4%B0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_biwikipediaorgwikiCompter.txt" afterPath="$PROJECT_DIR$/temp/clean_biwikipediaorgwikiCompter.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_bnwikipediaorgwiki%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A6%B0.txt" afterPath="$PROJECT_DIR$/temp/clean_bnwikipediaorgwiki%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A6%B0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_bswikipediaorgwikiRa%C4%8Dunar.txt" afterPath="$PROJECT_DIR$/temp/clean_bswikipediaorgwikiRa%C4%8Dunar.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_enwikipediaorgwikiComputer.txt" afterPath="$PROJECT_DIR$/temp/clean_enwikipediaorgwikiComputer.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_enwikipediaorgwindexphptitleComputer&amp;oldid839273026.txt" afterPath="$PROJECT_DIR$/temp/clean_enwikipediaorgwindexphptitleComputer&amp;oldid839273026.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_enwikiversityorgwikiHow_things_work_college_courseComputer_quiz.txt" afterPath="$PROJECT_DIR$/temp/clean_enwikiversityorgwikiHow_things_work_college_courseComputer_quiz.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_gnwikipediaorgwikiKombutad%C3%B3ra.txt" afterPath="$PROJECT_DIR$/temp/clean_gnwikipediaorgwikiKombutad%C3%B3ra.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_goremotesupportcomblogcrash-the-story-of-it-zuse.txt" afterPath="$PROJECT_DIR$/temp/clean_goremotesupportcomblogcrash-the-story-of-it-zuse.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_ieeexploreieeeorgstampstampjsparnumber00689507.txt" afterPath="$PROJECT_DIR$/temp/clean_ieeexploreieeeorgstampstampjsparnumber00689507.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_newsbbccouk1hitechnology8492762stm.txt" afterPath="$PROJECT_DIR$/temp/clean_newsbbccouk1hitechnology8492762stm.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_thefreedictionarycomcomputer.txt" afterPath="$PROJECT_DIR$/temp/clean_thefreedictionarycomcomputer.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_wwwantikythera-mechanismgrprojectgeneralthe-projecthtml.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwantikythera-mechanismgrprojectgeneralthe-projecthtml.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_wwwcomputer50orgmark1contemporaryhtml.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwcomputer50orgmark1contemporaryhtml.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_wwwcomputer50orgmark1mark1introhtml.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwcomputer50orgmark1mark1introhtml.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_wwwcomputerhistoryorgatchmwarhol-the-computer.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwcomputerhistoryorgatchmwarhol-the-computer.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_wwwcsnclacukpublicationsarticlespapers398pdf.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwcsnclacukpublicationsarticlespapers398pdf.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_wwwepn-onlinecompage22909the-hapless-tale-of-geoffrey-dummer-this-is-the-sad-html.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwepn-onlinecompage22909the-hapless-tale-of-geoffrey-dummer-this-is-the-sad-html.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_wwwetymonlinecomindexphptermcomputer.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwetymonlinecomindexphptermcomputer.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_wwwidccomgetdocjspcontainerIdprUS24239313.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwidccomgetdocjspcontainerIdprUS24239313.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_wwwintelcommuseumarchives4004htm.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwintelcommuseumarchives4004htm.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_wwwnaturecomnaturejournalv444n7119fig_tab444551a_F2html.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwnaturecomnaturejournalv444n7119fig_tab444551a_F2html.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_wwwnewscientistcomarticlemg20827915500-lets-build-babbages-ultimate-mechanical-computerhtml.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwnewscientistcomarticlemg20827915500-lets-build-babbages-ultimate-mechanical-computerhtml.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_wwwscientific-computingcomscwmayjun03computingmachineshtml.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwscientific-computingcomscwmayjun03computingmachineshtml.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_wwwtheguardiancomtheguardian2010nov08harry-fensom-obituary.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwtheguardiancomtheguardian2010nov08harry-fensom-obituary.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_wwwtnmocorgcolossus-rebuild-story.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwtnmocorgcolossus-rebuild-story.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_wwwtop500orglists200611overtimeArchitectures.txt" afterPath="$PROJECT_DIR$/temp/clean_wwwtop500orglists200611overtimeArchitectures.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/clean_zh-min-nanwikipediaorgwikiTi%C4%81n-n%C3%A1u.txt" afterPath="$PROJECT_DIR$/temp/clean_zh-min-nanwikipediaorgwikiTi%C4%81n-n%C3%A1u.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/enwikipediaorgwikiComputer.txt" afterPath="$PROJECT_DIR$/temp/enwikipediaorgwikiComputer.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/enwikipediaorgwindexphptitleComputer&amp;oldid839273026.txt" afterPath="$PROJECT_DIR$/temp/enwikipediaorgwindexphptitleComputer&amp;oldid839273026.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/enwikiquoteorgwikiComputers.txt" afterPath="$PROJECT_DIR$/temp/enwikiquoteorgwikiComputers.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/enwikiversityorgwikiHow_things_work_college_courseComputer_quiz.txt" afterPath="$PROJECT_DIR$/temp/enwikiversityorgwikiHow_things_work_college_courseComputer_quiz.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/gnwikipediaorgwikiKombutad%C3%B3ra.txt" afterPath="$PROJECT_DIR$/temp/gnwikipediaorgwikiKombutad%C3%B3ra.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/goremotesupportcomblogcrash-the-story-of-it-zuse.txt" afterPath="$PROJECT_DIR$/temp/goremotesupportcomblogcrash-the-story-of-it-zuse.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/ieeexploreieeeorgstampstampjsparnumber00689507.txt" afterPath="$PROJECT_DIR$/temp/ieeexploreieeeorgstampstampjsparnumber00689507.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/newsbbccouk1hitechnology8492762stm.txt" afterPath="$PROJECT_DIR$/temp/newsbbccouk1hitechnology8492762stm.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/platostanfordeduentriescomputing-history.txt" afterPath="$PROJECT_DIR$/temp/platostanfordeduentriescomputing-history.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/plmsoxfordjournalsorgcgireprints2-421230.txt" afterPath="$PROJECT_DIR$/temp/plmsoxfordjournalsorgcgireprints2-421230.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/robroydyndnsinfocollierindexhtml.txt" afterPath="$PROJECT_DIR$/temp/robroydyndnsinfocollierindexhtml.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/thefreedictionarycomcomputer.txt" afterPath="$PROJECT_DIR$/temp/thefreedictionarycomcomputer.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/worldwideespacenetcomtextdocDBEPODOC&amp;IDXUS2981877.txt" afterPath="$PROJECT_DIR$/temp/worldwideespacenetcomtextdocDBEPODOC&amp;IDXUS2981877.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwcomputer50orgmark1contemporaryhtml.txt" afterPath="$PROJECT_DIR$/temp/wwwcomputer50orgmark1contemporaryhtml.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwcomputer50orgmark1mark1introhtml.txt" afterPath="$PROJECT_DIR$/temp/wwwcomputer50orgmark1mark1introhtml.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwcomputerhistoryorgatchmwarhol-the-computer.txt" afterPath="$PROJECT_DIR$/temp/wwwcomputerhistoryorgatchmwarhol-the-computer.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwcsnclacukpublicationsarticlespapers398pdf.txt" afterPath="$PROJECT_DIR$/temp/wwwcsnclacukpublicationsarticlespapers398pdf.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwepemagcomzusepart4ahtm.txt" afterPath="$PROJECT_DIR$/temp/wwwepemagcomzusepart4ahtm.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwepn-onlinecompage22909the-hapless-tale-of-geoffrey-dummer-this-is-the-sad-html.txt" afterPath="$PROJECT_DIR$/temp/wwwepn-onlinecompage22909the-hapless-tale-of-geoffrey-dummer-this-is-the-sad-html.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwetymonlinecomindexphptermcomputer.txt" afterPath="$PROJECT_DIR$/temp/wwwetymonlinecomindexphptermcomputer.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwidccomgetdocjspcontainerIdprUS24239313.txt" afterPath="$PROJECT_DIR$/temp/wwwidccomgetdocjspcontainerIdprUS24239313.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwindependentcouknewspeopleobituary-allen-coombs-1611270html.txt" afterPath="$PROJECT_DIR$/temp/wwwindependentcouknewspeopleobituary-allen-coombs-1611270html.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwintelcommuseumarchives4004htm.txt" afterPath="$PROJECT_DIR$/temp/wwwintelcommuseumarchives4004htm.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwisocorginternethistorybriefshtml.txt" afterPath="$PROJECT_DIR$/temp/wwwisocorginternethistorybriefshtml.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwlaitsutexasedughazalChap1dsbchapter1html.txt" afterPath="$PROJECT_DIR$/temp/wwwlaitsutexasedughazalChap1dsbchapter1html.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwmathsunysbedu~tonywhatsnewcolumnantikytheraI-0400kyth1html.txt" afterPath="$PROJECT_DIR$/temp/wwwmathsunysbedu~tonywhatsnewcolumnantikytheraI-0400kyth1html.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwnaturecomnaturejournalv444n7119fig_tab444551a_F2html.txt" afterPath="$PROJECT_DIR$/temp/wwwnaturecomnaturejournalv444n7119fig_tab444551a_F2html.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwnewscientistcomarticlemg20827915500-lets-build-babbages-ultimate-mechanical-computerhtml.txt" afterPath="$PROJECT_DIR$/temp/wwwnewscientistcomarticlemg20827915500-lets-build-babbages-ultimate-mechanical-computerhtml.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwourcomputerheritageorgwp.txt" afterPath="$PROJECT_DIR$/temp/wwwourcomputerheritageorgwp.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwsciencemuseumorgukonlinestuffstoriesbabbageaspxpage5.txt" afterPath="$PROJECT_DIR$/temp/wwwsciencemuseumorgukonlinestuffstoriesbabbageaspxpage5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwscientific-computingcomscwmayjun03computingmachineshtml.txt" afterPath="$PROJECT_DIR$/temp/wwwscientific-computingcomscwmayjun03computingmachineshtml.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwtechiwarehousecomenginea046ee08Generations-of-Computer.txt" afterPath="$PROJECT_DIR$/temp/wwwtechiwarehousecomenginea046ee08Generations-of-Computer.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwtheguardiancomtheguardian2010nov08harry-fensom-obituary.txt" afterPath="$PROJECT_DIR$/temp/wwwtheguardiancomtheguardian2010nov08harry-fensom-obituary.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwtimecomtimeprintout0,8816,954266,00html.txt" afterPath="$PROJECT_DIR$/temp/wwwtimecomtimeprintout0,8816,954266,00html.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwtnmocorgcolossus-rebuild-story.txt" afterPath="$PROJECT_DIR$/temp/wwwtnmocorgcolossus-rebuild-story.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/wwwtop500orglists200611overtimeArchitectures.txt" afterPath="$PROJECT_DIR$/temp/wwwtop500orglists200611overtimeArchitectures.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/zh-min-nanwikipediaorgwikiTi%C4%81n-n%C3%A1u.txt" afterPath="$PROJECT_DIR$/temp/zh-min-nanwikipediaorgwikiTi%C4%81n-n%C3%A1u.txt" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="asd.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1392">
+              <caret line="97" column="48" lean-forward="false" selection-start-line="97" selection-start-column="48" selection-end-line="99" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Deep_withGUI.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Deep_withGUI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="688">
+              <caret line="55" column="27" lean-forward="false" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1424">
+              <caret line="93" column="29" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="93" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DpSch.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Desktop/DeepSearch/DpSch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="281" column="31" lean-forward="true" selection-start-line="281" selection-start-column="31" selection-end-line="281" selection-end-column="31" />
+              <folding>
+                <element signature="e#204#246#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="result_output" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result_output">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeLink.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/New folder/TreeLink.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewNewGUI.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/New folder/NewNewGUI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1040">
+              <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dotexporter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/anytree/exporter/dotexporter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3584">
+              <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="treetest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/treetest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeepSearch.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DeepSearch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2016">
+              <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>computers</find>
+      <find>c</find>
+      <find>startupinfo()</find>
+      <find>STARTUPINFO()</find>
+      <find>startupinfo</find>
+      <find>check_call</find>
+      <find>dotfile.name</find>
+      <find>dotfile</find>
+      <find>tree</find>
+      <find>save2file</find>
+      <find>data</find>
+      <find>form_layout</find>
+      <find>self.on_worker_step</find>
+      <find>sig_step</find>
+      <find>on_worker_step</find>
+      <find>NUM_THREADS</find>
+      <find>idx</find>
+      <find>log</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/newGUI.py" />
+        <option value="$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/stemming/porter.py" />
+        <option value="$PROJECT_DIR$/openStemming.py" />
+        <option value="$PROJECT_DIR$/NewNewGUI.py" />
+        <option value="$PROJECT_DIR$/aaaa.py" />
+        <option value="$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/anytree/exporter/dotexporter.py" />
+        <option value="$PROJECT_DIR$/TreeLink.py" />
+        <option value="$USER_HOME$/Desktop/New folder/TreeLink.py" />
+        <option value="$PROJECT_DIR$/DeepSearch.py" />
+        <option value="$USER_HOME$/Desktop/New folder/asd.py" />
+        <option value="$PROJECT_DIR$/asd.py" />
+        <option value="$PROJECT_DIR$/Deep_withGUI.py" />
+        <option value="$PROJECT_DIR$/example.py" />
+        <option value="$USER_HOME$/Desktop/DeepSearch/DpSch.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-6" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DeepSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeepSearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeepSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeepSearch" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/PANXEL" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.DpSch">
+    <configuration name="DeepSearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DeepSearch" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepSearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Deep_withGUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DeepSearch" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deep_withGUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="DpSch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/DeepSearch" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DeepSearch" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/DeepSearch/DpSch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="asd (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DeepSearch" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/asd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DeepSearch" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.DeepSearch" />
+      <item index="1" class="java.lang.String" itemvalue="Python.asd (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Deep_withGUI" />
+      <item index="3" class="java.lang.String" itemvalue="Python.DpSch" />
+      <item index="4" class="java.lang.String" itemvalue="Python.example" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.DpSch" />
+        <item index="1" class="java.lang.String" itemvalue="Python.example" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Deep_withGUI" />
+        <item index="3" class="java.lang.String" itemvalue="Python.asd (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.DeepSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50ece07f-21af-4247-9d8e-01735f0a0c64" name="Default" comment="" />
+      <created>1525141598655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525141598655</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="0" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2647504" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15355521" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/anytree/exporter/dotexporter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3584">
+          <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/treetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/tree.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="50" lean-forward="false" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/tree.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9416209" lean-forward="false" selection-start-line="0" selection-start-column="9416209" selection-end-line="0" selection-end-column="9416209" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="110" column="21" lean-forward="false" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree.png" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4640">
+          <caret line="290" column="0" lean-forward="false" selection-start-line="290" selection-start-column="0" selection-end-line="290" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/anytree/exporter/dotexporter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3552">
+          <caret line="227" column="34" lean-forward="true" selection-start-line="227" selection-start-column="34" selection-end-line="227" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaaa.py" />
+    <entry file="file://$PROJECT_DIR$/tree.dot" />
+    <entry file="file://$PROJECT_DIR$/newGUI.py" />
+    <entry file="file://$PROJECT_DIR$/NewNewGUI.py" />
+    <entry file="file://$PROJECT_DIR$/openStemming.py" />
+    <entry file="file://$PROJECT_DIR$/TreeLink.py" />
+    <entry file="file://$PROJECT_DIR$/DeepSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TreeLink.py" />
+    <entry file="file://$PROJECT_DIR$/tree.png" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4480">
+          <caret line="280" column="0" lean-forward="true" selection-start-line="280" selection-start-column="0" selection-end-line="280" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaaa.py" />
+    <entry file="file://$PROJECT_DIR$/tree.dot" />
+    <entry file="file://$PROJECT_DIR$/newGUI.py" />
+    <entry file="file://$PROJECT_DIR$/NewNewGUI.py" />
+    <entry file="file://$PROJECT_DIR$/openStemming.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/anytree/exporter/dotexporter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3456">
+          <caret line="221" column="11" lean-forward="true" selection-start-line="221" selection-start-column="11" selection-end-line="221" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clean_newsbbccouk1hitechnology8492762stm.txt" />
+    <entry file="file://$PROJECT_DIR$/clean_platostanfordeduentriescomputing-history.txt" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/stemming/porter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="176" column="15" lean-forward="false" selection-start-line="176" selection-start-column="15" selection-end-line="176" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openStemming.py" />
+    <entry file="file://$PROJECT_DIR$/newGUI.py" />
+    <entry file="file://$PROJECT_DIR$/tree.dot" />
+    <entry file="file://$PROJECT_DIR$/NewNewGUI.py" />
+    <entry file="file://$PROJECT_DIR$/aaaa.py" />
+    <entry file="file://$PROJECT_DIR$/TreeLink.py" />
+    <entry file="file://$PROJECT_DIR$/tree.png" />
+    <entry file="file://$PROJECT_DIR$/writetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/tree.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9416209" lean-forward="false" selection-start-line="0" selection-start-column="9416209" selection-end-line="0" selection-end-column="9416209" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/New folder/asd.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22944">
+          <caret line="1434" column="33" lean-forward="false" selection-start-line="1434" selection-start-column="33" selection-end-line="1434" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/tree.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="50" lean-forward="false" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/treetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/anytree/exporter/dotexporter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3584">
+          <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/New folder/TreeLink.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/New folder/NewNewGUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1392">
+          <caret line="97" column="48" lean-forward="false" selection-start-line="97" selection-start-column="48" selection-end-line="99" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_withGUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="55" column="27" lean-forward="false" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_output">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1424">
+          <caret line="93" column="29" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="93" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/DeepSearch/DpSch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="281" column="31" lean-forward="true" selection-start-line="281" selection-start-column="31" selection-end-line="281" selection-end-column="31" />
+          <folding>
+            <element signature="e#204#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

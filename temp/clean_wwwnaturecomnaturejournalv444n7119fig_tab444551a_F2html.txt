@@ -301,6 +301,7 @@ More detail
 
                                 News & Views
                                 
+                                
                             
 Archaeology: High tech from Ancient Greece
 François Charette1
@@ -441,6 +442,9 @@ Research
 
 
 Browse Articles
+
+
+Browse Collections
 
 
 Browse Subjects
@@ -629,7 +633,6 @@ advanced
 
 Nature
 ISSN 1476-4687 (online)
-Issue Cover Cover image: AXS Studio, Inc.
 
 
 
@@ -641,7 +644,7 @@ For authors and referees
 Guide to Authors
 Guide to Referees
 Editorial policies
-
+Language editing
 Scientific editing
 Reprints & permissions
 

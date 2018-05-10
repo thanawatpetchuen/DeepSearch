@@ -300,9 +300,9 @@
          data-gpt-sizes="728x90"
          data-gpt-targeting="type=article;pos=top;artid=444551a;doi=10.1038/444551a">
         <noscript>
-            <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/article&amp;sz=728x90&amp;c=-1224679791&amp;t=pos%3Dtop%26type%3Darticle%26artid%3D444551a%26doi%3D10.1038/444551a">
+            <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/article&amp;sz=728x90&amp;c=-1094032107&amp;t=pos%3Dtop%26type%3Darticle%26artid%3D444551a%26doi%3D10.1038/444551a">
                 <img data-test="gpt-advert-fallback-img"
-                     src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&amp;sz=728x90&amp;c=-1224679791&amp;t=pos%3Dtop%26type%3Darticle%26artid%3D444551a%26doi%3D10.1038/444551a"
+                     src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&amp;sz=728x90&amp;c=-1094032107&amp;t=pos%3Dtop%26type%3Darticle%26artid%3D444551a%26doi%3D10.1038/444551a"
                      alt="Advertisement"
                      width="728"
                      height="90"></a>
@@ -461,6 +461,7 @@
 
                             <p class="text13 text-gray-light tiny-space-below" data-test="article-identifier">
                                 News &amp; Views
+                                
                                 
                             </p>
                             
@@ -640,9 +641,9 @@
          data-gpt-sizes="300x250"
          data-gpt-targeting="type=article;pos=right;artid=444551a;doi=10.1038/444551a">
         <noscript>
-            <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/article&amp;sz=300x250&amp;c=464908846&amp;t=pos%3Dright%26type%3Darticle%26artid%3D444551a%26doi%3D10.1038/444551a">
+            <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nature.com/article&amp;sz=300x250&amp;c=-1749199850&amp;t=pos%3Dright%26type%3Darticle%26artid%3D444551a%26doi%3D10.1038/444551a">
                 <img data-test="gpt-advert-fallback-img"
-                     src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&amp;sz=300x250&amp;c=464908846&amp;t=pos%3Dright%26type%3Darticle%26artid%3D444551a%26doi%3D10.1038/444551a"
+                     src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nature.com/article&amp;sz=300x250&amp;c=-1749199850&amp;t=pos%3Dright%26type%3Darticle%26artid%3D444551a%26doi%3D10.1038/444551a"
                      alt="Advertisement"
                      width="300"
                      height="250"></a>
@@ -690,6 +691,10 @@
             
                 <li class="pr30">
                     <a href="/nature/articles" data-track="click" data-track-action="browse articles" data-track-label="link">Browse Articles</a>
+                </li>
+            
+                <li class="pr30">
+                    <a href="/nature/collections" data-track="click" data-track-action="browse collections" data-track-label="link">Browse Collections</a>
                 </li>
             
                 <li class="pr30">
@@ -763,7 +768,7 @@
                             <a href="/srep" data-track="click" data-track-action="scientific reports" data-track-label="link">Scientific Reports</a>
                         </li>
                         <li class="pr30">
-                            <a href="/siteindex" class="right-arrow strong" data-track="click" data-track-action="journal a-z view all" data-track-label="link"">View all<span class="visually-hidden"> journals</span></a>
+                            <a href="/siteindex" class="right-arrow strong" data-track="click" data-track-action="journal a-z view all" data-track-label="link">View all<span class="visually-hidden"> journals</span></a>
                         </li>
                     </ul>
                 </div>
@@ -892,12 +897,6 @@
             <h2 aria-level="2" class="text13 strong emphasis ma0 sans-serif" itemprop="name">Nature</h2>
             <p class="pt0 pr10 pb0 pl10 ma0"><abbr title="International Standard Serial Number">ISSN</abbr> <span itemprop="issn">1476-4687</span> (online)</p>
             
-                
-    
-    <p class="pt0 pr0 pl10 ma0 text-right flex-box-item">Issue Cover Cover image: AXS Studio, Inc.</p>
-    
-
-            
         </div>
 
         <hr class="separator mb30">
@@ -913,7 +912,7 @@
                 <li class="pb4"><a href="https://www.nature.com/authors/peer_review/" data-track="click" data-track-action="guide to referees" data-track-label="link">Guide to Referees</a></li>
                 <li class="pb4"><a href="https://www.nature.com/authors/editorial_policies/" data-track="click" data-track-action="editorial policies" data-track-label="link">Editorial policies</a></li>
                 <li class="pb4"><a href="https://authorservices.springernature.com/language-editing/?utm_source=natureAuthors&amp;utm_medium=referral&amp;utm_campaign=natureAuthors"
-                       data-track="click" data-track-action="language editing" data-track-label="link"Language editing</a></li>
+                       data-track="click" data-track-action="language editing" data-track-label="link">Language editing</a></li>
                 <li class="pb4"><a href="https://authorservices.springernature.com/scientific-editing/?utm_source=natureAuthors&amp;utm_medium=referral&amp;utm_campaign=natureAuthors"
                        data-track="click" data-track-action="scientific editing" data-track-label="link">Scientific editing</a></li>
                 <li class="pb4" ><a href="https://www.nature.com/reprints/" data-track="click" data-track-action="reprints and permissions" data-track-label="link">Reprints &amp; permissions</a></li>
@@ -1078,7 +1077,7 @@
 
 
 
-<script src="/static/js/mosaic.586cfa4820.js"></script>
+<script src="/static/js/mosaic.b27be21fa9.js"></script>
 <script>
 
     var idp = {
