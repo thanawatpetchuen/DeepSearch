@@ -1,0 +1,175 @@
+
+
+
+
+ Integrity - Clarivate@font-face {
+    font-family: 'clarivate';
+    src: url('https://clarivate.com/wp-content/themes/clarivate/assets/fonts/clarivate.eot?z511xd#iefix') format('embedded-opentype'),
+    url('https://clarivate.com/wp-content/themes/clarivate/assets/fonts/clarivate.ttf?z511xd') format('truetype'),
+    url('https://clarivate.com/wp-content/themes/clarivate/assets/fonts/clarivate.woff?z511xd') format('woff'),
+    url('https://cdn.clarivate.com/wp-content/themes/clarivate/assets/fonts/clarivate.svg?z511xd#clarivate') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  } {"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/clarivate.com\/","name":"Clarivate Analytics","potentialAction":{"@type":"SearchAction","target":"https:\/\/clarivate.com\/?s={search_term_string}","query-input":"required name=search_term_string"}} {"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/clarivate.com\/products\/integrity\/","sameAs":[],"@id":"#organization","name":"Clarivate Analytics","logo":""}  window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/clarivate.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings); img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KSQJ2Z'); @media screen and (max-width: 480px) {
+    .home .promo-panel h1 {
+    font-size: 28px;
+    }
+} var _ictt = _ictt || [];
+        _ictt.push(['_setIgrp','1652']); // Installation ID
+        _ictt.push(['_enableGAIntegration',{'gua':true,'ga':false}]);
+        _ictt.push(['_enableAutoDiscovery']);
+        _ictt.push(['_track']);
+        (function() {
+            var ict = document.createElement('script'); ict.type = 'text/javascript'; ict.async = true;
+            ict.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'ict.infinity-tracking.net/js/nas.v1.min.js';
+            var scr = document.getElementsByTagName('script')[0]; scr.parentNode.insertBefore(ict, scr);
+        })(); 
+Our policy towards the use of cookies
+All Clarivate Analytics websites use cookies to improve your online experience. They were placed on your computer when you launched this website. You can change your cookie settings through your browser.
+Ok to Continue
+
+Cookie Policy
+
+
+
+
+
+
+
+
+
+Products
+
+ProductsScientific and Academic Research
+
+Scientific and Academic ResearchWeb of ScienceResearch DiscoveryKopernioEndNoteEndNote Site LicenseResearch PublishingScholarOneWeb of Science Author ConnectPublonsResearch EvaluationInCitesJournal Citation ReportsEssential Science IndicatorsConverisServicesProfessional Services – Web of ScienceLife Sciences
+
+Life SciencesCortellisDiscovery & PreClinical ResearchIntegrityDrug Research AdvisorMetaCoreKey Pathway AdvisorCompetitive Intelligence & Business DevelopmentCortellis Competitive IntelligenceNewport PremiumCortellis Deals IntelligenceIncidence and Prevalence DatabaseNewsBioWorldBioWorld MedTechClinical & RegulatoryCortellis Clinical Trials IntelligenceCortellis Regulatory IntelligenceInformatics and Data IntegrationCortellis InformaticsGENESEQProfessional ServicesProfessional ServicesPatent Research, Intelligence and Services
+
+Patent Research, Intelligence and ServicesDerwentPatent InformationDerwent World Patents IndexDerwent Patents Citation IndexPatent Research and Analysis ToolsDerwent InnovationDerwent Data AnalyzerData IntegrationDerwent Data Feed and Derwent APIIP ServicesVirtual IP OfficePatent Search ServicesIP Administrative ServicesPatent Preparation and Prosecution ServicesPatent Analytics ServicesPatent Translation ServicesPatent Licensing ServicesFile Histories and Document ServicesIndustry Codes and Standards
+
+Industry Codes and StandardsTechstreetTechstreet EnterpriseTechstreet StoreTrademark Research and Protection
+
+Trademark Research and ProtectionCompuMarkTrademark ScreeningSAEGISMulti-Country Screening SearchWorldwide Identical Screening SearchPharma Multi-Country ScreeningDomain Name SearchTrademark SearchingU.S. Full SearchInternational Availability SearchTM go365Global Pharmaceutical SearchInternational Title SearchTrademark WatchingWorldwide WatchUSPTO Official Gazette WatchDesign WatchWeb WatchDomain Name WatchCopyright and Title ServicesU.S. Copyright SearchU.S. Full Title SearchU.S. Copyright Portfolio SearchInternational Title SearchTrademark ServicesCustom SolutionsTrademark Data ValidationDomain and Brand Protection
+
+Domain and Brand ProtectionMarkMonitorBrand ProtectionAntiCounterfeitingIP ProtectionPartner ComplianceAntiPiracy – Digital MediaAntiPiracy – NetResult Live Streaming ProtectionAntiFraud – PhishingAntiFraud – MalwareAntiFraud – Dark Web and Cyber IntelligenceManaged ServicesDomain Portfolio ManagementDomain ManagementDomain Consulting ServicesTop-Level Domain Advisory ServicesIntellectual Property Management
+
+Intellectual Property ManagementThe IP Management SystemIP PaymentsSpecialty
+
+SpecialtyScientific and Academic Research
+
+Scientific and Academic ResearchLibrary and Information ServicesResearch AssessmentInstitutional LeadershipResearchPublishingFundingLife Sciences
+
+Life SciencesEarly Research and PreclinicalClinicalRegulatory AffairsBusiness Development and LicensingPortfolio ManagementAPI and Fine Chemical ManufacturingGenericsPatent Research, Intelligence and Services
+
+Patent Research, Intelligence and ServicesInnovation Landscape and Competitive IntelligenceFreedom to OperatePatent Preparation and ProsecutionMonetization and LicensingLitigationIndustry Codes and Standards
+
+Industry Codes and StandardsStandards ManagementTrademark Research and Protection
+
+Trademark Research and ProtectionTrademark Research and ProtectionDomain and Brand Protection
+
+Domain and Brand ProtectionDomain ManagementAntiCounterfeiting and IP ProtectionAntiPiracyAntiFraudIntellectual Property Management
+
+Intellectual Property ManagementIP Management and AdministrationNewsroom
+
+NewsroomNews ReleasesMedia ContactsTraining
+
+TrainingLife Sciences
+
+Life SciencesLife Sciences Training OverviewLife Sciences TrainingLife Sciences Product TrainingCortellis Clinical Trials IntelligenceCortellis Competitive IntelligenceCortellis Deals IntelligenceCortellis Regulatory IntelligenceNewportSystems BiologyIntegrityPatent Research, Intelligence and Services Training
+
+Patent Research, Intelligence and Services TrainingDerwent TrainingDerwent LearningDerwent Live Learning SessionsDerwent – Getting StartedOn-Demand ModulesGlobal LanguagesDerwent – Legal Education ProgramsDownload materialsMeet the expertsDerwent RadioDerwent Knowledge BaseScientific and Academic Research
+
+Scientific and Academic ResearchEndNoteEssential Science IndicatorsInCitesJournal Citation ReportsPublonsScholarOne AbstractsScholarOne ManuscriptsWeb of ScienceAbout
+
+AboutWhat we doExecutive LeadershipGender Pay Gap ReportGDPR Readiness ProgramBlogRegional sitesAustralasia and Southeast AsiaChinaIndia and South AsiaJapanKoreaMiddle East and North Africa (MENA)Russia and CISSub-Saharan AfricaTaiwanContact usCareersRegional sitesAustralasia and Southeast AsiaChinaIndia and South AsiaJapanKoreaMiddle East and North Africa (MENA)Russia and CISSub-Saharan AfricaTaiwanContact usCareers
+
+
+ProductsScientific and Academic ResearchWeb of ScienceWeb of ScienceTrust the difference
+Learn moreResearch DiscoveryKopernioEndNoteEndNote Site LicenseEndNote Site LicenseMore than just a reference managerResearch PublishingScholarOneScholarOneDo more than manage the process: advance your businessWeb of Science Author ConnectWeb of Science Author ConnectReach the right peoplePublonsPublonsGet recognition for peer reviewResearch EvaluationInCitesInCitesAn objective analysis of people, programs and peersJournal Citation ReportsJournal Citation ReportsSee a journal’s true place in the research landscapeEssential Science IndicatorsEssential Science IndicatorsSee where science is going and who’s leading the wayConverisConverisOne flow for the entire research lifecycleServicesProfessional ServicesProfessional ServicesAn objective, independent partner focused on facilitating research successLife SciencesCortellisCortellisPowering life sciences innovation
+Learn moreDiscovery & PreClinical ResearchIntegrityIntegrityEssential knowledge to support your decision making in preclinical developmentDrug Research AdvisorDrug Research AdvisorPreclinical workflow tool with analytics, visualizations and insightMetaCoreMetaCoreAccelerate discovery research with systems biology content  and analyticsKey Pathway AdvisorKey Pathway AdvisorWorkflow tool for comprehensive interpretation of gene expression dataCompetitive Intelligence & Business DevelopmentCortellis Competitive IntelligenceCortellis Competitive IntelligenceClosely monitor your competitors and seize opportunities to stay aheadNewport PremiumNewport PremiumGenerics and API intelligence covered from all anglesCortellis Deals IntelligenceCortellis Deals IntelligenceFind and compare life sciences deals to enable effective negotiationsIncidence and Prevalence DatabaseIncidence and Prevalence DatabaseThe most efficient way to look at the world’s epidemiology dataNewsBioWorldBioWorldGet ahead with daily insights on the latest news from the biopharma industryBioWorld MedTechBioWorld MedTechGain actionable intelligence on advances in medical technologyClinical & RegulatoryCortellis Clinical Trials IntelligenceCortellis Clinical Trials IntelligenceMaximize your clinical investments and reduce riskCortellis Regulatory IntelligenceCortellis Regulatory IntelligenceStay informed as the global regulatory landscape shifts and evolvesInformatics and Data IntegrationCortellis InformaticsCortellis InformaticsBring expert insight directly into the applications that you use every dayGENESEQGENESEQSee the entire patent landscape surrounding your biological sequenceProfessional ServicesLife Sciences Professional ServicesLife Sciences Professional ServicesUnrivalled data science expertise, evidence-based consulting and independent advice across the pharmaceutical R&D value chainPatent Research, Intelligence and ServicesDerwentDerwentEnriched patent data, applications and services for inventors, IP professionals and licensing specialists
+Learn morePatent InformationDerwent World Patents IndexDerwent World Patents IndexThe world’s most trusted source of patent informationDerwent Patents Citation IndexDerwent Patents Citation IndexAccess family-based patent citationsPatent Research and Analysis ToolsDerwent InnovationDerwent InnovationWelcome to a faster, smarter way to search for patent informationDerwent Data AnalyzerDerwent Data AnalyzerIP analysis made easyData IntegrationDerwent Data Feed and Derwent APIDerwent Data Feed and Derwent APIIntegrate, manipulate and analyze patent dataIP ServicesVirtual IP OfficeVirtual IP OfficeSupplement IP resources and increase your expertisePatent Search ServicesPatent Search ServicesAccelerate innovation with results you can trustIP Administrative ServicesIP Administrative ServicesSave time and money and focus more on IPPatent Preparation and Prosecution ServicesPatent Preparation and Prosecution ServicesBecause cost matters and timing is everythingPatent Analytics ServicesPatent Analytics ServicesAccurate and actionable in-depth technical and competitive intelligencePatent Translation ServicesPatent Translation ServicesExpertise and excellence in translationsPatent Licensing ServicesPatent Licensing ServicesMaking patents work harder to maximize IP revenueFile Histories and Document ServicesFile Histories and Document ServicesFind and access patent files fasterIndustry Codes and StandardsTechstreetTechstreetServing those who invent, build, test and maintain virtually everything on which the world depends
+Learn moreTechstreet EnterpriseTechstreet EnterpriseManage company-wide global standards with the most powerful web platform
+Learn moreTechstreet StoreTechstreet StoreAccess 546,000+ codes and standards worldwide from our superstore
+Learn moreTrademark Research and ProtectionCompuMarkCompuMarkStrengthening and protecting trademarks
+Learn moreTrademark ScreeningSAEGISSAEGISConduct your own international trademark screening searchMulti-Country Screening SearchMulti-Country Screening SearchWe screen your mark in 105 international jurisdictionsWorldwide Identical Screening SearchWorldwide Identical Screening SearchWe look for identical trademarks in more than 200 countries/registersPharma Multi-Country ScreeningPharma Multi-Country ScreeningWe screen your mark in more than 70+ int’l registers + Pharma in-use dataDomain Name SearchDomain Name SearchAssess the risk of your trademark or domain name infringing on othersTrademark SearchingU.S. Full SearchU.S. Full SearchGet the information needed to assess the availability of your proposed trademarkInternational Availability SearchInternational Availability SearchDetermine the availability of your proposed trademark for use globallyTM go365TM go365Cloud-based, self-service clearance solution allows searching marks in secondsGlobal Pharmaceutical SearchGlobal Pharmaceutical SearchQuickly assess the availability of your pharma trademark globallyInternational Title SearchInternational Title SearchDetermine the availability of a proposed title for entertainment worksTrademark WatchingWorldwide WatchWorldwide WatchSafeguard your valuable brand from potential infringement around the worldUSPTO Official Gazette WatchUSPTO Official Gazette WatchProtect your brand against potential infringement in the USDesign WatchDesign WatchProtect your design mark or logo worldwide with expert watchingWeb WatchWeb WatchProtect your brand from unauthorized use or misuse on the WebDomain Name WatchDomain Name WatchProtect your trademark or domain name against registered domain namesCopyright and Title ServicesU.S. Copyright SearchU.S. Copyright SearchDetermine the copyright status and ownership of entertainment worksU.S. Full Title SearchU.S. Full Title SearchAssess the availability of your title for entertainment works in the U.S.U.S. Copyright Portfolio SearchU.S. Copyright Portfolio SearchReceive a detailed listing of all copyright and renewal registrationsInternational Title SearchInternational Title SearchDetermine the availability of a proposed title entertainment works globallyTrademark ServicesCustom SolutionsCustom SolutionsOur experienced team develops trademark solutions tailored to your needsTrademark Data ValidationTrademark Data ValidationEnsure your brand portfolio reflects realityDomain and Brand ProtectionMarkMonitorMarkMonitorProtecting brands in the digital world
+Learn moreBrand ProtectionAntiCounterfeitingAntiCounterfeitingUse advanced technology and expertise to protect your brandIP ProtectionIP ProtectionSafeguard your company’s intellectual property and rights in the digital worldPartner CompliancePartner ComplianceOptimize partner relationships and drive incremental revenueAntiPiracy – Digital MediaAntiPiracy – Digital MediaProtect your content from unauthorized online distributionAntiPiracy – NetResult Live Streaming ProtectionAntiPiracy – NetResult Live Streaming ProtectionProtect your live-event streaming contentAntiFraud – PhishingAntiFraud – PhishingPrevent, detect, and mitigate phishing and other social engineering scamsAntiFraud – MalwareAntiFraud – MalwareDetect, analyze and mitigate brand-associated malwareAntiFraud – Dark Web and Cyber IntelligenceAntiFraud – Dark Web and Cyber IntelligenceGet 24/7 monitoring across Dark and Deep Web cybercrime zones, for brand-related cyberthreatsManaged ServicesManaged ServicesUnparalleled expertise and service, focused on the global enterpriseDomain Portfolio ManagementDomain ManagementDomain ManagementSafely and effectively manage your valuable domain portfoliosDomain Consulting ServicesDomain Consulting ServicesExpert, data-driven domain strategies for maximum success in the New gTLD eraTop-Level Domain Advisory ServicesTop-Level Domain Advisory ServicesExpert guidance to navigate the world of New gTLDsIntellectual Property ManagementThe IP Management SystemThe IP Management SystemOptimize your IP management with a solution that’s right for you
+Learn moreIP PaymentsIP PaymentsUnparalleled protection for your most valuable assets
+Learn moreSpecialtyScientific and Academic ResearchLibrary and Information ServicesResearch AssessmentInstitutional LeadershipResearchPublishingFundingLife SciencesEarly Research and PreclinicalClinicalRegulatory AffairsBusiness Development and LicensingPortfolio ManagementAPI and Fine Chemical ManufacturingGenericsPatent Research, Intelligence and ServicesInnovation Landscape and Competitive IntelligenceFreedom to OperatePatent Preparation and ProsecutionMonetization and LicensingLitigationIndustry Codes and StandardsStandards ManagementTrademark Research and ProtectionTrademark Research and ProtectionDomain and Brand ProtectionDomain ManagementAntiCounterfeiting and IP ProtectionAntiPiracyAntiFraudIntellectual Property ManagementIP Management and AdministrationNewsroomNews ReleasesMedia ContactsTrainingLife SciencesLife Sciences Training OverviewLife Sciences TrainingLife Sciences Product TrainingCortellis Clinical Trials IntelligenceCortellis Competitive IntelligenceCortellis Deals IntelligenceCortellis Regulatory IntelligenceNewportSystems BiologyIntegrityPatent Research, Intelligence and Services TrainingDerwent TrainingDerwent LearningDerwent Live Learning SessionsDerwent – Getting StartedOn-Demand ModulesGlobal LanguagesDerwent – Legal Education ProgramsDownload materialsMeet the expertsDerwent RadioDerwent Knowledge BaseScientific and Academic ResearchEndNoteEssential Science IndicatorsInCitesJournal Citation ReportsPublonsScholarOne AbstractsScholarOne ManuscriptsWeb of ScienceAboutWhat we doExecutive LeadershipGender Pay Gap ReportGDPR Readiness ProgramBlog
+
+
+
+
+
+Discovery & Preclinical Research
+
+
+IntegrityEssential knowledge to support your decision making in preclinical development
+
+Contact us                    
+
+Product log in                
+
+
+IntegrityIntegrity – BiomarkersFact sheetAsk an expertGetting started
+Product log in
+Contact us
+Give us a call on                        
+
+
+Biology. Chemistry. Pharmacology. All in one place.Integrity enhances your drug discovery and development research by integrating essential biological, chemical and pharmacological data to support successful drug research and development.
+
+
+~ 500,000Drugs & biologics
+> 2,100,000Experimental pharmacology records
+> 74,000Experimental model records
+
+Features and benefitsIntegrity and the Integrity – Biomarkers module provide the key scientific information and insight needed to prioritize drug development candidates, benchmark competitors/market leaders and assess the competitive landscape earlier than any other drug R&D; database – directly supporting scientific discovery.IntegrateIntegrate biological, chemical and pharmacological data to help drive innovation and support earlier decision-making when developing new hypotheses around targets, drugs, and how to translate animal models into humans.MonitorUpdated daily, drug information is consolidated into a single, flexible resource to help you stay on top of the latest developments in your field without having to spend time reviewing irrelevant materials.ExamineHard data points – not just references – provide key information from in vitro and in vivo pharmacological assays and pharmacokinetics studies.ContextualizeGain context for your R&D efforts with Disease Briefings; these disease- and disorder-specific dynamic summaries on current treatments and future trends in drug therapy include risk factors, prevalence, morbidity, mortality and cost.LearnAvoid costly mistakes and learn from the success of your peers with comprehensive coverage of pipeline, patent, literature & conferences from a scientific perspective.DiscoverStructure searching of drugs and synthesis schemes (including chemical intermediates).BiomarkersThe Integrity – Biomarkers  module brings an added dimension to Integrity by linking drugs, targets and genes to biomarkers information from a diverse range of sources.
+
+Journals and Drug NewsDrugs of Today and Drugs of the Future offer insight into innovative drugs in early clinical development or nearing commercialization, while Drug News provides dynamic drug news and alerts every business day.  For more information about these journals, contact us here.
+
+
+When making decisions about potential prospects it is very important to know what stage of clinical development a compound is in. The further along the development pipeline, the better, as the compound has a greater chance of getting to the market – and of course larger-scale synthesis will be required.
+Dr. Martin Fox
+Principal Research Scientist at Chirotech
+
+Related information
+
+ New drug development: finding the...New drug development: finding...New drug development: finding the balance between quality and quantityNew drug development: finding the...
+Find out more
+
+ The 3 Rs of cancer research: rigor,...The 3 Rs of cancer research:...The 3 Rs of cancer research: rigor, reproducibility and robustnessThe 3 Rs of cancer research: rigor,...
+Find out more
+
+Existing customer?Visit Integrity online
+
+Sign inSpeak to our teamWant to learn more about Integrity? 
+Contact us
+
+
+ClarivateAccelerating innovation
+© 2018 ClarivateCopyright noticeTerms of usePrivacy statementCookie policy
+Follow us
+
+
+
+
+
+   jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});          

@@ -1,0 +1,1031 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+
+<!--[if IE 8]><meta http-equiv="X-UA-Compatible" content="IE=8,chrome=1"><![endif]-->
+<!--[if IE 9]><meta http-equiv="X-UA-Compatible" content="IE=9,chrome=1"><![endif]-->
+<!--[if IE 10]><meta http-equiv="X-UA-Compatible" content="IE=10,chrome=1"><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+
+
+<!-- CSS ============================================================================== -->
+<link rel="stylesheet" type="text/css" href="/common/bento.ui/css/font-awesome.css">
+<link rel="stylesheet" type="text/css" href="/common/bento.ui/css/bootstrap-responsive.css">
+<!--[if !IE]><!-->
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/css/header.css">
+<link rel="stylesheet" type="text/css" href="/css/footer.css">
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/css/header_ie8.css">
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/css/footer_ie8.css">
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/common/bento.ui/css/font-awesome-ie7.min.css">
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/common/bento.ui/css/font-awesome-min.css">
+<![endif]-->
+<!--[if gte IE 9]>
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/css/header.css">
+<link rel="stylesheet" type="text/css" href="/css/footer.css">
+<![endif]-->
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/css/en_US/scholarone.css">
+ <!--[if IE]>
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/css/scholarone_ie_specific.css">
+<![endif]-->
+<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="/common/bento.ui/js/jquery.min.js"></script>
+<script src="/common/bento.ui/js/bootstrap.min.js"></script>
+<link rel="shortcut icon" type="image/x-icon" href="/common/bento.ui/ico/favicon.ico?">
+
+<script language='JavaScript' type='text/javascript'>
+var ALERT_WAIT_FOR_SUBMIT = 'The form has been submitted, please wait until it has completed before pressing any more buttons.';
+var ALERT_TEXT_LIMIT = 'The text limit for this field has been reached. No more text may be added.';
+var ALERT_NO_SEARCH = 'Starting over will mean that the system will not perform this search. Are you sure?';
+var ALERT_TEXT_OVERFLOW = 'Text overflow';
+var PREFER_24HOUR = '0';
+var GMT_STR = 'GMT';
+var AM_STR = 'AM';
+var PM_STR = 'PM';
+</script>
+<script language='JavaScript' type='text/javascript'>
+var ALERT_WAIT_FOR_SUBMIT = 'The form has been submitted, please wait until it has completed before pressing any more buttons.';
+var ALERT_TEXT_LIMIT = 'The text limit for this field has been reached. No more text may be added.';
+var ALERT_NO_SEARCH = 'Starting over will mean that the system will not perform this search. Are you sure?';
+var ALERT_TEXT_OVERFLOW = 'Text overflow';
+var PREFER_24HOUR = '0';
+var GMT_STR = 'GMT';
+var AM_STR = 'AM';
+var PM_STR = 'PM';
+</script>
+<SCRIPT LANGUAGE='JavaScript' src='/common/scholarone.js?version=4.22.0.129'></SCRIPT>
+<link type='text/css' rel='StyleSheet' href='/css/en_US/helptip.css'/>
+<script language='JavaScript' src='/common/helptip.js?version=4.22.0.129'></script>
+<script language='JavaScript' type='text/javascript'>
+var LOGIN_PAGE='LOGIN';
+function isPageCompletelyLoaded()
+{
+  if (document.forms[0].PAGE_LOADED_FLAG.value != 'Y') {alert('The form has been submitted, please wait until it has completed before pressing any more buttons.'); return false;}
+       return true;
+}
+function getSiteURL()
+{
+   return 'aphs';
+}
+function getLongRequestSiteURL()
+{
+   return '/LongRequest/aphs';
+}
+function getPostParams(){}
+
+function popWindow(url,winname,width,height)
+{
+  winX=Math.round(screen.width/2)-(width/2);
+  winY=Math.round(screen.height/2)-(height/2);
+  winStats='toolbar=no,location=no,directories=no,menubar=no,resizable=yes,'
+  winStats+='scrollbars=yes,width='+width+',height='+height
+  if (navigator.appName.indexOf('Microsoft')>=0) {
+    winStats+=',left='+winX+',top='+winY+''
+  }else{ 
+    winStats+=',screenX='+winX+',screenY='+winY+''
+  }
+  handle = window.open(encodeURI(url),winname,winStats) 
+  if(handle != null)
+  {
+   if (winname != 'add_person_to_pick_pop' && winname != 'mssearch_issue_popup' && winname != 'progress_pop_report' && winname != 'progress_pop_large' && winname != 'progress_pop_large2' && winname != 'transfer_pop' && winname != 'email_popup_stay' && winname != 'forms_instructions_popup') 
+   {
+     addHandleToArray(handle);  
+   }
+   handle.focus();  
+   handle.opener=self;  
+  }
+  if (winname == 'progress_pop_delayed' || winname == 'author_affil_details' || winname == 'sp_char_palette') 
+    return handle;  
+}
+function popWindowSecure(url,winname,width,height)
+{
+  winX=Math.round(screen.width/2)-(width/2);
+  winY=Math.round(screen.height/2)-(height/2);
+  winStats='toolbar=no,location=no,directories=no,menubar=no,status=yes,resizable=yes,'
+  winStats+='scrollbars=yes,width='+width+',height='+height
+  if (navigator.appName.indexOf('Microsoft')>=0) {
+    winStats+=',left='+winX+',top='+winY+''
+  }else{ 
+    winStats+=',screenX='+winX+',screenY='+winY+''
+  }
+  handle = window.open(url,winname,winStats) 
+  if (winname != 'add_person_to_pick_pop' && winname != 'mssearch_issue_popup' && winname != 'progress_pop_report' && winname != 'progress_pop_large' && winname != 'progress_pop_large2' && winname != 'transfer_pop' && winname != 'email_popup_stay') 
+    addHandleToArray(handle);  
+  handle.focus();  
+}
+function popWindowSecureForPortal(url,winname,width,height)
+{
+  winX=Math.round(screen.width/2)-(width/2);
+  winY=Math.round(screen.height/2)-(height/2);
+  winStats='toolbar=yes,location=yes,directories=yes,menubar=yes,status=yes,resizable=yes,'
+  winStats+='scrollbars=yes,width='+width+',height='+height
+  if (navigator.appName.indexOf('Microsoft')>=0) {
+    winStats+=',left='+winX+',top='+winY+''
+  }else{ 
+    winStats+=',screenX='+winX+',screenY='+winY+''
+  }
+  handle = window.open(url,winname,winStats) 
+  if (winname != 'add_person_to_pick_pop' && winname != 'mssearch_issue_popup' && winname != 'progress_pop_report' && winname != 'progress_pop_large' && winname != 'progress_pop_large2' && winname != 'transfer_pop' && winname != 'email_popup_stay') 
+    addHandleToArray(handle);  
+  handle.focus();  
+}
+function showProgressWindow() { 
+  javascript: popWindow('aphs\x3FPARAMS\x3Dxik_4PHXCwaqQjtsqJLoP8pcvWRAiu1YciAmpH2AtZFUXGi1qZVMtwtgQmgZUCko5mD7u2qE8BiAzSjwiWk8tBae1k4omQEXmGhTvCBaZUq3TpCrVLWwDKteuf7Bsm55mfV1B1sRTaTYy7uAecMWLMGnJWj7bEHbQMhwv1scjhUPqoSR8h9','progress_pop', 400, 300); 
+}function showProgressWindowLarge(vPageName) { 
+ showProgressWindowLarge(vPageName, 'progress_pop_large'); 
+} 
+function showProgressWindowLarge(vPageName, vPopupWindowName) { 
+ if (vPopupWindowName == null) { vPopupWindowName = 'progress_pop_large'; } 
+  javascript: popWindow('aphs\x3FPARAMS\x3Dxik_4PHXCwaqQjtsqJLoP8pcvWRAiu1YciAmpH2AtZFUXGi1qZVMtwtgQmgZUCko5mD7u2qE8BiAzSjwiWk8tBae1k4omQEXmGhTvCBaZUq3TpCrVLWwDKteuf7Bsm55mfV1B1sRTaTYy7uAecMWLMGnJWj7bEHbQMhwv1scjhUPqoSR8h9&PAGE_NAME=' + vPageName + '', vPopupWindowName, 800, 600); 
+}function showGenericProgressWindowLarge() { 
+  javascript: popWindow('aphs\x3FPARAMS\x3Dxik_QwKb1736uBQeXi2ixju1C6iscVseAEYNPuD3ax8bY6vkLuGXcKh6agYUqNGY1nCdHkiDC7DbXqfGrdU15ErsyY7JqcNYk8w3NYhx69wzNNN1nZ5pindbkoqTYNnBYxje76bVEij15BSSZQrdfS1nmYRXEa4VqdX35D4YPHjY52zHpX1','progress_pop_large_generic', 800, 600); 
+}function showProgressWindowForReport() {  javascript: popWindow('aphs\x3FPARAMS\x3Dxik_CmbbGud6TAmR61nweH6otj3zJjRFfW23wCFy5GWG1SadtDra4yU1UyTAXTv1RYeEGrtiDeQhHnGxmVcBoQnRizUghm1WfxN1vnyR6p15p5NWmw4PB66Z5FeK3ZQta6LBWUoWbewhRYu5x56Uqi3Bc5neBeCrKzUkK97mBHRSkS6Tsou','progress_pop_report', 600, 500); 
+} 
+function showProgressWindowForReportSwitchConfig(configId) {  javascript: popWindow('aphs\x3FPARAMS\x3Dxik_2r7hYNswaDypTqz5Bwczgn6Ajg2bpUyRXNsgQZu1i1egS8THMtFRtH8yaMgMhiPS1VKHSQG3DP3cgbRCSRKnaRUNdS6oukfXpDHDG8PEBzwidhm8rLdjZeThf8nVeUL8v8RncjrnaPjgVcG9re6tawbx14vPe1ccEE7ysujkFsvCR8EA9gWmkeF2NK6tEFiYbDVNccjgSVMdw5ddgAgZi4wwVrr','progress_pop_report', 600, 500); 
+} 
+function showProgressWindowRoleChange() {  javascript: popWindow('\x2FLongRequest\x2Faphs\x3FPARAMS\x3Dxik_Cj65m3WkPo1Hqd3cE83Fcmz66cZnKYNvLGfTffTvZXSivXKkex8q4cxBcRdu5MWwqBFSBGMD4t9Crwx9TZBZ49xjR1FZM99TxCygnj7PwmCu8aQWdQAJC3sHaowESzAMGaCDkteDBc93iXhHxubEBbQ6bGZGNLqwXvWKnDmfJTLaZ99zuKXx6spVjau1jtVx89LAm','progress_pop_report', 800, 600); 
+} 
+function showProgressWindowMSListExport() {  javascript: popWindow('\x2FLongRequest\x2Faphs\x3FPARAMS\x3Dxik_Ko6pqWww5pm6AQc9eXkjwrfAyb8xZPejMVkNY9yUErquLs23JuZiKY1Bk75DN9t1WsEjqv6SopABcyo9vRFEGnSGn9vjzwvtZE6CshqpGDUkgwoZBsufWMcTBoF6o5WUWT2JUJjL3YLWit6wE1nYmYLYKpEWHoJmvAcEsxMUoFE8Spu','progress_pop_report', 400, 300); 
+} 
+function showProgressWindowStubsListExport() {  javascript: popWindow('\x2FLongRequest\x2Faphs\x3FPARAMS\x3Dxik_BF9DxsyYJsuqZScvg7YaQfbSgaXhmuP1ZtMg4eqCQ212tYW1MemGjM9Am3f9hHJaPFu8zttUwaB3TVQPWjLZULDXjG8dpsLrX1kTmyFVMHZvrYdAFKYMUrVBSqW8kr2F56Q7v8VWU8TtYLxhrAXrLWNocH98zRKFxQCyAe97pLvjDrosja9kXc6FF5i5LsmUzZbwC','progress_pop_report', 400, 300); 
+} 
+function showProgressWindowMSListExportHistoryExport() {  javascript: popWindow('\x2FLongRequest\x2Faphs\x3FPARAMS\x3Dxik_3W1rjuVVAcw6cFStidbB7sHjAYoeT9zjWJqKDCmCQFnnnoMRc8vD82DM7yLFUUBBEEPn14betZQPApX3nGyZbBMGXiGqmjsADA6uLtJbt9qSBF7KtPFf26WSvnucheW4Yd3NgvrPe43sTQwhHxeswzWiJcMo33q3V6boCE16CQPapAJUDn6ytMtCnmfexMk1gWVzmKGbUrKGuz8U2d3DyqCKfon','progress_pop_report', 400, 300); 
+} 
+function showProgressWindowSimpleExportHistory() {  javascript: popWindow('\x2FLongRequest\x2Faphs\x3FPARAMS\x3Dxik_v8aff7dJWXTvrwLx84fFvcggtUAMqe8Hf8biCJQ3fQzAqfnke8mi22pNSyWwtzmxW95F865mcg2c7w6RZxnVKCPXmhrJZaYTkSQs8vaHwhCMT4VZoKVSMDEaZHpESq6MCRCf2r3HkvScJFLLvA9U8iAg1twETRnLd64eBnkqMJecnKPprQtHSYkB1QMcsZHn32sR','progress_pop_report', 400, 300); 
+} 
+function showProgressAsyncSearchResultsExport() {  javascript: popWindow('\x2FLongRequest\x2Faphs\x3FPARAMS\x3Dxik_2dMWPuPQTgHDhEpZi7N12gfHeV5BRDMzfGTJYXnHgUqzMGWYgdzQTdmQ4yAu9csLR6mQcUrK8zU5egnnFqziUB1CKU2aLLdesEA3URpd8g5wmZeBuvs4m8ZFt5dPZDiTBwCcuvrhCi5WQecGEscY4vX7vKeJoDHp1sddaqcB1vzQsdnEyRUSsipmcHvK1ctLMqJvX3RbzX89zqr1mzkquPjXjp9','progress_pop_report', 600, 500); 
+} 
+function showProgressWindowMSAddTasks() {  javascript: popWindow('\x2FLongRequest\x2Faphs\x3FPARAMS\x3Dxik_HnxULadBtn5ac3R9FL9xrBhki4HkJbdoFyXC1rHR5gruwgqwCUJ43qbqgAqro1T4Tw5B48fnREVw1FPdQgvyv4pAvpr1JQNduFnwfB62hUYHhRPkJyyfvxUCXKtojeRpUz7a1sPXAcprDyJiiH4bP4DjmjNAjmEiTxjNsFJzmFq1E5a','progress_pop_report', 400, 300); 
+} 
+function showProgressWindowForIssueLineup(vRadioGroupName, vIssueId) {selVal = GetRadioValue(vRadioGroupName);if(selVal == '3') {javascript:setField('XIK_TAGACT', 'xik_GUj1oDKxa282uTkmeC8Jrup7P92hZ16EmB8Mx6FsiqMq');  javascript: popWindow('aphs\x3FPARAMS\x3Dxik_mX3tXqfBV1LNz5qDWiTHSaFercNSqhX6EMoEvnRMoxKWzADWSmxqVUqcnL9kyz67WKmu5YQngJwvC7t7Qd7jPgZjEktRUi8zzYGdG2S1Sy92sHuetH9gH5Nan1LRM4Q6q9y2yiZ8yMEvguMjo6k51npwsi66UCDxwmZEZMrpSqiv5yMMJ7WfpKkfBfoMK3ye2S2x1L8kq5k3TZBNa8Vuwojvun','progress_pop_report', 400, 300); 
+} else {  javascript: showProgressWindowForReport();}} 
+function showProgressWindowGeneric(vProgressTypeId) {  javascript: popWindow('aphs\x3FPARAMS\x3Dxik_Cp56N1Mo7Hs38J2Lwzrv6aDv6jZYYuzvMaGftVupdAdx4XDhuqyHjHefLERDXZCRuD3L6FUQK1QH7Fpm5hvTrtNmdXyFv416K5dwBmULWn5bkiSAwYfybBUq9v7abiudSvDamY7HaEB6vgTBKg6R7qVuhHUdCb5ArsvhnGAu3aWzLqh1X8dUwwMTRcNWsQGvTRpzg','progress_pop_report', 400, 300); 
+} 
+function showProgressWindowForTransfer() {  javascript: popWindow('aphs\x3FPARAMS\x3Dxik_FybgLFt7FxcKuuPGXFsTu1Wirnku1xzuv3SYyC12xP8bYV5bVRYy3qPFPHgvn72Rxjn5LHLgrGWuoQud9drMLt4nS27R6LUNEXKtdvuRUmULv3NhjKV2MoevBbpgZEDfmX8fQbH5Wta5mvrpnSjzFQf4cjWvUwqE7PU1XRyLQjnrPpC','transfer_pop', 400, 300); 
+} 
+function showProgressWindowForIssueTransfer() {  javascript: popWindow('aphs\x3FPARAMS\x3Dxik_3bU7P7voiAVQUfmE4woFNfKHtbKFDn4RnLTiQ3MDspTAkajhXvwNvRV6GhbyYVSniaXZRvn2HemFMMSBBkK8GaBMHU8krzRVFvhDmSm16svBv528WqaXRzTqwHw1btbDsHXAN8dS9xk4jfx7hYfPGWufcedpKMW4BQKSC4ouYaw81BSL3fotCj7h4rd689qtXT9YBpPUgA7yfyyVdjxKe9Uv6UJ','transfer_pop', 400, 300); 
+} 
+function showProgressWindowForImport() {  javascript: popWindow('aphs\x3FPARAMS\x3Dxik_CmbbGud6TAmR61nweH6otjd2scMTSqX1Pac7KPZRNHqBayW5JS5HDnbWkoctmsu6VUBgYCZb76ardBzftF6uCGkXwNdbTu6286XweMWXKaBjRthnWWPqykKeQFoP8trCt5um1Eo57fTzTsob63hf3jo77w4oDs3gspTKvNKWDESpWCM','progress_pop_report', 600, 500); 
+} 
+function showProgressWindowArXiv() { 
+  javascript: popWindow('aphs\x3FPARAMS\x3Dxik_H1iLGb5YXn35s93ie9xFdCodtW6jjzpJPhTr7B5cgFfE51Z5sBSPrzEFdSat1c6GD3oHakjzs57XEtXmwp6ihDBhFwsMJ2rK6FxBbH9gTapzKmw7sKZxRptJFoS3eSxUxPURwgaW8ftH8F2r3m7xhQexhWkmgTvwsodRmYHMsdoXgFP','progress_pop_large', 800, 600); 
+}function checkForSomethingToUpload()
+{ 
+  var i=0; 
+  var existsFl = 0; 
+  for (i=0;i<20;i++) { 
+    var metaArray = document.getElementsByName('FILE_TO_UPLOAD'+i); 
+    if (metaArray.length == 1) { 
+     var filename = document.forms[0]['FILE_TO_UPLOAD'+i].value; 
+     if (filename.length > 0) 
+       existsFl = 1; 
+   } 
+  } 
+  for (i=0;i<20;i++) { 
+    var metaArray = document.getElementsByName('ZIP_FILE_TO_UPLOAD'+i); 
+    if (metaArray.length == 1) { 
+     var filename = document.forms[0]['ZIP_FILE_TO_UPLOAD'+i].value; 
+     if (filename.length > 0) 
+       existsFl = 1; 
+   } 
+  } 
+  if (existsFl == 1) { return true; }  
+  return false; 
+}
+function checkForDuplicateFiles()
+{ 
+  var i=0; 
+  var j=0; 
+  var existsFileFl = 0; 
+  var filename1 = '';
+  var filename2 = '';
+  var noOfFiles = 0;
+  noOfFiles =  document.getElementById('HIDDEN_VALUE_FOR_FILENO').value; 
+  for (i=0;i<noOfFiles && existsFileFl != 1;i++){
+     filename1 = document.forms[0]['FILE_TO_UPLOAD'+i].value; 
+     filename1 = trimAll(filename1.substring(filename1.lastIndexOf('\\')+1));     for(j=i+1; j<noOfFiles && existsFileFl != 1;j++){ 
+       filename2 = document.forms[0]['FILE_TO_UPLOAD'+j].value; 
+       filename2 = trimAll(filename2.substring(filename2.lastIndexOf('\\')+1));       if(filename1!='' && filename1==filename2) existsFileFl = 1; } } 
+  if (existsFileFl == 1) { alert ('A file named \'' + filename1 + '\' is already present for uploading for this manuscript. If you want to upload this file (e.g. this is a replacement for an existing file) you must rename the new file and then upload it.'); resetIsOk(); return false; }  
+  return true; 
+}
+function checkUploadFields()
+{ 
+   if(window.parent != null && window.parent.frames != null && window.parent.frames.length > 0) { 
+		return checkUploadFieldsLocal(); 
+   }   
+  return true; 
+}
+function checkUploadFieldsLocal()
+{ 
+  return true; 
+}
+function showProgressWindowUserListExport() {  javascript: popWindow('\x2FLongRequest\x2Faphs\x3FPARAMS\x3Dxik_QvH9kJRpExrDEm5Bn67FKN1XHfUsgV1C62XDAe4oBYdnKPJaY76zdpBctwPprkM2STUG1nhxbHvHL4rjGa3XphxqUfcr66zHLW1SS2Eb2kpGDKd15teBW83F4GFvxjcxUk7qW7esMK96b4H3N9fvQxLUMYaPwJGKHLePwYGeGJLWuMe','progress_pop_report', 400, 300); 
+} 
+function showProgressWindowUPlagiarismDocExport() {  javascript: popWindow('\x2FLongRequest\x2Faphs\x3FPARAMS\x3Dxik_7NhD1EzPQ7fj832FkC3T8KkkwnwS4fhgVGmSMdMqqffsnh7kFpTouNiUAi4Gwmyo7VzSmudJZSumPKJ4HhH5qWjwAVWSXqjgw5mDjU7ToGz1h98sNnAVqa337b4gWXeEanSkWG35i8rhFtotjeqLRAoerWtAf5n3v5CtTAhR7ppx98zYUQAvt535ErAykQEt5wN4c','progress_pop_report', 400, 300); 
+} 
+function showProgressWindowRevExport() {  var assigneeRoleId = document.forms[0].XIK_ASSIGNEE_ROLE_ID.value;  var docTaskId = document.forms[0].XIK_DOCUMENT_TASK_ID.value;  popWindow("/LongRequest/aphs?PARAMS=xik_Cxmarfx1iCsYYu1yab5swx8SV1dz1KQSyzGGMfaG6EbXgB5rco65nTYqgTERZcLZWrigpPWSLZWPzqq2MpnZ4AELUAmHrG1ZfcCuNX15NCkfNbdTcbR7Ypv6cQWxWSaRKDDRv25V1JaYJDDDct7moTz2BG8mk4SrARzNNxwuLyBCwcLJPSQJJBunWK5veuJR8FKDj&XIK_ASSIGNEE_ROLE_ID=" + assigneeRoleId + "&XIK_DOCUMENT_TASK_ID=" + docTaskId,"progress_pop_report", 480, 400); 
+} 
+function showProgressWindowEmailTagsListExport() {  javascript: popWindow('\x2FLongRequest\x2Faphs\x3FPARAMS\x3Dxik_BF9DxsyYJsuqZScvg7YaQfmfNtkYXzRUHxAXqGuBdorapsPYssHMtixJUsdnTHGhzgnstnSLajLWyfAcbmrLkRk9z9gT4iLk5L2MKBsApXLoMjmpQw4RJyniNRmXkVGds9sTjCRmRuFUcKdA9dWqyRs5HgPFmzUpYytWUhnWTkCf6fJFc3nRHVZzmQhQkkLKedpiJ','progress_pop_report', 400, 300); 
+} 
+
+var emailWindows = new Array();
+var emailWindowNames = new Array();
+var checkEmailWindowsCalled = false;
+function registerEmailWindow(emailWindow)
+{ 
+   emailWindows[emailWindows.length] = emailWindow;
+   if(emailWindowNames.toString().indexOf(emailWindow.name)==-1)
+   { 
+       emailWindowNames[emailWindowNames.length] = emailWindow.name;
+   }
+   if(document.forms[0].OPEN_EMAIL_WINDOWS!=null)
+   { 
+       document.forms[0].OPEN_EMAIL_WINDOWS.value = emailWindowNames.toString();
+   }
+} 
+
+function checkEmailWindows()
+{
+if(!checkEmailWindowsCalled)
+{
+   var blPopupsOpen=false;
+   if(false)
+   { 
+     if(document.forms[0].NEXT_PAGE.value.indexOf("MANUSCRIPT_DETAILS")==-1 || (document.forms[0].NEXT_PAGE.value.indexOf("MANUSCRIPT_DETAILS")!=-1 && document.forms[0].XIK_NEXT_PREV_DOCUMENT_ID!=null && document.forms[0].XIK_NEXT_PREV_DOCUMENT_ID.value!="" && document.forms[0].XIK_DOCU_ID.value != document.forms[0].XIK_NEXT_PREV_DOCUMENT_ID.value) || (document.forms[0].NEXT_PAGE.value.indexOf("MANUSCRIPT_DETAILS")!=-1 && document.forms[0].XIK_PREACT != null && document.forms[0].XIK_PREACT.value=="PERFORM_HEADER_QUICK_SEARCH" )|| (document.forms[0].NEXT_PAGE.value.indexOf("MANUSCRIPT_DETAILS")!=-1 && document.forms[0].XIK_PROXY_TO_ROLE_ID != null && document.forms[0].XIK_PROXY_TO_ROLE_ID.value != '' ))
+     { 
+       emailWindows.length=0;
+       for(var i = 0; i<emailWindowNames.length; i++)
+       {
+           emailWindowName = emailWindowNames[i];
+           if (typeof emailWindowName != 'undefined' && emailWindowName != '')
+           { 
+               var winHandle=window.open('',emailWindowName);
+               if(typeof winHandle.frames['mainemailwindow'] != 'undefined' && winHandle.frames['mainemailwindow'] != null)
+               {
+                   registerEmailWindow(winHandle);
+               }
+               else
+               {
+                   winHandle.close();
+               }
+           }
+       }
+       if(emailWindows.length > 0)
+       { 
+           for(var i = 0; i<emailWindows.length; i++)
+           {
+               if(!emailWindows[i].closed)
+               {
+                   blPopupsOpen=true;
+                   break;
+               }
+           }
+           if(!blPopupsOpen)
+           { 
+               checkEmailWindowsCalled=true;
+               return true;
+           }
+           if(confirm ('We have detected that there is at least one e-mail window open - these windows will be closed when you move from the details of one manuscript to another. If you would like to retain this text for use later,  please either save the e-mails as drafts or copy them to your hard drive for future reference.\nContinue?'))
+           { 
+               for(var i = 0; i<emailWindows.length; i++)
+               {
+                   if(!emailWindows[i].closed)
+                   {
+                       unRegisterWindow(emailWindows[i].name);
+                       emailWindows[i].close();
+                   }
+               }
+               checkEmailWindowsCalled=true;
+               return true;
+           }
+           else
+           { 
+               if(document.forms[0].XIK_NEXT_PREV_DOCUMENT_ID!=null){document.forms[0].XIK_NEXT_PREV_DOCUMENT_ID.value='';}
+               if(document.forms[0].XIK_PREACT!=null){document.forms[0].XIK_PREACT.value='';}
+               if(document.forms[0].XIK_PROXY_TO_ROLE_ID!=null){document.forms[0].XIK_PROXY_TO_ROLE_ID.value='';}
+               if(document.forms[0].CLEAR_SEARCH!=null){document.forms[0].CLEAR_SEARCH.value='';}
+               return false;
+           }
+       }
+       else
+       { 
+           checkEmailWindowsCalled=true;
+           return true;
+       }
+     }
+     else
+     { 
+       checkEmailWindowsCalled=true;
+       return true;
+     }
+   }
+   else
+   {
+       checkEmailWindowsCalled=true;
+       return true;
+   }
+}
+else
+{ 
+   checkEmailWindowsCalled=true;
+   return true;
+}
+}
+
+function getOpenEmailWindows()
+{ 
+   if(document.forms[0].OPEN_EMAIL_WINDOWS!=null)
+   { 
+       return document.forms[0].OPEN_EMAIL_WINDOWS.value;
+   }
+   else
+   { 
+       return '';
+   }
+} 
+
+function registerEmailWindowByName(emailWindowName)
+{ 
+ if (typeof emailWindowName != 'undefined')
+ { 
+   if(emailWindowNames.toString().indexOf(emailWindowName)==-1)
+   { 
+       emailWindowNames[emailWindowNames.length] = emailWindowName;
+   }
+   if(document.forms[0].OPEN_EMAIL_WINDOWS!=null)
+   { 
+       document.forms[0].OPEN_EMAIL_WINDOWS.value = emailWindowNames.toString(); 
+   }
+ } 
+} 
+
+function unRegisterWindow(emailWindowName)
+{ 
+  var newEmailWinNames = new Array(); 
+  for(var i = 0, j=0; i<emailWindowNames.length; i++)
+  {
+   if(emailWindowNames[i]!=emailWindowName)
+   { 
+      if(typeof emailWindowNames[i] != 'undefined' && emailWindowNames[i]!='')
+      { 
+         newEmailWinNames[j] = emailWindowNames[i];
+         j++;
+      }
+   }
+  }
+  emailWindowNames.length=0;
+  emailWindowNames=newEmailWinNames;
+  if(document.forms[0].OPEN_EMAIL_WINDOWS!=null)
+  { 
+      document.forms[0].OPEN_EMAIL_WINDOWS.value = emailWindowNames.toString();
+  }
+} 
+
+function showProgressWindowPermissionAuditTrailExport() {  javascript: popWindow('\x2FLongRequest\x2Faphs\x3FPARAMS\x3Dxik_8QsMzPQ37zK2SCa85MDa4G3oDc9ZJx8ud9v7xtYXEu65XxDR3HkCHCKC4hzs4pdw6CvcTNfQgeJ44W71HK1XsqYQHJdT4pFBk2As74WXJizAKrvcMVwYMqbm8gYh2APoRigq2NsWTru8QZUJxtF4onMF5GViuHoKXEBCAeSqMjppF91xDhCBb15wU9ULCBPV9mAbdzcrFgbpSAgVk8RsFBDTeu3','progress_pop_report', 400, 300); 
+} 
+function showProgressWindowSubmissionStatisticsExportCSV() {  javascript: popWindow('\x2FLongRequest\x2Faphs\x3FPARAMS\x3Dxik_Fetrjp1mf1FpiJVQBgGxuHhdhTyC1cR6N8fMt9x9P8j3FHaqC1yzaD4ZFF3qg7Crv74FcnhHdW1dTsqsux836UdQhs1AdpeLTBJE8JQp5x6SSUWggnGUAYQV991k8iCXY4Kq8S3EjADob1qgzcrZfgwqchMiuzjka4XTjoxc2yinpjw','progress_pop_report', 400, 300); 
+} 
+</script>
+
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+<body bgcolor="#FFFFFF" style="margin: 0px;">
+
+<form style="margin:0px;" id="default_form" name="default_form" method="post" TARGET="" >
+
+
+
+  <input type = "hidden" name = "BROWSER_SUPPORTED" value = "N">
+  <input type = "hidden" name = "JAVASCRIPT_ENABLED" value = "N">
+  <input type = "hidden" name = "NEXT_PAGE" value = "">
+  
+  
+
+<SCRIPT LANGUAGE="JavaScript"> 
+  
+  function checkJavascript() 
+  {
+    document.forms[0].JAVASCRIPT_ENABLED.value = 'Y';
+    return true;
+  }
+
+  function checkCookies() 
+  {
+    document.cookie = "cookieCheck=1; path=/";
+    return document.cookie != "";
+  }
+
+  function browserOK() 
+  {
+    return document.forms[0].BROWSER_SUPPORTED.value != "N";
+  }
+
+</SCRIPT>    
+  <SCRIPT LANGUAGE='JavaScript'>
+  document.cookie = 'JSESSIONID' + '=; expires=Thu, 01-Jan-1970 00:00:01 GMT';
+ 
+  if (checkJavascript() && checkCookies() && browserOK()) 
+  {
+    setNextPage('LOGIN'); 
+  }
+  </SCRIPT>
+
+<div>
+<table border=0 cellpadding=0 cellspacing=0 align=left width=100%>
+	<tr>
+		<td class="societylogobg" align=left width=100%>
+			
+			
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<SCRIPT LANGUAGE="JavaScript1.2" src="/common/mouseposition.js?version=4.22.0.129"></SCRIPT>
+
+			 
+				
+
+
+	
+	 <div class="hidden-phone hidden-tablet logoBar logoBarBcg-default">
+		<div class = "container">
+			<a hidefocus="true" style="outline: medium none;float:left;">
+			
+         <img src="/societyimages/aphs/aps.gif" border=0>
+        				
+			</a>
+				
+	 	</div>
+	</div> 
+ 		
+		</td>
+	</tr>
+	<tr>
+		<td class="headerbreadcrumbsbg" colspan=2>
+			&nbsp;
+		</td>
+	</tr>
+</table>
+
+<BR CLEAR=ALL>
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 ALIGN=LEFT WIDTH=760>
+  <TR>
+  <TD VALIGN=TOP>
+    <TABLE BORDER=0 CELLPADDING=5 CELLSPACING=0 WIDTH=760>
+      <TR><TD>&nbsp;</TD></TR>
+        <TR>
+          <TD>
+            <TABLE BORDER=0 CELLPADDING=5 CELLSPACING=0>
+              <TR>
+                <TD WIDTH=1% VALIGN=TOP><IMG SRC='/images/en_US/layout/requirements.gif' BORDER=0></TD>
+                <TD VALIGN=TOP><P CLASS="pagecontents">You have been directed to this page because your browser does not meet our minimum requirements. Please use the links and instructions below to make changes, and try visiting the site again.
+
+<br><br>Please also verify the web address entered in your browser's address bar. You can be directed to this page if there is an apostrophe (') or a quotation mark (") appended to the end of a ScholarOne Manuscripts web address.</P></TD>
+              </TR>
+            </TABLE>
+          </TD>
+        </TR>
+        <TR><TD></TD></TR>
+        <TR>
+          <TD>
+            
+
+  
+
+
+
+
+<TABLE ALIGN=LEFT CELLPADDING=0 CELLSPACING=5 BORDER=0 WIDTH=100%>
+  <TR>
+    <TD CLASS="tablelines">
+      <TABLE CELLPADDING=5 CELLSPACING=1 BORDER=0 WIDTH=100%>
+        <TR>
+          <TD><img src='/societyimages/scholarone/journal_logo.gif' border=0></td>
+        </TR>
+
+        <TR id="browser_not_supported" style="display: none">
+          <TD CLASS="dataentry">
+            <table border=0 cellpadding=3 cellspacing=0>
+              <tr>
+                <td nowrap align=right valign=top><p class='pagecontents'><b>The Problem:</b></p></td>
+                <td>
+                  <p class="pagecontents">
+                    We have detected that the browser you are using is unknown. ScholarOne Manuscripts does not support this browser at this time.
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td nowrap align=right valign=top><p class='pagecontents'><b>The Solution:</b></p></td>
+                <td><p class="pagecontents">Use one of the links below to download the latest version of Internet Explorer, Firefox, Safari or Chrome</p></td>
+              </tr>
+            </table>
+          </TD>
+        </TR>
+        <noscript>
+        <TR id=javascript_disabled>
+          <TD CLASS="dataentry">
+            <table border=0 cellpadding=3 cellspacing=0>
+              <tr>
+                <td nowrap align=right valign=top><p class='pagecontents'><b>The Problem:</b></p></td>
+                <td><span class="pagecontents">We have detected that your javascript is not enabled.</span></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td nowrap align=right valign=top><p class='pagecontents'><b>The Solution:</b></p></td>
+                <td>
+                  <span class="pagecontents">
+                    If you are using Internet Explorer and would like to enable javascript follow these instructions:<ol><li>Click Tools on the Toolbar.</li><li>Click Internet Options.</li><li>Click the Security tab and click the Custom level button.</li><li>Scroll to Scripting.</li><li>Scroll to Activing Scripting and select Enable button.</li><li>Click OK, then click OK again.</li><li>Relaunch the browser.</li></ol>If you are using Firefox and would like to enable javascript follow these instructions:<ol><li>Click Tools on the Toolbar.</li><li>Click Options.</li><li>Click Content.</li><li>Check Enable JavaScript checkbox.</li><li>Click the "OK" button.</li><li>Relaunch your browser.</li></ol>If you are using Safari and would like to enable javascript follow these instructions:<ol><li>Click the Sarafi menu.</li><li>Click Preferences.</li><li>Click Security.</li><li>Check the Enable JavaScript checkbox.</li><li>Click Close.</li><li>Relaunch your browser.</li></ol>If you are using Chrome and would like to enable javascript follow these instructions:<ol><li>Click the Chrome menu icon in the top right of the browser.</li><li>Click Settings.</li><li>Click Show advanced settings...</li><li>Check Content Settings.</li><li>Select Allow all sites to run JavaScript.</li><li>Click OK.</li><li>Relaunch your browser.</li></ol>
+                  </span>
+                </td>
+              </tr>
+            </table>
+          </TD>
+        </TR>
+        </noscript>
+
+        <TR id="cookies_disabled" style="display: none">
+          <TD CLASS='dataentry'>
+            <table border=0 cellpadding=3 cellspacing=0>
+              <tr>
+                <td nowrap align=right valign=top>
+                  <p class='pagecontents'>
+                    <b>The Problem:</b>
+                  </p>
+                </td>
+                <td>
+                  <span class='pagecontents'>We have detected that your cookies are not enabled.</span>
+                </td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td nowrap align=right valign=top>
+                  <p class='pagecontents'><b>The Solution:</b></p>
+                </td>
+                <td>
+                  <span class='pagecontents'>If you are using Internet Explorer and would like to enable cookies follow these instructions:<ol><li>Click Tools on the Toolbar.</li><li>Click Internet Options.</li><li>Click the Privacy tab and click the Sites button.</li><li>Enter "manuscriptcentral.com" into the "Address of Web Site" field, then click the Allow button.</li><li>Click OK, then click OK again.</li><li>Relaunch your browser.</li></ol>If you are using Firefox and would like to enable cookies follow these instructions:<ol><li>Click Tools on the Toolbar.</li><li>Click Options.</li><li>Click Privacy.</li><li>Check the Accept cookies from sites checkbox.</li><li>Click OK, then click OK.</li><li>Relaunch your browser.</li></ol>If you are using Safari and would like to enable cookies follow these instructions:<ol><li>Click the Safari menu.</li><li>Click Preferences.</li><li>Click Security.</li><li>Check the Accept cookies from sites checkbox.</li><li>Click Close.</li><li>Relaunch your browser.</li></ol>If you are using Chrome and would like to enable cookies follow these instructions:<ol><li>Click the Chrome menu icon in the top right of the browser.</li><li>Click Settings.</li><li>Click Show advanced settings...</li><li>Click Content Settings.</li><li>Select Allow local data to be set.</li><li>Click OK.</li><li>Relaunch your browser.</li></ol>
+                  </span>
+                </td>
+              </tr>
+            </table>
+          </TD>
+        </TR>
+        <TR>
+          <TD CLASS='dataentry'>
+            <span class='pagecontents'>
+
+              This ScholarOne Manuscripts™ web site has been optimized for Microsoft© Internet Explorer 8.0 and higher, Firefox 19, Safari 6.0 and Chrome 24. You must have Java installed, cookies enabled, and pop-up blockers disabled to use the site.<p>Click <a href="aphs?PARAMS=xik_UccqHoy69W7SUYpyFQuaZzCWxhJ2APQ2D4zu9kMxb6UtrihiGHK7kDZPiR9GuxcBBsqfj5hLgrWYTgJJLvtbzNYa9PhPfGNiuipkEyFdJCoS4tGWnCcL2z1Kq89WVLNqDsRxa8W14kdbTLcy4efdJwuTU" target="_new">here</a> to find the currently supported versions of Internet Explorer, Firefox, Safari or Chrome.</p>
+              If you are using Windows XP, please note you must ensure that Microsoft Java has been uninstalled so that ScholarOne Manuscripts™ will function correctly. For help in uninstalling MS Java, please visit <a href ="http://www.windows-help.net/WindowsXP/howto-21.html" target="_new">http://www.windows-help.net/WindowsXP/howto-21.html</a>. Note that uninstalling MS Java will not cause any Microsoft applications to stop working.
+            </span>
+          </TD>
+        </TR>
+      </TABLE>
+    </TD>
+  </TR>
+</TABLE>
+
+
+<script type="text/javascript">
+$(function() {
+  if (!browserOK())
+  {
+    document.getElementById("browser_not_supported").style.display = '';
+  }
+  if (!checkCookies())
+  {
+    document.getElementById("cookies_disabled").style.display = '';
+  }
+  
+  $('.societylogobg').hide();
+  $('.headerbreadcrumbsbg').hide();
+});
+</script>
+          </TD>
+        </TR>
+      </TABLE>
+    </TD>
+  </TR>
+</TABLE>
+<!-- 040628-000085 -->
+<a href="http://www.scholarone.com"><img src='/images/common/layout/1pxtransparent.gif' border=0></a>
+<input type="hidden" name="orgs" value=" null">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- FOOTER ==================================================== -->
+
+<br style="clear:both" />
+<div class="footer_wrapper">
+<footer class="TRfooter">
+  <div class="container">
+    <div class="row-fluid hidden-phone hidden-tablet">
+        <a href="https://clarivate.com/products/scholarone/" target="_blank"><img src="/images/common/logo_scholarone_white_2018.png" class="pull-left" alt="ScholarOne logo"></a>
+        <a href="http://clarivate.com" target="new"><img src="/images/common/crv_logo_rgb_wht.png" style="width:200px; padding:12px 10px 0 0" width="200px" class="pull-right" alt="Clarivate Analytics logo"></a>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="span11">
+        <p>
+          
+          <a class="footerlink" href="http://thomsonreuters.com/copyright/" target="new">
+            &copy;&nbsp;Clarivate Analytics</a>&nbsp;&#124;&nbsp;
+          <a class="footerlink" href="http://thomsonreuters.com/copyright/" target="new">
+
+	        &copy;&nbsp;ScholarOne, Inc., 2018.
+          </a>
+
+            All Rights Reserved.<br>
+            ScholarOne Manuscripts and ScholarOne are registered trademarks of ScholarOne, Inc.<br>
+            ScholarOne Manuscripts Patents
+            <a class="footerlink" href="http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/7257767" target="_blank">#7,257,767</a>
+             and
+             <a class="footerlink" href="http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/7263655" target="_blank">#7,263,655</a>.
+        </p>
+        <p>
+            <a class="footerlink" href="http://www.twitter.com/ScholarOneNews" target="new">
+                <i class="icon-twitter" style="color:#FFFFFF;"></i>&nbsp;@ScholarOneNews
+            </a>
+            &nbsp;&#124;&nbsp;
+            
+	          <a class="footerlink" href="aphs?PARAMS=xik_UccqHoy69W7SUYpyFQuaZzCWxhJ2APQ2D4zu9kMxb6UtrihiGHK7kDZPiR9GuxcBBsqfj5hLgrWYTgJJLvtbzNYa9PhPfGNiuipkEyFdJCoS4tGWnCcL2z1Kq89WVLNqDsRxa8W14kdbTLcy4efdJwuTU" target="_blank">
+	    
+	             <i class="icon-cogs" style="color:#FFFFFF;"></i>&nbsp;System Requirements
+	          </a>&nbsp;&#124;&nbsp;
+            <a class="footerlink" href="http://clarivate.com/wp-content/themes/ipscience/assets/pdf/privacy-statement-en.pdf" target="_blank">
+                <i class="icon-key" style="color:#FFFFFF;"></i>&nbsp;Privacy Statement
+            </a>
+            &nbsp;&#124;&nbsp;
+            <a class="footerlink" href="https://clarivate.com/legal/terms-of-use/" target="_blank">
+                <i class="icon-legal" style="color:#FFFFFF;"></i>&nbsp;Terms of Use
+            </a>
+        </p>
+        
+      </div>
+      <!-- Span11 --> 
+    </div>
+  
+    <!-- row -->
+    <div class="clearfix"></div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+  
+  </div>
+  <!--Container --> 
+</footer>
+</div>
+<!-- END FOOTER -->
+
+
+      
+<script type="text/javascript">
+if (document.addEventListener) {
+	var links = document.getElementsByTagName('a');
+
+	   for( var i = 0, n = links.length; i < n; ++i ) {
+		link = links[i]; 
+	    if(link.name == null || link.name == '' && link.className!='select-option')
+	    {
+	    	link.addEventListener('click', checkSubmitted, false);
+	    }
+	   }
+	 }
+
+	else if (document.attachEvent) {
+	  var links = document.getElementsByTagName('a');
+
+	  for( var i = 0, n = links.length; i < n; ++i ) {
+	    link = links[i]; 
+	    if(link.name == null || link.name == '' && link.className!='select-option')
+	    {
+	      link.attachEvent('onclick', checkSubmitted);
+	    }
+	  }
+	}
+</script>
+
+
+
+
+
+</div>
+</form>
+</body>
+</html>
+

@@ -123,7 +123,11 @@ window.console=window.console||undefined;
     window.setInterval = f(window.setInterval);
 })(function(f){return function(c,t){var a=[].slice.call(arguments,2);return f(function(){c.apply(this,a)},t)}});
     @end
+<<<<<<< HEAD
 @*/(function(window){var lastTime,vendors;if(!window.requestAnimationFrame){lastTime=0;vendors=["ms","moz","webkit","o"];for(var x=0;x<vendors.length&&!window.requestAnimationFrame;++x){window.requestAnimationFrame=window[vendors[x]+"RequestAnimationFrame"];window.cancelAnimationFrame=window[vendors[x]+"CancelAnimationFrame"]||window[vendors[x]+"CancelRequestAnimationFrame"]}window.requestAnimationFrame=function(callback,element){var currTime=(new Date).getTime();var timeToCall=Math.max(0,16-(currTime-lastTime));var id=window.setTimeout(function(){callback(currTime+timeToCall)},timeToCall);lastTime=currTime+timeToCall;return id}}if(!window.cancelAnimationFrame)window.cancelAnimationFrame=function(id){clearTimeout(id)}})(window);(function(window,document){var weShouldPolyfill=!("open"in document.createElement("details"));function toggleDetailsState(details){if(details.hasAttribute("open"))details.removeAttribute("open");else details.setAttribute("open","open")}function handleEvent(event){var targetNode=event.target;while(targetNode.nodeName.toLowerCase()!=="summary"&&targetNode!==document)targetNode=targetNode.parentNode;if(targetNode.nodeName.toLowerCase()==="summary")toggleDetailsState(targetNode.parentNode)}function bindEvents(){document.addEventListener("click",handleEvent,true);document.addEventListener("keypress",function(event){if(event.key&&(event.key===" "||event.key==="Enter"))handleEvent(event);else if(event.keyCode===32||event.keyCode===13)handleEvent(event)},true)}function appendCss(){if(document.querySelector("#details-polyfill-css")===null){var style=document.createElement("style");style.id="details-polyfill-css";style.textContent="details:not([open]) \x3e *:not(summary) {display: none;}";document.head.insertBefore(style,document.head.firstChild)}}if(weShouldPolyfill){bindEvents();appendCss()}})(window,document);(function(window){var location=window.location;var hash=location.hash;var navigator=window.navigator;var platform=navigator.platform;var isFront=true;var enhancedKey="gu.prefs.enhanced";var preferEnhanced;try{preferEnhanced=JSON.parse(localStorage.getItem(enhancedKey)).value}catch(e){preferEnhanced=null}function mustEnhance(){if(hash==="#enhanced"||hash==="#"+enhancedKey+"\x3dtrue")return true;if(preferEnhanced)return true;return false}function mustNotEnhance(){return hash==="#standard"||hash==="#"+enhancedKey+"\x3dfalse"}function couldEnhance(){return preferEnhanced!==false}function weWantToEnhance(){if(isOlderIOSDevice())return false;if(isFront)return!isIpad();return true}function isOlderIOSDevice(){return/.*(iPhone|iPad|iPod; CPU) OS ([34567])_\d+.*/.test(navigator.userAgent)}function isIpad(){return platform==="iPad"}window.shouldEnhance=mustNotEnhance()?false:mustEnhance()?true:couldEnhance()&&weWantToEnhance()})(window);var isModernBrowser="querySelector"in document&&"addEventListener"in window&&"localStorage"in window&&"sessionStorage"in window&&"bind"in Function&&(("XMLHttpRequest"in window&&"withCredentials"in new XMLHttpRequest())||"XDomainRequest"in window);window.guardian={isModernBrowser:isModernBrowser,isEnhanced:window.shouldEnhance&&isModernBrowser,css:{loaded:false},polyfilled:false,adBlockers:{active:undefined,onDetect:[]},config:{"page":{"avatarApiUrl":"https://avatar.theguardian.com","membershipUrl":"https://membership.theguardian.com","isProd":true,"discussionFrontendUrl":"","membershipAccess":"","allowUserGeneratedContent":false,"forecastsapiurl":"/weatherapi/forecast","idOAuthUrl":"https://oauth.theguardian.com","supportUrl":"https://support.theguardian.com","webTitle":"Network Front","isFront":true,"idWebAppUrl":"https://oauth.theguardian.com","googleSearchUrl":"//www.google.co.uk/cse/cse.js","googleSearchId":"007466294097402385199:m2ealvuxh1i","idUrl":"https://profile.theguardian.com","omnitureAmpAccount":"guardiangu-thirdpartyapps","dfpAdUnitRoot":"theguardian.com","host":"https://www.theguardian.com","fbAppId":"180444840287","dfpAccountId":"59666047","plistaPublicApiKey":"462925f4f131001fd974bebe","cardStyle":"","adUnit":"/59666047/theguardian.com/international/front/ng","discussionApiUrl":"https://discussion.theguardian.com/discussion-api","isSensitive":false,"ophanEmbedJsUrl":"//j.ophan.co.uk/ophan.embed","edition":"INT","userAttributesApiUrl":"https://members-data-api.theguardian.com/user-attributes","discussionApiClientHeader":"nextgen","hasSuperStickyBanner":false,"section":"international","dfpHost":"pubads.g.doubleclick.net","weatherapiurl":"/weatherapi/city","sentryPublicApiKey":"344003a8d11c41d8800fbad8383fdc50","pageId":"international","sonobiHeaderBiddingJsUrl":"//api.nextgen.guardianapps.co.uk/morpheus.theguardian.12919.js","beaconUrl":"//beacon.gu-web.net","discussionD2Uid":"zHoBy6HNKsk","ophanJsUrl":"//j.ophan.co.uk/ophan.ng","keywordIds":"international/international","contentType":"Network Front","isDev":false,"facebookIaAdUnitRoot":"facebook-instant-articles","stripePublicToken":"pk_live_2O6zPMHXNs2AGea4bAmq5R7Z","omnitureAccount":"guardiangu-network","locationapiurl":"/weatherapi/locations?query=","isPaidContent":false,"externalEmbedHost":"https://embed.theguardian.com","thirdPartyAppsAccount":"guardiangu-thirdpartyapps","ajaxUrl":"https://api.nextgen.guardianapps.co.uk","keywords":"Network Front","mobileAppsAdUnitRoot":"beta-guardian-app","hasPageSkin":false,"requiresMembershipAccess":false,"revisionNumber":"DEV","hbImpl":"prebid","assetsPath":"https://assets.guim.co.uk/","dfpNonRefreshableLineItemIds":[66664167,66868167,66972327,67013487,68585367,68842407,69144807,69710127,70516407,70931847,71342607,72502287,72503607,72619527,72664767,72675687,73773207,73829127,74480367,74645967,74823567,74824167,75586767,75588207,76352007,76437927,76443087,76443567,76603287,77324247,77504847,77546367,77561007,77590287,77622207,77747367,78316047,78455967,78470967,78507807,78713607,79009167,79094487,80502447,80568087,80568207,80568327,80568447,80569047,81002967,82211367,82339767,82879287,82881807,83178927,85253487,85558287,85961247,86814567,87004887,87191607,87726207,87852807,87878367,88153527,88333647,88420407,88526727,88621527,88861167,88903647,89035647,89035887,89036607,89084607,89084967,89356167,89743047,89793087,90159687,90323007,90359967,90935367,91095807,91118247,91732647,91985967,92216007,92355087,92436807,92506887,92681487,92948847,93121767,93550767,93716727,93717567,93784887,93785607,93930207,94193007,94625967,94674927,94822527,95840847,95931207,96296367,96695007,97911207,97980687,98151207,98165247,98610447,98671647,98893047,101192247,101476527,101684007,101999127,102061647,102066567,102344847,102790767,102792207,102892767,102894687,102895167,102895647,103062327,104218407,106736607,107115927,107235087,107509047,107537247,107955087,108799287,108893967,109638687,109648167,109761807,109831287,111055527,111057567,112799127,112882647,112888527,112950567,113374647,113880927,114906327,115133247,116149647,117980727,118054767,118236687,118631847,118934247,119632887,121592967,122583687,123487167,123873927,123978567,123996567,123996927,123997527,124001247,124418247,125878047,126003687,126004167,130630407,130630647,130686687,130686807,130693287,130777407,130840767,130954407,131115447,131135007,131652687,132065367,132325287,132348327,132758367,133502127,133852047,133854327,133989327,134130087,134567967,134876607,134979567,135278007,135292767,135353727,135773007,135776847,135826887,135841887,135850407,136120767,136236207,136278807,136455207,136550247,137025927,137200287,137382567,139152327,140139567,140711127,141827967,142822767,142883847,143109567,144237927,145499607,145500447,146247207,146321007,146324607,146326287,146338527,146339727,146352207,146355567,146356287,146357847,146424807,146427447,147006447,147500367,147801807,148446687,148454487,149385087,149685327,149685447,151760127,152119407,153048087,153546927,154108047,154108167,154112007,154112367,154113087,154113207,154114887,154125567,154126407,154290807,154290927,154291287,154291407,154291527,154291887,154295007,154295967,154297527,154303287,154303527,154332087,154386087,154387407,154391247,154391967,154392927,154394847,154540527,154544247,154693287,154793967,154794087,154887927,155010327,155010447,156633927,156634647,156635007,156688647,157294407,157316487,157383447,157388487,157557447,157611087,157655847,157658607,157659327,157726047,157818207,157820367,157923807,158006607,158042367,158137287,158263767,158272287,158296407,158432247,158600127,158615247,158768967,158769327,158770767,158841207,158870007,159914487,159915687,159916167,160185447,160427007,160427607,160428207,160437567,160459167,160529007,160532967,160698087,160719687,160847247,160937127,161085927,161280447,162621327,162651927,162763647,162853767,162857007,162960447,162968007,162976287,162976767,162979647,163067847,163112127,163146327,163147047,163176927,163371207,163372647,163506207,163510647,163511607,163590927,165450327,165451047,165451767,165452487,4345086236,4345095356,4345169885,4345177565,4345182855,4345186250,4348632405,4349172433,4349334137,4353390410,4353499880,4353526296,4355097075,4357001176,4357680172,4360612711,4360730147,4360793649,4362116394,4362700233,4363263784,4365801798,4366988071,4367014514,4367038209,4367627225,4367868453,4369518236,4371214468,4371229615,4371265570,4371585048,4373062681,4373388641,4378684449,4384968910,4384973908,4389963591,4391107632,4392165808,4393128460,4400054296,4400915175,4400994377,4403006599,4403474531,4407685568,4407735500,4408054960,4415863678,4417550546,4418125609,4418888060,4423709987,4430666302,4431123294,4433340685,4435606984,4436917360,4437624699,4437738452,4438626613,4447151229,4447817517,4451574177,4453701503,4454965674,4455317908,4455404860,4455982746,4456073435,4458525518,4458637592,4458966868,4458974137,4459128175,4459531601,4459662143,4462324448,4467053033,4467061820,4467076959,4470028758,4473402940,4473765302,4473833174,4474164162,4474164405,4477824710,4484667568,4484896693,4486049515,4488665728,4490557376,4496846079,4497148783,4497746786,4500347519,4500585085,4502466448,4506211892,4506230136,4507272222,4507353491,4510304866,4510391026,4512203930,4512645730,4512878119,4512878146,4512878296,4512878839,4512879118,4513334328,4513492977,4513495599,4513495827,4513496154,4513496583,4513496633,4513497254,4513497330,4513497503,4513497819,4513498022,4513503275,4516493673,4516698376,4517304218,4517378559,4517379732,4517380203,4517429663,4521030366,4524762909,4532687976,4533602579,4533602585,4533602588,4533666443,4536978136,4537551019,4539981050,4540042537,4552894255,4555081579,4555165414,4555183615,4555236856,4555561195,4555635725,4555650690,4555674903,4555684517,4555688577,4556153989,4556285026,4556324359,4556326294,4556648082,4556678787,4557708173,4557783054,4558745950,4558957661,4559094602,4559776540,4560176292,4560182777,4563750170,4567406831,4567519878,4567547930,4568983129,4568985325,4568985328,4568985334,4569145654,4569276686,4569276692,4569276698,4569276704,4569276710,4569510143,4570800408,4570913217,4571924879,4572427576,4573286613,4573703432,4573821052,4573828285,4573859167,4574017801,4574101152,4574203852,4576536690,4576633832,4576698630,4577960337,4578686125,4578709821,4578981792,4578983271,4578996383,4579011086,4579027142,4579530878,4579746196,4579995289,4580248014,4580271825,4580275434,4585152150,4585152153,4585152156,4585152606,4585154051,4587167505,4587240896,4587801581,4587969346,4588015360,4588108711,4588429810,4590669259,4590832060,4591574060,4591740136,4591825609,4591950702,4592014950,4592126084,4593542112,4593753283,4593958452,4594438051,4594931675,4595674921,4596050763,4598154886,4598404766,4598413679,4598537733,4598540786,4598545344,4599469178,4599787907,4599815214,4599896800,4599899275,4599899278,4600035277,4600038367,4600076528,4600076531,4600135650,4600135653,4600156957,4600235719,4600305995,4600316046,4600316049,4600316052,4600316055,4600316058,4600316061,4600377077,4600399646,4600408991,4600415465,4600419077,4600474494,4600475694,4600571012,4600901244,4601549954,4601629812,4601832601,4602734798,4603269102,4604723743,4604942789,4605056300,4605110520,4606214089,4606951095,4606951098,4606952103,4606952106,4606952109,4606952112,4606996965,4608360636,4609114698,4609970081,4609977332,4611141115,4611278622,4611292923,4611386324,4612781170,4613220673,4613265589,4613299666,4613538437,4613920309,4614447082,4614720172,4614730963,4614873004,4614897288,4614909741,4615125278,4615129886,4615138703,4615205472,4615275549,4615962703,4616531202,4617742931,4617857739,4618210718,4618763921,4618785830,4618790849,4619821399,4620511838,4620637140,4620698359,4620898218,4621008128,4621133512,4621420973,4621817431,4622132331,4622880905,4622882062,4622884229,4622922127,4622941355,4622944996,4622974479,4622984355,4622992525,4623008104,4623028478,4623123537,4623245210,4624101334,4624274153,4624318985,4624393392,4624536624,4624538834,4624612536,4628880427,4629132602,4629262077,4629367425,4630367927,4630591166,4630652868,4631161837,4631846064,4632313183,4632601096,4632721151,4632783497,4632942464,4632945971,4632952301,4632971711,4632974817,4632977706,4633033331,4633113747,4635278788,4635614639,4635635013,4637170940,4637942095,4638017029,4638271096,4638459090,4638464604,4638599714,4638713007,4639430305,4639619728,4639690748,4639815086,4639837430,4639928535,4640014734,4640139980,4640174841,4640214382,4640214394,4640214400,4640233632,4640318862,4640492627,4640492636,4640492639,4641187622,4641284376,4641384167,4641451197,4641502211,4641633999,4641638043,4643223254,4644455758,4644545458,4644757808,4644757835,4644777501,4644862704,4645215051,4645264446,4646044033,4646123659,4646136914,4646149631,4646172384,4646188279,4646275145,4646335566,4646356244,4646385290,4646405646,4646469746,4646471738,4646477979,4646981978,4647023914,4647103409,4647103412,4647103415,4647103424,4647103427,4647103430,4647115639,4647144885,4647144894,4647217828,4647366629,4647410096,4647529824,4647575700,4647715381,4648274116,4648318711,4648583441,4650829891,4650866086,4651054240,4651115989,4651437305,4651552030,4651575966,4652427578,4653193906,4653371674,4653431507,4653487174,4653747744,4654715516,4654852300,4655025515,4655130213,4655181546,4655183235,4655885420,4656012470,4656209955,4656222160,4656428322,4656470559,4656515466,4656515471,4658665383,4658870618,4659062793,4659863481,4660085887,4660136285,4660863323,4660951582,4661243268,4661302994,4661304185,4661324529,4662317211,4662326864,4662439138,4662449704,4662630885,4663111847,4663377032],"avatarImagesUrl":"https://avatar.guim.co.uk","sentryHost":"app.getsentry.com/35463","buildNumber":"23183","sharedAdTargeting":{"ct":"network-front","url":"/international","edition":"int","p":"ng","k":["international"]},"onwardWebSocket":"ws://api.nextgen.guardianapps.co.uk/recently-published","shouldHideAdverts":false,"pbIndexSites":[{"bp":"D","id":208246},{"bp":"M","id":213518},{"bp":"T","id":215453}],"googletagJsUrl":"//www.googletagservices.com/tag/js/gpt.js","idApiUrl":"https://idapi.theguardian.com","isPreview":false},"switches":{"idShowOptInEngagementBannerMore":true,"idShowOptInEngagementBanner":true,"idCookieRefresh":true,"boostGaUserTimingFidelity":false,"thirdPartyEmbedTracking":true,"scrollDepth":true,"enableSentryReporting":true,"ophan":true,"discussionPageSize":true,"externalVideoEmbeds":true,"relatedContent":true,"autoRefresh":true,"lazyLoadContainers":true,"enableDiscussionSwitch":true,"registerWithPhone":false,"discussionAllowAnonymousRecommendsSwitch":false,"discussionAllPageSize":true,"prebidXaxis":false,"prebidImproveDigital":true,"prebidTrustx":true,"prebidIndexExchange":true,"prebidSonobi":true,"prebidAnalytics":true,"kruxVideoTracking":false,"adblock":false,"membershipEngagementBannerBlockAu":false,"membershipEngagementBannerBlockUs":false,"membershipEngagementBannerBlockUk":false,"membershipEngagementBanner":true,"simpleReach":true,"remarketing":true,"doubleclickYoutubeAdFree":true,"krux":true,"adomik":true,"imrWorldwide":true,"tourismAustralia":true,"adFreeStrictExpiryEnforcement":false,"adFreeSubscriptionTrial":true,"blockIas":false,"surveys":true,"iasAdTargeting":true,"carrotTrafficDriver":false,"commercial":true,"abAcquisitionsEpicAlwaysAskAprilStory":true,"abAcquisitionsAustraliaEnvironmentCampaign2018":true,"abAcquisitionsUsGunCampaign2017":true,"abAcquisitionsEpicThankYou":true,"abAcquisitionsEpicAlwaysAskIfTagged":true,"abSignInEngagementBannerDisplay":false,"abAcquisitionsEpicLiveblog":true,"abContributionsEpicAskFourEarning":true,"lineHeightFontSize":true,"lotameParticipation":true,"orielParticipation":true,"commercialAdRefresh":true,"commercialClientLogging":true,"weAreHiring":true,"useTailorEndpoints":true,"targeting":true,"sharingComments":true,"smartAppBanner":true,"emailSignupEuRef":true,"emailSignupLabNotes":true,"emailInArticleOutbrain":true,"emailInArticleGtoday":true,"emailInArticle":true,"emailInlineInFooter":true,"crosswordSvgThumbnails":true,"historyTags":true,"weather":true,"breakingNews":true,"enhancedVideoPlayer":true,"enhanceTweets":true,"idProfileNavigation":true,"googleSearch":true,"webFonts":true,"geoMostPopular":true,"plistaForOutbrainAu":true,"outbrain":true,"serverShareCounts":true},"tests":{"commercialAdRefreshVariant":"variant"},"modules":{},"images":{"commercial":{"ab-icon":"https:\/\/assets.guim.co.uk\/images\/commercial\/504a6bc5825d269eaf8ffdc77ad1f5b8\/ab-icon.png","abp-icon":"https:\/\/assets.guim.co.uk\/images\/commercial\/15fa8f9f99ce2a6b804097d348622727\/abp-icon.png","abp-whitelist-instruction-chrome":"https:\/\/assets.guim.co.uk\/images\/commercial\/862b03a008061af5c3b77c1f2dd52dd4\/ad-block-instructions-chrome.png"},"membership":{"adblock-coins":"https:\/\/assets.guim.co.uk\/images\/membership\/6b077732beb2d9bf9dcbb78c953a3de5\/adblock-coins.png","adblock-coins-us":"https:\/\/assets.guim.co.uk\/images\/membership\/103510d0b88a6444f383b492d556c539\/adblock-coins-us.png"},"acquisitions":{"paypal-and-credit-card":"https:\/\/assets.guim.co.uk\/images\/acquisitions\/a694135613d4d89b51f454f993256332\/paypal-and-credit-card.png"},"identity":{"missing":"https:\/\/assets.guim.co.uk\/images\/identity\/cb634b6d3c25f056d6541b8b830efe91\/missing.svg"}},"stylesheets":{"fonts":{"hintingCleartype":{"kerningOn":"https:\/\/assets.guim.co.uk\/stylesheets\/9f78997fd3b37533007e55334c9e7c8b\/webfonts-hinting-cleartype-kerning-on.css"},"hintingOff":{"kerningOn":"https:\/\/assets.guim.co.uk\/stylesheets\/50441b3bda46af4af85a3f0a1b61f8bb\/webfonts-hinting-off-kerning-on.css"},"hintingAuto":{"kerningOn":"https:\/\/assets.guim.co.uk\/stylesheets\/4f3512b7ca058a60dea4f4b994ab4ebc\/webfonts-hinting-auto-kerning-on.css"}}},"googleAnalytics":{"trackers":{"editorialTest":"guardianTestPropertyTracker","editorialProd":"allEditorialPropertyTracker","editorial":"allEditorialPropertyTracker"},"timingEvents":[]},"libs":{"googletag":"\/\/www.googletagservices.com\/tag\/js\/gpt.js","sonobi":"\/\/api.nextgen.guardianapps.co.uk\/morpheus.theguardian.12919.js"}}};if(window.esi&&window.esi.viewId){window.guardian.config.ophan={pageViewId:window.esi.viewId};}else{window.guardian.config.ophan={pageViewId:new Date().getTime().toString(36)+'xxxxxxxxxxxx'.replace(/x/g,function(){return Math.floor(Math.random()*36).toString(36);})};}/*@cc_on
+=======
+@*/(function(window){var lastTime,vendors;if(!window.requestAnimationFrame){lastTime=0;vendors=["ms","moz","webkit","o"];for(var x=0;x<vendors.length&&!window.requestAnimationFrame;++x){window.requestAnimationFrame=window[vendors[x]+"RequestAnimationFrame"];window.cancelAnimationFrame=window[vendors[x]+"CancelAnimationFrame"]||window[vendors[x]+"CancelRequestAnimationFrame"]}window.requestAnimationFrame=function(callback,element){var currTime=(new Date).getTime();var timeToCall=Math.max(0,16-(currTime-lastTime));var id=window.setTimeout(function(){callback(currTime+timeToCall)},timeToCall);lastTime=currTime+timeToCall;return id}}if(!window.cancelAnimationFrame)window.cancelAnimationFrame=function(id){clearTimeout(id)}})(window);(function(window,document){var weShouldPolyfill=!("open"in document.createElement("details"));function toggleDetailsState(details){if(details.hasAttribute("open"))details.removeAttribute("open");else details.setAttribute("open","open")}function handleEvent(event){var targetNode=event.target;while(targetNode.nodeName.toLowerCase()!=="summary"&&targetNode!==document)targetNode=targetNode.parentNode;if(targetNode.nodeName.toLowerCase()==="summary")toggleDetailsState(targetNode.parentNode)}function bindEvents(){document.addEventListener("click",handleEvent,true);document.addEventListener("keypress",function(event){if(event.key&&(event.key===" "||event.key==="Enter"))handleEvent(event);else if(event.keyCode===32||event.keyCode===13)handleEvent(event)},true)}function appendCss(){if(document.querySelector("#details-polyfill-css")===null){var style=document.createElement("style");style.id="details-polyfill-css";style.textContent="details:not([open]) \x3e *:not(summary) {display: none;}";document.head.insertBefore(style,document.head.firstChild)}}if(weShouldPolyfill){bindEvents();appendCss()}})(window,document);(function(window){var location=window.location;var hash=location.hash;var navigator=window.navigator;var platform=navigator.platform;var isFront=true;var enhancedKey="gu.prefs.enhanced";var preferEnhanced;try{preferEnhanced=JSON.parse(localStorage.getItem(enhancedKey)).value}catch(e){preferEnhanced=null}function mustEnhance(){if(hash==="#enhanced"||hash==="#"+enhancedKey+"\x3dtrue")return true;if(preferEnhanced)return true;return false}function mustNotEnhance(){return hash==="#standard"||hash==="#"+enhancedKey+"\x3dfalse"}function couldEnhance(){return preferEnhanced!==false}function weWantToEnhance(){if(isOlderIOSDevice())return false;if(isFront)return!isIpad();return true}function isOlderIOSDevice(){return/.*(iPhone|iPad|iPod; CPU) OS ([34567])_\d+.*/.test(navigator.userAgent)}function isIpad(){return platform==="iPad"}window.shouldEnhance=mustNotEnhance()?false:mustEnhance()?true:couldEnhance()&&weWantToEnhance()})(window);var isModernBrowser="querySelector"in document&&"addEventListener"in window&&"localStorage"in window&&"sessionStorage"in window&&"bind"in Function&&(("XMLHttpRequest"in window&&"withCredentials"in new XMLHttpRequest())||"XDomainRequest"in window);window.guardian={isModernBrowser:isModernBrowser,isEnhanced:window.shouldEnhance&&isModernBrowser,css:{loaded:false},polyfilled:false,adBlockers:{active:undefined,onDetect:[]},config:{"page":{"avatarApiUrl":"https://avatar.theguardian.com","membershipUrl":"https://membership.theguardian.com","isProd":true,"discussionFrontendUrl":"","membershipAccess":"","allowUserGeneratedContent":false,"forecastsapiurl":"/weatherapi/forecast","idOAuthUrl":"https://oauth.theguardian.com","supportUrl":"https://support.theguardian.com","webTitle":"Network Front","isFront":true,"idWebAppUrl":"https://oauth.theguardian.com","googleSearchUrl":"//www.google.co.uk/cse/cse.js","googleSearchId":"007466294097402385199:m2ealvuxh1i","idUrl":"https://profile.theguardian.com","omnitureAmpAccount":"guardiangu-thirdpartyapps","dfpAdUnitRoot":"theguardian.com","host":"https://www.theguardian.com","fbAppId":"180444840287","dfpAccountId":"59666047","plistaPublicApiKey":"462925f4f131001fd974bebe","cardStyle":"","adUnit":"/59666047/theguardian.com/international/front/ng","discussionApiUrl":"https://discussion.theguardian.com/discussion-api","isSensitive":false,"ophanEmbedJsUrl":"//j.ophan.co.uk/ophan.embed","edition":"INT","userAttributesApiUrl":"https://members-data-api.theguardian.com/user-attributes","discussionApiClientHeader":"nextgen","hasSuperStickyBanner":false,"section":"international","dfpHost":"pubads.g.doubleclick.net","weatherapiurl":"/weatherapi/city","sentryPublicApiKey":"344003a8d11c41d8800fbad8383fdc50","pageId":"international","sonobiHeaderBiddingJsUrl":"//api.nextgen.guardianapps.co.uk/morpheus.theguardian.12919.js","beaconUrl":"//beacon.gu-web.net","discussionD2Uid":"zHoBy6HNKsk","ophanJsUrl":"//j.ophan.co.uk/ophan.ng","keywordIds":"international/international","contentType":"Network Front","isDev":false,"facebookIaAdUnitRoot":"facebook-instant-articles","stripePublicToken":"pk_live_2O6zPMHXNs2AGea4bAmq5R7Z","omnitureAccount":"guardiangu-network","locationapiurl":"/weatherapi/locations?query=","isPaidContent":false,"externalEmbedHost":"https://embed.theguardian.com","thirdPartyAppsAccount":"guardiangu-thirdpartyapps","ajaxUrl":"https://api.nextgen.guardianapps.co.uk","keywords":"Network Front","mobileAppsAdUnitRoot":"beta-guardian-app","hasPageSkin":false,"requiresMembershipAccess":false,"revisionNumber":"DEV","hbImpl":"prebid","assetsPath":"https://assets.guim.co.uk/","dfpNonRefreshableLineItemIds":[66664167,66868167,66972327,67013487,68585367,68842407,69144807,69710127,70516407,70931847,71342607,72502287,72503607,72619527,72664767,72675687,73773207,73829127,74480367,74645967,74823567,74824167,75586767,75588207,76352007,76437927,76443087,76443567,76603287,77324247,77504847,77546367,77561007,77590287,77622207,77747367,78316047,78455967,78470967,78507807,78713607,79009167,79094487,80502447,80568087,80568207,80568327,80568447,80569047,81002967,82211367,82339767,82879287,82881807,83178927,85253487,85558287,85961247,86814567,87004887,87191607,87726207,87852807,87878367,88153527,88333647,88420407,88526727,88621527,88861167,88903647,89035647,89035887,89036607,89084607,89084967,89356167,89743047,89793087,90159687,90323007,90359967,90935367,91095807,91118247,91732647,91985967,92216007,92355087,92436807,92506887,92681487,92948847,93121767,93550767,93716727,93717567,93784887,93785607,93930207,94193007,94625967,94674927,94822527,95840847,95931207,96296367,96695007,97911207,97980687,98151207,98165247,98610447,98671647,98893047,101192247,101476527,101684007,101999127,102061647,102066567,102344847,102790767,102792207,102892767,102894687,102895167,102895647,103062327,104218407,106736607,107115927,107235087,107509047,107537247,107955087,108799287,108893967,109638687,109648167,109761807,109831287,111055527,111057567,112799127,112882647,112888527,112950567,113374647,113880927,114906327,115133247,116149647,117980727,118054767,118236687,118631847,118934247,119632887,121592967,122583687,123487167,123873927,123978567,123996567,123996927,123997527,124001247,124418247,125878047,126003687,126004167,130630407,130630647,130686687,130686807,130693287,130777407,130840767,130954407,131115447,131135007,131652687,132065367,132325287,132348327,132758367,133502127,133852047,133854327,133989327,134130087,134567967,134876607,134979567,135278007,135292767,135353727,135773007,135776847,135826887,135841887,135850407,136120767,136236207,136278807,136455207,136550247,137025927,137200287,137382567,139152327,140139567,140711127,141827967,142822767,142883847,143109567,144237927,145499607,145500447,146247207,146321007,146324607,146326287,146338527,146339727,146352207,146355567,146356287,146357847,146424807,146427447,147006447,147500367,147801807,148446687,148454487,149385087,149685327,149685447,151760127,152119407,153048087,153546927,154108047,154108167,154112007,154112367,154113087,154113207,154114887,154125567,154126407,154290807,154290927,154291287,154291407,154291527,154291887,154295007,154295967,154297527,154303287,154303527,154332087,154386087,154387407,154391247,154391967,154392927,154394847,154540527,154544247,154693287,154793967,154794087,154887927,155010327,155010447,156633927,156634647,156635007,156688647,157294407,157316487,157383447,157388487,157557447,157611087,157655847,157658607,157659327,157726047,157818207,157820367,157923807,158006607,158042367,158137287,158263767,158272287,158296407,158432247,158600127,158615247,158768967,158769327,158770767,158841207,158870007,159914487,159915687,159916167,160185447,160427007,160427607,160428207,160437567,160459167,160529007,160532967,160698087,160719687,160847247,160937127,161085927,161280447,162621327,162651927,162763647,162853767,162857007,162960447,162968007,162976287,162976767,162979647,163067847,163112127,163146327,163147047,163176927,163371207,163372647,163506207,163510647,163511607,163590927,165450327,165451047,165451767,165452487,4345086236,4345095356,4345169885,4345177565,4345182855,4345186250,4348632405,4349172433,4349334137,4353390410,4353499880,4353526296,4355097075,4357001176,4357680172,4360612711,4360730147,4360793649,4362116394,4362700233,4363263784,4365801798,4366988071,4367014514,4367038209,4367627225,4367868453,4369518236,4371214468,4371229615,4371265570,4371585048,4373062681,4373388641,4378684449,4384968910,4384973908,4389963591,4391107632,4392165808,4393128460,4400054296,4400915175,4400994377,4403006599,4403474531,4407685568,4407735500,4408054960,4415863678,4417550546,4418125609,4418888060,4423709987,4430666302,4431123294,4433340685,4435606984,4436917360,4437624699,4437738452,4438626613,4447151229,4447817517,4451574177,4453701503,4454965674,4455317908,4455404860,4455982746,4456073435,4458525518,4458637592,4458966868,4458974137,4459128175,4459531601,4459662143,4462324448,4467053033,4467061820,4467076959,4470028758,4473402940,4473765302,4473833174,4474164162,4474164405,4477824710,4484667568,4484896693,4486049515,4488665728,4490557376,4496846079,4497148783,4497746786,4500347519,4500585085,4502466448,4506211892,4506230136,4507272222,4507353491,4510304866,4510391026,4512203930,4512645730,4512878119,4512878146,4512878296,4512878839,4512879118,4513334328,4513492977,4513495599,4513495827,4513496154,4513496583,4513496633,4513497254,4513497330,4513497503,4513497819,4513498022,4513503275,4516493673,4516698376,4517304218,4517378559,4517379732,4517380203,4517429663,4521030366,4524762909,4532687976,4533602579,4533602585,4533602588,4533666443,4536978136,4537551019,4539981050,4540042537,4552894255,4555081579,4555165414,4555183615,4555236856,4555561195,4555635725,4555650690,4555674903,4555684517,4555688577,4556153989,4556285026,4556324359,4556326294,4556648082,4556678787,4557708173,4557783054,4558745950,4558957661,4559094602,4559776540,4560176292,4560182777,4563750170,4567406831,4567519878,4567547930,4568983129,4568985325,4568985328,4568985334,4569145654,4569276686,4569276692,4569276698,4569276704,4569276710,4569510143,4570800408,4570913217,4571924879,4572427576,4573286613,4573703432,4573821052,4573828285,4573859167,4574017801,4574101152,4574203852,4576536690,4576633832,4576698630,4577960337,4578686125,4578709821,4578981792,4578983271,4578996383,4579011086,4579027142,4579530878,4579746196,4579995289,4580248014,4580271825,4580275434,4585152150,4585152153,4585152156,4585152606,4585154051,4587167505,4587240896,4587801581,4587969346,4588015360,4588108711,4588429810,4590669259,4590832060,4591574060,4591740136,4591825609,4591950702,4592014950,4592126084,4593542112,4593753283,4593958452,4594438051,4594931675,4595674921,4596050763,4598154886,4598404766,4598413679,4598537733,4598540786,4598545344,4599469178,4599787907,4599815214,4599896800,4599899275,4599899278,4600035277,4600038367,4600076528,4600076531,4600135650,4600135653,4600156957,4600235719,4600305995,4600316046,4600316049,4600316052,4600316055,4600316058,4600316061,4600377077,4600399646,4600408991,4600415465,4600419077,4600474494,4600475694,4600571012,4600901244,4601549954,4601629812,4601832601,4602734798,4603269102,4604723743,4604942789,4605056300,4605110520,4606214089,4606951095,4606951098,4606952103,4606952106,4606952109,4606952112,4606996965,4608360636,4609114698,4609970081,4609977332,4611141115,4611278622,4611292923,4611386324,4612781170,4613220673,4613265589,4613299666,4613538437,4613920309,4614447082,4614720172,4614730963,4614873004,4614897288,4614909741,4615125278,4615129886,4615138703,4615205472,4615275549,4615962703,4616531202,4617742931,4617857739,4618210718,4618763921,4618785830,4618790849,4619821399,4620511838,4620637140,4620698359,4620898218,4621008128,4621133512,4621420973,4621817431,4622132331,4622880905,4622882062,4622884229,4622922127,4622941355,4622944996,4622974479,4622984355,4622992525,4623008104,4623028478,4623123537,4623245210,4624101334,4624274153,4624318985,4624393392,4624536624,4624538834,4624612536,4628880427,4629132602,4629262077,4629367425,4630367927,4630591166,4630652868,4631161837,4631846064,4632313183,4632601096,4632721151,4632783497,4632942464,4632945971,4632952301,4632971711,4632974817,4632977706,4633033331,4633113747,4635278788,4635614639,4635635013,4637170940,4637942095,4638017029,4638271096,4638459090,4638464604,4638599714,4638713007,4639430305,4639619728,4639690748,4639815086,4639837430,4639928535,4640014734,4640139980,4640174841,4640214382,4640214394,4640214400,4640233632,4640318862,4640492627,4640492636,4640492639,4641187622,4641284376,4641384167,4641451197,4641502211,4641633999,4641638043,4643223254,4644455758,4644545458,4644757808,4644757835,4644777501,4644862704,4645215051,4645264446,4646044033,4646123659,4646136914,4646149631,4646172384,4646188279,4646275145,4646335566,4646356244,4646385290,4646405646,4646469746,4646471738,4646477979,4646981978,4647023914,4647103409,4647103412,4647103415,4647103424,4647103427,4647103430,4647115639,4647144885,4647144894,4647217828,4647366629,4647410096,4647529824,4647575700,4647715381,4648274116,4648318711,4648583441,4650829891,4650866086,4651054240,4651115989,4651437305,4651552030,4651575966,4652427578,4653193906,4653371674,4653431507,4653487174,4653747744,4654715516,4654852300,4655025515,4655130213,4655181546,4655183235,4655885420,4656012470,4656209955,4656222160,4656428322,4656470559,4656515466,4656515471,4658665383,4658870618,4659062793,4659863481,4660085887,4660136285,4660863323,4660951582,4661243268,4661302994,4661304185,4662317211,4662326864,4662439138,4662449704,4662630885,4663111847],"avatarImagesUrl":"https://avatar.guim.co.uk","sentryHost":"app.getsentry.com/35463","buildNumber":"23183","sharedAdTargeting":{"ct":"network-front","url":"/international","edition":"int","p":"ng","k":["international"]},"onwardWebSocket":"ws://api.nextgen.guardianapps.co.uk/recently-published","shouldHideAdverts":false,"pbIndexSites":[{"bp":"D","id":208246},{"bp":"M","id":213518},{"bp":"T","id":215453}],"googletagJsUrl":"//www.googletagservices.com/tag/js/gpt.js","idApiUrl":"https://idapi.theguardian.com","isPreview":false},"switches":{"idShowOptInEngagementBannerMore":true,"idShowOptInEngagementBanner":true,"idCookieRefresh":true,"boostGaUserTimingFidelity":false,"thirdPartyEmbedTracking":true,"scrollDepth":true,"enableSentryReporting":true,"ophan":true,"discussionPageSize":true,"externalVideoEmbeds":true,"relatedContent":true,"autoRefresh":true,"lazyLoadContainers":true,"enableDiscussionSwitch":true,"registerWithPhone":false,"discussionAllowAnonymousRecommendsSwitch":false,"discussionAllPageSize":true,"prebidXaxis":false,"prebidImproveDigital":true,"prebidTrustx":true,"prebidIndexExchange":true,"prebidSonobi":true,"prebidAnalytics":true,"kruxVideoTracking":false,"adblock":false,"membershipEngagementBannerBlockAu":false,"membershipEngagementBannerBlockUs":false,"membershipEngagementBannerBlockUk":false,"membershipEngagementBanner":true,"simpleReach":true,"remarketing":true,"doubleclickYoutubeAdFree":true,"krux":true,"adomik":true,"imrWorldwide":true,"tourismAustralia":true,"adFreeStrictExpiryEnforcement":false,"adFreeSubscriptionTrial":true,"blockIas":false,"surveys":true,"iasAdTargeting":true,"carrotTrafficDriver":false,"commercial":true,"abAcquisitionsEpicAlwaysAskAprilStory":true,"abAcquisitionsAustraliaEnvironmentCampaign2018":true,"abAcquisitionsUsGunCampaign2017":true,"abAcquisitionsEpicThankYou":true,"abAcquisitionsEpicAlwaysAskIfTagged":true,"abSignInEngagementBannerDisplay":false,"abAcquisitionsEpicLiveblog":true,"abContributionsEpicAskFourEarning":true,"lineHeightFontSize":true,"lotameParticipation":true,"orielParticipation":true,"commercialAdRefresh":true,"commercialClientLogging":true,"weAreHiring":true,"useTailorEndpoints":true,"targeting":true,"sharingComments":true,"smartAppBanner":true,"emailSignupEuRef":true,"emailSignupLabNotes":true,"emailInArticleOutbrain":true,"emailInArticleGtoday":true,"emailInArticle":true,"emailInlineInFooter":true,"crosswordSvgThumbnails":true,"historyTags":true,"weather":true,"breakingNews":true,"enhancedVideoPlayer":true,"enhanceTweets":true,"idProfileNavigation":true,"googleSearch":true,"webFonts":true,"geoMostPopular":true,"plistaForOutbrainAu":true,"outbrain":true,"serverShareCounts":true},"tests":{"commercialAdRefreshVariant":"variant"},"modules":{},"images":{"commercial":{"ab-icon":"https:\/\/assets.guim.co.uk\/images\/commercial\/504a6bc5825d269eaf8ffdc77ad1f5b8\/ab-icon.png","abp-icon":"https:\/\/assets.guim.co.uk\/images\/commercial\/15fa8f9f99ce2a6b804097d348622727\/abp-icon.png","abp-whitelist-instruction-chrome":"https:\/\/assets.guim.co.uk\/images\/commercial\/862b03a008061af5c3b77c1f2dd52dd4\/ad-block-instructions-chrome.png"},"membership":{"adblock-coins":"https:\/\/assets.guim.co.uk\/images\/membership\/6b077732beb2d9bf9dcbb78c953a3de5\/adblock-coins.png","adblock-coins-us":"https:\/\/assets.guim.co.uk\/images\/membership\/103510d0b88a6444f383b492d556c539\/adblock-coins-us.png"},"acquisitions":{"paypal-and-credit-card":"https:\/\/assets.guim.co.uk\/images\/acquisitions\/a694135613d4d89b51f454f993256332\/paypal-and-credit-card.png"},"identity":{"missing":"https:\/\/assets.guim.co.uk\/images\/identity\/cb634b6d3c25f056d6541b8b830efe91\/missing.svg"}},"stylesheets":{"fonts":{"hintingCleartype":{"kerningOn":"https:\/\/assets.guim.co.uk\/stylesheets\/9f78997fd3b37533007e55334c9e7c8b\/webfonts-hinting-cleartype-kerning-on.css"},"hintingOff":{"kerningOn":"https:\/\/assets.guim.co.uk\/stylesheets\/50441b3bda46af4af85a3f0a1b61f8bb\/webfonts-hinting-off-kerning-on.css"},"hintingAuto":{"kerningOn":"https:\/\/assets.guim.co.uk\/stylesheets\/4f3512b7ca058a60dea4f4b994ab4ebc\/webfonts-hinting-auto-kerning-on.css"}}},"googleAnalytics":{"trackers":{"editorialTest":"guardianTestPropertyTracker","editorialProd":"allEditorialPropertyTracker","editorial":"allEditorialPropertyTracker"},"timingEvents":[]},"libs":{"googletag":"\/\/www.googletagservices.com\/tag\/js\/gpt.js","sonobi":"\/\/api.nextgen.guardianapps.co.uk\/morpheus.theguardian.12919.js"}}};if(window.esi&&window.esi.viewId){window.guardian.config.ophan={pageViewId:window.esi.viewId};}else{window.guardian.config.ophan={pageViewId:new Date().getTime().toString(36)+'xxxxxxxxxxxx'.replace(/x/g,function(){return Math.floor(Math.random()*36).toString(36);})};}/*@cc_on
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 @if (@_jscript_version <= 9)
     guardian.config.page.ajaxUrl = guardian.config.page.ajaxUrl.replace(/^https:/, '');
 @end
@@ -877,12 +881,20 @@ Nobel prize in literature 2018 cancelled after sexual assault scandal
 
 US  More than 1,000 economists warn Trump he risks another Great Depression 
 
+<<<<<<< HEAD
+=======
+  Farage's Belgium jibe met with World Cup warning for England  
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 President’s ‘economic protectionism’ harkens back to errors that fueled Great Depression, say experts including 14 Nobel winners
 
 
 
+<<<<<<< HEAD
+=======
+  Farage's Belgium jibe met with World Cup warning for England  
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 More than 1,000 economists warn Trump he risks another Great Depression
@@ -915,6 +927,21 @@ Play Video
 'Like a jet plane'  Evacuations ordered as Hawaii's Kilauea volcano erupts 
 
 
+<<<<<<< HEAD
+=======
+Donald Trump  President changes story over Michael Cohen payment to Stormy Daniels 
+
+
+
+Ethics experts astonished after Trump acknowledges he repaid Cohen via retainer that had ‘nothing to do with the campaign’
+
+
+
+
+
+
+  Trump on trade Over 1,000 economists criticise approach  
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 Lava spurts through cracks in roads and flows in residential areas on Big Island
 
@@ -923,7 +950,11 @@ Lava spurts through cracks in roads and flows in residential areas on Big Island
 
 
 
+<<<<<<< HEAD
 Evacuations ordered as Hawaii's Kilauea volcano erupts
+=======
+President changes story over Michael Cohen payment to Stormy Daniels
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -946,16 +977,27 @@ Evacuations ordered as Hawaii's Kilauea volcano erupts
 
 
 
+<<<<<<< HEAD
 Revealed  UK’s push to strengthen anti-Russia alliance 
 
 
 
 Exclusive: ministers will use series of summits to pursue containment strategy and urge rethink of diplomatic dialogue
+=======
+
+
+All in  Writer puts poker book on hold after making $200,000 playing cards 
+
+
+
+Maria Konnikova didn’t know how many cards were in a deck when she started learning poker one year ago but now she is winning major competitions
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
+<<<<<<< HEAD
 
   'Deny, distract and blame' How Russia fights propaganda war  
 
@@ -967,6 +1009,9 @@ Exclusive: ministers will use series of summits to pursue containment strategy a
 
 
 UK’s push to strengthen anti-Russia alliance
+=======
+Writer puts poker book on hold after making $200,000 playing cards
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -974,31 +1019,67 @@ UK’s push to strengthen anti-Russia alliance
 
 
 
+<<<<<<< HEAD
+=======
+New Zealand  Senior naval officer accused of hiding camera in embassy toilets 
+
+
+
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 UK  England local elections: Tories and Labour both secure limited gains as Ukip vote collapses 
 
+<<<<<<< HEAD
 
+=======
+Senior naval officer accused of hiding camera in embassy toilets
+
+ 
+
+
+
+
+
+São Paulo  Deadly fire in squatted tower block sheds light on dire housing crisis 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 England local elections: Tories and Labour both secure limited gains as Ukip vote collapses
 
+<<<<<<< HEAD
+=======
+
+Deadly fire in squatted tower block sheds light on dire housing crisis
+
+ 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
  
 
 
 
 
 
+<<<<<<< HEAD
 Italy  Fresh elections possible as country enters third month without government 
+=======
+
+
+'My job is to piss you off'  What UK Home Office official told man facing deportation 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
 Fresh elections possible as country enters third month without government
+=======
+What UK Home Office official told man facing deportation
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -1006,14 +1087,22 @@ Fresh elections possible as country enters third month without government
 
 
 
+<<<<<<< HEAD
 Donald Trump  President changes story over Michael Cohen payment to Stormy Daniels 
+=======
+Novichok  Skripals poisoned by liquid form, watchdog says 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
 President changes story over Michael Cohen payment to Stormy Daniels
+=======
+Skripals poisoned by liquid form, watchdog says
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -1021,14 +1110,22 @@ President changes story over Michael Cohen payment to Stormy Daniels
 
 
 
+<<<<<<< HEAD
 Salisbury poisoning  Skripals attacked with novichok dose of up to 100g, watchdog says 
+=======
+Texas  Obama martial law scare was stoked by Russian bots, say ex-director of CIA 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
 Skripals attacked with novichok dose of up to 100g, watchdog says
+=======
+Obama martial law scare was stoked by Russian bots, say ex-director of CIA
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -1036,14 +1133,22 @@ Skripals attacked with novichok dose of up to 100g, watchdog says
 
 
 
+<<<<<<< HEAD
 South Korea  Trump tells Pentagon to sketch out troop cuts – reports 
+=======
+UK  Met dismisses police spy who tricked activist into sexual relationship 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
 Trump tells Pentagon to sketch out troop cuts – reports
+=======
+Met dismisses police spy who tricked activist into sexual relationship
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -1051,14 +1156,22 @@ Trump tells Pentagon to sketch out troop cuts – reports
 
 
 
+<<<<<<< HEAD
 New Zealand  Senior naval officer accused of hiding camera in embassy toilets 
+=======
+'They are serious incidents'  Pentagon accuses China of shining lasers at US pilots in Djibouti 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
 Senior naval officer accused of hiding camera in embassy toilets
+=======
+Pentagon accuses China of shining lasers at US pilots in Djibouti
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
  
@@ -1102,18 +1215,30 @@ Spotlight
 
 
 
+<<<<<<< HEAD
 Cannes in crisis  Has the festival learned the lessons of Weinstein? 
 
 
 
 A sexual harassment helpline has been set up – but they have also welcomed Lars von Trier back to the Croisette.
  And out of 21 films competing this year, only three are directed by women
+=======
+MH370  Search reveals clues to 19th century shipwreck mysteries 
+
+
+
+Unprecedented search operation leads to discovery of two vessels that sank south-west of Australia
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
+<<<<<<< HEAD
 Has the festival learned the lessons of Weinstein?
+=======
+Search reveals clues to 19th century shipwreck mysteries
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -1136,17 +1261,29 @@ Has the festival learned the lessons of Weinstein?
 
 
 
+<<<<<<< HEAD
 Paris  Wheels come off bike-share scheme after hi-tech upgrade 
 
 
 
 Parisians abandon city’s pioneering Vélib bikes as new operator’s revamp is beset by electrical and software glitches
+=======
+Future sailors  What will ships look like in 30 years? 
+
+
+
+With a target to halve its huge carbon footprint, the race is on to find new technologies to green the world’s shipping fleet
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
+<<<<<<< HEAD
 Wheels come off bike-share scheme after hi-tech upgrade
+=======
+What will ships look like in 30 years?
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -1163,6 +1300,11 @@ Wheels come off bike-share scheme after hi-tech upgrade
 
 
 
+Play Video
+
+
+
+ 
 
 
 
@@ -1170,13 +1312,16 @@ Wheels come off bike-share scheme after hi-tech upgrade
 
 
 
+San Francisco  NTSB releases footage showing near disaster on runway 
 
 
-
-
-
+<<<<<<< HEAD
 Experience  
 
+=======
+The US National Transportation Safety Board has released chilling footage showing an aborted landing in which an Air Canada flight almost landed on a taxiway occupied by four other planes.
+The footage was made available as part of a report released on 3 May.
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
   I was buried alive in an avalanche 
 
@@ -1186,9 +1331,19 @@ I was slowly suffocating, but fighting it off, trying to stay conscious
 
 
 
+ 
+0:37
 
 
+
+
+
+<<<<<<< HEAD
 I was buried alive in an avalanche
+=======
+
+NTSB releases footage showing near disaster on runway
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -1211,17 +1366,29 @@ I was buried alive in an avalanche
 
 
 
+<<<<<<< HEAD
 Big time sensuality  Hyper Björk ballet unveiled in San Francisco 
 
 
 
 Arthur Pita’s show mixes eight of the Icelandic singer’s tracks into a cacophony of glamour, craziness and fairytale at the Unbound festival
+=======
+'My whole life has been a lie'  Sweden admits meatballs are Turkish 
+
+
+
+Turks don’t mince their words as they relish news that Ikea’s famous dish is not Swedish
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
+<<<<<<< HEAD
 Hyper Björk ballet unveiled in San Francisco
+=======
+Sweden admits meatballs are Turkish
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
  
@@ -1245,14 +1412,22 @@ Hyper Björk ballet unveiled in San Francisco
 
 
 
+<<<<<<< HEAD
 An Indian railway adventure  The pilgrim train from Hyderabad to Tamil Nadu 
+=======
+Film  Roman Polanski and Bill Cosby expelled from the film Academy 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
 The pilgrim train from Hyderabad to Tamil Nadu
+=======
+Roman Polanski and Bill Cosby expelled from the film Academy
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -1273,14 +1448,22 @@ The pilgrim train from Hyderabad to Tamil Nadu
 
 
 
+<<<<<<< HEAD
 Philippines  Butchered rhino suggests humans were in the Philippines 700,000 years ago 
+=======
+Off the map  The secret cities behind the atom bomb 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
 Butchered rhino suggests humans were in the Philippines 700,000 years ago
+=======
+The secret cities behind the atom bomb
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -1301,14 +1484,22 @@ Butchered rhino suggests humans were in the Philippines 700,000 years ago
 
 
 
+<<<<<<< HEAD
 Doodoowatch  A crowdsourced solution to our cities' dog mess minefield? 
+=======
+Rudy Giuliani  The five ages of Trump's loyal, long-serving friend 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
 A crowdsourced solution to our cities' dog mess minefield?
+=======
+The five ages of Trump's loyal, long-serving friend
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -1329,14 +1520,22 @@ A crowdsourced solution to our cities' dog mess minefield?
 
 
 
+<<<<<<< HEAD
 MH370  Search reveals clues to 19th century shipwreck mysteries 
+=======
+'There's this idea that mothers are completely selfless'  Diablo Cody on Tully – and the Juno backlash 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
 Search reveals clues to 19th century shipwreck mysteries
+=======
+Diablo Cody on Tully – and the Juno backlash
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
  
@@ -1378,14 +1577,24 @@ Opinion
   
 
 
+<<<<<<< HEAD
   Brexit has caused Britain’s political pendulum to stick 
 
 Rafael Behr
+=======
+  Ireland’s cervical cancer scandal is nothing less than a national calamity 
+
+Una Mullally
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
+<<<<<<< HEAD
 The normal rules of governments being given bloody noses at local elections have been suspended, says Guardian columnist Rafael Behr
+=======
+Vicky Phelan’s false negative result has shown yet again the state’s cavalier attitude towards women’s health issues, writes journalist Una Mullally
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1393,7 +1602,11 @@ The normal rules of governments being given bloody noses at local elections have
 
 
 
+<<<<<<< HEAD
 Brexit has caused Britain’s political pendulum to stick
+=======
+Ireland’s cervical cancer scandal is nothing less than a national calamity
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -1419,14 +1632,24 @@ Brexit has caused Britain’s political pendulum to stick
   
 
 
+<<<<<<< HEAD
   Justin Trudeau is waging a phony war against inequality 
 
 Luke Savage
+=======
+  Of course slavery wasn't a choice, Kanye West. And neither is poverty 
+
+Kimberly Foster
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
+<<<<<<< HEAD
 The disjuncture between Trudeau’s rhetorical flourishes and his actions speaks volumes
+=======
+West has embraced a core value of modern conservatism: that our lives are primarily the product of our choices. But this view ignores structural racism
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1434,7 +1657,11 @@ The disjuncture between Trudeau’s rhetorical flourishes and his actions speaks
 
 
 
+<<<<<<< HEAD
 Justin Trudeau is waging a phony war against inequality
+=======
+Of course slavery wasn't a choice, Kanye West. And neither is poverty
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -1492,12 +1719,18 @@ At last, a way to free myself from email tyranny
 
 
   
+<<<<<<< HEAD
 
 
   From Eta to the IRA, making peace means talking to the enemy 
+=======
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 Jonathan Powell
 
+  As a recovering alcoholic, I welcome minimum booze pricing in Scotland 
+
+Darren McGarvey
 
 
 
@@ -1506,7 +1739,12 @@ Jonathan Powell
 
 
 
+<<<<<<< HEAD
 From Eta to the IRA, making peace means talking to the enemy
+=======
+
+As a recovering alcoholic, I welcome minimum booze pricing in Scotland
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -1547,14 +1785,6 @@ What do incels, fascists and terrorists have in common? Violent misogyny
 
 
 
- 
-
-
-  
-
-
-  More Opinion 
-
 
 
 
@@ -1594,18 +1824,24 @@ What do incels, fascists and terrorists have in common? Violent misogyny
 
 
 
+<<<<<<< HEAD
 Giro d'Italia  Team Sky accused of deceiving organisers over Froome’s status 
 
 
 
 Organisers unhappy after paying €1.4m for the presence of the under-investigation Chris Froome, the French and Spanish Tour champion
 
+=======
+Atlético Madrid 1-0 Arsenal (2-1 agg)  Costa strikes to end Wenger's Europa League dream 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
+Diego Costa scored the only goal as Atlético Madrid progressed to the final to end Arsène Wenger's hope of leaving Arsenal with a trophy
 
 Team Sky accused of deceiving organisers over Froome’s status
 
+<<<<<<< HEAD
  
 
 
@@ -1614,6 +1850,12 @@ Team Sky accused of deceiving organisers over Froome’s status
 
 
 
+=======
+
+
+
+Costa strikes to end Wenger's Europa League dream
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1637,6 +1879,7 @@ Arsène Wenger was ‘very sad’ after Atlético ruined his fairytale ending as
 
 
 
+<<<<<<< HEAD
 Wenger ‘very sad’ after Atlético ruin fairytale finish
 
  
@@ -1652,15 +1895,26 @@ Wenger ‘very sad’ after Atlético ruin fairytale finish
 
 
 
+=======
+Giro d'Italia  Team Sky accused of deceiving organisers over Froome’s status 
+
+
+
+The Giro d’Italia is unhappy after paying €1.4m for the presence of the under-investigation Chris Froome, the French and Spanish Tour champion
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+Team Sky accused of deceiving organisers over Froome’s status
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1693,6 +1947,7 @@ Premier League: 10 things to look out for this weekend
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -1705,19 +1960,27 @@ F1  Drivers’ chief Wurz hails ‘change in philosophy’ on overtaking
 
 F1 drivers are delighted by new regulations aimed at improving chances of ‘natural’ overtaking and Wurz is optimistic about the sport’s future under new owners
 
+=======
+Golf  Tiger Woods in hunt at Quail Hollow with first-round 71 despite putting woes 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
+Woods shot an opening-round even par 71 at the Wells Fargo Championship, leaving him six shots behind leader John Peterson but in decent position
 
 
   The Recap Sign up for the best of our sport coverage  
 
 
 
+<<<<<<< HEAD
 
 
   The Recap Sign up for the best of our sport coverage  
 
+=======
+Tiger Woods in hunt at Quail Hollow with first-round 71 despite putting woes
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 Drivers’ chief Wurz hails ‘change in philosophy’ on overtaking
 
@@ -1743,10 +2006,18 @@ Drivers’ chief Wurz hails ‘change in philosophy’ on overtaking
 
 
 
+<<<<<<< HEAD
 Europa League  Rolando fires Marseille past Salzburg and into final 
 
 
 
+=======
+F1  Drivers’ chief Wurz hails ‘change in philosophy’ on overtaking 
+
+
+
+F1 drivers are delighted by new regulations aimed at improving chances of ‘natural’ overtaking and Wurz is optimistic about the sport’s future under new owners
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1755,13 +2026,24 @@ Rolando fires Marseille past Salzburg and into final
  
 
 
+<<<<<<< HEAD
+=======
+  The Recap Sign up for the best of our sport coverage  
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
+<<<<<<< HEAD
 
 
+=======
+  The Recap Sign up for the best of our sport coverage  
+
+
+Drivers’ chief Wurz hails ‘change in philosophy’ on overtaking
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1786,18 +2068,26 @@ Real Madrid should fear Liverpool in final, says Lovren
 
 
 
+<<<<<<< HEAD
+
+
+
+
+
+=======
+Europa League  Rolando fires Marseille past Salzburg and into final 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
 
-
-
-
-
-
+=======
+Rolando fires Marseille past Salzburg and into final
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 The Rumour Mill  Eriksen and Kanté to PSG? Sandro to Manchester United? 
 
@@ -1820,15 +2110,23 @@ Eriksen and Kanté to PSG? Sandro to Manchester United?
 
 
 
+<<<<<<< HEAD
+
+=======
+Football  Real Madrid should fear Liverpool in final, says Lovren 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
-
+<<<<<<< HEAD
 Golf  Tiger Woods in hunt at Quail Hollow with first-round 71 despite putting woes 
 
+=======
+Real Madrid should fear Liverpool in final, says Lovren
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1854,6 +2152,10 @@ Tiger Woods in hunt at Quail Hollow with first-round 71 despite putting woes
 
 
 
+<<<<<<< HEAD
+=======
+Baseball  London Stadium set to host Red Sox-Yankees games next year 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1861,6 +2163,10 @@ Tiger Woods in hunt at Quail Hollow with first-round 71 despite putting woes
 
 email sign up
 
+<<<<<<< HEAD
+=======
+London Stadium set to host Red Sox-Yankees games next year
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1882,14 +2188,22 @@ Missing-mobile
 
 
 
+<<<<<<< HEAD
+
+
+=======
+Football  Shaqiri says Palace match is ‘a war we have to win’ 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
-
-
+<<<<<<< HEAD
+=======
+Shaqiri says Palace match is ‘a war we have to win’
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -2019,17 +2333,25 @@ The greatest Scottish indie bands – ranked!
 
 
 
+<<<<<<< HEAD
+=======
+Trevor Noah on Kanye West  
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+
+  Slavery was a choice – for white people 
+
+
+
+Late-night hosts, including Samantha Bee and Stephen Colbert, discussed Kanye’s offensive comments and the downfall of Trump’s doctor
 
 
 
 
 
+Slavery was a choice – for white people
 
-
-
-
-
-
+ 
 
 
 
@@ -2053,17 +2375,29 @@ Auguste Rodin’s The Kiss: an adulterous couple transformed into everyday icons
 
 
 
+<<<<<<< HEAD
  
 
 
 
  
+=======
+Cinema  Why Polish gangster films 'on steroids' are making it big in Britain 
+
+
+
+With titles such as Pitbull and Mafia Women, violent Polish-language thrillers are proving a cult success – some even denting the UK top 10. But can they win over mainstream audiences?
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
  
 
 
+<<<<<<< HEAD
+=======
+Why Polish gangster films 'on steroids' are making it big in Britain
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -2092,6 +2426,10 @@ Leon Bridges: Good Thing review  Polished soul voice makes pop his own
 
  
 
+<<<<<<< HEAD
+=======
+The Crown  Helena Bonham Carter to play Princess Margaret 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
  
@@ -2101,6 +2439,10 @@ Leon Bridges: Good Thing review  Polished soul voice makes pop his own
  
 
 
+<<<<<<< HEAD
+=======
+Helena Bonham Carter to play Princess Margaret
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -2125,12 +2467,20 @@ Polished soul voice makes pop his own
 
 
 
+<<<<<<< HEAD
+=======
+Royal wedding  Kirsty Young and Dermot O'Leary to front BBC coverage 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Kirsty Young and Dermot O'Leary to front BBC coverage
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -2155,6 +2505,22 @@ In Bolivia, my body was a beacon, a good omen
 
 
 
+<<<<<<< HEAD
+=======
+Big time sensuality  Hyper Björk ballet unveiled in San Francisco 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+ 
+
+
+
+ 
+
+
+<<<<<<< HEAD
+=======
+Hyper Björk ballet unveiled in San Francisco
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -2168,11 +2534,6 @@ In Bolivia, my body was a beacon, a good omen
 
 
 
- 
-
-
-
- 
 
 
 
@@ -2182,9 +2543,10 @@ In Bolivia, my body was a beacon, a good omen
 
 
 
-
-
-
+<<<<<<< HEAD
+=======
+'You could not have given us a bigger middle finger'  Liz Phair on how Trump changed her music for ever 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -2192,6 +2554,10 @@ The Rain review  Netflix brings post-apocalyptic thrills to Denmark
 
 
 
+<<<<<<< HEAD
+=======
+Liz Phair on how Trump changed her music for ever
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -2248,15 +2614,25 @@ Lifestyle
 
 
 
+<<<<<<< HEAD
+=======
+Health  Child mortality rate 'one and a half times higher in England than in Sweden' 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+
+
+More than 6,000 fewer children would have died between 2003 and 2012 if England’s rate had been the same as Sweden’s, researchers said
 
 
 
 
 
+Child mortality rate 'one and a half times higher in England than in Sweden'
 
-
-
-
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -2280,7 +2656,14 @@ Turks don’t mince their words as they relish news that Ikea’s famous dish is
 
 Sweden admits meatballs are Turkish
 
+<<<<<<< HEAD
  
+=======
+Ugly trainers  Which pair are you? 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+
+Spring’s biggest footwear silhouette is bouncy, bulbous and even a bit ungainly. Fancy dipping a toe into the trend? Here’s how to embrace it, whatever your style
 
 
 
@@ -2288,14 +2671,18 @@ Sweden admits meatballs are Turkish
 
 
 
+ 
+Gallery
 
 
 
 
 
 
-
-
+<<<<<<< HEAD
+=======
+Which pair are you?
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -2321,14 +2708,26 @@ One traveller found that some airports can identify thieves – then but do noth
 
 
 
+<<<<<<< HEAD
+
+
+
+=======
+HTLV-1  Treat virus or risk it spreading widely, doctor who discovered it warns 
+
+
+
+Robert Gallo says prevalence in Indigenous communities is ‘extraordinary’ and if he lived in Australia he would be tested
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
-
-
-
+<<<<<<< HEAD
+=======
+Treat virus or risk it spreading widely, doctor who discovered it warns
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -2361,12 +2760,20 @@ It takes me longer to get aroused now
 
 
 
+<<<<<<< HEAD
+=======
+UK  Breast cancer screening helpline inundated with calls 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Breast cancer screening helpline inundated with calls
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -2391,8 +2798,24 @@ Treat virus or risk it spreading widely, doctor who discovered it warns
 
 
 
+<<<<<<< HEAD
 
 
+=======
+How to cook the perfect ...  Rhubarb crumble 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+ 
+
+
+
+ 
+
+
+<<<<<<< HEAD
+=======
+Rhubarb crumble
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -2406,11 +2829,6 @@ Treat virus or risk it spreading widely, doctor who discovered it warns
 
 
 
- 
-
-
-
- 
 
 
 
@@ -2422,9 +2840,10 @@ Treat virus or risk it spreading widely, doctor who discovered it warns
 
 
 
-
-
-
+<<<<<<< HEAD
+=======
+Alcohol  Do professional drinkers need to admit they have a problem? 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -2432,6 +2851,10 @@ Harry Potter  Hogwarts Mystery review: a shameless shake-down
 
 
 
+<<<<<<< HEAD
+=======
+Do professional drinkers need to admit they have a problem?
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -2439,6 +2862,14 @@ Harry Potter  Hogwarts Mystery review: a shameless shake-down
 
  
 
+
+ 
+
+
+  
+
+
+  More Lifestyle 
 
 
  
@@ -2478,15 +2909,27 @@ Hogwarts Mystery review: a shameless shake-down
 
 
 
+<<<<<<< HEAD
+=======
+Twitter  Company urges all users to change their password after bug discovered 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 Ugly trainers  Which pair are you? 
 
+<<<<<<< HEAD
+=======
+Company says it has fixed the internal glitch and has seen ‘no indication of breach or misuse’ but recommends precautionary steps
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Company urges all users to change their password after bug discovered
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 Gallery
@@ -2517,12 +2960,24 @@ Which pair are you?
 
 
 
+<<<<<<< HEAD
+=======
+VW emissions scandal  US charges ex-CEO with conspiracy and fraud 
+
+
+
+Michael Winterkorn becomes highest-ranking executive charged in ‘dieselgate’, in which VW tricked federal emissions testers
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
  Around the world 
 
 
+<<<<<<< HEAD
+=======
+US charges ex-CEO with conspiracy and fraud
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  Global development 
  World networks 
@@ -2534,18 +2989,30 @@ Which pair are you?
 
 
 
+<<<<<<< HEAD
+=======
+Rev Patrick Conroy  House chaplain nearly ousted by Paul Ryan rescinds resignation 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+House chaplain nearly ousted by Paul Ryan rescinds resignation
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Brexit  'Impossible challenge' for environment and trade departments 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -2553,6 +3020,10 @@ Which pair are you?
 
 Sicily  Cycle of exploitation proves relentless for African migrant workers 
 
+<<<<<<< HEAD
+=======
+'Impossible challenge' for environment and trade departments
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 Amid growing intolerance towards migrants working in Italy, the camps housing them are being razed – leaving them open to even worse abuses
@@ -2560,6 +3031,10 @@ Amid growing intolerance towards migrants working in Italy, the camps housing th
 
 
 
+<<<<<<< HEAD
+=======
+Economy  UK growth prediction for 2018 scaled back to 1.4% by thinktank 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 Cycle of exploitation proves relentless for African migrant workers
 
@@ -2568,18 +3043,30 @@ Cycle of exploitation proves relentless for African migrant workers
 
 
 
+<<<<<<< HEAD
+=======
+UK growth prediction for 2018 scaled back to 1.4% by thinktank
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+High times, low prices  Lidl offers locally grown cannabis to Swiss shoppers 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Lidl offers locally grown cannabis to Swiss shoppers
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -2587,6 +3074,10 @@ Cycle of exploitation proves relentless for African migrant workers
 Space  InSight: Nasa lander asks Mars the questions Earth can't answer 
 
 
+<<<<<<< HEAD
+=======
+'Condemned to misery'  Trump set to end protected status for Hondurans 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 Scientists hope latest mission will shed light on the similar processes believed to have formed both planets 4.5bn years ago
 
@@ -2594,7 +3085,11 @@ Scientists hope latest mission will shed light on the similar processes believed
 
 
 
+<<<<<<< HEAD
 InSight: Nasa lander asks Mars the questions Earth can't answer
+=======
+Trump set to end protected status for Hondurans
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -2602,6 +3097,10 @@ InSight: Nasa lander asks Mars the questions Earth can't answer
 
 
 
+<<<<<<< HEAD
+=======
+Greece  Riot police fire teargas at protest over EU migration policy 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 New Zealand  Prime minister pledges shelter for all homeless people within four weeks 
@@ -2609,6 +3108,13 @@ New Zealand  Prime minister pledges shelter for all homeless people within four 
 
 
 
+<<<<<<< HEAD
+=======
+Riot police fire teargas at protest over EU migration policy
+
+ 
+ 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 Prime minister pledges shelter for all homeless people within four weeks
@@ -2749,16 +3255,28 @@ In the rush to accommodate increasing numbers of electric cars, some cities are 
 
 
 
+<<<<<<< HEAD
+=======
+Music  How should white people talk about Kanye West? 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 Complaints as electric car points block city pavements
 
  
 
+<<<<<<< HEAD
+=======
+There are good reasons to be concerned about the very harmful comments that Kanye has been saying. But there’s one catch – you aren’t black, and Kanye is
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
+<<<<<<< HEAD
+=======
+How should white people talk about Kanye West?
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -2782,16 +3300,28 @@ People used to roll their eyes at my gloomy talk of climate change. Then the big
 
 
 
+<<<<<<< HEAD
+=======
+US  Hawaii becomes first state to ban sunscreens harmful to coral reefs 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 California burning: life among the wildfires
 
  
 
+<<<<<<< HEAD
+=======
+In a bid to protect its marine environment, Hawaii has passed a bill banning sunscreens using oxybenzone and octinoxate, chemicals seen as having ‘significant harmful impacts’ on ecosystems
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
+<<<<<<< HEAD
+=======
+Hawaii becomes first state to ban sunscreens harmful to coral reefs
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -2815,16 +3345,28 @@ There are good reasons to be concerned about the very harmful comments that Kany
 
 
 
+<<<<<<< HEAD
+=======
+'Strip you of your soul'  The toxic legacy of Canada's CIA brainwashing experiments 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 How should white people talk about Kanye West?
 
  
 
+<<<<<<< HEAD
+=======
+In the 1950s and 60s, a Canadian hospital subjected psychiatric patients to electroshocks, drug-induced sleep and huge doses of LSD. Families are still grappling with the effects
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
+<<<<<<< HEAD
+=======
+The toxic legacy of Canada's CIA brainwashing experiments
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -2853,15 +3395,23 @@ Cross Section  Carlo Rovelli – Science Weekly podcast
 
 
 
+<<<<<<< HEAD
  
 Podcast
+=======
+Cambridge Analytica  The six weeks that brought down data firm 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
 Carlo Rovelli – Science Weekly podcast
+=======
+The six weeks that brought down data firm
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -2884,14 +3434,22 @@ Carlo Rovelli – Science Weekly podcast
 
 
 
+<<<<<<< HEAD
 Off the map  The secret cities behind the atom bomb 
+=======
+The long read  Silicon Valley's new plan to sidestep the tech backlash 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
 The secret cities behind the atom bomb
+=======
+Silicon Valley's new plan to sidestep the tech backlash
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -2914,14 +3472,22 @@ The secret cities behind the atom bomb
 
 
 
+<<<<<<< HEAD
 Podcasts of the week  Sandra: Gimlet's siri drama starring Alia Shawkat 
+=======
+'We live as second-class citizens'  What it's like to face border agents every day 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
 
+<<<<<<< HEAD
 Sandra: Gimlet's siri drama starring Alia Shawkat
+=======
+What it's like to face border agents every day
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
  
@@ -3275,6 +3841,7 @@ Play Video
 
 
 Puerto Rico after Hurricane Maria  
+<<<<<<< HEAD
 
 
   We're American, too, why don't they help? 
@@ -3294,6 +3861,19 @@ Play Video
  
 
 
+=======
+
+
+  We're American, too, why don't they help? 
+
+ 9:50 
+
+
+
+
+Play Video
+
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -3377,10 +3957,17 @@ Gallery
 
 
 
+<<<<<<< HEAD
 Art Shay  Acclaimed photographer 
 
 
 Shay, who has died aged 96, photographed celebrities, politicians and ordinary Americans during a career that spanned 70 years. His work for publications including Time, Life and Sports Illustrated made him one of the most respected photojournalists of his generation
+=======
+Ice breakers  Finland's Unesco jetties 
+
+
+Photographer Olivier Morin has produced a series of aerial images of jetties on the frozen Gulf of Bothnia around the Unesco-protected islands of the Merenkurkku archipelago in western Finland
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -3396,7 +3983,11 @@ Gallery
 
 
 
+<<<<<<< HEAD
 Acclaimed photographer
+=======
+Finland's Unesco jetties
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -3458,8 +4049,15 @@ Finland's Unesco jetties
 
 
 
+<<<<<<< HEAD
 
 
+=======
+Digital art and a lofty greenhouse  Thursday's top photos 
+
+
+The Guardian’s picture editors bring you photo highlights from around the world
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -3475,6 +4073,10 @@ The Guardian’s picture editors bring you photo highlights from around the worl
 
 
 
+<<<<<<< HEAD
+=======
+Thursday's top photos
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 Gallery
@@ -3556,6 +4158,13 @@ Photographs then and now
 
 
 
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -3592,7 +4201,11 @@ Photographs then and now
 
   
 
+<<<<<<< HEAD
   Friday briefing: May survives first big test since general election 
+=======
+  MH370 search reveals clues to 19th century shipwreck mysteries 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -3612,7 +4225,11 @@ Photographs then and now
 
   
 
+<<<<<<< HEAD
   Revealed: UK’s push to strengthen anti-Russia alliance 
+=======
+  'Freak' dust storms in northern India kill more than 100 people 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -3632,7 +4249,11 @@ Photographs then and now
 
   
 
+<<<<<<< HEAD
   MH370 search reveals clues to 19th century shipwreck mysteries 
+=======
+  Indian tea seller caught using water from train toilet 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -3642,7 +4263,11 @@ Photographs then and now
 
   
 
+<<<<<<< HEAD
   Jacinda Ardern pledges shelter for all homeless people within four weeks 
+=======
+  EU defies Tory Brexiters in leaked plan to retain Westminster offices 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -3662,7 +4287,11 @@ Photographs then and now
 
   
 
+<<<<<<< HEAD
   Butchered rhino suggests humans were in the Philippines 700,000 years ago 
+=======
+  China deploys cruise missiles on South China Sea outposts – reports 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -3672,7 +4301,11 @@ Photographs then and now
 
   
 
+<<<<<<< HEAD
   Indian tea seller caught using water from train toilet 
+=======
+  Ice breakers: Finland's Unesco jetties - in pictures 
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
  
 
@@ -3692,11 +4325,15 @@ Photographs then and now
 
 
 
+<<<<<<< HEAD
 
 
 
 
                             {"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/books/2018/may/04/nobel-prize-for-literature-2018-cancelled-after-sexual-assault-scandal"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/us-news/2018/may/03/donald-trump-trade-economists-warning-great-depression"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/us-news/2018/may/04/hawaii-evacuations-ordered-as-kilauea-volcano-erupts"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/world/2018/may/03/revealed-uk-push-to-strengthen-anti-russia-alliance"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/politics/blog/live/2018/may/03/local-elections-council-england-2018-tories-labour-corbyn-may"},{"@type":"ListItem","position":5,"url":"https://www.theguardian.com/world/2018/may/04/italy-looks-set-for-fresh-elections-as-it-enters-third-month-without-government"},{"@type":"ListItem","position":6,"url":"https://www.theguardian.com/us-news/2018/may/03/trump-stormy-daniels-michael-cohen-campaign-money"},{"@type":"ListItem","position":7,"url":"https://www.theguardian.com/uk-news/2018/may/04/skripals-poisoned-by-novichok-in-liquid-form-watchdog-says"},{"@type":"ListItem","position":8,"url":"https://www.theguardian.com/us-news/2018/may/04/trump-tells-pentagon-to-sketch-out-south-korea-troop-cuts"},{"@type":"ListItem","position":9,"url":"https://www.theguardian.com/world/2018/may/04/senior-new-zealand-naval-officer-accused-of-hiding-camera-in-embassy-toilets"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":1,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/film/2018/may/04/cannes-crisis-lessons-weinstein-scandal"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/world/2018/may/04/paris-bike-share-scheme-velib-hi-tech-upgrade-problems"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/lifeandstyle/2018/may/04/experience-buried-alive-in-avalanche"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/stage/2018/may/03/big-time-sensuality-bjork-ballet-rave-puts-san-francisco-under-its-spell-unbound-festival"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/travel/2018/may/04/india-rail-trains-pilgrimmage-tamil-nadu-kerala"},{"@type":"ListItem","position":5,"url":"https://www.theguardian.com/world/2018/may/04/butchered-rhino-suggests-humans-were-in-the-philippines-700000-years-ago"},{"@type":"ListItem","position":6,"url":"https://www.theguardian.com/cities/2018/may/04/poo-patrol-how-doodoowatch-could-solve-our-cities-dog-mess-problems"},{"@type":"ListItem","position":7,"url":"https://www.theguardian.com/world/2018/may/03/mh370-search-offers-clues-for-19th-century-shipwreck-mysteries"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":2,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/commentisfree/2018/may/04/brexit-britain-political-pendulum-local-elections"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/commentisfree/2018/may/03/justin-trudeau-phony-war-against-inequality"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/commentisfree/2018/may/04/email-response-to-emails"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/commentisfree/2018/may/04/eta-ira-peace-northern-ireland-spain"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/commentisfree/2018/may/04/what-do-incels-fascists-and-terrorists-have-in-common-violent-misogyny"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":3,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/sport/2018/may/03/team-sky-chris-froome-giro-d-italia-accused-14m-mauro-vegni"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/football/2018/may/03/arsene-wenger-sad-cruel-arsenal-atletico-europa-league-defeat"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/football/blog/2018/may/04/premier-league-10-things-to-look-out-for-this-weekend"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/sport/blog/2018/may/03/f1-drivers-overtaking-alexander-wurz"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/football/2018/may/03/red-bull-salzburg-marseilles-europa-league-semi-final-second-leg-match-report"},{"@type":"ListItem","position":5,"url":"https://www.theguardian.com/football/2018/may/03/we-honestly-believe-we-can-beat-real-madrid-says-liverpools-sadio-mane"},{"@type":"ListItem","position":6,"url":"https://www.theguardian.com/football/2018/may/03/football-transfer-rumours-christian-eriksen-and-ngolo-kante-to-psg"},{"@type":"ListItem","position":7,"url":"https://www.theguardian.com/sport/2018/may/03/wells-fargo-championship-quail-hollow-first-round"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":4,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"snap/1525175299363"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":5,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/culture/2018/may/03/trevor-noah-on-kanye-west-slavery-was-a-choice-for-white-people"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/music/2018/may/04/the-greatest-scottish-indie-bands-ranked"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/artanddesign/2018/may/04/auguste-rodin-the-kiss"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/music/2018/may/04/leon-bridges-good-thing-review-polished-soul-voice-makes-pop-his-own"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/music/2018/may/04/transgender-producer-elysia-crampton-bolivia-aymaran-heritage"},{"@type":"ListItem","position":5,"url":"https://www.theguardian.com/tv-and-radio/2018/may/04/the-rain-review-netflix-brings-post-apocalyptic-thrills-to-denmark"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":6,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/world/2018/may/03/my-whole-life-has-been-a-lie-sweden-admits-meatballs-are-turkish"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/money/2018/may/04/my-1000-macbook-air-was-stolen-at-airport-security-and-no-one-cares"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/lifeandstyle/2018/may/04/my-life-sex-new-mum"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/society/2018/may/04/treat-htlv-1-virus-or-risk-it-spreading-widely-doctor-who-discovered-it-warns"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/games/2018/may/04/harry-potter-hogwarts-mystery-review"},{"@type":"ListItem","position":5,"url":"https://www.theguardian.com/fashion/gallery/2018/may/03/ugly-trainers-which-pair-are-you"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":7,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/global-development/2018/may/04/exploitation-african-migrant-workers-sicily-campobello-di-mazara"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/science/2018/may/04/insight-nasa-lander-asks-mars-the-questions-earth-cant-answer"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/world/2018/may/04/jacinda-ardern-pledges-shelter-for-all-homeless-people-within-four-weeks"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/business/live/2018/may/04/us-trade-mission-hails-good-conversations-with-china-ahead-of-us-jobs-report-business-live"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/us-news/2018/may/03/rudy-giuliani-trump-friend-new-york-9-11"},{"@type":"ListItem","position":5,"url":"https://www.theguardian.com/politics/2018/may/04/eu-has-no-plans-to-downgrade-use-of-english-after-brexit"},{"@type":"ListItem","position":6,"url":"https://www.theguardian.com/global-development/2018/may/04/zimbabwe-moves-to-protect-women-from-spiralling-cervical-cancer-rates"},{"@type":"ListItem","position":7,"url":"https://www.theguardian.com/world/2018/may/04/qantas-planes-near-miss-take-off-aborted-perth-airport"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":8,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/cities/2018/may/04/charged-complaints-electric-car-points-pavements-pedestrians"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/news/2018/may/04/california-burning-life-among-the-wildfires-climate-change"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/music/commentisfree/2018/may/03/selects-how-should-white-people-talk-about-kanye-west"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/science/audio/2018/may/04/cross-section-carlo-rovelli-science-weekly-podcast"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/cities/2018/may/03/off-the-map-the-secret-cities-behind-the-atom-bomb-manhattan-project"},{"@type":"ListItem","position":5,"url":"https://www.theguardian.com/tv-and-radio/2018/may/04/sandra-gimlets-siri-drama-starring-alia-shawkat-podcasts-of-the-week"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":9,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"snap/1486403500105"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":10,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/weather/2018/apr/09/six-virunga-park-rangers-killed-in-drc-wildlife-sanctuary"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/environment/2018/mar/31/madagascars-vanilla-wars-prized-spice-drives-death-and-deforestation"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/environment/ng-interactive/2018/feb/27/the-defenders-recording-the-deaths-of-environmental-defenders-around-the-world"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/environment/2018/mar/23/keep-off-our-land-indigenous-women-tell-ecuadors-president"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":11,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/us-news/video/2018/may/04/ntsb-releases-footage-showing-near-disaster-on-san-francisco-runway-video"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/uk-news/video/2018/apr/27/windrush-citizens-its-like-having-your-world-torn-apart-video"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/football/video/2018/apr/26/wembley-stadium-key-moments-from-its-history-video"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/world/video/2018/apr/30/puerto-rico-after-hurricane-maria-were-american-too-why-dont-they-help"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":12,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/fashion/gallery/2018/may/04/give-them-a-try-12-of-the-best-rugby-shirts-for-men-in-pictures"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/artanddesign/gallery/2018/may/03/art-shay-acclaimed-photographer-in-pictures"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/world/gallery/2018/may/03/ice-breakers-finland-unesco-jetties-in-pictures"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/news/gallery/2018/may/03/digital-art-and-a-lofty-greenhouse-thursdays-top-photos"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/uk-news/2018/may/03/motor-mouths-an-audiovisual-guide-to-the-uk-car-industry-in-pictures"},{"@type":"ListItem","position":5,"url":"https://www.theguardian.com/artanddesign/2018/may/02/protests-in-paris-may-1968-photographs-then-and-now"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":13,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/world/2018/may/04/paris-bike-share-scheme-velib-hi-tech-upgrade-problems"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/world/2018/may/04/friday-briefing-local-elections-how-england-voted"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/world/2018/may/03/my-whole-life-has-been-a-lie-sweden-admits-meatballs-are-turkish"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/world/2018/may/03/revealed-uk-push-to-strengthen-anti-russia-alliance"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/world/2018/may/04/senior-new-zealand-naval-officer-accused-of-hiding-camera-in-embassy-toilets"},{"@type":"ListItem","position":5,"url":"https://www.theguardian.com/world/2018/may/03/mh370-search-offers-clues-for-19th-century-shipwreck-mysteries"},{"@type":"ListItem","position":6,"url":"https://www.theguardian.com/world/2018/may/04/jacinda-ardern-pledges-shelter-for-all-homeless-people-within-four-weeks"},{"@type":"ListItem","position":7,"url":"https://www.theguardian.com/world/2018/may/04/qantas-planes-near-miss-take-off-aborted-perth-airport"},{"@type":"ListItem","position":8,"url":"https://www.theguardian.com/world/2018/may/04/butchered-rhino-suggests-humans-were-in-the-philippines-700000-years-ago"},{"@type":"ListItem","position":9,"url":"https://www.theguardian.com/world/2018/may/03/indian-tea-seller-caught-using-water-from-train-toilet"},{"@type":"ListItem","position":10,"url":"https://www.theguardian.com/world/2018/may/04/italy-looks-set-for-fresh-elections-as-it-enters-third-month-without-government"},{"@type":"ListItem","position":11,"url":"https://www.theguardian.com/world/gallery/2018/may/03/ice-breakers-finland-unesco-jetties-in-pictures"},{"@type":"ListItem","position":12,"url":"https://www.theguardian.com/world/2018/may/03/lidl-locally-grown-cannabis-switzerland"},{"@type":"ListItem","position":13,"url":"https://www.theguardian.com/world/2018/may/03/eu-plans-to-retain-westminster-offices-former-tory-hq"},{"@type":"ListItem","position":14,"url":"https://www.theguardian.com/world/video/2018/may/03/is-this-the-most-communist-graveyard-in-the-uk"},{"@type":"ListItem","position":15,"url":"https://www.theguardian.com/world/2018/may/03/freak-dust-storms-in-northern-india-kill-at-least-100-people"},{"@type":"ListItem","position":16,"url":"https://www.theguardian.com/world/2018/may/03/greek-riot-police-teargas-protest-eu-migration-policy-lesbos"},{"@type":"ListItem","position":17,"url":"https://www.theguardian.com/world/2018/may/03/montreal-brainwashing-allan-memorial-institute"},{"@type":"ListItem","position":18,"url":"https://www.theguardian.com/world/2018/may/03/china-deploys-cruise-missiles-on-south-china-sea-outposts-reports"},{"@type":"ListItem","position":19,"url":"https://www.theguardian.com/world/2018/may/02/lost-in-translation-macron-thanks-australian-pms-delicious-wife"}],"@type":"ItemList","@context":"http://schema.org"}}],"@type":"ItemList","@context":"http://schema.org"}
+=======
+                            {"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/world/2018/may/03/revealed-uk-push-to-strengthen-anti-russia-alliance"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/world/2018/may/03/eu-plans-to-retain-westminster-offices-former-tory-hq"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/us-news/2018/may/03/trump-stormy-daniels-michael-cohen-campaign-money"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/sport/2018/may/04/all-in-writer-puts-poker-book-on-hold-after-making-200000-playing-the-game"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/world/2018/may/04/senior-new-zealand-naval-officer-accused-of-hiding-camera-in-embassy-toilets"},{"@type":"ListItem","position":5,"url":"https://www.theguardian.com/world/2018/may/02/sao-paolo-fire-building-collapse-squatting-housing-crisis"},{"@type":"ListItem","position":6,"url":"https://www.theguardian.com/uk-news/2018/may/03/home-office-official-tells-man-facing-deportation-my-job-is-to-piss-you-off"},{"@type":"ListItem","position":7,"url":"https://www.theguardian.com/uk-news/2018/may/04/skripals-poisoned-by-novichok-in-liquid-form-watchdog-says"},{"@type":"ListItem","position":8,"url":"https://www.theguardian.com/us-news/2018/may/03/martial-law-scare-russian-bots-michael-hayden-jade-helm"},{"@type":"ListItem","position":9,"url":"https://www.theguardian.com/uk-news/2018/may/03/met-dismisses-police-spy-who-tricked-activist-into-sexual-relationship-jim-boyling"},{"@type":"ListItem","position":10,"url":"https://www.theguardian.com/us-news/2018/may/03/pentagon-china-lasers-djibouti-military-base"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":1,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/world/2018/may/03/mh370-search-offers-clues-for-19th-century-shipwreck-mysteries"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/environment/2018/may/03/future-sailors-what-will-ships-look-like-in-30-years"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/us-news/video/2018/may/04/ntsb-releases-footage-showing-near-disaster-on-san-francisco-runway-video"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/world/2018/may/03/my-whole-life-has-been-a-lie-sweden-admits-meatballs-are-turkish"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/film/2018/may/03/roman-polanski-bill-cosby-expelled-film-academy"},{"@type":"ListItem","position":5,"url":"https://www.theguardian.com/cities/2018/may/03/off-the-map-the-secret-cities-behind-the-atom-bomb-manhattan-project"},{"@type":"ListItem","position":6,"url":"https://www.theguardian.com/us-news/2018/may/03/rudy-giuliani-trump-friend-new-york-9-11"},{"@type":"ListItem","position":7,"url":"https://www.theguardian.com/film/2018/may/03/theres-this-idea-that-mothers-are-completely-selfless-diablo-cody-on-tully-and-the-juno-backlash"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":2,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/commentisfree/2018/may/03/ireland-cervical-cancer-scandal-vicky-phelan"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/commentisfree/2018/may/03/kanye-west-slavery-choice-ben-carson"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/commentisfree/2018/may/03/harry-meghan-pay-as-you-go-wedding-commoners-royal-wedding"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/commentisfree/2018/may/03/recovering-alcoholic-minimum-booze-pricing-scotland-poverty-drink"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/commentisfree/2018/may/03/lemonade-america-healthcare-nemiah-martinez"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":3,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/football/2018/may/03/atletico-madrid-arsenal-europa-league-semi-final-match-report"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/sport/2018/may/03/team-sky-chris-froome-giro-d-italia-accused-14m-mauro-vegni"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/sport/2018/may/03/wells-fargo-championship-quail-hollow-first-round"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/sport/blog/2018/may/03/f1-drivers-overtaking-alexander-wurz"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/football/2018/may/03/red-bull-salzburg-marseilles-europa-league-semi-final-second-leg-match-report"},{"@type":"ListItem","position":5,"url":"https://www.theguardian.com/football/2018/may/03/we-honestly-believe-we-can-beat-real-madrid-says-liverpools-sadio-mane"},{"@type":"ListItem","position":6,"url":"https://www.theguardian.com/sport/2018/may/03/red-sox-yankees-mlb-london-games-olympic-stadium-baseball"},{"@type":"ListItem","position":7,"url":"https://www.theguardian.com/football/2018/may/03/stoke-city-xherdan-shaqiri-crystal-palace-premier-league-future"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":4,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"snap/1525175299363"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":5,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/culture/2018/may/03/trevor-noah-on-kanye-west-slavery-was-a-choice-for-white-people"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/film/2018/may/03/why-polish-gangster-films-on-steroids-are-making-it-big-at-the-british-box-office"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/tv-and-radio/2018/may/03/helena-bonham-carter-princess-margaret-the-crown-netflix"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/uk-news/2018/may/04/kirsty-young-dermot-oleary-bbc-royal-wedding-coverage"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/stage/2018/may/03/big-time-sensuality-bjork-ballet-rave-puts-san-francisco-under-its-spell-unbound-festival"},{"@type":"ListItem","position":5,"url":"https://www.theguardian.com/music/2018/may/03/liz-phair-trump-change-her-music-exile-in-guyville-25-years"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":6,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/society/2018/may/03/child-mortality-rate-one-and-a-half-times-higher-in-england-than-in-sweden"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/fashion/gallery/2018/may/03/ugly-trainers-which-pair-are-you"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/society/2018/may/04/treat-htlv-1-virus-or-risk-it-spreading-widely-doctor-who-discovered-it-warns"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/society/2018/may/03/breast-cancer-screening-helpline-inundated-calls-unnecessary-anxiety"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/lifeandstyle/2018/may/03/how-to-make-the-perfect-rhubarb-crumble"},{"@type":"ListItem","position":5,"url":"https://www.theguardian.com/society/shortcuts/2018/may/02/professional-drinkers-must-admit-problem"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":7,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/technology/2018/may/03/twitter-change-password-bug-discovered"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/business/2018/may/03/vw-emissions-cheating-michael-winterkorn-charged"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/us-news/2018/may/03/house-chaplain-patrick-conroy-rescinds-resignation-paul-ryan"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/politics/2018/may/04/brexit-impossible-challenge-for-environment-and-trade-departments"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/business/2018/may/04/uk-growth-prediction-2018-scaled-back-by-thinktank-niesr"},{"@type":"ListItem","position":5,"url":"https://www.theguardian.com/world/2018/may/03/lidl-locally-grown-cannabis-switzerland"},{"@type":"ListItem","position":6,"url":"https://www.theguardian.com/us-news/2018/may/03/trump-temporary-protected-status-hondurans"},{"@type":"ListItem","position":7,"url":"https://www.theguardian.com/world/2018/may/03/greek-riot-police-teargas-protest-eu-migration-policy-lesbos"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":8,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/global-development/2018/apr/24/bangladeshi-police-target-garment-workers-union-rana-plaza-five-years-on"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/fashion/2018/apr/24/fashion-revolution-week-seven-ways-to-get-involved"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":9,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/music/commentisfree/2018/may/03/selects-how-should-white-people-talk-about-kanye-west"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/travel/2018/may/03/hawaii-becomes-first-us-state-to-ban-sunscreens-harmful-to-coral-reefs"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/world/2018/may/03/montreal-brainwashing-allan-memorial-institute"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/uk-news/2018/may/03/cambridge-analytica-closing-what-happened-trump-brexit"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/news/2018/may/03/why-silicon-valley-cant-fix-itself-tech-humanism"},{"@type":"ListItem","position":5,"url":"https://www.theguardian.com/us-news/2018/may/03/border-patrol-agents-second-class-citizens"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":10,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"snap/1486403500105"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":11,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/weather/2018/apr/09/six-virunga-park-rangers-killed-in-drc-wildlife-sanctuary"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/environment/2018/mar/31/madagascars-vanilla-wars-prized-spice-drives-death-and-deforestation"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/environment/ng-interactive/2018/feb/27/the-defenders-recording-the-deaths-of-environmental-defenders-around-the-world"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/environment/2018/mar/23/keep-off-our-land-indigenous-women-tell-ecuadors-president"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":12,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/us-news/video/2018/may/04/ntsb-releases-footage-showing-near-disaster-on-san-francisco-runway-video"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/uk-news/video/2018/apr/27/windrush-citizens-its-like-having-your-world-torn-apart-video"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/football/video/2018/apr/26/wembley-stadium-key-moments-from-its-history-video"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/world/video/2018/apr/30/puerto-rico-after-hurricane-maria-were-american-too-why-dont-they-help"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":13,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/artanddesign/gallery/2018/may/03/art-shay-acclaimed-photographer-in-pictures"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/world/gallery/2018/may/03/ice-breakers-finland-unesco-jetties-in-pictures"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/uk-news/2018/may/03/motor-mouths-an-audiovisual-guide-to-the-uk-car-industry-in-pictures"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/news/gallery/2018/may/03/digital-art-and-a-lofty-greenhouse-thursdays-top-photos"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/stage/gallery/2018/may/03/amazing-grace-45-years-of-cloud-gate-dance-theatre-in-pictures"},{"@type":"ListItem","position":5,"url":"https://www.theguardian.com/artanddesign/2018/may/02/protests-in-paris-may-1968-photographs-then-and-now"}],"@type":"ItemList","@context":"http://schema.org"}},{"@type":"ListItem","position":14,"item":{"url":"https://www.theguardian.com/international","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.theguardian.com/world/2018/may/03/my-whole-life-has-been-a-lie-sweden-admits-meatballs-are-turkish"},{"@type":"ListItem","position":1,"url":"https://www.theguardian.com/world/2018/may/03/mh370-search-offers-clues-for-19th-century-shipwreck-mysteries"},{"@type":"ListItem","position":2,"url":"https://www.theguardian.com/world/2018/may/03/revealed-uk-push-to-strengthen-anti-russia-alliance"},{"@type":"ListItem","position":3,"url":"https://www.theguardian.com/world/2018/may/03/freak-dust-storms-in-northern-india-kill-at-least-100-people"},{"@type":"ListItem","position":4,"url":"https://www.theguardian.com/world/2018/may/03/montreal-brainwashing-allan-memorial-institute"},{"@type":"ListItem","position":5,"url":"https://www.theguardian.com/world/2018/may/03/indian-tea-seller-caught-using-water-from-train-toilet"},{"@type":"ListItem","position":6,"url":"https://www.theguardian.com/world/2018/may/03/eu-plans-to-retain-westminster-offices-former-tory-hq"},{"@type":"ListItem","position":7,"url":"https://www.theguardian.com/world/2018/may/03/lidl-locally-grown-cannabis-switzerland"},{"@type":"ListItem","position":8,"url":"https://www.theguardian.com/world/2018/may/03/china-deploys-cruise-missiles-on-south-china-sea-outposts-reports"},{"@type":"ListItem","position":9,"url":"https://www.theguardian.com/world/gallery/2018/may/03/ice-breakers-finland-unesco-jetties-in-pictures"},{"@type":"ListItem","position":10,"url":"https://www.theguardian.com/world/2018/may/02/sao-paolo-fire-building-collapse-squatting-housing-crisis"},{"@type":"ListItem","position":11,"url":"https://www.theguardian.com/world/2018/may/01/british-wildlife-park-owner-mauled-by-lion-in-south-africa"},{"@type":"ListItem","position":12,"url":"https://www.theguardian.com/world/2018/may/02/lost-in-translation-macron-thanks-australian-pms-delicious-wife"},{"@type":"ListItem","position":13,"url":"https://www.theguardian.com/world/2018/may/03/greek-riot-police-teargas-protest-eu-migration-policy-lesbos"},{"@type":"ListItem","position":14,"url":"https://www.theguardian.com/world/2018/may/03/pakistan-province-tells-red-bull-and-its-rivals-to-drop-energy-tag"},{"@type":"ListItem","position":15,"url":"https://www.theguardian.com/world/2018/may/04/senior-new-zealand-naval-officer-accused-of-hiding-camera-in-embassy-toilets"},{"@type":"ListItem","position":16,"url":"https://www.theguardian.com/world/2018/may/03/turkey-meral-aksener-time-for-the-men-in-power-to-feel-fear"},{"@type":"ListItem","position":17,"url":"https://www.theguardian.com/world/2018/may/03/russian-jet-crashes-after-takeoff-from-syria-airbase-killing-crew"},{"@type":"ListItem","position":18,"url":"https://www.theguardian.com/world/video/2018/may/03/is-this-the-most-communist-graveyard-in-the-uk"},{"@type":"ListItem","position":19,"url":"https://www.theguardian.com/world/2018/may/03/duttons-home-affairs-department-argues-against-restrictions-on-facial-recognition"}],"@type":"ItemList","@context":"http://schema.org"}}],"@type":"ItemList","@context":"http://schema.org"}
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
                         
 
 
@@ -3704,10 +4341,17 @@ Topics
 
 
   Europe  
+<<<<<<< HEAD
   Asia Pacific  
   Photography  
   Donald Trump  
   France  
+=======
+  Health  
+  Photography  
+  Americas  
+  European Union  
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 

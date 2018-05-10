@@ -12,7 +12,11 @@ Access The Free Dictionary from Anywhere
 
 
 
+<<<<<<< HEAD
 _cb='?j';function ById(id){return document.getElementById(id)};var info={IsApp:0,word:'',Domain:'thefreedictionary.com',PageLang:'en',canonical:'https://www.thefreedictionary.com/download.htm',tab:1,isLogin:(/c\d\d[^;]*userTicket=[^;]*/.test(document.cookie)),a:'vi',isExtDomain:false},hp_title='Dictionary, Encyclopedia and Thesaurus - The Free Dictionary',abu='eqifgemdkvoviqjghqeogbsqrqqfvfpeo';(function(d,w){var t=/c11.*font=([12]\d)/g.exec(d.cookie);if(t&&t.length>1)d.documentElement.style.fontSize=t[1]+'px';w.bm='';var a=navigator.userAgent,e=a.indexOf('Trident/')>0||a.indexOf('MSIE')>0,f=w.sidebar,t=hp_title,u='http://www.thefreedictionary.com';if(e||f)w.bm='<li><a href="'+(e?'javascript:external.AddFavorite(\''+u+'\',\''+t+'\')':u)+'" title="'+t+'" rel="sidebar">Bookmark</a></li>'})(document,window);
+=======
+_cb='?j';function ById(id){return document.getElementById(id)};var info={IsApp:0,word:'',Domain:'thefreedictionary.com',PageLang:'en',canonical:'https://www.thefreedictionary.com/download.htm',tab:1,isLogin:(/c\d\d[^;]*userTicket=[^;]*/.test(document.cookie)),a:'vl',isExtDomain:false},hp_title='Dictionary, Encyclopedia and Thesaurus - The Free Dictionary',abu='rxzkrqjbxqnfhpztyhpegkwwwzsvsuwy';(function(d,w){var t=/c11.*font=([12]\d)/g.exec(d.cookie);if(t&&t.length>1)d.documentElement.style.fontSize=t[1]+'px';w.bm='';var a=navigator.userAgent,e=a.indexOf('Trident/')>0||a.indexOf('MSIE')>0,f=w.sidebar,t=hp_title,u='http://www.thefreedictionary.com';if(e||f)w.bm='<li><a href="'+(e?'javascript:external.AddFavorite(\''+u+'\',\''+t+'\')':u)+'" title="'+t+'" rel="sidebar">Bookmark</a></li>'})(document,window);
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 function waiting(id){ById(id).innerHTML='<img id="'+id+'_ld" width="16" height="16" src="//img.tfd.com/m/wait16.gif">';setTimeout(function(){if(ById(id+'_ld'))document.getElementById(id).innerHTML='Problem loading data'},10000)}
 
 
@@ -56,7 +60,11 @@ Access The Free Dictionary from Anywhere https://www.thefreedictionary.com/downl
 
 
 Dictionary, Encyclopedia and Thesaurus - The Free Dictionary
+<<<<<<< HEAD
 10,793,890,906 visitors served
+=======
+10,793,785,047 visitors served
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 Search / Page tools

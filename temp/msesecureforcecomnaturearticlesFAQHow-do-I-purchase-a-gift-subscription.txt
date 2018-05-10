@@ -1,0 +1,974 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+
+
+
+
+
+
+                
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+               
+      
+
+
+
+
+
+
+
+
+
+
+        
+                
+
+
+ 
+
+ 
+
+
+
+
+
+
+      
+
+ 
+
+
+
+
+
+
+
+	
+				
+
+        
+        
+  
+
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+ 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="[http://www.nature.com/common/xmdp-profiles/xoxo.html]">
+<!-- super head top -->
+
+<title>Submit your manuscript to npg : authors &amp; referees @ npg</title>
+<!-- metadata and links -->
+<meta name="robots" content="noarchive" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="authors &amp; referees @ npg provides guidance and access to all of nature publishing group journals' publication policies and services for authors and referees; provides a forum for discussion on science publishing issues; provides information a about science publishing in general and at nature publishing group, showcasing npg's science publishing programme of journals and online resources; provides news about nature publishing group." />
+<meta name="keywords" content="nature publishing group, nature, nature journals, publishing, science, scientists, research, researchers, science publishing, journal, journals, science communication, authors, referees, peer-review, peer-reviewers, publication policy, author services, scientific literature, scholarly publication, scientific publication, how to get published, getting published, guide to authors, science publishing news, faq, feedback, author policies, reviewer policy, editorial policy, editorial services, author services, referee services, site index, publications index, interface" />
+<link rel="shortcut icon" href="http://www.nature.com/favicon.ico" />
+<link rel="home" href="/authors/" title="home" />
+<link rel="help" title="help" href="/common/accessibility_statement.html" /><!-- end metadata and links -->
+
+<!-- metadata and links -->
+																																										
+	<link rel="stylesheet" type="text/css" href="/common/includes/header/03/style/header.css" />	<link rel="stylesheet" type="text/css" href="/common/includes/footer/03/style/footer.css" />
+		    <link rel="stylesheet" type="text/css" href="//www.nature.com/common/style/global.mobile.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/global.message.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/layout.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/layout_wide_banner.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/main.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/header_footer_smallfonts.css" />
+		    <link rel="stylesheet" type="text/css" href="/at_npg/style/group.css" />
+		    <link rel="stylesheet" type="text/css" href="/authors/style/site.css" />
+	<style type="text/css" media="screen, projection, print"><!--/*--><![CDATA[/*><!--*/
+
+	
+	 		@import "/common/style/restrict_width/966px.css";
+					
+
+			#hdr .login-nav {background-image: url(/authors/images/journal_header_v3.jpg);}
+		
+				
+/* end hide from mac ie */
+/*]]>*/--></style>
+
+<link rel="stylesheet" type="text/css" href="/common/style/print.css" media="print" title="Print Stylesheet" />
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+	(function() {
+		var elements = [];
+					elements.push('.nojava');
+				var c = elements.join(', ') + ' { display: none; } ';
+		var s = document.createElement('style');
+		s.type = 'text/css';
+		if (s.styleSheet) {
+			s.styleSheet.cssText = c;
+		} else {
+			s.appendChild(document.createTextNode(c));
+		}
+
+		(function() {
+			var head = document.getElementsByTagName('head');
+			if (head && head[0]) {
+				head[0].appendChild(s);
+			} else {
+				setTimeout(arguments.callee, 10);
+			}
+		})();
+	})();
+//--><!]]></script>
+
+
+
+
+
+
+
+
+
+																																																																																																												
+																					
+																																																																																																												
+																									<!--[if IE 8]>
+																<link rel="stylesheet" type="text/css" href="/common/style/ie-specific/ie-8.css" />
+								<![endif]-->
+	
+																																																																																			<!--[if lte IE 7]>
+														<link rel="stylesheet" type="text/css" href="/common/includes/header/03/style/ie-specific/lte-ie-7.css" />
+					<link rel="stylesheet" type="text/css" href="/common/style/ie-specific/lte-ie-7.css" />
+						<![endif]-->
+																																							
+																											<!--[if IE 7]>
+																<link rel="stylesheet" type="text/css" href="/common/includes/header/03/style/ie-specific/ie-7.css" />
+					<link rel="stylesheet" type="text/css" href="/common/style/ie-specific/ie-7.css" />
+								<![endif]-->
+	
+																																																																																																												
+																																	<!--[if IE 6]>
+							<script type="text/javascript" src="/common/scripts/ie-specific/ie-6.js"></script>
+																<link rel="stylesheet" type="text/css" href="/common/includes/header/03/style/ie-specific/ie-6.css" />
+					<link rel="stylesheet" type="text/css" href="/common/includes/footer/03/style/ie-specific/ie-6.css" />
+					<link rel="stylesheet" type="text/css" href="/common/style/ie-specific/ie-6.css" />
+					<link rel="stylesheet" type="text/css" href="/at_npg/style/ie-specific/ie-6.css" />
+					<link rel="stylesheet" type="text/css" href="/authors/style/ie-specific/ie-6.css" />
+								<![endif]-->
+	
+ <!-- super head bottom -->
+	<!-- resource metadata -->
+			
+		
+			
+	
+															
+		
+	
+	
+																																																			<meta name="DCS.dcssip" content="www.nature.com" />
+					<meta name="WT.tz" content="America/New_York" />
+					<meta name="Access" content="Yes" />
+					<meta name="WT.cg_n" content="Authors" />
+					<meta name="WT.cg_s" content="Home" />
+					<meta name="WT.i_dcsvid" content="" />
+					<meta name="WT.ec_id" content="" />
+				
+	<meta name="emanating" content="202X29X154X251" />
+
+
+
+
+
+
+			
+					<script type="text/javascript" src="//nexus.ensighten.com/npg/Bootstrap.js"></script>
+		
+			</head>
+
+<body class="www-nature-com-librarian" id="home">
+<!-- super body top -->
+
+
+																					
+
+
+
+			<div id="constrain"><div class="constrain">
+
+<div id="hdr"  class="show-eu-cookie-notice" >
+				<div class="eu-cookie-notice">
+			<div class="cookie-wrapper">
+				<form method="post" action="">
+					<p class="content">
+						<span class="icon"></span>We use cookies to improve your experience with our site.
+						<span class="tools"><button type="submit" name="cookies" value="accepted">Accept and close</button> | <a href="/info/cookies.html">More info</a>.</span>
+					</p>
+				</form>
+			</div>
+		</div>
+				<div class="publications-search" id="top">
+			<div class="publications">
+				<ul>
+														<li class="first jumplink"><a href="#content">Jump&nbsp;to&nbsp;main&nbsp;content</a></li>
+										<li class="jumplink"><a href="#journalnav">Jump&nbsp;to&nbsp;navigation</a></li>
+																		<li class="nature-link"><a href="/">nature.com<span class="hidden"> homepage</span></a></li>
+																	<li class="pub1"><a href="/siteindex/">Publications&nbsp;A-Z&nbsp;index</a></li><li><a href="/browse/">Browse&nbsp;by&nbsp;subject</a></li>								
+																																																																																																																	</ul>
+			</div>	
+		</div>
+	
+	
+	<span class="cleardiv"><!-- --></span>
+
+			<div class="leaderboard-links">
+									
+																																							
+			
+							<div class="user-services">
+																					<ul class="list">
+																						<li class="us-link li1"><a href="/nams/svc/myaccount">My account</a></li><li class="us-link li2"><a href="/authors/submit_manuscript.html" title="Submit  manuscript">Submit manuscript</a></li>															<li class="us-link li3"><a href="/register" title="Register with Nature.com">Register</a></li><li class="us-link li4"><a href="/authors/submit_manuscript.html" title="Subscribe to authors &amp; referees @ npg">Subscribe</a></li>													</ul>
+																<span class="cleardiv"><!-- --></span>
+								</div>
+						
+							<!-- leaderboard ad -->
+				<div class="leaderboard">
+										<div class="padder">
+												
+
+																				
+
+
+
+
+
+
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+	var include = '';
+
+	var wp = '';
+	if (wp != '') include += 'wp='+wp;
+	include += ';';
+
+	var rf = '';
+	if (rf != '') include += "rf="+rf;
+	include += ';';
+
+	var sp = '';
+	if (sp != '') include += "sp="+sp;
+	include += ";";
+
+	var ps = '';
+	if (ps != '') include += "ps="+ps;
+	include += ";";
+
+	var adinf = "lg=no;";
+
+	if(include != ";;;;")
+	{
+		adinf = include;
+	}
+
+	var time = new Date();
+	ordval= (time.getTime());
+
+		ord=Math.random()*10000000000000000;
+//--><!]]></script>
+ 
+																																																																																																													
+						
+																																																		<div class="adunit-leaderboard"> 
+			
+						
+			
+		
+							
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+									
+		
+	
+	
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+									<div id="div-gpt-ad-1" class="div-gpt-ad adunit-leaderboard" data-gpt-unitpath="/285/authors.nature.com/homepage" data-gpt-sizes="728x90" data-gpt-targeting="artid=submit_manuscript;pos=top;sz=728x90;tile=1">
+				<noscript>
+					<a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/authors.nature.com/homepage&amp;sz=728x90&amp;t=artid=submit_manuscript;pos=top;sz=728x90;tile=1&amp;c=7542035053358205">
+						<img src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/authors.nature.com/homepage&amp;sz=728x90&amp;t=artid=submit_manuscript;pos=top;sz=728x90;tile=1&amp;c=7542035053358205" alt="Advertisement" /></a>
+				</noscript>
+			</div>
+
+			</div> 		 
+	 
+	
+			 					</div>
+				</div>
+				<!-- end leaderboard ad -->
+					</div>
+		
+		<span class="cleardiv"><!-- --></span>
+		
+	<div class="login-nav">
+		
+						
+							
+						
+																	<div class="logon">
+																		
+													<p><a href="/foxtrot/svc/login" class="login" title="login to Nature.com">Login</a><a class="cart" href="/ecommerce/cart/list.action">Cart</a> 
+					</p>
+									</div>
+													
+														
+		<a href="/authors/" class="journal-header" title="authors &amp; referees @ npg homepage"><img src="/authors/images/journal_header_v3.jpg" alt="authors &amp; referees @ npg homepage" style="display:block;" class="journal-header-image" /></a>		
+				
+				<form class="search" action="/search/executeSearch?" method="get">
+			<div>
+				<label for="searchtext">Search</label>
+									<input type="hidden" name="sp-q-1" value="" />
+								<input type="text" id="searchtext" name="sp-q" value="" maxlength="200"/>
+												<input type="hidden" name="sp-c" value="25" />
+												<input type="hidden" name="sp-m" value="0" />
+												<input type="hidden" name="sp-s" value="" />
+																								
+														<input type="hidden" name="sp-a" value="sp1001702d" />
+										<input type="hidden" name="sp-sfvl-field" value="subject|ujournal" />
+										<input type="hidden" name="sp-t" value="results" />
+										<input type="hidden" name="sp-x-1" value="ujournal" />
+										<input type="hidden" name="sp-p-1" value="phrase" />
+										<input type="hidden" name="sp-p" value="all" />
+													<input type="submit" name="submit" class="button" value="go" title="search now" /> 					
+								<a href="/search/adv_search?sp-a=sp1001702d&amp;sp-x-1=ujournal">Advanced&nbsp;search</a>
+							</div>
+		</form>
+		
+							<span class="cleardiv"><!-- --></span>
+			</div>
+</div>
+
+
+		
+
+<div id="breadcrumb">
+	<div><a href="/authors/">authors &amp; referees</a><span class="divider"> &gt; </span> <span class="thisitem">Submit a Manuscript</span></div>
+</div>
+<!-- content and journal nav -->
+<div id="content-journalnav">
+	<!-- content -->
+	<div id="content">
+	 <h1 class="main">Submit a Manuscript</h1>
+	  <div class="content-section">
+
+
+
+<div class="box highlighted a2z">
+	<p>If you would like to submit an article to one of the following journals, please click on the journal name below and you will be taken to the logon screen for the journal manuscript tracking system or the journals home page for specific instructions on how to submit a manuscript.</p>
+
+	<p>Nature Research has introduced improvements to the manuscript tracking system used on many of our journals, designed to streamline your accounts with Nature Research journals and conveniently provide you with more information in one place. More information is provided when you log into the manuscript tracking system.</p>
+
+    <div class="box-item no-padding">
+        <ul class="a2z-index-list">
+
+
+		<li><h3 id="a" class="first">A</h3>
+                <ul>
+		    <li><a href="http://mc.manuscriptcentral.com/aphs">Acta Pharmacological Sinica</a></li>
+                    <li><a href="http://mc.manuscriptcentral.com/ajg">American Journal of Gastroenterology</a></li>
+                </ul>
+            </li>
+
+            <li><h3 id="b">B</h3>
+                <ul>
+		    <li><a href="http://mts-bdjopen.nature.com/cgi-bin/main.plex">BDJ Open</a></li>
+                    <li><a href="http://www.nature.com/bdjteam/contact/editorial-office">BDJ Team</a></li>
+                    <li><a href="http://mts-bcj.nature.com/cgi-bin/main.plex">Blood Cancer Journal</a></li>
+                    <li><a href="http://mts-bmt.nature.com/cgi-bin/main.plex">Bone Marrow Transplantation</a></li>
+                    <li><a href="http://mts-boneres.nature.com/cgi-bin/main.plex">Bone Research</a></li>
+                    <li><a href="/bdj/index.html">British Dental Journal</a></li>
+                    <li><a href="/bjc/authors/submit.html">British Journal of Cancer</a></li>
+                </ul>
+            </li>
+
+            <li><h3 id="c">C</h3>
+                <ul>
+                    <li><a href="http://mts-cgt.nature.com/cgi-bin/main.plex">Cancer Gene Therapy</a></li>
+                    <li><a href="http://mts-cdd.nature.com/cgi-bin/main.plex">Cell Death and Differentiation</a></li>
+                    <li><a href="http://mts-cddis.nature.com/cgi-bin/main.plex">Cell Death and Disease</a></li>
+		    <li><a href="http://mts-cddiscovery.nature.com/cgi-bin/main.plex">Cell Death Discovery</a></li>
+		    <li><a href="http://mts-celldisc.nature.com/cgi-bin/main.plex">Cell Discovery</a></li>
+		    <li><a href="http://mts-cr.nature.com/cgi-bin/main.plex">Cell Research</a></li>
+		    <li><a href="http://mts-cmi.nature.com/cgi-bin/main.plex">Cellular &amp; Molecular Immunology</a></li>
+		    <li><a href="http://mts-ctg.nature.com/cgi-bin/main.plex">Clinical and Translational Gastroenterology</a>
+		    <li><a href="http://mts-commsbio.nature.com/cgi-bin/main.plex">Communications Biology</a></li>
+		    <li><a href="http://mts-commschem.nature.com/cgi-bin/main.plex">Communications Chemistry</a></li>
+                    <li><a href="http://mts-commsphys.nature.com/cgi-bin/main.plex">Communications Physics</a></li> 
+                </ul>
+            </li>
+
+            <li><h3 id="e">E</h3>
+                <ul>
+                    <li><a href="http://mts-emi.nature.com/cgi-bin/main.plex">Emerging Microbes &amp; Infections</a></li>
+                    <li><a href="http://mts-ejcn.nature.com/cgi-bin/main.plex">European Journal of Clinical Nutrition</a></li>
+                    <li><a href="http://mts-ejhg.nature.com/cgi-bin/main.plex">European Journal of Human Genetics</a></li>
+                    <li><a href="http://mts-emm.nature.com/cgi-bin/main.plex">Experimental &amp; Molecular Medicine</a></li>
+                    <li><a href="http://mts-eye.nature.com/cgi-bin/main.plex">Eye</a></li>
+                </ul>
+            </li>
+
+            <li><h3 id="g">G</h3>
+                <ul>
+                    <li><a href="http://mts-gt.nature.com/cgi-bin/main.plex">Gene Therapy</a></li>
+                    <li><a href="http://mts-gene.nature.com/cgi-bin/main.plex">Genes and Immunity</a></li>
+                    <li><a href="http://www.editorialmanager.com/gim/">Genetics in Medicine</a></li>
+                </ul>
+            </li>
+
+            <li><h3 id="h">H</h3>
+                <ul>
+                    <li><a href="http://mts-hdy.nature.com/cgi-bin/main.plex">Heredity</a></li>
+                    <li><a href="http://mts-hortres.nature.com/cgi-bin/main.plex">Horticulture Research</a></li>
+		    <li><a href="http://mts-hgv.nature.com/cgi-bin/main.plex">Human Genome Variation</a></li>
+		    <li><a href="http://mc.manuscriptcentral.com/htr">Hypertension Research</a></li>
+                </ul>
+            </li>
+
+            <li><h3 id="i">I</h3>
+                <ul>
+                    <li><a href="http://mts-ijir.nature.com/cgi-bin/main.plex">International Journal of Impotence Research</a></li>
+                    <li><a href="http://mts-ijo.nature.com/cgi-bin/main.plex">International Journal of Obesity</a></li>
+                    <li><a href="http://mc03.manuscriptcentral.com/ijos">International Journal of Oral Science </a></li>
+		    <li><a href="http://mts-isme.nature.com/cgi-bin/main.plex">The ISME Journal</a></li>
+
+                </ul>
+            </li>
+
+            <li><h3 id="j">J</h3>
+                <ul>
+		    		<li><a href="http://mts-ja.nature.com/cgi-bin/main.plex">The Journal of Antibiotics</a></li>
+                    <li><a href="http://mc.manuscriptcentral.com/jesee/">Journal of Exposure Science and Environmental Epidemiology</a></li>
+		    		<li><a href="http://mts-jhg.nature.com/cgi-bin/main.plex">Journal of Human Genetics</a></li>
+                    <li><a href="http://mts-jhh.nature.com/cgi-bin/main.plex">Journal of Human Hypertension</a></li>
+		    		<li><a href="http://mts-jper.nature.com/cgi-bin/main.plex">Journal of Perinatology</a></li>
+                </ul>
+            </li>
+
+           
+            <li><h3 id="l">L</h3>
+                <ul>
+                    <li><a href="http://mts-li.nature.com/cgi-bin/main.plex">Laboratory Investigation</a></li>
+                    <li><a href="http://mts-leu.nature.com/cgi-bin/main.plex">Leukemia</a></li>
+                    <li><a href="http://mts-lsa.nature.com/cgi-bin/main.plex">Light Science &amp; Applications</a></li>
+                </ul>
+            </li>
+
+            <li><h3 id="m">M</h3>
+                <ul>
+                    <li><a href="http://mts-micronano.nature.com/cgi-bin/main.plex">Microsystems &amp; Nanoengineering</a></li>
+                    <li><a href="http://mts-mpa.nature.com/cgi-bin/main.plex">Modern Pathology</a></li>
+                    <li><a href="http://mts-mp.nature.com/cgi-bin/main.plex">Molecular Psychiatry</a></li>
+                   	<li><a href="http://mc.manuscriptcentral.com/mi">Mucosal Immunology</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div class="box highlighted a2z">
+	
+
+    <div class="box-item no-padding">
+        <ul class="a2z-index-list">
+            <li><h3 id="n" class="first">N</h3>
+                <ul>
+                    	<li><a href="http://mts-nature.nature.com/cgi-bin/main.plex">Nature</a></li>
+                    	<li><a href="http://mts-natastron.nature.com/cgi-bin/main.plex">Nature Astronomy</a></li>
+                    	<li><a href="http://mts-natbiomedeng.nature.com/cgi-bin/main.plex">Nature Biomedical Engineering</a></li>
+                        <li><a href="http://mts-nbt.nature.com/cgi-bin/main.plex">Nature Biotechnology</a></li>
+			<li><a href="http://mts-natcatal.nature.com/cgi-bin/main.plex">Nature Catalysis</a></li>
+			<li><a href="http://mts-ncb.nature.com/cgi-bin/main.plex">Nature Cell Biology</a></li>
+			<li><a href="http://mts-nchemb.nature.com/cgi-bin/main.plex">Nature Chemical Biology</a></li>
+			<li><a href="http://mts-nchem.nature.com/cgi-bin/main.plex">Nature Chemistry</a></li>
+			<li><a href="http://mts-nclim.nature.com/cgi-bin/main.plex">Nature Climate Change</a></li>
+			<li><a href="http://mts-ncomms.nature.com/cgi-bin/main.plex">Nature Communications</a></li>
+			<li><a href="http://mts-natecolevol.nature.com/cgi-bin/main.plex">Nature Ecology and Evolution</a></li>
+			<li><a href="http://mts-natelectron.nature.com/cgi-bin/main.plex">Nature Electronics</a></li>
+		        <li><a href="http://mts-nenergy.nature.com/cgi-bin/main.plex">Nature Energy</a></li>
+		        <li><a href="http://mts-ng.nature.com/cgi-bin/main.plex">Nature Genetics</a></li>
+			<li><a href="http://mts-ngs.nature.com/cgi-bin/main.plex">Nature Geoscience</a></li>
+			<li><a href="http://mts-nathumbehav.nature.com/cgi-bin/main.plex">Nature Human Behaviour</a></li>
+			<li><a href="http://mts-ni.nature.com/cgi-bin/main.plex">Nature Immunology</a></li>
+		        <li><a href="http://mts-nm.nature.com/cgi-bin/main.plex">Nature Materials</a></li>
+		        <li><a href="http://mts-nmed.nature.com/cgi-bin/main.plex">Nature Medicine</a></li>
+		        <li><a href="http://mts-nmeth.nature.com/cgi-bin/main.plex">Nature Methods</a></li>
+		        <li><a href="http://mts-nmicrobiol.nature.com/cgi-bin/main.plex">Nature Microbiology</a></li>
+			<li><a href="http://mts-nnano.nature.com/cgi-bin/main.plex">Nature Nanotechnology</a></li>
+		        <li><a href="http://mts-nn.nature.com/cgi-bin/main.plex">Nature Neuroscience</a></li>
+			<li><a href="http://mts-nphot.nature.com/cgi-bin/main.plex">Nature Photonics</a></li>
+			<li><a href="http://mts-nphys.nature.com/cgi-bin/main.plex">Nature Physics</a></li>
+		        <li><a href="http://mts-nplants.nature.com/cgi-bin/main.plex">Nature Plants</a></li>
+		        <li><a href="http://mts-np.nature.com/cgi-bin/main.plex">Nature Protocols</a></li>
+			<li><a href="http://mts-nsmb.nature.com/cgi-bin/main.plex">Nature Structural and Molecular Biology</a></li>
+            		<li><a href="http://mts-natsustain.nature.com/cgi-bin/main.plex">Nature Sustainability</a></li>
+            		<li><a href="http://mts-npp.nature.com/cgi-bin/main.plex">Neuropsychopharmacology</a></li>
+            		<li><a href="http://mts-nutd.nature.com/cgi-bin/main.plex">Nutrition &amp; Diabetes </a></li>
+            		<li><a href="http://mts-am.nature.com/cgi-bin/main.plex">NPG Asia Materials</a></li>
+            		<li><a href="http://mts-npj2dmaterials.nature.com/">npj 2D Materials and Applications</a></li>
+            		<li><a href="http://mts-npjamd.nature.com/cgi-bin/main.plex">npj Aging and Mechanisms of Disease</a></li>
+            		<li><a href="http://mts-npjbiofilms.nature.com/cgi-bin/main.plex">npj Biofilms and Microbiomes</a></li>
+            		<li><a href="http://mts-npjbcancer.nature.com/cgi-bin/main.plex">npj Breast Cancer</a></li>
+            		<li><a href="http://mts-npjcleanwater.nature.com/cgi-bin/main.plex">npj Clean Water</a></li>
+            		<li><a href="http://mts-npjclimatsci.nature.com/cgi-bin/main.plex ">npj Climate and Atmospheric Science</a></li>
+            		<li><a href="http://mts-npjcompumats.nature.com/cgi-bin/main.plex">npj Computational Materials</a></li>
+			<li><a href="http://mts-npjdigitalmed.nature.com/cgi-bin/main.plex">npj Digital Medicine</a></li>
+            		<li><a href="http://mts-npjflexelectron.nature.com/cgi-bin/main.plex">npj Flexible Electronics</a></li>
+            		<li><a href="http://mts-npjgenmed.nature.com/cgi-bin/main.plex">npj Genomic Medicine</a></li>
+            		<li><a href="http://mts-npjmatdeg.nature.com/cgi-bin/main.plex">npj Materials Degradation</a></li>
+            		<li><a href="http://mts-npjmgrav.nature.com/cgi-bin/main.plex">npj Microgravity</a></li>
+            		<li><a href="http://mts-npjmolphen.nature.com/cgi-bin/main.plex">npj Molecular Phenomics</a></li>
+            		<li><a href="http://mts-npjparkd.nature.com/cgi-bin/main.plex">npj Parkinson's Disease</a></li>
+            		<li><a href="http://mts-npjprecisiononcology.nature.com/cgi-bin/main.plex">npj Precision Oncology</a></li>
+            		<li><a href="http://mts-npjpcrm.nature.com/cgi-bin/main.plex">npj Primary Care Respiratory Medicine</a></li>
+            		<li><a href="http://mts-npjqi.nature.com/cgi-bin/main.plex">npj Quantum Information</a></li>
+            		<li><a href="http://mts-npjquantmats.nature.com/cgi-bin/main.plex">npj Quantum Materials</a></li>
+            		<li><a href="http://mts-npjregenmed.nature.com/cgi-bin/main.plex">npj Regenerative Medicine</a></li>
+            		<li><a href="http://mts-npjschz.nature.com/cgi-bin/main.plex">npj Schizophrenia</a></li>
+            		<li><a href="http://mts-npjscifood.nature.com/cgi-bin/main.plex">npj Science of Food</a></li>
+            		<li><a href="http://mts-npjscilearn.nature.com/cgi-bin/main.plex">npj Science of Learning</a></li>
+            		<li><a href="http://mts-npjsba.nature.com/cgi-bin/main.plex">npj Systems Biology and Applications</a></li>
+            		<li><a href="http://mts-npjvaccines.nature.com/cgi-bin/main.plex">npj Vaccines</a></li>
+                </ul>
+            </li>
+
+			<li><h3 id="o">O</h3>
+                <ul>
+                    	<li><a href="http://mts-onc.nature.com/cgi-bin/main.plex">Oncogene</a></li>
+		    	<li><a href="http://mts-oncsis.nature.com/cgi-bin/main.plex">Oncogenesis</a></li>
+                </ul>
+			</li>
+
+            <li><h3 id="p">P</h3>
+            	<ul>
+            		<li><a href="http://mts-pr.nature.com/cgi-bin/main.plex">Pediatric Research</a></li>
+			<li><a href="http://mts-tpj.nature.com/cgi-bin/main.plex/">The Pharmacogenomics Journal</a></li>
+                    	<li><a href="http://mts-pj.nature.com/cgi-bin/main.plex">Polymer Journal</a></li>
+			<li><a href="http://mts-pcan.nature.com/cgi-bin/main.plex">Prostate Cancer and Prostatic Diseases</a></li>
+                </ul>
+	    	</li>
+
+	    	<li><h3 id="s">S</h3>
+                <ul>
+                	<li><a href="http://mts-scidata.nature.com/cgi-bin/main.plex">Scientific Data</a></li>
+                	<li><a href="http://mts-srep.nature.com/cgi-bin/main.plex">Scientific Reports</a></li>
+                	<li><a href="http://mts-sigtrans.nature.com/cgi-bin/main.plex">Signal Transduction and Targeted Therapy</a></li>
+                	<li><a href="http://mts-sc.nature.com/cgi-bin/main.plex">Spinal Cord</a></li>
+		    	<li><a href="http://mts-scsandc.nature.com/cgi-bin/main.plex">Spinal Cord Series and Cases</a></li>
+                </ul>
+            </li>
+            
+            
+	    	<li><h3 id="t">T</h3>
+                <ul>
+                	<li><a href="http://mts-tp.nature.com/cgi-bin/main.plex">Translational Psychiatry </a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+	</div></div>
+	<!-- end content -->
+		<div id="journalnav">
+		<h1 class="hidden">Main navigation</h1><!-- necesssary for correct descending order heading hierarchy - do not remove! -->
+		<!-- whitespace removed to deal with IE5.0 PC bug. -->
+<map title="main journal navigation" id="main-journal-nav" class="journal-nav">
+	<ul class="xoxo">
+		<li><h2><span>Site content</span></h2>
+			<ul class="sections">
+				<li><a href="/authors">Homepage</a></li
+				>
+				<li><a href="/authors/policies/">Policies</a>				</li
+				>
+				<li><a href="/authors/author_resources/">Author resources</a></li
+				>
+				<li><a href="/authors/peer_review/">Peer review</a></li>
+				
+				
+
+				</li
+				>
+				
+
+
+<li><a href="/authors/open_access/">Open access</a>
+					
+				
+				
+				<li class=" last"><a href="/authors/sitemap/">Site map</a></li
+					
+			></ul>
+		</li
+	></ul>
+</map>
+<span class="cleardiv"><!-- --></span>
+				 
+<div id="global-subject-areas">
+	<h2><span><abbr title="Nature Research">Nature Research</abbr> Journals</span></h2>	
+	<h3 class="view">by Subject Area</h3>
+		<ul class="category-list">
+		<li><h4>Chemistry</h4>
+            <ul>
+                <li><a href="/chemistry/index.html">Chemistry</a></li>
+                <li><a href="/drugdisc/index.html">Drug discovery</a></li>
+		<li><a href="/biotech/index.html">Biotechnology</a></li>
+		<li><a href="/materials/index.html">Materials</a></li>
+		<li><a href="/protometh/index.html">Methods &amp; Protocols</a></li>
+            </ul>
+        </li>        <li><h4>Clinical Practice &amp; Research</h4>
+            <ul>
+                <li><a href="/cancer/index.html">Cancer</a></li>
+                <li><a href="/cardio/index.html">Cardiovascular medicine</a></li>
+                <li><a href="/endocrinology/index.html" title="">Endocrinology</a></li>
+                <li><a href="/gastrohep/index.html">Gastroenterology &amp; Hepatology</a></li>
+		<li><a href="/protometh/index.html">Methods &amp; Protocols</a></li>
+                <li><a href="/pathology/index.html">Pathology &amp; Pathobiology</a></li>
+                <li><a href="/urology/index.html">Urology</a></li>
+
+            </ul>
+        </li>        <li><h4>Earth &amp; Environment</h4>
+            <ul>
+                <li><a href="/earthsciences/index.html">Earth sciences</a></li>
+                <li><a href="/evoeco/index.html">Evolution &amp; Ecology</a></li>
+	
+            </ul>
+        </li>        <li><h4>Life sciences</h4>
+            <ul>
+		<li><a href="/biotech/index.html">Biotechnology</a></li>
+                <li><a href="/cancer/index.html">Cancer</a></li>
+                <li><a href="/development/index.html">Development</a></li>
+                <li><a href="/drugdisc/index.html">Drug discovery</a></li>
+                <li><a href="/evoeco/index.html">Evolution &amp; Ecology</a></li>
+                <li><a href="/genetics/index.html">Genetics</a></li>
+                <li><a href="/immuno/index.html">Immunology</a></li>
+                <li><a href="/medicalresearch/index.html">Medical research</a></li>
+				<li><a href="/protometh/index.html">Methods &amp; Protocols</a></li>
+                <li><a href="/micro/index.html">Microbiology</a></li>
+                <li><a href="/molcellbio/index.html">Molecular cell biology</a></li>
+                <li><a href="/neurosci/index.html">Neuroscience</a></li>
+                <li><a href="/pharma/index.html">Pharmacology</a></li>
+                <li><a href="/sysbio/index.html">Systems biology</a></li>
+            </ul>
+        </li>        <li><h4>Physical sciences</h4>
+            <ul>
+				<li><a href="/physics/index.html">Physics</a></li>
+				<li><a href="/materials/index.html">Materials</a></li>
+            </ul>
+        </li>	</ul>
+	
+	<h3 class="view"><a href="/siteindex/index.html" title="View A to Z list of Nature Publishing Group journals">by A - Z Index</a></h3>
+</div>
+	</div>
+	<!-- end journal nav -->
+</div>
+	<!-- end content and journal nav -->
+	<div id="extranav">
+		<h1 class="hidden">Extra navigation</h1><!-- necesssary for correct descending order heading hierarchy - do not remove! -->
+		<!-- skyscraper ad -->
+<div class="ad-rh skyscraper wide">
+<p>ADVERTISEMENT</p>
+
+
+																																																																																																													
+						
+																																																		<div class="adunit-leaderboard"> 
+			
+						
+			
+		
+							
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+									
+		
+	
+	
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+									<div id="div-gpt-ad-2" class="div-gpt-ad adunit-leaderboard" data-gpt-unitpath="/285/authors.nature.com/homepage" data-gpt-sizes="160x600" data-gpt-targeting="artid=submit_manuscript;pos=right;sz=160x600;tile=2">
+				<noscript>
+					<a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/authors.nature.com/homepage&amp;sz=160x600&amp;t=artid=submit_manuscript;pos=right;sz=160x600;tile=2&amp;c=812583830911108">
+						<img src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/authors.nature.com/homepage&amp;sz=160x600&amp;t=artid=submit_manuscript;pos=right;sz=160x600;tile=2&amp;c=812583830911108" alt="Advertisement" /></a>
+				</noscript>
+			</div>
+
+			</div> 		 
+	 
+	
+			 </div>
+<!-- end skyscraper ad -->	</div>
+	
+
+	
+
+
+
+<div class="cleardiv"><!-- --></div>
+
+
+	
+	
+	
+				
+
+			<p class="back-to-top hidden"><a href="#top" title="Return to the top of this page">Top</a></p>
+	
+	<div id="ftr" class="footer">
+				
+		<div class="footer-inner">
+
+		<div class="baseline-wrapper">
+													<ul class="footer-links baseline first">
+									<li><a href="/npg/">About us</a></li>
+														<li><a href="/npg_/contact/">Contact us</a></li>
+														<li><a href="/info/accessibility_statement.html">Accessibility statement</a></li>
+														<li><a href="/help/">Help</a></li>
+													</ul>
+							<ul class="footer-links baseline">
+									<li><a href="/info/privacy.html">Privacy policy</a></li>
+														<li><a href="/info/cookies.html">Use of cookies</a></li>
+														<li><a href="/info/legal_notice.html">Legal notice</a></li>
+														<li><a href="/info/tandc.html">Terms</a></li>
+													</ul>
+							<ul class="footer-links baseline last">
+									<li><a href="/naturejobs/">Nature<span class='hidden'> </span>jobs</a></li>
+														<li><a href="http://www.natureasia.com/">Nature Asia</a></li>
+														<li><a href="/scitable/">Nature Education</a></li>
+														<li><a href="/webfeeds/"><abbr title='RDF Site Summary'>RSS</abbr> web feeds</a></li>
+													</ul>
+			
+						<form action="/search/executeSearch" method="get" class="search-form baseline">
+				<fieldset>
+					<label for="footer-search">Search:</label>
+					<input type="text" id="footer-search" name="sp-q" value="" class="text" maxlength="200"/>
+					<input type="hidden" name="sp-p" value="all" />
+					<input type="hidden" name="sp-c" value="25" />
+					<input type="hidden" name="sp-m" value="0" />
+											<input type="hidden" name="sp-s" value="date_descending" />
+															<input type="submit" name="search" value="go" class="button" />
+				</fieldset>
+			</form>
+					</div>
+
+		<span class="cleardiv"><!-- --></span>
+
+					<div id="footer-copyright">
+				<ul class="logo">
+											<li>
+															<img width="140" height="15" alt="Springer Nature" class="logo-image" src="data:image/png;base64,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" />
+														&#169; 2018 Macmillan Publishers Limited, part of Springer Nature. All Rights Reserved.
+						</li>
+										<li> partner of <a href="/info/partners.html">AGORA, HINARI, OARE, INASP, ORCID, CrossRef, COUNTER and COPE</a></li>				</ul>
+			</div>
+				</div>
+	</div>
+
+	</div></div><!-- close constrain divs -->
+
+	<!-- super body bottom -->
+<div id="div-gpt-ad-3" class="ad adunit-out-of-page div-gpt-ad out-of-page" data-gpt-unitpath="/285/authors.nature.com/homepage" data-gpt-targeting="artid=submit_manuscript;pos=right;sz=160x600;tile=2"></div>
+<!-- super javascript -->
+
+
+
+																																			
+																																																
+																																<script type="text/javascript" src="/super/scripts/jquery.js?c=1525407119705"></script>
+																																		<script type="text/javascript" src="/common/scripts/jquery/plugins/cookie.js?c=1525407119705"></script>
+																																		<script type="text/javascript" src="/common/scripts/message.js?c=1525407119705"></script>
+																																		<script type="text/javascript" src="/common/scripts/preload.js?c=1525407119705"></script>
+																																		<script type="text/javascript" src="/at_npg/scripts/left-nav-hilite.js?c=1525407119705"></script>
+																																		<script type="text/javascript" src="/common/scripts/jquery/plugins/baseline.jquery.js?c=1525407119705"></script>
+																																		<script type="text/javascript" src="/common/scripts/global.baseline.js?c=1525407119705"></script>
+																																		<script type="text/javascript" src="/super/scripts/tsedge/tsedge_instr-min.js?c=1525407119705?c=1525407119705"></script>
+						
+	
+	<script type="text/javascript"><!--//--><![CDATA[//><!--
+	(function($) {
+		$('a.popup-this').bind('click', function() {
+			window.open(this.href);
+			return false;
+		});
+	})(jQuery);
+	//--><!]]></script>
+
+	
+
+																																																																																																																																																																																																																																								
+<!--[if IE 6]>
+<![endif]-->
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																
+ 
+
+
+
+
+
+
+	<script type="text/javascript" src="/common/scripts/global.webtrends.js"></script>
+	<noscript>
+		<div><img alt="" id="DCSIMG" width="1" height="1" src="//statse.webtrendslive.com/dcs0zztfg00000s969s37qoal_2f6z/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.55" /></div>
+	</noscript>
+
+<script src="https://verify.nature.com/verify/nature.js?nocallback=true"></script>
+<noscript>
+	<img src="https://verify.nature.com/verify/nature.png" alt="" width="0" height="0"/>
+</noscript>
+</body>
+</html>

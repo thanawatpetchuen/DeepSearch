@@ -352,8 +352,13 @@ if (window.archive_analytics) {
   var vs = window.archive_analytics.get_data_packets();
   for (var i in vs) {
     vs[i]['cache_bust']=Math.random();
+<<<<<<< HEAD
     vs[i]['server_ms']=75;
     vs[i]['server_name']="www30.us.archive.org";
+=======
+    vs[i]['server_ms']=31;
+    vs[i]['server_name']="www28.us.archive.org";
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
       }
 
   if ($(".more_search").size()>0) {

@@ -228,7 +228,11 @@ var IEEE_MASHUP_ENGINE_SERVER_URL = '';
 
 <input type="hidden" name="" value="false" id="checkForMembershipIncomplete"/>
 <input type="hidden" name="" value="false" id="mdlPromotion"/>
+<<<<<<< HEAD
 <input type="hidden" name="" value="org.ieee.ibp.ui.cart.web.action.quote.view.ViewCartTO@5a5c9ebe" id="ieeeMembershipProductInCart"/>
+=======
+<input type="hidden" name="" value="org.ieee.ibp.ui.cart.web.action.quote.view.ViewCartTO@6d46877e" id="ieeeMembershipProductInCart"/>
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 <input type="hidden" name="membershipComplete" value="" id="membershipComplete"/>
 <input type="hidden" name="model.blackoutPeriod" value="false" id="blackoutPeriod"/> 
 
@@ -236,14 +240,24 @@ var IEEE_MASHUP_ENGINE_SERVER_URL = '';
 <input type="hidden" name="model.proceedToCheckoutState" value="true" id="enableProceedCheckoutButton"/>
 <input type="hidden" name="model.placeOrderState" value="false" id="enablePlaceOrderButton"/>
 	
+<<<<<<< HEAD
 	<input type="hidden" name="" value="org.ieee.ibp.ui.cart.web.action.quote.view.ViewCartTO@5a5c9ebe" id="renewalQuotePending"/>
+=======
+	<input type="hidden" name="" value="org.ieee.ibp.ui.cart.web.action.quote.view.ViewCartTO@6d46877e" id="renewalQuotePending"/>
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 <input type="hidden" name="" value="false" id="showMergeRenewal"/>
 <input type="hidden" name="" value="" id="quoteGradeCode"/>
 
+<<<<<<< HEAD
 <input type="hidden" name="" value="org.ieee.ibp.ui.cart.web.action.quote.view.ViewCartTO@5a5c9ebe" id="customerGradeCode"/>
 	
 	<input type="hidden" name="" value="org.ieee.ibp.ui.cart.web.action.quote.view.ViewCartTO@5a5c9ebe" id="quoteType"/>
+=======
+<input type="hidden" name="" value="org.ieee.ibp.ui.cart.web.action.quote.view.ViewCartTO@6d46877e" id="customerGradeCode"/>
+	
+	<input type="hidden" name="" value="org.ieee.ibp.ui.cart.web.action.quote.view.ViewCartTO@6d46877e" id="quoteType"/>
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 	<input type="hidden" name="" value="false" id="membershipIncompleteCheckRequired"/>
 	<input type="hidden" name="" value="false" id="mdlPromotionCheckRequired"/>
 	<input type="hidden" name="" value="false" id="trialCheckRequired"/>

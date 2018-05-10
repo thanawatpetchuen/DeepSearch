@@ -1,0 +1,547 @@
+
+
+
+
+
+Submit your manuscript to npg : authors & referees @ npg
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+<!--/*--><![CDATA[/*><!--*/
+
+	
+	 		@import "/common/style/restrict_width/966px.css";
+					
+
+			#hdr .login-nav {background-image: url(/authors/images/journal_header_v3.jpg);}
+		
+				
+/* end hide from mac ie */
+/*]]>*/-->
+
+<!--//--><![CDATA[//><!--
+	(function() {
+		var elements = [];
+					elements.push('.nojava');
+				var c = elements.join(', ') + ' { display: none; } ';
+		var s = document.createElement('style');
+		s.type = 'text/css';
+		if (s.styleSheet) {
+			s.styleSheet.cssText = c;
+		} else {
+			s.appendChild(document.createTextNode(c));
+		}
+
+		(function() {
+			var head = document.getElementsByTagName('head');
+			if (head && head[0]) {
+				head[0].appendChild(s);
+			} else {
+				setTimeout(arguments.callee, 10);
+			}
+		})();
+	})();
+//--><!]]>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We use cookies to improve your experience with our site.
+						Accept and close | More info.
+
+
+
+
+
+
+
+Jump to main content
+Jump to navigation
+nature.com homepage
+Publications A-Z indexBrowse by subject
+
+
+
+
+
+
+
+My accountSubmit manuscript RegisterSubscribe 
+
+
+
+
+
+<!--//--><![CDATA[//><!--
+	var include = '';
+
+	var wp = '';
+	if (wp != '') include += 'wp='+wp;
+	include += ';';
+
+	var rf = '';
+	if (rf != '') include += "rf="+rf;
+	include += ';';
+
+	var sp = '';
+	if (sp != '') include += "sp="+sp;
+	include += ";";
+
+	var ps = '';
+	if (ps != '') include += "ps="+ps;
+	include += ";";
+
+	var adinf = "lg=no;";
+
+	if(include != ";;;;")
+	{
+		adinf = include;
+	}
+
+	var time = new Date();
+	ordval= (time.getTime());
+
+		ord=Math.random()*10000000000000000;
+//--><!]]>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LoginCart
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+Advanced search
+
+
+
+
+
+
+authors & referees >  Submit a Manuscript
+
+
+
+
+
+Submit a Manuscript
+
+
+If you would like to submit an article to one of the following journals, please click on the journal name below and you will be taken to the logon screen for the journal manuscript tracking system or the journals home page for specific instructions on how to submit a manuscript.
+Nature Research has introduced improvements to the manuscript tracking system used on many of our journals, designed to streamline your accounts with Nature Research journals and conveniently provide you with more information in one place. More information is provided when you log into the manuscript tracking system.
+
+
+A
+
+Acta Pharmacological Sinica
+American Journal of Gastroenterology
+
+
+B
+
+BDJ Open
+BDJ Team
+Blood Cancer Journal
+Bone Marrow Transplantation
+Bone Research
+British Dental Journal
+British Journal of Cancer
+
+
+C
+
+Cancer Gene Therapy
+Cell Death and Differentiation
+Cell Death and Disease
+Cell Death Discovery
+Cell Discovery
+Cell Research
+Cellular & Molecular Immunology
+Clinical and Translational Gastroenterology
+Communications Biology
+Communications Chemistry
+Communications Physics
+
+
+E
+
+Emerging Microbes & Infections
+European Journal of Clinical Nutrition
+European Journal of Human Genetics
+Experimental & Molecular Medicine
+Eye
+
+
+G
+
+Gene Therapy
+Genes and Immunity
+Genetics in Medicine
+
+
+H
+
+Heredity
+Horticulture Research
+Human Genome Variation
+Hypertension Research
+
+
+I
+
+International Journal of Impotence Research
+International Journal of Obesity
+International Journal of Oral Science 
+The ISME Journal
+
+
+J
+
+The Journal of Antibiotics
+Journal of Exposure Science and Environmental Epidemiology
+Journal of Human Genetics
+Journal of Human Hypertension
+Journal of Perinatology
+
+
+L
+
+Laboratory Investigation
+Leukemia
+Light Science & Applications
+
+
+M
+
+Microsystems & Nanoengineering
+Modern Pathology
+Molecular Psychiatry
+Mucosal Immunology
+
+
+
+
+
+
+
+
+N
+
+Nature
+Nature Astronomy
+Nature Biomedical Engineering
+Nature Biotechnology
+Nature Catalysis
+Nature Cell Biology
+Nature Chemical Biology
+Nature Chemistry
+Nature Climate Change
+Nature Communications
+Nature Ecology and Evolution
+Nature Electronics
+Nature Energy
+Nature Genetics
+Nature Geoscience
+Nature Human Behaviour
+Nature Immunology
+Nature Materials
+Nature Medicine
+Nature Methods
+Nature Microbiology
+Nature Nanotechnology
+Nature Neuroscience
+Nature Photonics
+Nature Physics
+Nature Plants
+Nature Protocols
+Nature Structural and Molecular Biology
+Nature Sustainability
+Neuropsychopharmacology
+Nutrition & Diabetes 
+NPG Asia Materials
+npj 2D Materials and Applications
+npj Aging and Mechanisms of Disease
+npj Biofilms and Microbiomes
+npj Breast Cancer
+npj Clean Water
+npj Climate and Atmospheric Science
+npj Computational Materials
+npj Digital Medicine
+npj Flexible Electronics
+npj Genomic Medicine
+npj Materials Degradation
+npj Microgravity
+npj Molecular Phenomics
+npj Parkinson's Disease
+npj Precision Oncology
+npj Primary Care Respiratory Medicine
+npj Quantum Information
+npj Quantum Materials
+npj Regenerative Medicine
+npj Schizophrenia
+npj Science of Food
+npj Science of Learning
+npj Systems Biology and Applications
+npj Vaccines
+
+
+O
+
+Oncogene
+Oncogenesis
+
+
+P
+
+Pediatric Research
+The Pharmacogenomics Journal
+Polymer Journal
+Prostate Cancer and Prostatic Diseases
+
+
+S
+
+Scientific Data
+Scientific Reports
+Signal Transduction and Targeted Therapy
+Spinal Cord
+Spinal Cord Series and Cases
+
+
+T
+
+Translational Psychiatry 
+
+
+
+
+
+
+
+
+Main navigation
+
+
+
+Site content
+
+Homepage
+Policies 
+Author resources
+Peer review
+
+Open access
+Site map
+
+
+
+
+Nature Research Journals
+by Subject Area
+
+Chemistry
+
+Chemistry
+Drug discovery
+Biotechnology
+Materials
+Methods & Protocols
+
+ Clinical Practice & Research
+
+Cancer
+Cardiovascular medicine
+Endocrinology
+Gastroenterology & Hepatology
+Methods & Protocols
+Pathology & Pathobiology
+Urology
+
+ Earth & Environment
+
+Earth sciences
+Evolution & Ecology
+
+ Life sciences
+
+Biotechnology
+Cancer
+Development
+Drug discovery
+Evolution & Ecology
+Genetics
+Immunology
+Medical research
+Methods & Protocols
+Microbiology
+Molecular cell biology
+Neuroscience
+Pharmacology
+Systems biology
+
+ Physical sciences
+
+Physics
+Materials
+
+ 
+by A - Z Index
+
+
+
+
+
+
+Extra navigation
+
+
+ADVERTISEMENT
+
+
+
+
+
+
+
+
+
+ 
+
+Top
+
+
+
+
+About us
+Contact us
+Accessibility statement
+Help
+
+
+Privacy policy
+Use of cookies
+Legal notice
+Terms
+
+
+Nature jobs
+Nature Asia
+Nature Education
+RSS web feeds
+
+
+
+Search:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+														© 2018 Macmillan Publishers Limited, part of Springer Nature. All Rights Reserved.
+						
+ partner of AGORA, HINARI, OARE, INASP, ORCID, CrossRef, COUNTER and COPE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--//--><![CDATA[//><!--
+	(function($) {
+		$('a.popup-this').bind('click', function() {
+			window.open(this.href);
+			return false;
+		});
+	})(jQuery);
+	//--><!]]>
+
+
+
+
+
+
+
+
+
+
+

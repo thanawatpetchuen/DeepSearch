@@ -1,7 +1,11 @@
 
 
 
+<<<<<<< HEAD
 window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app43.us.archive.org';v.server_ms=1153;archive_analytics.send_pageview({});});
+=======
+window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app29.us.archive.org';v.server_ms=898;archive_analytics.send_pageview({});});
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 __wbhack.init('https://web.archive.org/web');
 

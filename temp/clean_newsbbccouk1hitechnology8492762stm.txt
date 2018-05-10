@@ -829,11 +829,127 @@ Full schedule
 
 
 
+<<<<<<< HEAD
 23:30 - 23:32
 
 
 BBC News Summary
 2018/05/03 22:30 GMT
+=======
+22:06 - 22:30
+
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+Assignment
+The Invisible Man of Britain’s Far Right
+
+
+
+
+
+
+
+<<<<<<< HEAD
+23:32 - 00:00
+=======
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+22:30 - 22:32
+
+<<<<<<< HEAD
+World Business Report
+Diesel Emissions Scandal: Ex-VW Boss Winterkorn Charged in US
+=======
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+BBC News Summary
+2018/05/03 21:30 GMT
+
+
+
+
+
+
+
+<<<<<<< HEAD
+00:00 - 00:06
+=======
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+22:32 - 23:00
+
+<<<<<<< HEAD
+BBC News
+2018/05/03 23:01 GMT
+=======
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+The Food Chain
+Absolute Food: Part I
+
+
+
+
+
+
+
+<<<<<<< HEAD
+00:06 - 01:00
+=======
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+23:00 - 23:06
+
+<<<<<<< HEAD
+The Thought Show
+When a Democrat Met a Republican
+=======
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+BBC News
+2018/05/03 22:01 GMT
+
+
+
+
+
+
+
+<<<<<<< HEAD
+01:00 - 01:06
+=======
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+23:06 - 23:20
+
+<<<<<<< HEAD
+BBC News
+2018/05/04 00:01 GMT
+=======
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+The Newsroom
+03/05/2018 GMT
+
+
+
+
+
+
+
+<<<<<<< HEAD
+01:06 - 02:00
+
+
+Business Matters
+US-China Trade Talks Begin
+=======
+23:20 - 23:30
+
+
+Sports News
+03/05/2018 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -842,11 +958,40 @@ BBC News Summary
 
 
 
+<<<<<<< HEAD
+02:00 - 02:06
+
+
+BBC News
+2018/05/04 01:01 GMT
+=======
+23:30 - 23:32
+
+
+BBC News Summary
+2018/05/03 22:30 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+02:06 - 02:30
+
+
+The Newsroom
+04/05/2018 GMT
+=======
 23:32 - 00:00
 
 
 World Business Report
 Diesel Emissions Scandal: Ex-VW Boss Winterkorn Charged in US
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -855,11 +1000,19 @@ Diesel Emissions Scandal: Ex-VW Boss Winterkorn Charged in US
 
 
 
+<<<<<<< HEAD
+02:30 - 02:32
+
+
+BBC News Summary
+2018/05/04 01:30 GMT
+=======
 00:00 - 00:06
 
 
 BBC News
 2018/05/03 23:01 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -868,7 +1021,11 @@ BBC News
 
 
 
+<<<<<<< HEAD
+02:32 - 03:00
+=======
 00:06 - 01:00
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 The Thought Show
@@ -881,89 +1038,19 @@ When a Democrat Met a Republican
 
 
 
-01:00 - 01:06
-
-
-BBC News
-2018/05/04 00:01 GMT
-
-
-
-
-
-
-
-
-01:06 - 02:00
-
-
-Business Matters
-US-China Trade Talks Begin
-
-
-
-
-
-
-
-
-02:00 - 02:06
-
-
-BBC News
-2018/05/04 01:01 GMT
-
-
-
-
-
-
-
-
-02:06 - 02:30
-
-
-The Newsroom
-04/05/2018 GMT
-
-
-
-
-
-
-
-
-02:30 - 02:32
-
-
-BBC News Summary
-2018/05/04 01:30 GMT
-
-
-
-
-
-
-
-
-02:32 - 03:00
-
-
-Assignment
-The Invisible Man of Britain’s Far Right
-
-
-
-
-
-
-
-
+<<<<<<< HEAD
 03:00 - 03:06
 
 
 BBC News
 2018/05/04 02:01 GMT
+=======
+01:00 - 01:06
+
+
+BBC News
+2018/05/04 00:01 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -972,11 +1059,19 @@ BBC News
 
 
 
+<<<<<<< HEAD
 03:06 - 03:30
 
 
 HARDtalk
 Ukraine's Health Minister - Ulana Suprun
+=======
+01:06 - 02:00
+
+
+Business Matters
+US-China Trade Talks Begin
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -985,11 +1080,19 @@ Ukraine's Health Minister - Ulana Suprun
 
 
 
+<<<<<<< HEAD
 03:30 - 03:32
 
 
 BBC News Summary
 2018/05/04 02:30 GMT
+=======
+02:00 - 02:06
+
+
+BBC News
+2018/05/04 01:01 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -998,11 +1101,19 @@ BBC News Summary
 
 
 
+<<<<<<< HEAD
 03:32 - 04:00
 
 
 World Football
 The Yemen coach, a Thai international and Christian Benteke
+=======
+02:06 - 02:30
+
+
+The Newsroom
+04/05/2018 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1011,11 +1122,19 @@ The Yemen coach, a Thai international and Christian Benteke
 
 
 
+<<<<<<< HEAD
 04:00 - 04:06
 
 
 BBC News
 2018/05/04 03:01 GMT
+=======
+02:30 - 02:32
+
+
+BBC News Summary
+2018/05/04 01:30 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1024,11 +1143,19 @@ BBC News
 
 
 
+<<<<<<< HEAD
 04:06 - 05:00
 
 
 Outlook
 Making a Bollywood Film for My Village
+=======
+02:32 - 03:00
+
+
+Assignment
+The Invisible Man of Britain’s Far Right
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1037,11 +1164,19 @@ Making a Bollywood Film for My Village
 
 
 
+<<<<<<< HEAD
 05:00 - 05:06
 
 
 BBC News
 2018/05/04 04:01 GMT
+=======
+03:00 - 03:06
+
+
+BBC News
+2018/05/04 02:01 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1050,11 +1185,19 @@ BBC News
 
 
 
+<<<<<<< HEAD
 05:06 - 05:30
 
 
 The Newsroom
 04/05/2018 GMT
+=======
+03:06 - 03:30
+
+
+HARDtalk
+Ukraine's Health Minister - Ulana Suprun
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1064,11 +1207,19 @@ The Newsroom
 
 
 Last on
+<<<<<<< HEAD
 05:30 - 05:32
 
 
 BBC News Summary
 2018/05/04 04:30 GMT
+=======
+03:30 - 03:32
+
+
+BBC News Summary
+2018/05/04 02:30 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1110,10 +1261,17 @@ Listen live
 
 
 On air
+<<<<<<< HEAD
 05:32 - 06:00
 
 Science in Action
 The ‘Greatest Glasshouse’ in the World
+=======
+03:32 - 04:00
+
+World Football
+The Yemen coach, a Thai international and Christian Benteke
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1131,7 +1289,11 @@ Now Playing
 
 
 
+<<<<<<< HEAD
 Re-opening of Kew glasshouse provides a home for thousands of endangered plants.
+=======
+Featuring the Yemen coach Abraham Mebratu and Bangkok United's Mika Chunuonsee.
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1144,11 +1306,19 @@ Contact us
 
 
 Next
+<<<<<<< HEAD
 06:00 - 06:06
 
 
 BBC News
 2018/05/04 05:01 GMT
+=======
+04:00 - 04:06
+
+
+BBC News
+2018/05/04 03:01 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1156,7 +1326,11 @@ BBC News
 
 
 
+<<<<<<< HEAD
 06:06 - 07:00
+=======
+04:06 - 05:00
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 Newsday
@@ -1168,11 +1342,19 @@ Newsday
 
 
 
+<<<<<<< HEAD
 07:00 - 07:06
 
 
 BBC News
 2018/05/04 06:01 GMT
+=======
+05:00 - 05:06
+
+
+BBC News
+2018/05/04 04:01 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1180,10 +1362,17 @@ BBC News
 
 
 
+<<<<<<< HEAD
 07:06 - 08:00
 
 
 Newsday
+=======
+05:06 - 05:30
+
+
+The Newsroom
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 04/05/2018 GMT
 
 
@@ -1192,11 +1381,19 @@ Newsday
 
 
 
+<<<<<<< HEAD
 08:00 - 08:06
 
 
 BBC News
 2018/05/04 07:01 GMT
+=======
+05:30 - 05:32
+
+
+BBC News Summary
+2018/05/04 04:30 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1204,11 +1401,19 @@ BBC News
 
 
 
+<<<<<<< HEAD
 08:06 - 08:30
 
 
 Newsday
 04/05/2018 GMT
+=======
+05:32 - 06:00
+
+
+Science in Action
+The ‘Greatest Glasshouse’ in the World
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1216,11 +1421,19 @@ Newsday
 
 
 
+<<<<<<< HEAD
 08:30 - 08:32
 
 
 BBC News Summary
 2018/05/04 07:30 GMT
+=======
+06:00 - 06:06
+
+
+BBC News
+2018/05/04 05:01 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1228,10 +1441,17 @@ BBC News Summary
 
 
 
+<<<<<<< HEAD
 08:32 - 08:50
 
 
 Business Daily
+=======
+06:06 - 07:00
+
+
+Newsday
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 04/05/2018 GMT
 
 
@@ -1240,11 +1460,19 @@ Business Daily
 
 
 
+<<<<<<< HEAD
 08:50 - 09:00
 
 
 Witness
 When Margaret Thatcher Came to Power
+=======
+07:00 - 07:06
+
+
+BBC News
+2018/05/04 06:01 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1252,11 +1480,19 @@ When Margaret Thatcher Came to Power
 
 
 
+<<<<<<< HEAD
 09:00 - 09:06
 
 
 BBC News
 2018/05/04 08:01 GMT
+=======
+07:06 - 08:00
+
+
+Newsday
+04/05/2018 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1264,11 +1500,19 @@ BBC News
 
 
 
+<<<<<<< HEAD
 09:06 - 10:00
 
 
 The Real Story
 Does the Left have a Future in Latin America?
+=======
+08:00 - 08:06
+
+
+BBC News
+2018/05/04 07:01 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1276,11 +1520,19 @@ Does the Left have a Future in Latin America?
 
 
 
+<<<<<<< HEAD
 10:00 - 10:06
 
 
 BBC News
 2018/05/04 09:01 GMT
+=======
+08:06 - 08:30
+
+
+Newsday
+04/05/2018 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1288,11 +1540,19 @@ BBC News
 
 
 
+<<<<<<< HEAD
 10:06 - 11:00
 
 
 World Update
 04/05/2018 GMT
+=======
+08:30 - 08:32
+
+
+BBC News Summary
+2018/05/04 07:30 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1300,11 +1560,19 @@ World Update
 
 
 
+<<<<<<< HEAD
 11:00 - 11:06
 
 
 BBC News
 2018/05/04 10:01 GMT
+=======
+08:32 - 08:50
+
+
+Business Daily
+04/05/2018 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1312,11 +1580,19 @@ BBC News
 
 
 
+<<<<<<< HEAD
 11:06 - 11:30
 
 
 The Newsroom
 04/05/2018 GMT
+=======
+08:50 - 09:00
+
+
+Witness
+When Margaret Thatcher Came to Power
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1324,11 +1600,19 @@ The Newsroom
 
 
 
+<<<<<<< HEAD
 11:30 - 11:32
 
 
 BBC News Summary
 2018/05/04 10:30 GMT
+=======
+09:00 - 09:06
+
+
+BBC News
+2018/05/04 08:01 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1336,11 +1620,19 @@ BBC News Summary
 
 
 
+<<<<<<< HEAD
 11:32 - 12:00
 
 
 World Football
 The Yemen coach, a Thai international and Christian Benteke
+=======
+09:06 - 10:00
+
+
+The Real Story
+Does the Left have a Future in Latin America?
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1348,11 +1640,19 @@ The Yemen coach, a Thai international and Christian Benteke
 
 
 
+<<<<<<< HEAD
 12:00 - 12:06
 
 
 BBC News
 2018/05/04 11:01 GMT
+=======
+10:00 - 10:06
+
+
+BBC News
+2018/05/04 09:01 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -1360,10 +1660,17 @@ BBC News
 
 
 
+<<<<<<< HEAD
 12:06 - 13:00
 
 
 The Fifth Floor
+=======
+10:06 - 11:00
+
+
+World Update
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 04/05/2018 GMT
 
 
@@ -1372,11 +1679,19 @@ The Fifth Floor
 
 
 
+<<<<<<< HEAD
 13:00 - 13:06
 
 
 BBC News
 2018/05/04 12:01 GMT
+=======
+11:00 - 11:06
+
+
+BBC News
+2018/05/04 10:01 GMT
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
@@ -2015,45 +2330,25 @@ Latest Clips
 listen
 Duration: 
 
+<<<<<<< HEAD
         1m    57s
+=======
+            47s
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
+<<<<<<< HEAD
 Inside the 'Girls Code Too' club
 
                     We hear about a drive to teach young women computer coding in Zambia
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-            47s
-
-
-
-
-
+=======
 'It feels like people are drowning in their own lungs'
 
                     Thousands of South African miners with deadly lung diseases will now be paid compensation
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
                 
 
 
@@ -2074,6 +2369,47 @@ Duration:
 
 listen
 Duration: 
+
+<<<<<<< HEAD
+            47s
+=======
+        2m    24s
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+
+
+
+
+<<<<<<< HEAD
+'It feels like people are drowning in their own lungs'
+
+                    Thousands of South African miners with deadly lung diseases will now be paid compensation
+=======
+A community library with a difference in Lusaka
+
+                    A community library in a Lusaka neighbourhood making a difference in people's lives
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+listen
+Duration: 
+<<<<<<< HEAD
 
         2m    24s
 
@@ -2084,26 +2420,7 @@ Duration:
 A community library with a difference in Lusaka
 
                     A community library in a Lusaka neighbourhood making a difference in people's lives
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
+=======
 
         12m    56s
 
@@ -2114,6 +2431,7 @@ Duration:
 Anxiety, cricket & a dog that gave my life purpose - Sarah Taylor
 
                     England World Cup winner Sarah Taylor opens up about her battle with mental health
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
                 
 
 
@@ -2135,6 +2453,17 @@ Anxiety, cricket & a dog that gave my life purpose - Sarah Taylor
 listen
 Duration: 
 
+<<<<<<< HEAD
+        12m    56s
+
+
+
+
+
+Anxiety, cricket & a dog that gave my life purpose - Sarah Taylor
+
+                    England World Cup winner Sarah Taylor opens up about her battle with mental health
+=======
         3m    44s
 
 
@@ -2144,6 +2473,7 @@ Duration:
 Diarrhoea vaccine holiday for Finns
 
                     A holiday with a difference is on offer to people from Finland – but with a catch...
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
                 
 
 
@@ -2165,15 +2495,25 @@ Diarrhoea vaccine holiday for Finns
 listen
 Duration: 
 
+<<<<<<< HEAD
+        3m    44s
+=======
         1m    47s
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
+<<<<<<< HEAD
+Diarrhoea vaccine holiday for Finns
+
+                    A holiday with a difference is on offer to people from Finland – but with a catch...
+=======
 What's the secret to award-winning fiction?
 
                     Author Helen Oyeyemi reveals her top criteria for a great read.
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
                 
 
 
@@ -2195,6 +2535,47 @@ What's the secret to award-winning fiction?
 listen
 Duration: 
 
+<<<<<<< HEAD
+        1m    47s
+=======
+        9m    40s
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+
+
+
+
+<<<<<<< HEAD
+What's the secret to award-winning fiction?
+
+                    Author Helen Oyeyemi reveals her top criteria for a great read.
+=======
+The race to save history's sounds
+
+                    Will Prentice is racing against the clock to preserve rare sounds
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+listen
+Duration: 
+
+<<<<<<< HEAD
         9m    40s
 
 
@@ -2204,6 +2585,17 @@ Duration:
 The race to save history's sounds
 
                     Will Prentice is racing against the clock to preserve rare sounds
+=======
+        12m    20s
+
+
+
+
+
+The baby gorilla that became my daughter
+
+                    Appolinaire Ndohoudou and gorilla Pikin were bonded by the fact that they are both orphans
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
                 
 
 
@@ -2304,45 +2696,25 @@ Newsday - Trump 'Repaid Lawyer's Stormy Hush Money'
 listen
 Duration: 
 
+<<<<<<< HEAD
         23m    
+=======
+        53m    
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
 
 
 
 
+<<<<<<< HEAD
 The Inquiry - What’s the Real Difference Between the Sexes?
 
                     What is there to learn about men and women from people who’ve lived as both?
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        53m    
-
-
-
-
-
+=======
 The Documentary - What Men Think - What Men Think: India
 
                     Masculinity plays out against a backdrop of class, caste and a rapidly changing economy
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
                 
 
 
@@ -2370,9 +2742,55 @@ Duration:
 
 
 
+<<<<<<< HEAD
+The Documentary - What Men Think - What Men Think: India
+
+                    Masculinity plays out against a backdrop of class, caste and a rapidly changing economy
+=======
 Stumped - The 100-Ball Gamble - A Gimmick Too Far?
 
                     English cricket's latest innovation, BBC icons Arlott and Swanton, plus epic train rides.
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+listen
+Duration: 
+
+<<<<<<< HEAD
+        26m    30s
+=======
+        23m    
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+
+
+
+
+<<<<<<< HEAD
+Stumped - The 100-Ball Gamble - A Gimmick Too Far?
+
+                    English cricket's latest innovation, BBC icons Arlott and Swanton, plus epic train rides.
+=======
+The Inquiry - What’s the Real Difference Between the Sexes?
+
+                    What is there to learn about men and women from people who’ve lived as both?
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
                 
 
 
@@ -2984,7 +3402,11 @@ if (window.location.pathname.indexOf('worldservice') !== -1) {
     var smp = "//rmp.files.bbci.co.uk/nhp-service/1248/modules/smp.js";
     require(["on-air"], function( OnAir ) {
         OnAir.initListenLive({
+<<<<<<< HEAD
             title : "Science in Action",
+=======
+            title : "World Football",
+>>>>>>> bd781664e5c08bcab595917265a944274d79e106
             sid : "bbc_world_service",
             vpid: "bbc_world_service",
             mid: "World Service"
