@@ -86,7 +86,7 @@ What is Twitter? Learn more.
 
 
       var twttr = twttr || {};
-      twttr.form_authenticity_token = '33df3578908b39900ee178c40636dbf34f119239';
+      twttr.form_authenticity_token = '7c21985ae0ea0918af99c8fae7c651d0c7d19e7b';
       if (self == top) {
         document.documentElement.style.display = 'block';
       }

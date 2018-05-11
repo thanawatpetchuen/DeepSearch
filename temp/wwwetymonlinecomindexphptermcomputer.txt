@@ -48,7 +48,7 @@
   <input name="url" type="hidden" value="https://www.etymonline.com/word/computer">
 
       <input type="hidden" name="repost_after_login" value="/intent/tweet">
-    <input type="hidden" name="authenticity_token" value="33df3578908b39900ee178c40636dbf34f119239">
+    <input type="hidden" name="authenticity_token" value="7c21985ae0ea0918af99c8fae7c651d0c7d19e7b">
 
     <label for="status" id="status-label">Tweet Text</label>
   </div>
@@ -134,9 +134,9 @@
 </div>
 
 
-    <script type="text/javascript" charset="utf-8" nonce="fhsZc/4qQtfbPIqClJf9Cg==">
+    <script type="text/javascript" charset="utf-8" nonce="zUT9IN7qSDgQGBTcIBuioQ==">
       var twttr = twttr || {};
-      twttr.form_authenticity_token = '33df3578908b39900ee178c40636dbf34f119239';
+      twttr.form_authenticity_token = '7c21985ae0ea0918af99c8fae7c651d0c7d19e7b';
       if (self == top) {
         document.documentElement.style.display = 'block';
       }
@@ -144,7 +144,7 @@
 
     <script src="https://abs.twimg.com/a/1525490568/tfw/loadrunner.js" type="text/javascript" data-path="https://abs.twimg.com/a/1525490568/tfw" data-main="tfw/intents/main"></script>
 
-    <script type="text/javascript" charset="utf-8" nonce="fhsZc/4qQtfbPIqClJf9Cg==">
+    <script type="text/javascript" charset="utf-8" nonce="zUT9IN7qSDgQGBTcIBuioQ==">
 
   var twttr = twttr || {};
   twttr.tco = {
@@ -159,7 +159,7 @@
 
 </script>
 
-    <script type="text/javascript" nonce="fhsZc/4qQtfbPIqClJf9Cg==">
+    <script type="text/javascript" nonce="zUT9IN7qSDgQGBTcIBuioQ==">
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 

@@ -1,6 +1,6 @@
 <html>
 <head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app16.us.archive.org';v.server_ms=411;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1525205731.0" charset="utf-8"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app23.us.archive.org';v.server_ms=636;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1525205731.0" charset="utf-8"></script>
 
 <script type="text/javascript">
 __wbhack.init('https://web.archive.org/web');
@@ -657,7 +657,7 @@ Royal Ontario Museum, Toronto, CANADA</font></font>
 </html>
 <!--
      FILE ARCHIVED ON 08:47:57 Jan 30, 2012 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 11:10:07 May 10, 2018.
+     INTERNET ARCHIVE ON 17:07:20 May 10, 2018.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -665,14 +665,14 @@ Royal Ontario Museum, Toronto, CANADA</font></font>
 -->
 <!--
 playback timings (ms):
-  LoadShardBlock: 159.517 (3)
-  esindex: 0.007
-  captures_list: 216.207
-  CDXLines.iter: 15.329 (3)
-  PetaboxLoader3.datanode: 144.941 (4)
-  exclusion.robots: 0.49
-  exclusion.robots.policy: 0.441
-  RedisCDXSource: 36.655
-  PetaboxLoader3.resolve: 60.703
-  load_resource: 139.049
+  LoadShardBlock: 201.868 (3)
+  esindex: 0.005
+  captures_list: 223.001
+  CDXLines.iter: 10.313 (3)
+  PetaboxLoader3.datanode: 100.602 (4)
+  exclusion.robots: 0.446
+  exclusion.robots.policy: 0.403
+  RedisCDXSource: 7.529
+  PetaboxLoader3.resolve: 429.886 (2)
+  load_resource: 387.719
 -->
