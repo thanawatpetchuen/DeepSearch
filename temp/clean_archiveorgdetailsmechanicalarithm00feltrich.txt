@@ -292,7 +292,7 @@ Search archived web sites
 
 Advanced Search
 
-AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"05/04/2018"}
+AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"05/24/2018"}
 
 
 
@@ -314,7 +314,6 @@ DONATE
 JOBS
 VOLUNTEER
 PEOPLE
-
 
 
 
@@ -440,7 +439,7 @@ Share This Collection
 
 
 
-        16,036,699        
+        16,155,961        
           RESULTS        
 rss
 
@@ -470,7 +469,7 @@ Media Type
 
 
 
-                                            4,840                          
+                                            4,842                          
 
                 collections              
 
@@ -479,7 +478,7 @@ Media Type
 
 
 
-                                            16,031,854                          
+                                            16,151,114                          
 
                 texts              
 
@@ -519,7 +518,7 @@ Availability
 
 
 
-                                            15,389,265                          
+                                            15,508,427                          
 
                 Always Available              
 
@@ -528,7 +527,7 @@ Availability
 
 
 
-                                            538,926                          
+                                            517,474                          
 
                 Available to Borrow              
 
@@ -537,7 +536,7 @@ Availability
 
 
 
-                                            108,508                          
+                                            130,060                          
 
                 Waitlist              
 
@@ -550,7 +549,16 @@ Year
 
 
 
-                                            262,443                          
+                                            81,776                          
+
+                2016              
+
+
+
+
+
+
+                                            262,623                          
 
                 2015              
 
@@ -559,7 +567,7 @@ Year
 
 
 
-                                            140,420                          
+                                            140,537                          
 
                 2014              
 
@@ -568,7 +576,7 @@ Year
 
 
 
-                                            151,975                          
+                                            152,124                          
 
                 2013              
 
@@ -577,7 +585,7 @@ Year
 
 
 
-                                            201,810                          
+                                            201,894                          
 
                 2012              
 
@@ -586,18 +594,9 @@ Year
 
 
 
-                                            227,182                          
+                                            227,273                          
 
                 2011              
-
-
-
-
-
-
-                                            109,594                          
-
-                2010              
 
 
 
@@ -656,7 +655,7 @@ Topics & Subjects
 
 
 
-                                            458,694                          
+                                            458,699                          
 
                 Diplomacy              
 
@@ -672,7 +671,7 @@ Collection
 
 
 
-                                            2,799,594                          
+                                            2,807,707                          
 
 American Libraries 
 
@@ -681,7 +680,7 @@ American Libraries
 
 
 
-                                            2,769,331                          
+                                            2,778,993                          
 
 RECAP US Federal Court Documents 
 
@@ -690,7 +689,7 @@ RECAP US Federal Court Documents
 
 
 
-                                            2,390,280                          
+                                            2,390,289                          
 
 National Security Internet Archive (NSIA) 
 
@@ -751,6 +750,15 @@ Creator
 
 
 
+                                            347,354                          
+
+                defense technical information center              
+
+
+
+
+
+
                                             342,727                          
 
                 eric              
@@ -760,7 +768,7 @@ Creator
 
 
 
-                                            315,883                          
+                                            315,887                          
 
                 central intelligence agency              
 
@@ -769,18 +777,9 @@ Creator
 
 
 
-                                            309,573                          
+                                            260,026                          
 
-                defense technical information center              
-
-
-
-
-
-
-                                            232,458                          
-
-                nasa technical reports server (ntrs)              
+                nederlandse overheid              
 
 
 
@@ -794,7 +793,7 @@ Language
 
 
 
-                                            12,588,323                          
+                                            12,653,959                          
 
                 English              
 
@@ -803,7 +802,7 @@ Language
 
 
 
-                                            538,678                          
+                                            539,706                          
 
                 German              
 
@@ -812,7 +811,7 @@ Language
 
 
 
-                                            489,804                          
+                                            490,418                          
 
                 French              
 
@@ -821,7 +820,7 @@ Language
 
 
 
-                                            257,052                          
+                                            296,592                          
 
                 Dutch              
 
@@ -830,7 +829,7 @@ Language
 
 
 
-                                            189,201                          
+                                            190,207                          
 
                 Italian              
 
@@ -839,7 +838,7 @@ Language
 
 
 
-                                            184,907                          
+                                            186,560                          
 
                 Spanish              
 
@@ -916,7 +915,7 @@ Creator
 
 
 collection 
-                  2,807,863                  ITEMS
+                  2,816,293                  ITEMS
 
 
                   1.4B VIEWS
@@ -960,7 +959,7 @@ The American Libraries collection includes material contributed from across the 
 
 
 collection 
-                  838,196                  ITEMS
+                  845,059                  ITEMS
 
 
                   1.1B VIEWS
@@ -1003,7 +1002,7 @@ These books are books contributed by the community. Click here to contribute you
 
 
 collection 
-                  9,103,948                  ITEMS
+                  9,199,159                  ITEMS
 
 
                   516.7M VIEWS
@@ -1047,7 +1046,7 @@ Additional collections of scanned books, articles, and other texts (usually orga
 
 
 collection 
-                  565,846                  ITEMS
+                  566,969                  ITEMS
 
 
                   407.3M VIEWS
@@ -1090,7 +1089,7 @@ Welcome to the Canadian Libraries page. The Toronto scanning centre was establis
 
 
 collection 
-                  185,496                  ITEMS
+                  186,892                  ITEMS
 
 
                   302.4M VIEWS
@@ -1178,7 +1177,7 @@ The John P. Robarts Research Library, commonly referred to as Robarts Library, i
 
 
 collection 
-                  191,920                  ITEMS
+                  191,919                  ITEMS
 
 
                   197.7M VIEWS
@@ -1222,7 +1221,7 @@ The California Digital Library supports the assembly and creative use of the wor
 
 
 collection 
-                  191,720                  ITEMS
+                  192,701                  ITEMS
 
 
                   122.9M VIEWS
@@ -1266,7 +1265,7 @@ Inspiring discovery through free access to biodiversity knowledge. | The Biodive
 
 
 collection 
-                  626,551                  ITEMS
+                  630,540                  ITEMS
 
 
                   119M VIEWS
@@ -1354,7 +1353,7 @@ United States Patent and Trademark Office documents contributed by Think Compute
 
 
 collection 
-                  110,446                  ITEMS
+                  110,444                  ITEMS
 
 
                   79M VIEWS
@@ -1398,7 +1397,7 @@ The Universal Library Project, sometimes called the Million Books Project, was p
 
 
 collection 
-                  1,465,330                  ITEMS
+                  1,465,331                  ITEMS
 
 
                   77.3M VIEWS
@@ -1442,7 +1441,7 @@ A collection of scholarly literature created by experts and professionals in the
 
 
 collection 
-                  158,816                  ITEMS
+                  157,118                  ITEMS
 
 
                   68.4M VIEWS
@@ -1486,7 +1485,7 @@ The&nbsp; Library of Congress &nbsp;is the world’s largest library, offering a
 
 
 collection 
-                  84,280                  ITEMS
+                  84,417                  ITEMS
 
 
                   65.2M VIEWS
@@ -1530,7 +1529,7 @@ Books from the Boston Library Consortium . See a Tag Cloud for the Boston Librar
 
 
 collection 
-                  173,571                  ITEMS
+                  173,572                  ITEMS
 
 
                   60.5M VIEWS
@@ -1574,7 +1573,7 @@ Take a picture, it will last longer As books become old and begin to fall apart,
 
 
 collection 
-                  2,769,331                  ITEMS
+                  2,778,993                  ITEMS
 
 
                   59.4M VIEWS
@@ -1618,7 +1617,7 @@ The documents in this collection are from the US Federal Courts. A large collect
 
 
 collection 
-                  130,978                  ITEMS
+                  131,489                  ITEMS
 
 
                   57M VIEWS
@@ -1662,7 +1661,7 @@ The Magazine Rack is a collection of digitized magazines and monthly publication
 
 
 collection 
-                  75,934                  ITEMS
+                  75,953                  ITEMS
 
 
                   56.3M VIEWS
@@ -1706,7 +1705,7 @@ The originals of these books are in the Cornell University Library . The majorit
 
 
 collection 
-                  246,415                  ITEMS
+                  250,426                  ITEMS
 
 
                   47.7M VIEWS
@@ -1750,7 +1749,7 @@ The Medical Heritage Library (MHL), a digital curation collaborative among some 
 
 
 collection 
-                  53,576                  ITEMS
+                  57,900                  ITEMS
 
 
                   45.6M VIEWS
@@ -1838,7 +1837,7 @@ The JSTOR Early Journal Content is a selection of journal materials published pr
 
 
 collection 
-                  54,114                  ITEMS
+                  54,172                  ITEMS
 
 
                   37M VIEWS
@@ -1882,7 +1881,7 @@ Books contributed by the Boston Public Library .
 
 
 collection 
-                  92,299                  ITEMS
+                  92,599                  ITEMS
 
 
                   36.6M VIEWS
@@ -1926,7 +1925,7 @@ Books from the Allen County Public Library . Books digitized by the Internet Arc
 
 
 collection 
-                  222,410                  ITEMS
+                  223,555                  ITEMS
 
 
                   36.1M VIEWS
@@ -2014,7 +2013,7 @@ Project Gutenberg began in 1971 by Michael Hart as a community project to make p
 
 
 collection 
-                  99,655                  ITEMS
+                  99,796                  ITEMS
 
 
                   34.3M VIEWS
@@ -2058,7 +2057,7 @@ The University of Alberta (U of A) is a public research university located in Ed
 
 
 collection 
-                  84,248                  ITEMS
+                  84,268                  ITEMS
 
 
                   32.8M VIEWS
@@ -2102,7 +2101,7 @@ This collection contains digital versions of United States Government documents 
 
 
 collection 
-                  76,805                  ITEMS
+                  76,803                  ITEMS
 
 
                   32M VIEWS
@@ -2190,7 +2189,7 @@ Since 1848 the University of Ottawa has been Canada's university. Located in the
 
 
 collection 
-                  2,398,497                  ITEMS
+                  2,398,508                  ITEMS
 
 
                   29.4M VIEWS
@@ -2234,7 +2233,7 @@ The National Security Internet Archive focuses on files collected from That 1 Ar
 
 
 collection 
-                  667,958                  ITEMS
+                  668,166                  ITEMS
 
 
                   28.8M VIEWS
@@ -2366,7 +2365,7 @@ The Gerstein Science Information Centre is the University of Toronto's flagship 
 
 
 collection 
-                  664,688                  ITEMS
+                  664,888                  ITEMS
 
 
                   26.2M VIEWS
@@ -2410,7 +2409,7 @@ Books contributed by the Internet Archive.                    Topic: internet ar
 
 
 collection 
-                  44,661                  ITEMS
+                  44,704                  ITEMS
 
 
                   24.2M VIEWS
@@ -2498,7 +2497,7 @@ Books contributed by the New York Public Library .
 
 
 collection 
-                  73,857                  ITEMS
+                  73,986                  ITEMS
 
 
                   23.6M VIEWS
@@ -2630,7 +2629,7 @@ El Boletín Oficial de la República Argentina es el diario oficial de la Repúb
 
 
 collection 
-                  15,206                  ITEMS
+                  15,207                  ITEMS
 
 
                   21.3M VIEWS
@@ -2674,7 +2673,7 @@ The John M. Kelly Library is the largest federated college library at UofT. It i
 
 
 collection 
-                  20,400                  ITEMS
+                  20,660                  ITEMS
 
 
                   21.2M VIEWS
@@ -2762,7 +2761,7 @@ Uploaders, please note: Archive.org supports metadata about items in just about 
 
 
 collection 
-                  647,594                  ITEMS
+                  647,557                  ITEMS
 
 
                   19.6M VIEWS
@@ -2806,7 +2805,7 @@ Books in this collection may be borrowed by logged in patrons for a period of tw
 
 
 collection 
-                  45,880                  ITEMS
+                  46,389                  ITEMS
 
 
                   19.6M VIEWS
@@ -2894,7 +2893,7 @@ The United States Department of State (DOS), often referred to as the State Depa
 
 
 collection 
-                  394,213                  ITEMS
+                  395,676                  ITEMS
 
 
                   17.1M VIEWS
@@ -2940,7 +2939,7 @@ This collection is maintained by Public Resource and contains resources pertaini
 
 
 collection 
-                  483,011                  ITEMS
+                  483,224                  ITEMS
 
 
                   15.3M VIEWS
@@ -2984,7 +2983,7 @@ Books scanned in Shenzhen and Beijing, China.                    Topic: books
 
 
 collection 
-                  182,221                  ITEMS
+                  185,670                  ITEMS
 
 
                   15.2M VIEWS
@@ -3028,7 +3027,7 @@ The newspapers in this collection have been scanned as part of a pilot project u
 
 
 collection 
-                  9,361                  ITEMS
+                  9,371                  ITEMS
 
 
                   15M VIEWS
@@ -3072,7 +3071,7 @@ Books from The New York Botanical Garden
 
 
 collection 
-                  84,648                  ITEMS
+                  84,907                  ITEMS
 
 
                   14.4M VIEWS
@@ -3162,7 +3161,7 @@ The Education Resources Information Center (ERIC) is an internet-based digital l
 
 
 collection 
-                  92,975                  ITEMS
+                  93,225                  ITEMS
 
 
                   14M VIEWS
@@ -3252,7 +3251,7 @@ An early collection of books from the Indian scanning centers of the Universal L
 
 
 collection 
-                  143,900                  ITEMS
+                  144,998                  ITEMS
 
 
                   13.1M VIEWS
@@ -3341,7 +3340,7 @@ This collection contains global Edicts of Government , such as building, fire, e
 
 
 collection 
-                  15,521                  ITEMS
+                  15,533                  ITEMS
 
 
                   11.7M VIEWS
@@ -3385,7 +3384,7 @@ Material in this collection has been provided by The Consortium of Academic and 
 
 
 collection 
-                  36,360                  ITEMS
+                  36,411                  ITEMS
 
 
                   10.9M VIEWS
@@ -3429,7 +3428,7 @@ The University of Florida George A. Smathers Libraries sends selected library ma
 
 
 collection 
-                  288,441                  ITEMS
+                  288,450                  ITEMS
 
 
                   10.5M VIEWS
@@ -3473,7 +3472,7 @@ Books sponsored or contributed by Harvard University
 
 
 collection 
-                  33,909                  ITEMS
+                  33,948                  ITEMS
 
 
                   10.4M VIEWS
@@ -3517,7 +3516,7 @@ Books from Columbia University Libraries . Our sub-collections: Seymour B. Durst
 
 
 collection 
-                  13,794                  ITEMS
+                  13,797                  ITEMS
 
 
                   10M VIEWS
@@ -3649,7 +3648,7 @@ The Prelinger Library is a private research library open to the public, located 
 
 
 collection 
-                  9,663                  ITEMS
+                  9,672                  ITEMS
 
 
                   9.7M VIEWS
@@ -3693,7 +3692,7 @@ Books sponsored by the Harvard University, Museum of Comparative Zoology, Ernst 
 
 
 collection 
-                  8,711                  ITEMS
+                  8,825                  ITEMS
 
 
                   9M VIEWS
@@ -3781,7 +3780,7 @@ eye 9M
 
 
 collection 
-                  142,281                  ITEMS
+                  146,201                  ITEMS
 
 
                   8.5M VIEWS
@@ -3869,7 +3868,7 @@ Technical documents from NASA                    Topic: nasa
 
 
 collection 
-                  29,264                  ITEMS
+                  29,465                  ITEMS
 
 
                   8.4M VIEWS
@@ -3913,7 +3912,7 @@ Books digitized through a federally funded LSTA grant, through MBLC.
 
 
 collection 
-                  7,187                  ITEMS
+                  7,889                  ITEMS
 
 
                   8.4M VIEWS
@@ -4356,11 +4355,19 @@ brewsterArchivist
  
 
 
-mekarpelesArchivist 
+associate-mike-saeleeArchivist 
  
 
 
-arkiver2Archivist 
+VerifiedJosephMember 
+ 
+
+
+Cleveland Museum of Art, Ingalls Library and Museum ArchivesArchivist 
+ 
+
+
+geoclarkArchivist 
  
 
 
@@ -4373,18 +4380,6 @@ admin-andrea-millsArchivist
 
 
 Jason ScottArchivist 
- 
-
-
-archiver849271Archivist 
- 
-
-
-VerifiedJosephMember 
- 
-
-
-associate-mike-saeleeArchivist 
 
 VIEWS
 4,141,256,873
@@ -4392,7 +4387,7 @@ VIEWS
 
 
 ITEMS
-16,425,992
+16,545,731
 
 
 
@@ -4416,8 +4411,134 @@ Date
 
 
 
- Issue persists: epub creation failed
+ DGHFG
  
+
+garry_dee
+
+
+          0        
+
+May 24, 2018 12:09am
+May 24, 2018 12:09am
+
+
+
+
+ HFJGDH
+ 
+
+garry_dee
+
+
+          0        
+
+May 24, 2018 12:08am
+May 24, 2018 12:08am
+
+
+
+
+ NMLKHL
+ 
+
+garry_dee
+
+
+          0        
+
+May 24, 2018 12:08am
+May 24, 2018 12:08am
+
+
+
+
+ 정통카지노  don68。CoM  정통카지노
+ 
+
+garry_dee
+
+
+          0        
+
+May 24, 2018 12:05am
+May 24, 2018 12:05am
+
+
+
+
+ 온라인카지노합법[  don68。CoM ]온라인카지노합법
+ 
+
+garry_dee
+
+
+          0        
+
+May 23, 2018 11:36pm
+May 23, 2018 11:36pm
+
+
+
+
+ 코리아카지노- - -％ don68.CoM - - -％코리아카지노
+ 
+
+garry_dee
+
+
+          0        
+
+May 23, 2018 11:07pm
+May 23, 2018 11:07pm
+
+
+
+
+ 블랙잭카지노-( don68。CoM )-블랙잭카지노
+ 
+
+garry_dee
+
+
+          0        
+
+May 23, 2018 10:46pm
+May 23, 2018 10:46pm
+
+
+
+
+chickaDEE Magazines
+
+
+bowser 56
+
+
+          0        
+
+May 21, 2018 9:49am
+May 21, 2018 9:49am
+
+
+
+
+Deleting from My Favorites
+
+
+mnu88
+
+
+          0        
+
+May 9, 2018 5:32pm
+May 9, 2018 5:32pm
+
+
+
+
+Issue persists: epub creation failed
+
 
 AncientAxim
 
@@ -4486,27 +4607,13 @@ Apr 30, 2018 7:49pm
 
 
 
-Get Online Mozilla Firefox Customer Support service for USA
-
-
-Online customer service
-
-
-          0        
-
-Apr 25, 2018 12:52am
-Apr 25, 2018 12:52am
-
-
-
-
 Can't get ePub version
 
 
 Alex Bell
 
 
-          1        
+          2        
 
 Apr 17, 2018 5:00pm
 Apr 17, 2018 5:00pm
@@ -4528,8 +4635,8 @@ May 2, 2018 4:15pm
 
 
 
-               Re: Can't get ePub version
- 
+                        Re: Can't get ePub version
+
 
 Alex Bell
 
@@ -4538,6 +4645,62 @@ Alex Bell
 
 May 2, 2018 9:24pm
 May 2, 2018 9:24pm
+
+
+
+
+                      epub prob may be fixed
+
+
+AncientAxim
+
+
+          1        
+
+May 15, 2018 5:09pm
+May 15, 2018 5:09pm
+
+
+
+
+                        Re: epub prob may be fixed
+
+
+Alex Bell
+
+
+          1        
+
+May 16, 2018 4:15pm
+May 16, 2018 4:15pm
+
+
+
+
+                          Re: epub prob may be fixed
+
+
+Jeff Kaplan
+
+
+          1        
+
+May 16, 2018 7:16pm
+May 16, 2018 7:16pm
+
+
+
+
+                            Re: epub prob may be fixed
+
+
+Alex Bell
+
+
+          0        
+
+May 16, 2018 7:13pm
+May 16, 2018 7:13pm
 
 
 
@@ -4552,20 +4715,6 @@ trikkia
 
 Apr 11, 2018 2:42am
 Apr 11, 2018 2:42am
-
-
-
-
-imarketing
-
-
-imarketing
-
-
-          0        
-
-Apr 5, 2018 12:21am
-Apr 5, 2018 12:21am
 
 
 
@@ -4891,202 +5040,6 @@ Mar 2, 2018 10:15pm
 
 
 
-
-Changing the name of some files
-
-
-ldw
-
-
-          1        
-
-Feb 23, 2018 1:07pm
-Feb 23, 2018 1:07pm
-
-
-
-
-                      Re: Changing the name of some files
-
-
-Jeff Kaplan
-
-
-          1        
-
-Feb 23, 2018 9:32pm
-Feb 23, 2018 9:32pm
-
-
-
-
-Could someone delete these files?
-
-
-Revista Interdanza
-
-
-          0        
-
-Feb 23, 2018 5:35am
-Feb 23, 2018 5:35am
-
-
-
-
-search inside text not working
-
-
-ninabrosh
-
-
-          0        
-
-Feb 22, 2018 10:55pm
-Feb 22, 2018 10:55pm
-
-
-
-
-Could someone please delete a file?
-
-
-Adeline_Gasnier
-
-
-          1        
-
-Feb 19, 2018 4:19am
-Feb 19, 2018 4:19am
-
-
-
-
-                      Re: Could someone please delete a file?
-
-
-Jeff Kaplan
-
-
-          1        
-
-Feb 19, 2018 7:21am
-Feb 19, 2018 7:21am
-
-
-
-
-                        Re: Could someone please delete a file?
-
-
-Adeline_Gasnier
-
-
-          0        
-
-Feb 19, 2018 9:54am
-Feb 19, 2018 9:54am
-
-
-
-
-Could someone please delete the following?
-
-
-danielprior1993@gmail.com
-
-
-          1        
-
-Feb 18, 2018 9:25am
-Feb 18, 2018 9:25am
-
-
-
-
-                      Re: Could someone please delete the following?
-
-
-Jeff Kaplan
-
-
-          0        
-
-Feb 18, 2018 5:05pm
-Feb 18, 2018 5:05pm
-
-
-
-
-Renewal
-
-
-evennow
-
-
-          1        
-
-Feb 18, 2018 3:42am
-Feb 18, 2018 3:42am
-
-
-
-
-                      Re: Renewal
-
-
-Jeff Kaplan
-
-
-          1        
-
-Feb 18, 2018 7:22am
-Feb 18, 2018 7:22am
-
-
-
-
-                        Re: Renewal
-
-
-evennow
-
-
-          1        
-
-Feb 19, 2018 1:04am
-Feb 19, 2018 1:04am
-
-
-
-
-                          Re: Renewal
-
-
-Jeff Kaplan
-
-
-          0        
-
-Feb 19, 2018 7:15am
-Feb 19, 2018 7:15am
-
-
-
-
-It used to work....
-
-
-Glenn Alperin
-
-
-          0        
-
-Feb 9, 2018 10:48am
-Feb 9, 2018 10:48am
-
-
-
 View more forum posts 
 
 
@@ -5104,8 +5057,8 @@ if (window.archive_analytics) {
   var vs = window.archive_analytics.get_data_packets();
   for (var i in vs) {
     vs[i]['cache_bust']=Math.random();
-    vs[i]['server_ms']=152;
-    vs[i]['server_name']="www18.us.archive.org";
+    vs[i]['server_ms']=164;
+    vs[i]['server_name']="www29.us.archive.org";
       }
 
   if ($(".more_search").size()>0) {

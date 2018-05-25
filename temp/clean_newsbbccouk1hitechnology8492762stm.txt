@@ -5,423 +5,282 @@
 
 
 
-BBC - World Service - Home
+
+
+Delicious
+
+
+
+
+    var D = {};
 
 
 
 
 
 
-/*<![CDATA[*/
-        window.orb = {
-            lang: 'en',
-            bbcBaseUrl: 'http://www.bbc.co.uk',
-            bbcUrlPrefix: 'http://www.',
-            staticHost: 'https://nav.files.bbci.co.uk/orbit/2.0.0-196.41225b3',
-            figUrl: 'https://fig.bbc.co.uk/frameworks/fig/2/fig.js',
-            partialCookieOvenUrl: 'https://cookie-oven.api.bbc'
-        };
-
-        document.documentElement.className += (document.documentElement.className? ' ' : '') + 'orb-js';
-        window.orb.worldwideNavlinks = '<li class="orb-nav-home"><a href="http://www.bbc.com/">Home</a></li><li class="orb-nav-newsdotcom"><a href="http://www.bbc.com/news">News</a></li><li class="orb-nav-sport"><a href="https://www.bbc.com/sport">Sport</a></li><li class="orb-nav-weather"><a href="http://www.bbc.com/weather/">Weather</a></li><li class="orb-nav-shop"><a href="http://shop.bbc.com/">Shop</a></li><li class="orb-nav-earthdotcom"><a href="http://www.bbc.com/earth/">Earth</a></li><li class="orb-nav-travel-dotcom"><a href="http://www.bbc.com/travel/">Travel</a></li><li class="orb-nav-capital"><a href="http://www.bbc.com/capital/">Capital</a></li><li class="orb-nav-culture"><a href="http://www.bbc.com/culture/">Culture</a></li><li class="orb-nav-future"><a href="http://www.bbc.com/future/">Future</a></li><li class="orb-nav-tv"><a href="http://www.bbc.co.uk/tv/">TV</a></li><li class="orb-nav-radio"><a href="http://www.bbc.co.uk/radio/">Radio</a></li><li class="orb-nav-cbbc"><a href="https://www.bbc.co.uk/cbbc">CBBC</a></li><li class="orb-nav-cbeebies"><a href="https://www.bbc.co.uk/cbeebies">CBeebies</a></li><li class="orb-nav-food"><a href="http://www.bbc.co.uk/food/">Food</a></li><li class="orb-nav-bitesize"><a href="https://www.bbc.co.uk/education">Bitesize</a></li><li class="orb-nav-music"><a href="http://www.bbc.co.uk/music/">Music</a></li><li class="orb-nav-arts"><a href="http://www.bbc.co.uk/arts/">Arts</a></li><li class="orb-nav-makeitdigital"><a href="http://www.bbc.co.uk/makeitdigital">Make It Digital</a></li><li class="orb-nav-taster"><a href="http://www.bbc.co.uk/taster">Taster</a></li><li class="orb-nav-nature"><a href="http://www.bbc.com/nature/">Nature</a></li><li class="orb-nav-local"><a href="https://www.bbc.co.uk/news/localnews">Local</a></li>';
-
-
-     /*]]>*/// Promise polyfill from https://github.com/bramstein/promis
-        (function(){'use strict';var f,g=[];function l(a){g.push(a);1==g.length&&f()}function m(){for(;g.length;)g[0](),g.shift()}f=function(){setTimeout(m)};function n(a){this.a=p;this.b=void 0;this.f=[];var b=this;try{a(function(a){q(b,a)},function(a){r(b,a)})}catch(c){r(b,c)}}var p=2;function t(a){return new n(function(b,c){c(a)})}function u(a){return new n(function(b){b(a)})}function q(a,b){if(a.a==p){if(b==a)throw new TypeError;var c=!1;try{var d=b&&b.then;if(null!=b&&"object"==typeof b&&"function"==typeof d){d.call(b,function(b){c||q(a,b);c=!0},function(b){c||r(a,b);c=!0});return}}catch(e){c||r(a,e);return}a.a=0;a.b=b;v(a)}} function r(a,b){if(a.a==p){if(b==a)throw new TypeError;a.a=1;a.b=b;v(a)}}function v(a){l(function(){if(a.a!=p)for(;a.f.length;){var b=a.f.shift(),c=b[0],d=b[1],e=b[2],b=b[3];try{0==a.a?"function"==typeof c?e(c.call(void 0,a.b)):e(a.b):1==a.a&&("function"==typeof d?e(d.call(void 0,a.b)):b(a.b))}catch(h){b(h)}}})}n.prototype.g=function(a){return this.c(void 0,a)};n.prototype.c=function(a,b){var c=this;return new n(function(d,e){c.f.push([a,b,d,e]);v(c)})}; function w(a){return new n(function(b,c){function d(c){return function(d){h[c]=d;e+=1;e==a.length&&b(h)}}var e=0,h=[];0==a.length&&b(h);for(var k=0;k<a.length;k+=1)u(a[k]).c(d(k),c)})}function x(a){return new n(function(b,c){for(var d=0;d<a.length;d+=1)u(a[d]).c(b,c)})};window.Promise||(window.Promise=n,window.Promise.resolve=u,window.Promise.reject=t,window.Promise.race=x,window.Promise.all=w,window.Promise.prototype.then=n.prototype.c,window.Promise.prototype["catch"]=n.prototype.g);}());
-    
-        (function() {
-    
-            var language = 'en';
-                language = 'en';
-    
-            window.bbcpage = {
-                loadModule: function(deps) {
-                    return new Promise(function (resolve, reject) {
-                        window.require(deps, function () {
-                            resolve.apply(this, arguments);
-                        },
-                        function (error) {
-                            reject(error);
-                        });
-                    })
-                },
-                loadCSS: function (url, timeout) {
-                    return window.bbcpage.loadModule(['orb/lib/_$'])
-                        .then(function($) {
-                            return new Promise(function(resolve, reject) {
-                                var stylesheet = loadCSS(url);
-                                $.onloadCSS(stylesheet, function() {
-                                    resolve();
-                                });
-                                if (timeout) {
-                                    setTimeout(function () { reject(); }, timeout);
-                                }
-                            });
-                    });
-                },
-                getLanguage: function () {
-                    return new Promise(function(resolve, reject) {
-                        resolve(language);
-                    });
-                },
-                trackRegion: function (region, labels) {
-                    return window.bbcpage.loadModule(['istats-1'])
-                        .then(function(istats) {
-    
-                            var trackLabels = {
-                                region: region
-                            };
-    
-                            for (var label in labels) {
-                                trackLabels[label] = labels[label];
-                            }
-    
-                            var linkType = labels.linkType || 'internal';
-    
-                            istats.track(linkType, trackLabels);
-                        });
-                }
-            };
-    
-            var country;
-    
-            var sanitiseCountry = function(country) {
-                return country ? country.replace(/ /g, '') : undefined;
-            }
-    
-            window.bbcuser = {
-                getCountry: function() {
-                    if (country) {
-                        return new Promise(function(resolve, reject) {
-                            resolve(sanitiseCountry(country));
-                        })
-                    }
-                    else {
-                        return window.bbcpage.loadModule(['orb/fig'])
-                            .then(function(orbFig) {
-                                return new Promise(function(resolve, reject) {
-                                    orbFig.load(function (fig) {
-                                        if (fig.geo.isUK()) {
-                                            resolve('gb');
-                                        } else if (fig.geo.isEU()) {
-                                            resolve('eu');
-                                        } else {
-                                            resolve(undefined);
-                                        }
-                                    }, function () {
-                                        reject('Error determining country. Timeout?');
-                                    });
-                                });
-                            });
-    
-                    }
-                },
-                isUKCombined: function(inputCountry) {
-                    return window.bbcpage.loadModule(['orb/bbcuser'])
-                        .then(function(service) {
-                            return new Promise(function(resolve, reject) {
-                                if (inputCountry) {
-                                    resolve(service.isUKCombined(sanitiseCountry(inputCountry)));
-                                }
-                                else {
-                                    window.bbcuser.getCountry().then(function(fetchedCountry){
-                                        resolve(service.isUKCombined(fetchedCountry));
-                                    })
-                                }
-                            });
-                        });
-                },
-                isEU: function(inputCountry) {
-                    return window.bbcpage.loadModule(['orb/bbcuser'])
-                        .then(function(service) {
-                            return new Promise(function(resolve, reject) {
-                                if (inputCountry) {
-                                    resolve(service.isEU(sanitiseCountry(inputCountry)));
-                                }
-                                else {
-                                    window.bbcuser.getCountry().then(function(fetchedCountry){
-                                        resolve(service.isEU(fetchedCountry));
-                                    })
-                                }
-                            });
-                        });
-                },
-                allowsPerformanceCookies: function() {
-                    return window.bbcpage.loadModule(['orb/cookies'])
-                            .then(function(bbccookies) {
-                                return !!bbccookies.cookiesEnabled() && !!bbccookies.readPolicy('performance');
-                            });
-                },
-                allowsFunctionalCookies: function() {
-                    return window.bbcpage.loadModule(['orb/cookies'])
-                            .then(function(bbccookies) {
-                                return !!bbccookies.cookiesEnabled() && !!bbccookies.readPolicy('personalisation');
-                            });
-                },
-                getCookieValue: function(cookieName) {
-                    return window.bbcpage.loadModule(['orb/cookies'])
-                            .then(function(bbccookies) {
-                                return bbccookies.get(cookieName);
-                            });
-                },
-                resetCookiesPreferences: function() {
-                    return window.bbcpage.loadModule(['orb/cookies'])
-                            .then(function(bbccookies) {
-                                bbccookies.setDefaultCookiesSingleDomain();
-                            });
-                },
-                hasCookiesEnabled: function() {
-                    return window.bbcpage.loadModule(['orb/cookies'])
-                            .then(function(bbccookies) {
-                                return !!bbccookies.cookiesEnabled();
-                            });
-                },
-                hasSeenCookieBanner: function() {
-                    return window.bbcpage.loadModule(['orb/cookies'])
-                            .then(function (bbccookies) {
-                                return !!bbccookies.isCookiePolicySet();
-                            });
-                },
-                logEvent: function (verb, noun, extraLabels) {
-                    window.bbcuser.allowsPerformanceCookies()
-                        .then(function(allowsCookies) {
-                            if (allowsCookies) {
-                                return window.bbcpage.loadModule(['istats-1'])
-                                    .then(function(istats) {
-                                        istats.log(verb, noun, extraLabels);
-                                    });
-                            } else {
-                                throw new Error('User cannot be tracked due to cookies preferences.');
-                            }
-                        });
-                },
-            };
-    
-        }()); define('orb/cookies', function() {
-                return window.bbccookies;
-            }); window.bbcFlagpoles_istats="ON",require.config({paths:{"istats-1":"//nav.files.bbci.co.uk/nav-analytics/0.1.0-95/js/istats-1","megavolt-client":"//nav.files.bbci.co.uk/nav-analytics/0.1.0-95/js/megavolt-client"},config:{"megavolt-client":{baseUrl:"https://mvt.api.bbc.com"}}}),require(["istats-1","orb/cookies"],function(e,t){if(t.isAllowed("s1")){e.addCollector({name:"default",url:"https://sa.bbc.co.uk/bbc/bbc/s",separator:"&"});var a="worldserviceradio.page";e.setCountername(a),window.istats_countername&&e.setCountername(window.istats_countername),e.addLabels("ml_name=webmodule&ml_version=95&blq_e=orbit&blq_r=orbit&blq_s=orbit&blq_v=default&language=en&bbc_site=iplayerradio-worldserviceradio&app_type=responsive&app_name=radio&page_type=network-homepage&event_master_brand=bbc_world_service&prod_name=worldserviceradio")}});/* <![CDATA[ */ var map = {};  if (typeof(map['jssignals-1']) == 'undefined') { map['jssignals-1'] = 'https://static.bbc.co.uk/frameworks/jssignals/0.3.6/modules/jssignals-1'; }  require({paths: map}); /* ]]> */(function () { if (!window.require) { throw new Error('idcta: could not find require module'); } if(typeof(map) == 'undefined') { var map = {}; } if(!!document.createElementNS && !!document.createElementNS('http://www.w3.org/2000/svg', "svg").createSVGRect) { document.documentElement.className += ' id-svg'; } var ptrt = RegExp("[\\?&]ptrt=([^&#]*)").exec(document.location.href); var ENDPOINT_URL = '//' + ((window.location.protocol == "https:") ? ('ssl.bbc.co.uk').replace("www.", "ssl.") : ('ssl.bbc.co.uk').replace("ssl.", "www.")); var ENDPOINT_CONFIG = ('/idcta/config?callback&amp;locale=en-GB&ptrt=' + encodeURI((ptrt ? ptrt[1] : document.location.href))).replace(/\&amp;/g, '&'); var ENDPOINT_TRANSLATIONS = '/idcta/translations?callback&locale=en-GB'; map['idapp-1'] = '//static.bbc.co.uk/idapp/0.72.58/modules/idapp/idapp-1'; map['idcta'] = '//static.bbc.co.uk/id/0.37.24/modules/idcta'; map['idcta/config'] = [ENDPOINT_URL + ENDPOINT_CONFIG, '//static.bbc.co.uk/id/0.37.24/modules/idcta/fallbackConfig']; map['idcta/translations'] = [ENDPOINT_URL + ENDPOINT_TRANSLATIONS, '//static.bbc.co.uk/id/0.37.24/modules/idcta/fallbackTranslations']; require({paths: map}); /* * Temporary code * To be removed when old id-statusbar-config is no longer supported */ define('id-statusbar-config', ['idcta/id-config'], function(conf) { return conf; }); define('idcta/id-statusbar-config', ['idcta/id-config'], function(conf) { return conf; }); })();// Globally available search context
-  window.SEARCHBOX={"variant":"default","locale":"en","navSearchboxStaticPrefix":"//nav.files.bbci.co.uk/searchbox/1.0.0-137","searchboxAppStaticPrefix":"//search.files.bbci.co.uk/searchbox-app/1.0.21","searchFormHtml":"<div tabindex=\"-1\" data-reactid=\".18jgjgxqf40\" data-react-checksum=\"-1015011647\"><div data-reactid=\".18jgjgxqf40.0\"><section class=\"se-searchbox-panel\" data-reactid=\".18jgjgxqf40.0.0\"><div class=\"se-g-wrap\" data-reactid=\".18jgjgxqf40.0.0.0\"><div class=\"se-g-layout\" data-reactid=\".18jgjgxqf40.0.0.0.0\"><div class=\"se-g-layout__item se-searchbox-title\" aria-hidden=\"true\" data-reactid=\".18jgjgxqf40.0.0.0.0.0\">search</div><div class=\"se-g-layout__item se-searchbox\" data-reactid=\".18jgjgxqf40.0.0.0.0.1\"><form accept-charset=\"utf-8\" id=\"searchboxDrawerForm\" method=\"get\" action=\"https://search.bbc.co.uk/search\" data-reactid=\".18jgjgxqf40.0.0.0.0.1.0\"><label class=\"se-searchbox__input\" for=\"se-searchbox-input-field\" data-reactid=\".18jgjgxqf40.0.0.0.0.1.0.0\"><span class=\"se-sr-only\" data-reactid=\".18jgjgxqf40.0.0.0.0.1.0.0.0\">Search Term</span><input name=\"q\" type=\"text\" value=\"\" id=\"se-searchbox-input-field\" class=\"se-searchbox__input__field\" maxlength=\"512\" autocomplete=\"off\" autocorrect=\"off\" autocapitalize=\"off\" spellcheck=\"false\" tabindex=\"0\" data-reactid=\".18jgjgxqf40.0.0.0.0.1.0.0.1\"/></label><input type=\"hidden\" name=\"scope\" value=\"\" data-reactid=\".18jgjgxqf40.0.0.0.0.1.0.2\"/><button type=\"submit\" class=\"se-searchbox__submit\" tabindex=\"0\" data-reactid=\".18jgjgxqf40.0.0.0.0.1.0.3\">Search</button><button type=\"button\" class=\"se-searchbox__clear se-searchbox__clear--visible\" tabindex=\"0\" data-reactid=\".18jgjgxqf40.0.0.0.0.1.0.4\">Close</button></form></div></div></div></section><div aria-live=\"polite\" aria-atomic=\"true\" class=\"se-suggestions-container\" data-reactid=\".18jgjgxqf40.0.1\"><section class=\"se-g-wrap\" data-reactid=\".18jgjgxqf40.0.1.0\"></section></div></div></div>","searchScopePlaceholder":"<input type=\"hidden\" name=\"scope\" id=\"orb-search-scope\" value=\"iplayer:radio\">","searchScopeParam":"?scope=iplayer:radio","searchScopeTemplate":"iplayer:radio","searchPlaceholderWrapperStart":"","searchPlaceholderWrapperEnd":""};
-  window.SEARCHBOX.suppress = false;
-  window.SEARCHBOX.searchScope = SEARCHBOX.searchScopeTemplate.split('-')[0];require.config({
-        "paths": {
-            "orb/async/_footerpromo": 'https://nav.files.bbci.co.uk/navpromo/2.0.0-17.a2716e4/js/async/_footerpromo'
-        }
-    });/*<![CDATA[*/ var _sf_startpt = (new Date()).getTime(); /*]]>*/.bbccom_display_none{display:none;}/*<![CDATA[*/ var bbcdotcomConfig, googletag = googletag || {}; googletag.cmd = googletag.cmd || []; var bbcdotcom = false; (function(){ if(typeof require !== 'undefined') { require({ paths:{ "bbcdotcom":"https://static.bbc.co.uk/bbcdotcom/1.79.0/script" } }); } })(); /*]]>*//*<![CDATA[*/ var bbcdotcom = { adverts: { keyValues: { set: function() {} } }, advert: { write: function () {}, show: function () {}, isActive: function () { return false; }, layout: function() { return { reset: function() {} } } }, config: { init: function() {}, isActive: function() {}, setSections: function() {}, isAdsEnabled: function() {}, setAdsEnabled: function() {}, isAnalyticsEnabled: function() {}, setAnalyticsEnabled: function() {}, setAssetPrefix: function() {}, setVersion: function () {}, setJsPrefix: function() {}, setSwfPrefix: function() {}, setCssPrefix: function() {}, setConfig: function() {}, getAssetPrefix: function() {}, getJsPrefix: function () {}, getSwfPrefix: function () {}, getCssPrefix: function () {}, isOptimizelyEnabled: function() {} }, survey: { init: function(){ return false; } }, data: {}, init: function() {}, objects: function(str) { return false; }, locale: { set: function() {}, get: function() {} }, setAdKeyValue: function() {}, utils: { addEvent: function() {}, addHtmlTagClass: function() {}, log: function () {} }, addLoadEvent: function() {} }; /*]]>*//*<![CDATA[*/ (function(){ if (typeof orb !== 'undefined' && typeof orb.fig === 'function') { if (orb.fig('ad') && orb.fig('uk') == 0) { bbcdotcom.data = { ads: (orb.fig('ad') ? 1 : 0), stats: (orb.fig('uk') == 0 ? 1 : 0), statsProvider: orb.fig('ap') }; } } else { document.write('<script type="text/javascript" src="'+('https:' == document.location.protocol ? 'https://www.bbc.com' : 'http://tps.bbc.com')+'/wwscripts/data">\x3C/script>'); } })(); /*]]>*//*<![CDATA[*/ (function(){ if (typeof orb === 'undefined' || typeof orb.fig !== 'function') { bbcdotcom.data = { ads: bbcdotcom.data.a, stats: bbcdotcom.data.b, statsProvider: bbcdotcom.data.c }; } if (bbcdotcom.data.ads == 1) { document.write('<script type="text/javascript" src="'+('https:' == document.location.protocol ? 'https://www.bbc.com' : 'http://www.bbc.com')+'/wwscripts/flag">\x3C/script>'); } })(); /*]]>*//*<![CDATA[*/ (function(){ if (window.bbcdotcom && (typeof bbcdotcom.flag == 'undefined' || (typeof bbcdotcom.data.ads !== 'undefined' && bbcdotcom.flag.a != 1))) { bbcdotcom.data.ads = 0; } if (/[?|&]ads/.test(window.location.href) || /(^|; )ads=on; /.test(document.cookie) || /; ads=on(; |$)/.test(document.cookie)) { bbcdotcom.data.ads = 1; bbcdotcom.data.stats = 1; } if (window.bbcdotcom && (bbcdotcom.data.ads == 1 || bbcdotcom.data.stats == 1)) { bbcdotcom.assetPrefix = "https://static.bbc.co.uk/bbcdotcom/1.79.0/"; (function() { var useSSL = 'https:' == document.location.protocol; var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js'; document.write('<scr' + 'ipt src="' + src + '">\x3C/script>'); })(); if (/(sandbox|int)(.dev)*.bbc.co*/.test(window.location.href) || /[?|&]ads-debug/.test(window.location.href) || document.cookie.indexOf('ads-debug=') !== -1) { document.write('<script type="text/javascript" src="https://static.bbc.co.uk/bbcdotcom/1.79.0/script/dist/bbcdotcom.dev.js">\x3C/script>'); } else { document.write('<script type="text/javascript" src="https://static.bbc.co.uk/bbcdotcom/1.79.0/script/dist/bbcdotcom.js">\x3C/script>'); } } })(); /*]]>*/if (window.bbcdotcom && bbcdotcom.data.stats == 1) { document.write('<link rel="dns-prefetch" href="//secure-us.imrworldwide.com/">'); document.write('<link rel="dns-prefetch" href="//me-cdn.effectivemeasure.net/">'); document.write('<link rel="dns-prefetch" href="//ssc.api.bbc.com/">'); } if (window.bbcdotcom && bbcdotcom.data.ads == 1) { document.write('<link rel="dns-prefetch" href="//www.googletagservices.com/">'); document.write('<link rel="dns-prefetch" href="//bbc.gscontxt.net/">'); document.write('<link rel="dns-prefetch" href="//tags.crwdcntrl.net/">'); document.write('<link rel="dns-prefetch" href="//ad.crwdcntrl.net/">'); }if (window.bbcdotcom && bbcdotcom.data.ads == 1) { document.write('<meta name="google-site-verification" content="auTeTTwSt_KBY_4iDoR00Lwb7-qzx1IgzJy6ztaWgEI" />'); }/*<![CDATA[*/ (function(){ if (window.bbcdotcom && (bbcdotcom.data.ads == 1 || bbcdotcom.data.stats == 1)) { bbcdotcomConfig = {"adFormat":"standard","adKeyword":"","adMode":"smart","adsEnabled":true,"appAnalyticsSections":"","asyncEnabled":true,"disableInitialLoad":false,"advertInfoPageUrl":"http:\/\/www.bbc.com\/privacy\/cookies\/international\/","advertisementText":"Advertisement","analyticsEnabled":true,"appName":"","assetPrefix":"https:\/\/static.bbc.co.uk\/bbcdotcom\/1.79.0\/","customAdParams":[],"customStatsParams":[],"headline":"","id":"","inAssociationWithText":"in association with","keywords":"","language":"","orbTransitional":false,"outbrainEnabled":true,"outbrainSportEnabled":true,"adsenseEnabled":true,"adsportappEnabled":true,"lotameEnabled":true,"platinumEnabled":true,"tlNewsIndexEnabled":false,"tlNewsStoryEnabled":false,"tlNewsFpEnabled":false,"winterOlympicsEnabled":false,"optimizelyEnabled":false,"grapeshotEnabled":true,"palEnv":"live","productName":"","sections":[],"comScoreEnabled":true,"comscoreSite":"bbc","comscoreID":"19293874","comscorePageName":"","slots":"","sponsoredByText":"is sponsored by","adsByGoogleText":"Ads by Google","summary":"","type":"","features":{"testfeature":{"name":"testfeature","envs":["sandbox","int","test"],"on":true,"options":{},"override":null},"lxadverts":{"name":"lxadverts","envs":[],"on":true,"options":{},"override":null}},"staticBase":"\/bbcdotcom","staticHost":"https:\/\/static.bbc.co.uk","staticVersion":"1.79.0","staticPrefix":"https:\/\/static.bbc.co.uk\/bbcdotcom\/1.79.0","dataHttp":"tps.bbc.com","dataHttps":"www.bbc.com","flagHttp":"www.bbc.co.uk","flagHttps":"www.bbc.co.uk","analyticsHttp":"sa.bbc.com","analyticsHttps":"ssa.bbc.com"}; bbcdotcom.config.init(bbcdotcomConfig, bbcdotcom.data, window.location, window.document); bbcdotcom.config.setAssetPrefix("https://static.bbc.co.uk/bbcdotcom/1.79.0/"); bbcdotcom.config.setVersion("1.79.0"); document.write('<!--[if IE 7]><script type="text/javascript">bbcdotcom.config.setIE7(true);\x3C/script><![endif]-->'); document.write('<!--[if IE 8]><script type="text/javascript">bbcdotcom.config.setIE8(true);\x3C/script><![endif]-->'); document.write('<!--[if IE 9]><script type="text/javascript">bbcdotcom.config.setIE9(true);\x3C/script><![endif]-->'); if (/[?|&]ex-dp/.test(window.location.href) || document.cookie.indexOf('ex-dp=') !== -1) { bbcdotcom.utils.addHtmlTagClass('bbcdotcom-ex-dp'); } } })(); /*]]>*/var initOptimizely = (function(isEnabled){ if(!isEnabled) return; var logger = window.bbcdotcom.Logger('bbcdotcom:head:optimizely'); /* Allow Optimizely in these paths */ var allowPaths = ['/', '/wwhp']; /* Only run on optimizely on homepage */ if (bbcdotcom.utils && allowPaths.indexOf(window.location.pathname) !== -1 && window.bbccookies && bbccookies.readPolicy('performance') ){ /* set correct OptimizelyURL for prod or sandbox */ var optimizelyURL = "https://cdn.optimizely.com/public/4621041136/s/bbccom_sandbox.js"; if(window.location.hostname === 'www.bbc.com') { optimizelyURL = "https://cdn.optimizely.com/public/4621041136/s/bbccom_prod.js"; } /* Set cookie to 1 year */ window['optimizely'] = window['optimizely'] || []; window['optimizely'].push({ "type": "cookieExpiration", "cookieExpirationDays": 365 }); /* Require Optimizely script and initialize tests */ require(['jquery-1', optimizelyURL], function($) { var optimizely = window['optimizely']; /* Start optimizely experiments */ /* End optimizely experiments */ }); } })( bbcdotcom.config.isOptimizelyEnabled() );/*<![CDATA[*/ if ( window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.ads && bbcdotcom.data.ads == 1 && bbcdotcom.config && bbcdotcom.config.isGrapeshotEnabled && bbcdotcom.config.isGrapeshotEnabled() && bbcdotcom.config.isWorldService && !bbcdotcom.config.isWorldService() ) { var gs_channels="DEFAULT"; (function () { var gssrc = "", gsurl = window.location.href.split("?")[0]; gssrc = 'https://bbc.gscontxt.net/?url='+encodeURIComponent(gsurl); document.write('<scr' + 'ipt src="' + gssrc + '">\x3C/script>'); bbcdotcom.gsTimerStart = (new Date()).getTime(); bbcdotcom.config.setGrapeshotActive(true); })(); } /*]]>*//*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.stats && bbcdotcom.data.stats == 1 && bbcdotcom.config && bbcdotcom.config.isLotameEnabled && bbcdotcom.config.isLotameEnabled() && bbcdotcom.lotame){ (function () { var clientId, lotameUrl; clientId = (bbcdotcom.config.isWorldService && bbcdotcom.config.isWorldService()) ? '10826' : '10816'; lotameUrl = '//tags.crwdcntrl.net/c/'+clientId+'/cc.js?ns='+clientId; document.write('<scr' + 'ipt src="' + lotameUrl + '" onload="bbcdotcom.lotame.callback()" id="LOTCC'+clientId+'">\x3C/script>'); })(); (function () { var lotameAudienceUrl = '//ad.crwdcntrl.net/5/c=10815/pe=y/var=ccauds'; bbcdotcom.config.setLotameActive(true); bbcdotcom.lotameTimerStart = (new Date()).getTime(); document.write('<scr' + 'ipt src="' + lotameAudienceUrl + '">\x3C/script>'); })(); } /*]]>*//*<![CDATA[*/ (function() { window.bbcdotcom.head = true; }()); /*]]>*//*<![CDATA[*/
-        bbcpage.loadModule(['orb/cookies'])
-            .then(function(bbccookies) {
-                require(['istats-1', 'orb/fig'], function (istats, orbFig) {
-                    istats.addLabels({ 'bbc_mc': bbccookies.analyticsPolicyString() });
-
-                    var domesticBlqV = istats._getLabels().blq_v;
-                    var worldwideBlqV = istats._getLabels().blq_v + '-ww';
-
-                    function setBlqVLabel(fig) {
-                        if (fig.geo.isUK()) {
-                            istats.addLabels({'blq_v': domesticBlqV});
-                        } else {
-                            istats.addLabels({'blq_v': worldwideBlqV});
-                        }
-                    }
-
-                    // Guess with synchronous API first (might be cached and the async version might be too slow)
-                    setBlqVLabel(orbFig);
-                    orbFig.load(function (fig) {
-                        setBlqVLabel(fig);
-                    });
-                });
-            });
-    /*]]>*/
-
-
-    window.iprConfig = window.iprConfig || { products: {} };
-    window.iprConfig.products['radio-nav-service'] = {
-        env: 'live',
-        version: '504',
-        date: '1518436943'
-    };
 
 
 
-    require({
-        paths: {
-            radioNav: "//rmp.files.bbci.co.uk/radio-nav-service/504/js/modules/radioNav",
-            radioNavLazyLoading: "//rmp.files.bbci.co.uk/radio-nav-service/504/js/modules/radioNavLazyLoading",
-            radioNavStats: "//rmp.files.bbci.co.uk/radio-nav-service/504/js/modules/radioNavStats",
-            windowsPhoneApp: "//rmp.files.bbci.co.uk/radio-nav-service/504/js/modules/windowsPhoneApp",
-            handlebars: "//rmp.files.bbci.co.uk/radio-nav-service/504/js/modules/handlebars.min",
-            'bump-3': "//emp.bbci.co.uk/emp/bump-3/bump-3",
-           'msi/content-loader': "//rmp.files.bbci.co.uk/radio-msi/latest",
-           'optimizely-dax' : "//rmp.files.bbci.co.uk/radio-nav-service/504/js/modules/dax"
-        }
+
+
+
+
+
+
+
+  var onloadCallback = function() {
+    grecaptcha.render('html_element', {
+      'sitekey' : '6Ld2XScTAAAAAOupdoiO6KRii_labn6piwMNVMZL',
+      'callback' : function(d_recaptcha_response) {	
+        $("#recaptcha-response").val(d_recaptcha_response);
+      }
     });
+  };
 
-    require(['istats-1', 'optimizely-dax'], function (istats, optimizelyDax) {
-            optimizelyDax.init(istats);
-     });
 
 
 
 
 
 
-        function getCookie(cname) {
-            var name = cname + "=";
-            var ca = document.cookie.split(';');
-            for(var i=0; i<ca.length; i++) {
-                var c = ca[i];
-                while (c.charAt(0)==' ') c = c.substring(1);
-                if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
-            }
-            return "none";
-        }
 
-        (function(){
 
-            function loadChartbeat() {
 
-                // Don't load chartbeat if it's been configured already
-                if (window._sf_async_config) {
-                    return;
-                }
 
-                window._sf_async_config = {};
-                var _sf_async_config = window._sf_async_config;
 
-                /** CONFIGURATION START **/
-                _sf_async_config.uid = 50924;
-                _sf_async_config.domain = "bbc.co.uk";
-                _sf_async_config.useCanonical = true;
 
-                _sf_async_config.authors = "";
-                _sf_async_config.path = document.location.pathname;
-                /** CONFIGURATION END **/
 
-                var ckns = getCookie('ckns_policy'),
-                    bodyClasses = document.body.className.split(' '),
-                    bodyAttribute = document.body.getAttribute('data-page-masterbrand'),
-                    serviceId;
 
-                for (var i = 0; i < bodyClasses.length; i++) {
-                  var value = bodyClasses[i];
-                  if ( value.substring(0, 4) === "nhp-" ) {
-                      serviceId = value.replace("nhp-",'');
-                    }
-                }
-                _sf_async_config.sections = "radio, " + (serviceId ? serviceId : bodyAttribute || '');
+Already a member? Log in
 
-                if (ckns == '000' || ckns == '010'  ||  ckns == '110' || ckns == "none") {
-                    _sf_async_config.noCookies = true;
-                } else {
-                    window._sf_endpt = (new Date()).getTime();
-                    var e = document.createElement("script");
-                    e.setAttribute("language", "javascript");
-                    e.setAttribute("type", "text/javascript");
-                    e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
-                    document.body.appendChild(e);
-                }
-            }
+Sign up with your...
 
-            var oldonload = window.onload;
-            window.onload = (typeof window.onload != "function") ?
-                loadChartbeat : function() { oldonload(); loadChartbeat(); };
 
-        })();
 
-    
- 
 
+Sign in with Twitter
 
 
 
-    var bbcRequireMap = {
-        "bump-3": "//emp.bbci.co.uk/emp/bump-3/bump-3",
-        "swfobject": "//www.bbc.co.uk/emp/swfobject",
 
 
-        "jquery-1.9": "//rmp.files.bbci.co.uk/nhp-service/1248/jquery1.9/jquery-1.9.1.min",
-        "uasclient": "//static.bbci.co.uk/uasclient/0.1.40/modules/uasclient",
-        "relay-1": "//static.bbci.co.uk/frameworks/relay/0.2.6/sharedmodules/relay-1"
-    };
+Sign in with Facebook
 
-    require.config({
-        "baseUrl": "//static.bbci.co.uk/",
-        "paths": bbcRequireMap
-    });
 
 
-    window.iprConfig = window.iprConfig || { products: {} };
-    window.iprConfig.products['nhp-service'] = {
-        env: 'live',
-        version: '1248',
-        date: '1525183654'
-    };
 
 
-        window.iprConfig = window.iprConfig || { products: {} };
-        window.iprConfig.products['nightingale'] = {
-            env: 'live',
-            version: '202',
-            date: '1516972797'
-        };
-    
+Sign in with Google+
 
 
-/*<![CDATA[*/ (function() { if (window.bbcdotcom && bbcdotcom.config.isActive('ads')) { googletag.cmd.push(function() { googletag.display('bbccom_interstitial'); }); } }()); /*]]>*//*<![CDATA[*/ (function() { var wallpaper; if (window.bbcdotcom && bbcdotcom.config.isActive('ads')) { if (bbcdotcom.config.isAsync()) { googletag.cmd.push(function() { googletag.display('bbccom_wallpaper'); }); } else if (typeof googletag !== "undefined" && typeof googletag.display === "function") { googletag.display("wallpaper"); } wallpaper = bbcdotcom.adverts.adRegister.getAd('wallpaper'); } }()); /*]]>*//*<![CDATA[*/ (function() { if (window.bbcdotcom && bbcdotcom.config.isActive('ads')) { document.write(unescape('%3Cscript id="gnlAdsEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } if (window.bbcdotcom && bbcdotcom.config.isActive('analytics')) { document.write(unescape('%3Cscript id="gnlAnalyticsEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } }()); /*]]>*//*<![CDATA[*/ (function() { window.bbcdotcom.bodyFirst = true; }()); /*]]>*/HomepageAccessibility linksSkip to contentAccessibility HelpBBC iDrequire(['idcta/statusbar'], function(statusbar) { new statusbar.Statusbar({"id":"idcta-statusbar","publiclyCacheable":true}); });NotificationsHomeNewsSportWeatheriPlayerTVRadioCBBCCBeebiesFoodBitesizeMusicEarthArtsMake It DigitalTasterLocalTomorrow's WorldMenuSearchSearch the BBCSearch the BBC
 
 
+or
 
+Sign Up with your email address
 
 
 
 
+Add Tags
 
 
 
+Type tags to add
 
 
 
+Cancel
+Add Tags
 
 
 
 
-iPlayer Radio
 
 
 
 
+Duplicate Tags
 
 
 
-                            Stations
-                        
 
+Common tags to remove
 
-                            Categories
-                        
 
 
-                            Schedules
-                        
+Cancel
+Remove Tags
 
-Podcasts
 
-                            Podcasts
-                        
 
-My Radio
 
-                            My Radio
-                        
 
 
 
 
+Rename Tags
 
 
 
 
-                    Exit Search
-                
+Select a tag to rename
+
+New tag name
+
+
+
+Cancel
+Rename Tag
+
+
+
+
+
+
+
+
+Share This URL With Others!
+
+
+
+
+Type Emails or User Names (comma-separated)
+
+Link shares via email will come from your email address so recipients know it's you and can reply.
+
+
+
+Share
+
+
+
+
+ Twitter
+ Facebook
+ Google+
+ Pocket
+ Instapaper
+ Email
+
+
+
+
+
+
+
+
+Save Link
+
+
+
+
+Title
+
+Tags  (Separated by comma)
+
+Comment (Max. 1000 characters)
+
+
+
+  Private
+  Public
+
+
+Cancel
+Save Link
+
+
+
+
+
+
+
+
+
+Sign in
+
+
+
+
+Sign in with Twitter
+
+
+
+
+
+Sign in with Facebook
+
+
+
+
+
+Sign in with Google+
+
+
+
+
+
+
+
+
+
+Sign In
+Forgot password?
+
+
+
+Sign Up with your email address
+
+
+
+
+Sign up
+
+
+
+
+
+
+
+
+Stay in the loop with Delicious Trending
+By clicking the button, you agree to the Terms & Conditions.
+
+Sign Up
+
+
+
+
+
+
+
+Forgot Password?
+
+Please enter your username below and press the send button.A password reset link will be sent to you.
+If you are unable to access the email address originally associated with your Delicious account, we recommend creating a new account.
+
+
+
+
+Send
+
+
+
+
+
+
+
+
+
+Delicious
+
+
+
+ Sign In
+Sign Up
+
 
 
 
@@ -440,11 +299,15 @@ Search
 
 
 
+Search
 
 
 
 
 
+ Sign In
+ Shop
+Sign Up
 
 
 
@@ -453,2969 +316,95 @@ Search
 
 
 
-Stations
 
 
 
 
 
 
-Radio 1
 
 
 
 
 
 
-Radio 1Xtra
 
+Home
+Sign In
 
 
 
 
 
-Radio 2
+Sign in
 
 
 
 
+Sign in with Twitter
 
 
-Radio 3
 
 
 
+Sign in with Facebook
 
 
 
-Radio 4
 
 
+Sign in with Google+
 
 
 
 
-Radio 4 Extra
 
 
 
 
 
 
-Radio 5 live
+Sign In
+Forgot password?
 
 
 
+Sign in with your email address
 
 
 
-Radio 5 live sports extra
 
 
 
 
 
 
-Radio 6 Music
 
 
 
 
 
+Home
+About
+Apps
+Blog
+Branding
+Copyright
+Help
+Privacy
+RSS
+Terms
+Tools
 
-Asian Network
 
 
+© 2017 Maciej Ceglowski
 
 
 
 
-World Service
 
-
-
-
-
-
-Radio Scotland
-
-
-
-
-
-
-Radio nan Gàidheal
-
-
-
-
-
-
-Radio Ulster
-
-
-
-
-
-
-Radio Foyle
-
-
-
-
-
-
-Radio Wales
-
-
-
-
-
-
-Radio Cymru
-
-
-
-
-
-
-Local Radio
-
-
-
-
-
-
-
-
-Categories
-
-
-Children'sComedyDocumentariesDramaEntertainmentFactualLearningMusicNewsPerformances & EventsReligion & EthicsSportAll Categories
-
-
-
-
-
-Schedules
-
-
-
-
-
-
-Radio 1
-
-
-
-
-
-
-Radio 1Xtra
-
-
-
-
-
-
-Radio 2
-
-
-
-
-
-
-Radio 3
-
-
-
-
-
-
-Radio 4
-
-
-
-
-
-
-Radio 4 Extra
-
-
-
-
-
-
-Radio 5 live
-
-
-
-
-
-
-Radio 5 live sports extra
-
-
-
-
-
-
-Radio 6 Music
-
-
-
-
-
-
-Asian Network
-
-
-
-
-
-
-World Service
-
-
-
-
-
-
-Radio Scotland
-
-
-
-
-
-
-Radio nan Gàidheal
-
-
-
-
-
-
-Radio Ulster
-
-
-
-
-
-
-Radio Foyle
-
-
-
-
-
-
-Radio Wales
-
-
-
-
-
-
-Radio Cymru
-
-
-
-
-
-
-Local Radio
-
-
-
-
-
-
-
-
-Podcasts
-
-
-
-
-
-
-My Radio
-
-
-
-Overview
-
-
-Listen Later
-
-
-Following
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        Skip to on Air now to listen live.
-    
-
-
-
-
-
-
-Listen live
-
-
-
-
-
-
-
-
-
-
-
-
-Listen live
-
-
-
-
-
-
-
-
-
-
-World Service
-
-
-
-
-
-
-
-
-
-
-Full schedule
-
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-23:30 - 23:32
-
-
-BBC News Summary
-2018/05/03 22:30 GMT
-=======
-22:06 - 22:30
-
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-Assignment
-The Invisible Man of Britain’s Far Right
-
-
-
-
-
-
-
-<<<<<<< HEAD
-23:32 - 00:00
-=======
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-22:30 - 22:32
-
-<<<<<<< HEAD
-World Business Report
-Diesel Emissions Scandal: Ex-VW Boss Winterkorn Charged in US
-=======
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-BBC News Summary
-2018/05/03 21:30 GMT
-
-
-
-
-
-
-
-<<<<<<< HEAD
-00:00 - 00:06
-=======
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-22:32 - 23:00
-
-<<<<<<< HEAD
-BBC News
-2018/05/03 23:01 GMT
-=======
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-The Food Chain
-Absolute Food: Part I
-
-
-
-
-
-
-
-<<<<<<< HEAD
-00:06 - 01:00
-=======
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-23:00 - 23:06
-
-<<<<<<< HEAD
-The Thought Show
-When a Democrat Met a Republican
-=======
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-BBC News
-2018/05/03 22:01 GMT
-
-
-
-
-
-
-
-<<<<<<< HEAD
-01:00 - 01:06
-=======
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-23:06 - 23:20
-
-<<<<<<< HEAD
-BBC News
-2018/05/04 00:01 GMT
-=======
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-The Newsroom
-03/05/2018 GMT
-
-
-
-
-
-
-
-<<<<<<< HEAD
-01:06 - 02:00
-
-
-Business Matters
-US-China Trade Talks Begin
-=======
-23:20 - 23:30
-
-
-Sports News
-03/05/2018 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-02:00 - 02:06
-
-
-BBC News
-2018/05/04 01:01 GMT
-=======
-23:30 - 23:32
-
-
-BBC News Summary
-2018/05/03 22:30 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-02:06 - 02:30
-
-
-The Newsroom
-04/05/2018 GMT
-=======
-23:32 - 00:00
-
-
-World Business Report
-Diesel Emissions Scandal: Ex-VW Boss Winterkorn Charged in US
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-02:30 - 02:32
-
-
-BBC News Summary
-2018/05/04 01:30 GMT
-=======
-00:00 - 00:06
-
-
-BBC News
-2018/05/03 23:01 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-02:32 - 03:00
-=======
-00:06 - 01:00
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-The Thought Show
-When a Democrat Met a Republican
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-03:00 - 03:06
-
-
-BBC News
-2018/05/04 02:01 GMT
-=======
-01:00 - 01:06
-
-
-BBC News
-2018/05/04 00:01 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-03:06 - 03:30
-
-
-HARDtalk
-Ukraine's Health Minister - Ulana Suprun
-=======
-01:06 - 02:00
-
-
-Business Matters
-US-China Trade Talks Begin
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-03:30 - 03:32
-
-
-BBC News Summary
-2018/05/04 02:30 GMT
-=======
-02:00 - 02:06
-
-
-BBC News
-2018/05/04 01:01 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-03:32 - 04:00
-
-
-World Football
-The Yemen coach, a Thai international and Christian Benteke
-=======
-02:06 - 02:30
-
-
-The Newsroom
-04/05/2018 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-04:00 - 04:06
-
-
-BBC News
-2018/05/04 03:01 GMT
-=======
-02:30 - 02:32
-
-
-BBC News Summary
-2018/05/04 01:30 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-04:06 - 05:00
-
-
-Outlook
-Making a Bollywood Film for My Village
-=======
-02:32 - 03:00
-
-
-Assignment
-The Invisible Man of Britain’s Far Right
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-05:00 - 05:06
-
-
-BBC News
-2018/05/04 04:01 GMT
-=======
-03:00 - 03:06
-
-
-BBC News
-2018/05/04 02:01 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-05:06 - 05:30
-
-
-The Newsroom
-04/05/2018 GMT
-=======
-03:06 - 03:30
-
-
-HARDtalk
-Ukraine's Health Minister - Ulana Suprun
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-
-Last on
-<<<<<<< HEAD
-05:30 - 05:32
-
-
-BBC News Summary
-2018/05/04 04:30 GMT
-=======
-03:30 - 03:32
-
-
-BBC News Summary
-2018/05/04 02:30 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Listen live
-
-
-
-
-
-
-
-
-
-
-
-
-Listen live
-
-
-
-
-
-
-
-
-
-
-
-
-On air
-<<<<<<< HEAD
-05:32 - 06:00
-
-Science in Action
-The ‘Greatest Glasshouse’ in the World
-=======
-03:32 - 04:00
-
-World Football
-The Yemen coach, a Thai international and Christian Benteke
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-
-Recently played
-Now Playing
-
-
-
-
-
-
-
-<<<<<<< HEAD
-Re-opening of Kew glasshouse provides a home for thousands of endangered plants.
-=======
-Featuring the Yemen coach Abraham Mebratu and Bangkok United's Mika Chunuonsee.
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-Contact us
-
-
-
-
-
-
-Next
-<<<<<<< HEAD
-06:00 - 06:06
-
-
-BBC News
-2018/05/04 05:01 GMT
-=======
-04:00 - 04:06
-
-
-BBC News
-2018/05/04 03:01 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-<<<<<<< HEAD
-06:06 - 07:00
-=======
-04:06 - 05:00
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-Newsday
-04/05/2018 GMT
-
-
-
-
-
-
-
-<<<<<<< HEAD
-07:00 - 07:06
-
-
-BBC News
-2018/05/04 06:01 GMT
-=======
-05:00 - 05:06
-
-
-BBC News
-2018/05/04 04:01 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-<<<<<<< HEAD
-07:06 - 08:00
-
-
-Newsday
-=======
-05:06 - 05:30
-
-
-The Newsroom
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-04/05/2018 GMT
-
-
-
-
-
-
-
-<<<<<<< HEAD
-08:00 - 08:06
-
-
-BBC News
-2018/05/04 07:01 GMT
-=======
-05:30 - 05:32
-
-
-BBC News Summary
-2018/05/04 04:30 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-<<<<<<< HEAD
-08:06 - 08:30
-
-
-Newsday
-04/05/2018 GMT
-=======
-05:32 - 06:00
-
-
-Science in Action
-The ‘Greatest Glasshouse’ in the World
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-<<<<<<< HEAD
-08:30 - 08:32
-
-
-BBC News Summary
-2018/05/04 07:30 GMT
-=======
-06:00 - 06:06
-
-
-BBC News
-2018/05/04 05:01 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-<<<<<<< HEAD
-08:32 - 08:50
-
-
-Business Daily
-=======
-06:06 - 07:00
-
-
-Newsday
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-04/05/2018 GMT
-
-
-
-
-
-
-
-<<<<<<< HEAD
-08:50 - 09:00
-
-
-Witness
-When Margaret Thatcher Came to Power
-=======
-07:00 - 07:06
-
-
-BBC News
-2018/05/04 06:01 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-<<<<<<< HEAD
-09:00 - 09:06
-
-
-BBC News
-2018/05/04 08:01 GMT
-=======
-07:06 - 08:00
-
-
-Newsday
-04/05/2018 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-<<<<<<< HEAD
-09:06 - 10:00
-
-
-The Real Story
-Does the Left have a Future in Latin America?
-=======
-08:00 - 08:06
-
-
-BBC News
-2018/05/04 07:01 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-<<<<<<< HEAD
-10:00 - 10:06
-
-
-BBC News
-2018/05/04 09:01 GMT
-=======
-08:06 - 08:30
-
-
-Newsday
-04/05/2018 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-<<<<<<< HEAD
-10:06 - 11:00
-
-
-World Update
-04/05/2018 GMT
-=======
-08:30 - 08:32
-
-
-BBC News Summary
-2018/05/04 07:30 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-<<<<<<< HEAD
-11:00 - 11:06
-
-
-BBC News
-2018/05/04 10:01 GMT
-=======
-08:32 - 08:50
-
-
-Business Daily
-04/05/2018 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-<<<<<<< HEAD
-11:06 - 11:30
-
-
-The Newsroom
-04/05/2018 GMT
-=======
-08:50 - 09:00
-
-
-Witness
-When Margaret Thatcher Came to Power
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-<<<<<<< HEAD
-11:30 - 11:32
-
-
-BBC News Summary
-2018/05/04 10:30 GMT
-=======
-09:00 - 09:06
-
-
-BBC News
-2018/05/04 08:01 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-<<<<<<< HEAD
-11:32 - 12:00
-
-
-World Football
-The Yemen coach, a Thai international and Christian Benteke
-=======
-09:06 - 10:00
-
-
-The Real Story
-Does the Left have a Future in Latin America?
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-<<<<<<< HEAD
-12:00 - 12:06
-
-
-BBC News
-2018/05/04 11:01 GMT
-=======
-10:00 - 10:06
-
-
-BBC News
-2018/05/04 09:01 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-
-<<<<<<< HEAD
-12:06 - 13:00
-
-
-The Fifth Floor
-=======
-10:06 - 11:00
-
-
-World Update
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-04/05/2018 GMT
-
-
-
-
-
-
-
-<<<<<<< HEAD
-13:00 - 13:06
-
-
-BBC News
-2018/05/04 12:01 GMT
-=======
-11:00 - 11:06
-
-
-BBC News
-2018/05/04 10:01 GMT
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-
-Full schedule
-
-
-
-
-
- Pause On Air live polling 
-
-
-
-
-
-previous
-
-
-next
-
-
-
-
-    require(["jquery-1.9"], function( $ ) {
-        var streamContainer = $( '.on-air__container' ),
-        domOnAirNow = document.querySelector( '.on-air-now' );
-
-        if ( !domOnAirNow) {
-            return;
-        }
-
-        var onAirNowPosition = domOnAirNow.offsetLeft,
-            onAirNowWidth = domOnAirNow.clientWidth;
-
-        $( document ).ready( function () {
-            streamContainer.stop().animate( {
-                scrollLeft: ( ( onAirNowPosition ) + onAirNowWidth )
-            }, 0, 'swing', function () {
-                streamContainer.stop().animate( {
-                    scrollLeft: ( onAirNowPosition )
-                }, 800, 'swing' );
-            } );
-        } );
-    });
-
-
-
-
-
-
-
-
-
-Three Things Not to Miss
-
-Today's selection of podcasts, clips and programmes
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        3m    51s
-
-
-
-
-
-What do you do as a food writer but there’s no food?
-
-                    How one journalist resolved her dilemma
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        17m    30s
-
-
-
-
-
-Business Daily - How Economists Forgot Housework
-
-                    Feminist economists argue that GDP statistics ignore care-giving and housework
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        2m    40s
-
-
-
-
-
-Giving Birth with Just a YouTube Video to Help
-
-                    Tia Freeman posted her birthing story on Twitter - and it went viral
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Highlights
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        5m    
-
-
-
-
-
-BBC News
-
-                    The latest five minute news bulletin from BBC World Service.
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        26m    30s
-
-
-
-
-
-Absolute Food
-
-                    How authoritarian regimes control food and what it's like to eat in those countries
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        26m    30s
-
-
-
-
-
-Vitamin D Helps Build-up Malnourished Babies
-
-                    Malnourished children in Pakistan thrive with extra vitamin D
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        23m    
-
-
-
-
-
-What’s the Real Difference Between the Sexes?
-
-                    What is there to learn about men and women from people who have lived as both?
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        9m    
-
-
-
-
-
-WW2: Prisoner on the High Seas
-
-                    A surprise attack, a ship lost, a crew captured - memories of a merchant navy veteran
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        17m    30s
-
-
-
-
-
-Paying the Price of Prison
-
-                    Parking fines and high bail demands are landing Americans in prison. But someone profits
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        26m    30s
-
-
-
-
-
-Gone - The Sea that Disappeared
-
-                    An old fisherman remembers the Aral Sea, which has now become a toxic desert
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Crossing Divides: The people  bringing us together
-
-The world seems more divided than ever. Who are the people trying to bring us together?
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        1m    32s
-
-
-
-
-
-I keep my restaurant open because it keeps me alive
-
-                    Basil Eleiwa's restaurant has been repeatedly hit in Israeli-Gaza violence
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        17m    30s
-
-
-
-
-
-Trending - When a Democrat Met a Republican
-
-                    Inside one attempt to pop political filter bubbles in America
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-How to be heard in a hostile world
-
-                    Tips for communicating with people who have very different ideas to you
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        53m    
-
-
-
-
-
-The Real Story - Crossing The Age Divide
-
-                    How can the young and the old stay connected in a fast changing world?
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        9m    
-
-
-
-
-
-Witness - Swimming The Bering Strait
-
-                    How an American swimmer crossed the "Ice Curtain" between the USA and the Soviet Union.
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        3m    37s
-
-
-
-
-
-The peace talks with a difference
-
-                    The peace talks with a difference
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        26m    30s
-
-
-
-
-
-Discovery - Crossing Divides - The Cooperative Species
-
-                    Why human cooperation fails online
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-View all
-
-
-
-
-
-
-
-
-
-
-
-
-
-Latest Clips
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-<<<<<<< HEAD
-        1m    57s
-=======
-            47s
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-<<<<<<< HEAD
-Inside the 'Girls Code Too' club
-
-                    We hear about a drive to teach young women computer coding in Zambia
-=======
-'It feels like people are drowning in their own lungs'
-
-                    Thousands of South African miners with deadly lung diseases will now be paid compensation
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-<<<<<<< HEAD
-            47s
-=======
-        2m    24s
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-<<<<<<< HEAD
-'It feels like people are drowning in their own lungs'
-
-                    Thousands of South African miners with deadly lung diseases will now be paid compensation
-=======
-A community library with a difference in Lusaka
-
-                    A community library in a Lusaka neighbourhood making a difference in people's lives
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-<<<<<<< HEAD
-
-        2m    24s
-
-
-
-
-
-A community library with a difference in Lusaka
-
-                    A community library in a Lusaka neighbourhood making a difference in people's lives
-=======
-
-        12m    56s
-
-
-
-
-
-Anxiety, cricket & a dog that gave my life purpose - Sarah Taylor
-
-                    England World Cup winner Sarah Taylor opens up about her battle with mental health
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-<<<<<<< HEAD
-        12m    56s
-
-
-
-
-
-Anxiety, cricket & a dog that gave my life purpose - Sarah Taylor
-
-                    England World Cup winner Sarah Taylor opens up about her battle with mental health
-=======
-        3m    44s
-
-
-
-
-
-Diarrhoea vaccine holiday for Finns
-
-                    A holiday with a difference is on offer to people from Finland – but with a catch...
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-<<<<<<< HEAD
-        3m    44s
-=======
-        1m    47s
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-<<<<<<< HEAD
-Diarrhoea vaccine holiday for Finns
-
-                    A holiday with a difference is on offer to people from Finland – but with a catch...
-=======
-What's the secret to award-winning fiction?
-
-                    Author Helen Oyeyemi reveals her top criteria for a great read.
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-<<<<<<< HEAD
-        1m    47s
-=======
-        9m    40s
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-<<<<<<< HEAD
-What's the secret to award-winning fiction?
-
-                    Author Helen Oyeyemi reveals her top criteria for a great read.
-=======
-The race to save history's sounds
-
-                    Will Prentice is racing against the clock to preserve rare sounds
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-<<<<<<< HEAD
-        9m    40s
-
-
-
-
-
-The race to save history's sounds
-
-                    Will Prentice is racing against the clock to preserve rare sounds
-=======
-        12m    20s
-
-
-
-
-
-The baby gorilla that became my daughter
-
-                    Appolinaire Ndohoudou and gorilla Pikin were bonded by the fact that they are both orphans
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Popular Programmes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        17m    30s
-
-
-
-
-
-Business Daily - How Economists Forgot Housework
-
-                    Feminist economists argue that GDP statistics ignore care-giving and housework
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        53m    
-
-
-
-
-
-Newsday - Trump 'Repaid Lawyer's Stormy Hush Money'
-
-                    Member of Donald Trump's legal team contradicts him over a  so-called "hush agreement"
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-<<<<<<< HEAD
-        23m    
-=======
-        53m    
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-<<<<<<< HEAD
-The Inquiry - What’s the Real Difference Between the Sexes?
-
-                    What is there to learn about men and women from people who’ve lived as both?
-=======
-The Documentary - What Men Think - What Men Think: India
-
-                    Masculinity plays out against a backdrop of class, caste and a rapidly changing economy
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        26m    30s
-
-
-
-
-
-<<<<<<< HEAD
-The Documentary - What Men Think - What Men Think: India
-
-                    Masculinity plays out against a backdrop of class, caste and a rapidly changing economy
-=======
-Stumped - The 100-Ball Gamble - A Gimmick Too Far?
-
-                    English cricket's latest innovation, BBC icons Arlott and Swanton, plus epic train rides.
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-<<<<<<< HEAD
-        26m    30s
-=======
-        23m    
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-
-
-
-<<<<<<< HEAD
-Stumped - The 100-Ball Gamble - A Gimmick Too Far?
-
-                    English cricket's latest innovation, BBC icons Arlott and Swanton, plus epic train rides.
-=======
-The Inquiry - What’s the Real Difference Between the Sexes?
-
-                    What is there to learn about men and women from people who’ve lived as both?
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        53m    
-
-
-
-
-
-Newshour - Trump Says Payment to Stormy Daniels did not Violate Campaign Laws
-
-                    Trump confirms his lawyer was reimbursed after payment to Stormy Daniels
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-listen
-Duration: 
-
-        53m    
-
-
-
-
-
-Outlook - The KGB Spy with Two Families
-
-                    The remarkable double life of Jack Barsky, an undercover agent in the US
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-More
-
-Podcasts, newsletter and Africa service
-
-
-
-
-
-
-
-
-
-
-
-
-
-Sign up for the Newsletter
-
-                    The best of the World Service, straight to your inbox, every weekday via our newsletter
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Programmes Across Africa
-
-                    Catch up live or after broadcast. Languages include Hausa, Kiswahili, and Soma
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Listen to BBC World Service on the go
-
-                    Listen on the go using your phone or tablet by downloading our app
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Latest Podcasts
-
-                    Programmes to download for free to listen to on the go
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-How to Listen
-
-                    Information and help on listening to World Service
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contact Us
-
-                    Get in touch or send comments
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Facebook
-
-                    Find us on Facebook
-                
-
-
-
-
-
-
-
-
-
-
-
-View all
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Cymraeg
-
-
-Gaeilge
-
-
-Gàidhlig
-
-
-
-
-
-iPlayer Radio Help
-Contacts and Information
-Help with Signing In
-
-
-
-
-
-
-
-    if ((navigator.userAgent.indexOf('Windows Phone 8') !== -1) && (window.external && 'notify' in window.external)) {
-        window.external.notify("config://www.bbc.co.uk/radio/config/windows-phone");
-    }
-    var rsnTranslations = {
-        "searchIPR": "Search iPlayer Radio"
-    };
-    var rmpAssetPath = "https://rmp.files.bbci.co.uk/rmp-shared-assets/1.0.2/img/network-logos/";
-
-    require(["radioNav", "radioNavLazyLoading", "radioNavStats", "windowsPhoneApp"]);
-
-
-    
-        {{#each this}}<div class="radionav-result-item">
-            <div class="radionav-result-link" tabindex="0" aria-label="{{ this }}">
-                <h2 class="radionav-result-title">{{ this }}</h2>
-                <button class="radionav-remove-link" title="Delete {{ this }} from search history"></button>
-            </div>
-        </div>{{/each}}
-    
-
-
-    <h2 class="radionav-result-title" tabindex="0" aria-label="A-Z">A-Z</h2>
-    
-    <div class="radionav-result-item radionav-result-item--long">
-        <a class="az-link radionav-result-link cf" href=
-        "/radio/programmes/a-z/by/{{ this }}/current">
-            <div class="letter-wrap">{{ this }}</div>
-            
-              All programmes beginning with
-            
-              {{ this }}
-        </a>
-    </div>
-    
-
-
-    <h2 class="radionav-result-title" tabindex="0" aria-label="Stations">Stations</h2>
-    
-        {{#each this.results}}<div class="radionav-result-item radionav-result-network {{#if id ~}} radionav__{{ id }} {{~/if}}">
-        <a data-mid="{{#if id ~}}{{ id }}{{~/if}}" class="radionav-result-link shadow-bottom" href=
-        "/{{ masterbrand.key }}">
-            {{#if hasImage ~}}
-                <img class="radionav-img-wrap" src="{{../this.rmpAssetPath}}{{coverage}}/{{id}}_filled.svg">
-            {{~/if}}
-            <p class="radionav-result-link--flush radionav-result-link--text-wrap">{{ masterbrand.title }}</p>
-        </a>
-    </div>{{/each}}
-    
-
-
-    <h2 class="radionav-result-title" tabindex="0" aria-label="Categories">Categories</h2>
-    
-        {{#each this ~}}<div class="radionav-result-item">
-        <a class="radionav-result-link" href=
-        "/{{ link }}">
-            {{#if mainTitle ~}}
-              {{ mainTitle }}:&nbsp;
-            {{~/if}}
-            {{#if title ~}}
-              {{ title }}
-            {{~/if}}
-        </a>
-    </div>{{~/each}}
-    
-
-
-    <h2 class="radionav-result-title" tabindex="0" aria-label="Episodes">Episodes</h2>
-    
-        {{#each this}}<div class="radionav-result-item radionav-result-episode {{#if section ~}} radionav__{{ section.id }} {{~/if}}">
-        <a data-published-date="{{published}}" data-mid="{{#if section ~}}{{ section.id }}{{~/if}}" class="radionav-result-link radionav-result-link--no-padding result-episodes--img shadow-bottom" href=
-        "/programmes/{{ pid }}">
-            <figure class="radionav-img-ratio-16x9">
-                <img class="radionav-episode-image radionav-img-fit-content radionav-img-medium--wide" src="//ichef.bbci.co.uk/images/ic/480x270/{{ image_pid }}.jpg">
-                <div class="result-cta--play">
-                  <img class="radionav-img-tiny" src="//rmp.files.bbci.co.uk/radio-nav-service/504/img/cta_play.svg">
-                </div>
-            </figure>
-            <p class="radionav-result-link--flush radionav-result-link--text-wrap">{{ title }} </p>
-            {{#if subtitle}}<p class="radionav-result-link--flush radionav-result-link--text-no-wrap"> {{subtitle}} </p>{{~/if}}
-        </a>
-    </div>{{/each}}
-    
-
-
-    <h2 class="radionav-result-title" tabindex="0" aria-label="Programmes">Programmes</h2>
-    
-        {{#each this}}<div class="radionav-result-item radionav-result-programme {{#if section ~}} radionav__{{ section.id }} {{~/if}}">
-        <a data-mid="{{#if section ~}}{{ section.id }}{{~/if}}" class="radionav-result-link shadow-bottom" href=
-        "/programmes/{{ pid }}">
-          <figure class="radionav-img-wrap radionav-img-small">
-              <img class="radionav-img-fit-content" src="//ichef.bbci.co.uk/images/ic/96x96/{{ image_pid }}.jpg">
-          </figure>
-          <p class="radionav-result-link--flush radionav-result-link--text-no-wrap">{{ title }}</p>
-        </a>
-        {{#each episodes}}<div class="radionav-result-item radionav-result-item--sub">
-            <a data-published-date="{{published}}" class="radionav-result-link shadow-bottom" href="/programmes/{{ pid }}">
-              <figure class="radionav-img-wrap radionav-img-small">
-                  <img class="radionav-img-fit-content" src="//rmp.files.bbci.co.uk/radio-nav-service/504/img/cta_play.svg">
-              </figure>
-              <p class="radionav-result-link--flush radionav-result-link--text-no-wrap">Latest episode</p>
-            </a>
-            {{/each}}</div></div>{{/each}}
-    
-
-
-    <h2 class="radionav-result-title" tabindex="0" aria-label="Recently visited">Recently visited</h2>
-    
-        {{#each this}}<div class="radionav-result-item result-visited {{# if mid }}radionav__{{ mid }}{{/if}}">
-        <a class="radionav-result-link shadow-bottom" href=
-        "{{ link }}" tabindex="0">
-            {{# if image }}
-                {{{ image }}}
-            {{/if}}
-            <p class="radionav-result-link__title radionav-result-link--flush radionav-result-link--text-no-wrap">{{ text }}</p>
-            <button class="radionav-remove-link" title="Delete {{ text }} from search visited history"></button>
-        </a>
-    </div>{{/each}}
-    
-
-
-Explore the BBCHomeNewsSportWeatheriPlayerTVRadioCBBCCBeebiesFoodBitesizeMusicEarthArtsMake It DigitalTasterLocalTomorrow's Worldwindow.orb.worldwideFooterlinks = '<li class="orb-footer-ads"><a href="https://advertising.bbcworldwide.com/">Advertise with us<'+'/a><'+'/li><li class="orb-footer-adchoices"><a href="http://www.bbc.com/usingthebbc/cookies/what-is-online-behavioural-advertising/">Ad choices<'+'/a><'+'/li>';Terms of UseAbout the BBCPrivacy PolicyCookiesAccessibility HelpParental GuidanceContact the BBCGet Personalised NewslettersCopyright © 2018 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.require(['orb/lib/_$'], function($) {
-        $.ready(function() {
-            initialiseFooter();
-        });
-
-        var scrollCheckTimer;
-        var didScroll;
-        var previousPosition = 0;
-        var delta = 5;
-        var PROMO_SHOW_BREAKPOINT = 1500;
-        var pageLength = 0;
-
-        function initialiseFooter() {
-            // Suppress this feature on browsers we no longer test
-            var myNav = navigator.userAgent.toLowerCase();
-            var oldIE = (myNav.indexOf('msie') !== -1) && parseInt(myNav.split('msie')[1], 10) <= 10;
-            if (!oldIE) {
-                require(['orb/cookies'], function (bbccookies) {
-                    var disabledByCookie = (parseInt(bbccookies.get('ckns_nav_promofail')) || 0) >= 3;
-                    if (!disabledByCookie) {
-                        require(['orb/fig'], function (orbFig) {
-                            orbFig.load(function (fig) {
-                                if (fig.geo.isUK()) {
-                                    setUpLazyLoading();
-                                }
-                            });
-                        });
-                    }
-                });
-            }
-        }
-
-        function setUpLazyLoading() {
-            // offsetHeight is expensive to calculate, only do it once.
-            pageLength = Math.abs(document.body.offsetHeight);
-
-            if (pageLength < getViewportHeight() + 300 || pageLength - getCurrentPosition() < PROMO_SHOW_BREAKPOINT) {
-                loadPromo();
-
-            } else {
-                window.onscroll = function () {
-                    didScroll = true;
-                };
-
-                scrollCheckTimer = setInterval(function () {
-                    if (didScroll) {
-                        hasScrolled();
-                        didScroll = false;
-                    }
-                }, 250);
-            }
-        }
-
-        function loadPromo() {
-            clearInterval(scrollCheckTimer);
-
-            require(['orb/async/_footerpromo'], function(promo) {
-                promo.init('https://navpromo.api.bbci.co.uk', '');
-            });
-        }
-
-        function getViewportHeight() {
-            return window.innerHeight;
-        }
-
-        function getCurrentPosition() {
-            return Math.abs(window.scrollY || document.body.scrollTop || document.documentElement.scrollTop);
-        }
-
-        function hasScrolled() {
-            var currentPosition = getCurrentPosition();
-            if (Math.abs(previousPosition - currentPosition) <= delta) {
-                return;
-            }
-            if (currentPosition > previousPosition) {
-                if ((pageLength - currentPosition) <= PROMO_SHOW_BREAKPOINT) {
-                    loadPromo();
-                }
-            }
-            previousPosition = currentPosition;
-        }
-
-    })/*<![CDATA[*/
-        require(['orb/fig', 'orb/nav'], function(fig, nav) {
-            fig.load(function(fig) {
-                if (fig.geo.isUK()) {
-                    nav.loadJs('https://nav.files.bbci.co.uk/orbit/2.0.0-196.41225b3/js/edr.min.js');
-                }
-            });
-        });
-    /*]]>*/require(["istats-1","orb/cookies"],function(t,e){function o(){return"true"===s&&a}function i(){!c&&o()?setTimeout(function(){t.invoke()},"500"):t.invoke()}var n=navigator.userAgent.toLowerCase(),a=!(n.indexOf("msie")>-1)||parseInt(n.split("msie")[1],10)>10,s="true",c=!1,r=window.orb.fig;if(e.isAllowed("s1")){var u=function(e){o()&&e.geo.isUK()&&require(["megavolt-client"],function(e){e&&"function"==typeof e.getMVTIStatsLabels&&e.getMVTIStatsLabels(function(e){t.addLabels(e),c=!0})})};"function"==typeof r.load?r.load(u):u(r);try{if(!require.s.contexts._.config.paths.idcta)return void i();require(["idcta/idcta-1"],function(e){e&&"function"==typeof e.getIStatsLabels&&t.addLabels(e.getIStatsLabels()),i()},function(t){throw t})}catch(t){console&&"function"==typeof console.log&&console.log("an exception occurred while adding idcta labels to istats, invoking istats without them",t),i()}}});require.config({
-            paths: {
-                "mybbc/templates": '//mybbc.files.bbci.co.uk/notification-ui/3.8.4/templates',
-                "mybbc/notifications": '//mybbc.files.bbci.co.uk/notification-ui/3.8.4/js'
-            }
-        });
-
-        require(['mybbc/notifications/NotificationsMain', 'idcta/idcta-1'], function (NotificationsMain, idcta) {
-
-            var loadNotifications = function (isUK) {
-                if (isUK) {
-                    window.bbcpage.loadCSS('//mybbc.files.bbci.co.uk/notification-ui/3.8.4/css/main.min.css').then(function() {
-                        NotificationsMain.run(idcta, '//mybbc.files.bbci.co.uk/notification-ui/3.8.4/');
-                    });
-                }
-            };
-            
-            if (window.bbcuser && window.bbcuser.isUKCombined && typeof(window.bbcuser.isUKCombined) === 'function') {
-                // Use new API from Orbit if available
-                window.bbcuser.isUKCombined().then(function(isUK) {
-                    loadNotifications(isUK);  
-                });
-            } else {
-                // Fallback to fig (ORB support)
-                var orbFig = window.orb.fig;
-                loadNotifications(orbFig.geo.isUK());
-            }
-        });if (window.SEARCHBOX.suppress === false && window.SEARCHBOX.locale && /^en-?.*?/.test(window.SEARCHBOX.locale)) {
-    require.config({
-      paths: {
-        "search/searchbox": window.SEARCHBOX.searchboxAppStaticPrefix,
-        "disco-layer": "//nav.files.bbci.co.uk/discovery-layer/0.0.1-247.81e3d3d/app"
-      }
-    });
-
-    var orbFig = window.orb.fig;
-
-    var loadSearchSuggest = function (fig) {
-        if (fig.geo.isUK()) {
-            require(['search/searchbox/searchboxDrawer'], function (SearchboxDrawer) {
-              SearchboxDrawer.run(window.SEARCHBOX);
-            });
-        }
-    };
-    if (typeof orbFig.load === 'function') {
-        // Use new async API from Orbit
-        // In event of fig failure provide search suggest functionality by default
-        orbFig.load(loadSearchSuggest, loadSearchSuggest);
-    } else {
-        // Use old sync-only API from PAL orbfig project
-        loadSearchSuggest(orbFig);
-    }
-
-        var loadDiscoveryLayer = function (fig) {
-            if (fig.geo.isUK()) {
-                require(['disco-layer'], function (discoLayer) {
-                  discoLayer.run("//nav.files.bbci.co.uk/discovery-layer/content/", "//nav.files.bbci.co.uk/discovery-layer/0.0.1-247.81e3d3d/main.css");
-                });
-            }
-        };
-        if (typeof orbFig.load === 'function') {
-            orbFig.load(loadDiscoveryLayer);
-        } else {
-            loadDiscoveryLayer(orbFig);
-        }
-  }/*<![CDATA[*/ if (window.bbcdotcom && window.bbcdotcom.analytics && bbcdotcom.config && !bbcdotcom.config.isSportApp()) { bbcdotcom.analytics.page(); } /*]]>*//*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.currencyProviders) { bbcdotcom.currencyProviders.write(); } /*]]>*//*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.currencyProviders) { bbcdotcom.currencyProviders.postWrite(); } /*]]>*//*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.stats && bbcdotcom.data.stats === 1 && bbcdotcom.utils && window.location.pathname === '/' && window.bbccookies && bbccookies.readPolicy('performance') ) { var wwhpEdition = bbcdotcom.utils.getMetaPropertyContent('wwhp-edition'); var _sf_async_config={}; /** CONFIGURATION START **/ _sf_async_config.uid = 50924; _sf_async_config.domain = "bbc.co.uk"; _sf_async_config.title = "Homepage"+(wwhpEdition !== '' ? ' - '+wwhpEdition : ''); _sf_async_config.sections = "Homepage"+(wwhpEdition !== '' ? ', Homepage - '+wwhpEdition : ''); _sf_async_config.region = wwhpEdition; _sf_async_config.path = "/"+(wwhpEdition !== '' ? '?'+wwhpEdition : ''); /** CONFIGURATION END **/ (function(){ function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement("script"); e.setAttribute("language", "javascript"); e.setAttribute("type", "text/javascript"); e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); } var oldonload = window.onload; window.onload = (typeof window.onload != "function") ? loadChartbeat : function() { oldonload(); loadChartbeat(); }; })(); } /*]]>*//*<![CDATA[*/ (function() { window.bbcdotcom.bodyLast = true; }()); /*]]>*/
-
-          if (!require) { throw new Error('Music Favourite: Could not find require module'); } if (typeof(bbcRequireMap) === 'undefined') { window.bbcRequireMap = {}; }  window.MUSICFAV_idIsAvailable = true;  bbcRequireMap['plugins/musicfavourite'] = 'https://static.bbc.co.uk/modules/plugin/musicfavourite/3.0.22/' + 'modules/plugins/musicfavourite'; require({paths: bbcRequireMap}); STATIC_HOST_PREFIX = 'https://static.bbc.co.uk/modules/plugin/musicfavourite/3.0.22/'; API_HOST_PREFIX = 'https://ssl.bbc.co.uk';
-    
-         Sign in to the BBC, or Register  if (require.s.contexts._.config.paths['idcta']) { require(['idcta/idcta-1'], function(idcta) { if (idcta && typeof idcta.addUserOrigin === "function") { idcta.addUserOrigin("id4-cta-1"); } }); }    require(['idcta/idcta-1'], function(idcta) { new idcta.Cta({"id":"id4-cta-1","states":{}}); });              "  "   Added, go to My Music to see full list.     More from     
-
-
-
-    require({
-        paths: {
-            'common-assets': '//rmp.files.bbci.co.uk/nhp-service/1248/modules/common-assets',
-            'rmpcomscore/base': '//rmp.files.bbci.co.uk/nhp-service/1248/modules/rmpcomscore/base',
-            'rmpcomscore/comscorews': '//rmp.files.bbci.co.uk/nhp-service/1248/modules/rmpcomscore/comscorews'
-        }
-    });
-
-
-    require(['common-assets']);
-
-
-if (window.location.pathname.indexOf('worldservice') !== -1) {
-    require([ 'rmpcomscore/comscorews' ], function ( comscore ) {
-                var wslabels = {
-                        'c2' : "19999701", // comScore Client Identifier
-                        'ns_site' : "bbc", // DAx Data Silo Collection
-                        'bbc_site': "iplayerradio-worldserviceradio", // BBC Site Name / Product Area
-                        'c7': window.location.href, // URI of the HTML document (UserAgent)
-                        'c8': document.title, // Title of the HTML document (UserAgent)
-                        'c9': document.referrer, // URI of the referrer HTML (UserAgent)
-                        'ns_c': ("characterSet" in document) ? document.characterSet : "UTF-8", // Character encoding (UserAgent)
-                        'name': "radio.worldserviceradio",
-                        'b_vs_un': "ws",
-                        'b_imp_src': "ws",
-                        'b_app_type': "responsive",
-                        'b_vs_ls': "english",
-                        'b_vph': document.documentElement.clientHeight,
-                        'b_vp': document.documentElement.clientWidth,
-                        'b_sr': window.screen.width + 'x' + window.screen.height
-                    };
-                var csoptions = {
-                    labels: wslabels,
-                    scorecardUrl: "http://b.scorecardresearch.com/b",
-                    sscUrl: "http://ssc.api.bbc.com/"
-                };
-                var cs = new comscore(csoptions);
-                cs.sendPageViewBeacon();
-
-
-                var listenLive = document.querySelectorAll('.on-air__listen-live--cta');
-                listenLive = (listenLive.length > 1) ? listenLive[1] : listenLive;
-                if (listenLive) {
-                    listenLive.addEventListener('click', function() {
-                        cs.sendClickBeacon({linkName: "listen-live", linkType: "radio"});
-                    });
-                }
-            });
-}
-
-
-
-
-
-    require({
-        paths: {
-            "on-air": "//rmp.files.bbci.co.uk/nhp-service/1248/modules/on-air"
-        }
-    });
-    var smp = "//rmp.files.bbci.co.uk/nhp-service/1248/modules/smp.js";
-    require(["on-air"], function( OnAir ) {
-        OnAir.initListenLive({
-<<<<<<< HEAD
-            title : "Science in Action",
-=======
-            title : "World Football",
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-            sid : "bbc_world_service",
-            vpid: "bbc_world_service",
-            mid: "World Service"
-        });
-        OnAir.polling({
-            sid : "bbc_world_service",
-            polling_url : "https://polling.bbc.co.uk/radio/nhppolling"
-        });
-    });
+try{ clicky.init(100970508); }catch(e){}
 
 
 

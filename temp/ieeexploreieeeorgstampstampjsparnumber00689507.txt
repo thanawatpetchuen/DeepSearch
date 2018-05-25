@@ -1,507 +1,1892 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="keywords">
+<meta name="description" content="About your Security and Privacy page">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 
 
 
-<html lang="en-us" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us">
-	<head>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<title>IEEE Cart - View My Cart</title>
-		<!-- rsp -->
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0">
-		<!-- Start Global Head Include -->
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-		
+<!-- Set Meta Tag Keywords and Description Based on Main Content-->
+<meta name="description" content="About your Security and Privacy page"/>
  
+<!-- Rich snippet meta tags -->
+<!-- Twitter Card Tags -->
+<meta property="twitter:card" content="summary"/>
+<meta property="twitter:site" content="@IEEEorg"/>
+<meta property="twitter:title" content="IEEE Privacy Policy"/>
+<meta property="twitter:description" content="About your Security and Privacy page"/>
+<meta property="twitter:image" content="/content/dam/ieee-org/ieee-web/images/10029837.jpg"/>
+<meta property="twitter:url" content="http://www.ieee.org/security-privacy.html"/>
+
+<!-- Open Group Meta Tags -->
+<meta property="og:title" content="IEEE Privacy Policy"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://www.ieee.org/security-privacy.html"/>
+<meta property="og:image" content="/content/dam/ieee-org/ieee-web/images/10029837.jpg"/>
+<meta property="og:description" content="About your Security and Privacy page"/>
+
+
+    
+    
+<link rel="stylesheet" href="/etc/clientlibs/foundation/main.min.fc69c13add6eae57cd247a91c7e26a15.css" type="text/css">
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.d311399a202bbfe8f6b94a4546a2a025.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/utils.min.960d4a24cc6fa3b473b4ae2018d5c364.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.min.1cd927e8b915fa4931c6c086a8cfda10.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.min.d7c42e4a257b8b9fe38d1c53dd20d01a.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/main.min.54914e3b4b3933eaf46e78c1306f43ee.js"></script>
 
 
 
-<!--favicon link-->
-<link rel="SHORTCUT ICON" href="/ucm/groups/webassets/@ieee/@web/@org/documents/images/ieee_favicon.ico"/>
-<link rel="icon" type="image/vnd.microsoft.icon" href="/ucm/groups/webassets/@ieee/@web/@org/documents/images/ieee_favicon.ico"/>
-<!--favicon link-->
-
-
-<!-- jQuery colorbox plug-in default styles -->
-<link rel="stylesheet" type="text/css"
-	href="/cart/assets/thirdparty/colorbox/colorbox-min.css?ver=20180410_111105" />
-	
-<!--[if IE 6]>
-<link rel="stylesheet" type="text/css"  href="/cart/assets/css/ie_style-min.css" />
-<![endif]-->
-
-
-<link rel="stylesheet" type="text/css"
-	href="/cart/assets/css/modals-min.css?ver=20180410_111105" />
-
-<!--main stylesheet -->
-<link href="/cart/assets/css/style-min.css?ver=20180410_111105" type="text/css"
-	rel="stylesheet" />
-<!--end main stylesheet -->
-
-
-	<link rel="stylesheet" type="text/css" href="/cart/assets/css/header_aem_style-min.css?ver=20180410_111105" />
-
-
-<link href="/cart/assets/css/font-awesome.css?ver=20180410_111105" type="text/css" rel="stylesheet" />
-
-<!--cart-specific stylesheet -->
-<link href="/cart/assets/css/cart.style-min.css?ver=20180410_111105"
-	type="text/css" rel="stylesheet" />
-<!--end cart-specific stylesheet -->
-
-<!-- jQuery specific stylesheet -->
-<link rel="stylesheet" type="text/css"
-	href="/cart/assets/thirdparty/jquery/jquery-ui-1.8.11.custom-min.css?ver=20180410_111105" />
-<!-- end jQuery specific stylesheet -->
-
-<!-- MegaMenu start -->
-<link rel="stylesheet" type="text/css" href="/cart/assets/css/dcmegamenu-min.css?ver=20180410_111105" />
-<!-- MegaMenu end -->
-
-<link href="/cart/assets/css/bootstrap.min.css?ver=20180410_111105" type="text/css" rel="stylesheet"/>
-<link href="/cart/assets/css/ibp-responsive.css?ver=20180410_111105" type="text/css" rel="stylesheet"/>
-
-<!-- IE-specific stylesheet -->
-<!--[if IE 7]>
-<link href="/cart/assets/css/ie8-min.css" type="text/css" rel="stylesheet" />
-<link href="/cart/assets/css/ie_style-min.css" type="text/css" rel="stylesheet" />
-<![endif]-->
-<!--[if IE 7]>
-<link href="/cart/assets/css/ie7-min.css" type="text/css" rel="stylesheet" />
-<link href="/cart/assets/css/ie_style-min.css" type="text/css" rel="stylesheet" />
-<![endif]-->
-<!--[if IE 6]>
-<link href="/cart/assets/css/ie_style-min.css" type="text/css" rel="stylesheet" />
-<script language="javascript" src="js/jquery.bgiframe.min.js" type="text/javascript"></script>
-<![endif]-->
-<!-- end IE-specific stylesheet -->
-
-		
- 
+    
+    <link href="/etc/designs/ieee-org.css" rel="stylesheet" type="text/css"/>
 
 
 
-<script src='https://www.paypalobjects.com/api/checkout.js' async></script>
-<!-- jQuery minimized script library -->
-<script type="text/javascript"
-	src="/cart/assets/thirdparty/jquery/jquery.min.js?ver=20180410_111105"></script>
-<script type="text/javascript"
-	src="/cart/assets/thirdparty/jquery/jquery-ui-1.8.11.custom.min.js?ver=20180410_111105"></script>
-<!--[if IE 6]>
-<link href="/cart/assets/css/ie_style.css" type="text/css" rel="stylesheet" />
-<script type="text/javascript"
-	src="/cart/assets/thirdparty/jquery/jquery.bgiframe.min.js"></script>
-<![endif]-->
-<!-- end jQuery minimized script library -->
 
-<!-- colorbox jQuery minimized script library -->
-<script type="text/javascript"
-	src="/cart/assets/thirdparty/colorbox/jquery.colorbox.min.js?ver=20180410_111105"></script>
-<!-- end colorbox jQuery minimized script library -->
-<script type="text/javascript" src="/cart/assets/js/ieee.ibp.cart-min.js?ver=20180410_111105"></script>	
-<!-- Redirect jQuery minimized script library -->
-<script type="text/javascript"
-	src="/cart/assets/thirdparty/jquery/jquery.redirect.min.js?ver=20180410_111105"></script>
-<!-- End Redirect jQuery minimized script library -->
-	
-<!-- MegaMenu start -->
-<script type="text/javascript" src="/cart/assets/js/jquery.dcmegamenu-min.js?ver=20180410_111105"></script>
-<!-- MegaMenu end -->
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      
+
+    
+<link rel="stylesheet" href="/etc/clientlibs/axis41-core/thirdparty/bootstrap.min.53c453b3b44a9a0f9d09663177c4cd1b.css" type="text/css">
+
+
+
+
+    
+<link rel="stylesheet" href="/etc/clientlibs/axis41-core/thirdparty/datatable.min.4f21f3c77fc9f62d4455813c320dd254.css" type="text/css">
+<link rel="stylesheet" href="/etc/clientlibs/axis41-core/base.min.1fb6c714408db1126d433c4ab3524808.css" type="text/css">
+
+
+
+
+    
+<link rel="stylesheet" href="/etc/clientlibs/axis41-core/apps_components.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css">
+
+
+
+
+    
+
+
+
+
+
+    
+<script type="text/javascript" src="/etc/clientlibs/axis41-core/thirdparty/jquery.min.20f67065afaa0fdac7dd0d895316dd9a.js"></script>
+
+
+
+
+    
+<script type="text/javascript" src="/etc/clientlibs/axis41-core/thirdparty/jquery_form.min.a5dfdbb6fa05213be0f9b5d7f79f7dc6.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/axis41-core/thirdparty/jquery_validator.min.1d71c23a997479884d912d1713424c21.js"></script>
+
+
+
+
+    
+<script type="text/javascript" src="/etc/clientlibs/axis41-core/thirdparty/datatable.min.7f76e3664a6cff2ae4e4adff995828da.js"></script>
+
+
+
+
+    
+<script type="text/javascript" src="/etc/clientlibs/axis41-core/thirdparty/bootstrap.min.286d662020f9c02e17bc1bbc72267cd6.js"></script>
+
+
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+
+    
+<link rel="stylesheet" href="/etc/designs/ieee-core/clientlibs/base.min.bab03a645db107417a55a6149b9bdafe.css" type="text/css">
+
+
+
+
+    
+<link rel="stylesheet" href="/etc/designs/ieee-core/clientlibs/apps_components.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css">
+
+
+
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      
+
+    
+<link rel="stylesheet" href="/etc/designs/ieee-org/clientlibs/base.min.fbf7dc9ec682cefa0314df9285fac430.css" type="text/css">
+
+
+
+
+    
+<link rel="stylesheet" href="/etc/designs/ieee-org/clientlibs/apps_components.min.166dae644149e881028d3158654fabf7.css" type="text/css">
+
+
+
+
+    
+<link rel="stylesheet" href="/etc/designs/ieee-org/clientlibs/thirdparty/font-awesome.min.3dc6908b5a88f48c3c0cc853d1594bbe.css" type="text/css">
+
+
+
+
+    
+<link rel="stylesheet" href="/etc/designs/ieee-org/clientlibs/thirdparty/formata.min.29e6b6aa2f86b34374388cf13cc2653f.css" type="text/css">
+
+
+
+
+
+
+
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/ieee-org/favicon.ico">
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/ieee-org/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/etc/designs/ieee-org/apple_favicon.png">
+
+
+<!-- Google site verification code -->
+<meta name="google-site-verification" content="oc4uHl3htNEATowwKz8N4pGmwtBhU1flWfcmlOYtIlo"/>
+<!-- Bing site verification code -->
+<meta name="msvalidate.01" content="1FD00A0907F87F784043B20D6E1F3769"/>
+
+<!-- Google Analytics -->
 <script>
-var IEEE_MASHUP_ENGINE_SERVER_URL = '';
-</script>	  
-<script type="text/javascript"
-	src="/cart/assets/js/ibpUICommonUtil-min.js?ver=20180410_111105"></script>
-<script id="ieee-mashup-constants-util" type="text/javascript" src='/ieee-mashup/js/minicart/ieee-mini-cart-constants.js?ver=20180410_111105'></script>
-<script type="text/javascript" src='https://www.ieee.org/ieee-mashup/js/webtrends/ieee-webtrends.js'>
+var gaID = 'UA-4930232-1';
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', gaID , 'auto');
+  ga('send', 'pageview');
 </script>
-<script type="text/javascript"	src="/cart/assets/js/ibp.common-min.js?ver=20180410_111105"></script>
+<!-- End of Google Analytics -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-P24WBM');</script>
+<!-- End of Google Tag Manager -->
 
 
+<title>IEEE - IEEE Privacy Policy</title>
 
-	</head>
+<!-- GDPR Cookie Banner - Start -->
+<script src="https://s3-us-west-2.amazonaws.com/ieeeshutpages/gdpr/settings.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+ window.cookieconsent.initialise(json)
+});
+</script>
+<!-- GDPR Cookie Banner - End -->
+</head>
+    <body>
 
-	<body class="body rsp">
-		<input type="hidden" id="cart-toolTipUrl" value="/cart/public/common/getToolTipText.html" />
-		<input type="hidden" name="" value="61000" id="cart-global-ajax-timeout"/>
-		<input type="hidden" name="" value="" id="primary-email-address"/>
-		<input type="hidden" name="" value="TH" id="user-country"/>
-
+<body>
+	<div id="page-wrapper" class="clearfix">
 		
-		<!-- top navigation start-->
+
+<!-- Header
+============================================= -->
+<header id="page-header" class="">
+    
+
+    
+        
+        
+        <div class="new section">
+
+</div>
+        
+    
+        
+        
+        <div class="iparys_inherited">
+
+    
+    
+    
+    
+        
+        
+        
+        
+
+<!-- Global Header Content
+============================================= -->
+<div class="global-nav">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 text-left">
+				
+
+
+<div id="meta-nav" class="container hidden-xs">
+	<a class="skip-nav" href="#mn-header"> 
+		<img alt="Skip Navigation" src="https://www.ieee.org/ieee-mashup/images/blank.gif" height="1px" width="1px"/>
+	</a>
+	<div id="util-left">
+		<a href="https://www.ieee.org" class="ieee-home">IEEE.org</a>|&nbsp;
+		<a href="http://ieeexplore.ieee.org" class="top-divider-space">IEEE <em>Xplore</em> Digital Library</a>&nbsp;|&nbsp;
+		<a href="http://standards.ieee.org" class="top-divider-space">IEEE Standards</a>&nbsp;|&nbsp;
+		<a href="http://spectrum.ieee.org" class="top-divider-space">IEEE Spectrum</a>&nbsp;|&nbsp;
+		<a href="https://www.ieee.org/sitemap.html" class="top-divider-space" accesskey="2">More Sites</a>
+	</div>
+	<div id="util-right" style="float: right">
+		<span class="cart-count-link"><a href="https://www.ieee.org/cart/public/myCart/page.html" class="top-divider-space" style="cursor:pointer">Cart (<span id="mn-cart-item-qty" class="cart-items-count">0</span>)</a>&nbsp;|&nbsp;</span>
+		<span class="logged-in-metanav-info" style="display: none">
+			<a href="https://www.ieee.org/profile" id="mn-ieee-username" class="ieee-user-name"><strong><span id="mn-user-name-text"></span></strong></a>&nbsp;|&nbsp;
+			<a href="//www.ieee.org/system/sling/logout.html?resource=/bin/svc/ieeecommon/ieee-org/secured/redirect.html" id="mn-signout-link" class="mn-menu-link">Sign Out</a>
+		</span>
+		<span class="anonymous-metanav-info">
+			<a href="https://www.ieee.org/profile/public/createwebaccount/showCreateAccount.html?url=" id="mn-calink-link">Create Account</a>&nbsp;|&nbsp;
+			<a href="//www.ieee.org/bin/svc/ieeecommon/ieee-org/secured/redirect.html?finalTarget=" class="sign-in-cls" id="mn-signin-link">Sign In</a>
+		</span>
+		<div id='ssoValidatorUrl' class='hidden'>https://securesso.ieee.org/ieeevendorsso/rest/auth/validatePFToken</div>
+		<div id='xploreLogoutUrl' class='hidden'>https://ieeexplore.ieee.org/servlet/Login?logout=ibplogout</div>
 		
+	</div>
+	<div style="clear: both; height: 0;">&nbsp;</div>
+	<div id="mn-header"></div>
+</div>
+
+
+<ul class="signin pull-right hidden-lg hidden-md">
+	<li class="logged-in-metanav-info" style="display: none">
+		<a href="https://www.ieee.org/profile"><i class="fa fa-user-circle-o" aria-hidden="true"></i> </a>
+	</li>
+	<li class="anonymous-metanav-info">
+		<a href="//www.ieee.org/bin/svc/ieeecommon/ieee-org/secured/redirect.html?finalTarget=" class="sign-in-cls"><i class="fa fa-user-circle-o" aria-hidden="true"></i> </a>
+	</li>
+	<li class="cart-count-link">
+		<a href="https://www.ieee.org/cart/public/myCart/page.html"><span id="mnmobile-cart-item-qty" class="cart-items-count">0</span>
+			<i class="fa fa-shopping-cart" aria-hidden="true"></i>
+		</a>
+	</li>
+</ul>
+
+				<div class="small-logo hidden-md hidden-lg">
+                    
 
 
 
 
 
-	<link href="/ieee-mashup/css/meta-nav-bw.css?ver=20180410_111105' type="text/css" rel="stylesheet" />
 
 
-		
-<script type="text/javascript">
-	  var mn_auth_heartbeat_img = '/ieee-mashup/protected/secured-resource.gif';
-	  var MN_LOGOUT_REDIRECT_URL = "https://www.ieee.org/cart/public/logout/signout.html";
-	  var IEEE_MN_BACK_TO_PPCT_ENABLED = "Y";
-      var IEEE_MASHUP_APPLICATION_NAME = 'cart';
-      var IEEE_MASHUP_CROSSDOMAIN_MODE = 'N';
- </script>
-	<script language="JavaScript" src='/ieee-mashup/js/meta-nav/ieee-meta-nav-constants.js?ver=20180410_111105'></script>
-	<script language="JavaScript" src='/ieee-mashup/js/common/postmessage.js?ver=20180410_111105'></script>
-	<script language="JavaScript" src='/ieee-mashup/js/common/jquery.cookie.js?ver=20180410_111105'></script>
-	<script language="JavaScript" src='/ieee-mashup/js/common/jquery.json-2.2.min.js?ver=20180410_111105'></script>
-	<script language="JavaScript" src='/ieee-mashup/js/auth/ieee-auth-constants.js?ver=20180410_111105'></script>
-	<script type="text/javascript" src='/ieee-mashup/js/minicart/ieee-mashup-util.js?ver=20180410_111105'></script>
+
  
- <script>
-	var wt_domain = 'statse.webtrendslive.com';
-	var wt_dcsid = 'dcs4ngrek5bv0hom6jkdvedkz_2n9s';
- </script>
-	
-	
-	<script id="ieee-meta-nav-include" type="text/javascript" 
-		src='/ieee-mashup/js/meta-nav/ieee-meta-nav-include.js?ver=20180410_111105'>
-	</script>
-
-   	
-		<!-- top navigation end-->
-
-		<!--Page Container start-->
-		<div id="page-container" class="container-fluid">
-			<!--ieee logo and main navigation start-->
-			<div id="header" role="banner" class="row">
-				<!-- header.jsp starts -->
 
 
-<a class="skip-nav" href="#primary-content" accesskey="S">Skip header to main body of content</a>
-<div class="col-xs-12 col-sm-6">
-	<a href="https://www.ieee.org/cart/public/myCart/page.html" title="Home page for IEEE Shopping Cart" class="float-left">
-		<img alt="IEEE Checkout" src="/cart/assets/images/ieee-checkout.gif" id="checkout-logo" />
-	</a>
-</div>
-
-<div class="col-xs-12 col-sm-6 hidden-xs">
-	<a href="https://www.ieee.org" title="IEEE">
-		<img id="ieee-logo" alt="IEEE" src="/cart/assets/images/ieee_logo_mb_tagline.gif" />
-	</a>
-</div>
-<!-- header.jsp ends -->
-			</div>
-			<!--ieee logo and main navigation end-->
-			<!-- end #header -->
-			<!--start breadcrumbs-->
-			<div id="quick-site-utilities" class="container">
-				
-
-
-
-<a class="float-left" title="Return to  IEEE Xplore" 
-	
-	href="http://ieeexplore.ieee.org">
-	
-	<img class="link-icon" alt="U-turn icon" src="/cart/assets/images/returnicon.gif">
-	
-	Return to 
-	IEEE Xplore
+<!-- Logo Content
+============================================= -->
+<a href="/">
+    <img src="/content/dam/ieee-org/ieee/web/org/globals/Webp.net-resizeimage.gif" alt="IEEE - Advancing Technology for Humanity" title="IEEE - Advancing Technology for Humanity" class="img-responsive">
 </a>
+<!-- #logo-content end -->
+
+                </div>
+                <div class="navbar-header hidden-lg hidden-md">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+<!-- #global-header-content End -->
+
+    
+        
+        
+        
+        
+
+<!--Page Header Content
+============================================= -->
+<div class="primary-navigation">
+    <div class="header-block">
+        <div class="container">
+            <div class="row">
+                <div class="header-section hidden-xs hidden-sm">
+                    <div class="brand-section col-xs-12">
+                        <div class="logo-left pull-left">
+                            
 
 
 
-			</div>
-			<!--close breadcrumbs-->
-			<!--Gray Background start-->
-
-			<div id="primary-content" class="content-container row">
-				<div class="content-lc col-xs-12 col-sm-9" role="main">
-					<!-- template_content_cart_main.jsp starts -->
 
 
 
 
-	<div id="quote-page" style="display: none;"></div>
-	
 
-	
+ 
 
 
+<!-- Logo Content
+============================================= -->
+<a href="/">
+    <img src="/content/dam/ieee-org/ieee/web/org/globals/88857-22.gif" alt="IEEE - Advancing Technology for Humanity" title="IEEE - Advancing Technology for Humanity" class="img-responsive">
+</a>
+<!-- #logo-content end -->
 
-<input type="hidden" name="" value="false" id="checkForMembershipIncomplete"/>
-<input type="hidden" name="" value="false" id="mdlPromotion"/>
-<<<<<<< HEAD
-<input type="hidden" name="" value="org.ieee.ibp.ui.cart.web.action.quote.view.ViewCartTO@5a5c9ebe" id="ieeeMembershipProductInCart"/>
-=======
-<input type="hidden" name="" value="org.ieee.ibp.ui.cart.web.action.quote.view.ViewCartTO@6d46877e" id="ieeeMembershipProductInCart"/>
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-<input type="hidden" name="membershipComplete" value="" id="membershipComplete"/>
-<input type="hidden" name="model.blackoutPeriod" value="false" id="blackoutPeriod"/> 
-
-<input type="hidden" name="" value="https://www.ieee.org/membership-application/public/addservice.html" id="proceedToMembershipAppUrl"/>
-<input type="hidden" name="model.proceedToCheckoutState" value="true" id="enableProceedCheckoutButton"/>
-<input type="hidden" name="model.placeOrderState" value="false" id="enablePlaceOrderButton"/>
-	
-<<<<<<< HEAD
-	<input type="hidden" name="" value="org.ieee.ibp.ui.cart.web.action.quote.view.ViewCartTO@5a5c9ebe" id="renewalQuotePending"/>
-=======
-	<input type="hidden" name="" value="org.ieee.ibp.ui.cart.web.action.quote.view.ViewCartTO@6d46877e" id="renewalQuotePending"/>
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-<input type="hidden" name="" value="false" id="showMergeRenewal"/>
-<input type="hidden" name="" value="" id="quoteGradeCode"/>
-
-<<<<<<< HEAD
-<input type="hidden" name="" value="org.ieee.ibp.ui.cart.web.action.quote.view.ViewCartTO@5a5c9ebe" id="customerGradeCode"/>
-	
-	<input type="hidden" name="" value="org.ieee.ibp.ui.cart.web.action.quote.view.ViewCartTO@5a5c9ebe" id="quoteType"/>
-=======
-<input type="hidden" name="" value="org.ieee.ibp.ui.cart.web.action.quote.view.ViewCartTO@6d46877e" id="customerGradeCode"/>
-	
-	<input type="hidden" name="" value="org.ieee.ibp.ui.cart.web.action.quote.view.ViewCartTO@6d46877e" id="quoteType"/>
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-	<input type="hidden" name="" value="false" id="membershipIncompleteCheckRequired"/>
-	<input type="hidden" name="" value="false" id="mdlPromotionCheckRequired"/>
-	<input type="hidden" name="" value="false" id="trialCheckRequired"/>
-	<input type="hidden" name="" value="false" id="eduCheckRequired"/>
-	<input type="hidden" name="" value="{&quot;membershipStatus&quot;:false,&quot;promotionStatus&quot;:false,&quot;trialStatus&quot;:false,&quot;educationalStatus&quot;:false}" id="validateQuoteJson"/>
-	
+                        </div>
+                        <div class="pull-left hidden-xs hidden-sm">
+                        	<div class="slogan">
+                            	
 
 
 
-	<div id="my-cart-panel" class="content-panel">
-		<h1 class="sec-header">
-			My Cart
-			<a href="/cart/public/common/getToolTipText.html?toolTipId=cart.quote.content.summary.item.tooltip&longToolTip=false"
-				class="help-tooltip margin-lt5"> <img
-				src="/cart/assets/images/helpicon.gif" title="Help"
-				alt="Help" /> </a>
-		</h1>
-		<div class="clearit">&nbsp;</div>
-		<div class="content">
+
+
+
+
+
+
+
+<!--Plain Text component content
+============================================= -->
+
+    <a href="/about/index.html?WT.mc_id=head_bm">The world&#39;s largest technical professional 
+organization for the advancement of technology</a>
+
+<!-- #plain-text-component end -->
+
+                           	</div>
+                        </div>
+                        <div class="right-block pull-right">
+                            <div class="search-bar">
+                                <!-- Google search component here -->
+                                
+
+<!-- Sightly global objects declaration
+============================================= -->
+
+<!-- #sightly-global-objects-declaration end -->
+
+<!-- Placeholder Content omitted since search will be on header.
+=============================================================== -->         
+<!-- #placeholder-content end -->
+
+<!-- Search UI Content
+======================= -->
+<form action="/searchresults/index.html" role="search" id="searchForm">
+	<div class="input-group search-bar">
+		<input type="search" name="q" id="q" placeholder="Search" class="required form-control"/> 
+		<span class="input-group-addon" id="searchSubmitButton">
+			<i class="glyphicon glyphicon-search"></i>
+		</span>
+	</div>
+</form>
+<!-- #search UI content end -->	            
+                            </div>
+                            
+                            <div class="hidden-xs hidden-sm pull-right">
+                                
+
+
+
+
+
+
+
+
+
+<!-- Social Media Container Content
+============================================= -->
+
+    
+    <div class="socialmedia">
+        <ul>
+            <li>
+                
+
+
+
+
+
+
+
+
+
+<!--Social Media Content
+============================================= -->
+
+
+
+    <a class="collabratec-icon" href="https://ieee-collabratec.ieee.org/" target="_self"></a>
+
+
+<!-- #social-media-content end -->
+            </li>
+        
+            <li>
+                
+
+
+
+
+
+
+
+
+
+<!--Social Media Content
+============================================= -->
+
+    <a href="https://www.facebook.com/IEEE.org/" target="_self">
+        <i class="fa fa-facebook"></i>
+    </a>
+
+
+
+
+<!-- #social-media-content end -->
+            </li>
+        
+            <li>
+                
+
+
+
+
+
+
+
+
+
+<!--Social Media Content
+============================================= -->
+
+    <a href="https://twitter.com/IEEEorg" target="_self">
+        <i class="fa fa-twitter"></i>
+    </a>
+
+
+
+
+<!-- #social-media-content end -->
+            </li>
+        
+            <li>
+                
+
+
+
+
+
+
+
+
+
+<!--Social Media Content
+============================================= -->
+
+    <a href="https://www.linkedin.com/company/ieee" target="_self">
+        <i class="fa fa-linkedin"></i>
+    </a>
+
+
+
+
+<!-- #social-media-content end -->
+            </li>
+        
+            <li>
+                
+
+
+
+
+
+
+
+
+
+<!--Social Media Content
+============================================= -->
+
+    <a href="https://www.youtube.com/user/IEEEorg" target="_self">
+        <i class="fa fa-youtube-play"></i>
+    </a>
+
+
+
+
+<!-- #social-media-content end -->
+            </li>
+        
+            <li>
+                
+
+
+
+
+
+
+
+
+
+<!--Social Media Content
+============================================= -->
+
+    <a href="https://www.instagram.com/ieeeorg/" target="_self">
+        <i class="fa fa-instagram"></i>
+    </a>
+
+
+
+
+<!-- #social-media-content end -->
+            </li>
+        
+            <li>
+                
+
+
+
+
+
+
+
+
+
+<!--Social Media Content
+============================================= -->
+
+    <a href="https://plus.google.com/110847308612303935604" target="_self">
+        <i class="fa fa-google-plus"></i>
+    </a>
+
+
+
+
+<!-- #social-media-content end -->
+            </li>
+        
+            <li>
+                
+
+
+
+
+
+
+
+
+
+<!--Social Media Content
+============================================= -->
+
+    <a href="http://www.addthis.com/bookmark.php" target="_self">
+        <i class="fa fa-share-alt"></i>
+    </a>
+
+
+
+
+<!-- #social-media-content end -->
+            </li>
+        </ul>
+    </div>
+
+<!--#Social-media-container content end-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			<div class="site-navigation">
+            	
+
+<!-- Sightly global objects declaration
+============================================= -->
+
+
+<!-- #sightly-global-objects-declaration end -->
+
+<!-- Placeholder Content
+============================================= -->
+
+<!-- #placeholder-content end -->
+
+<!-- Site Navigation content started
+================================================= -->
+<ul class="main-menu">
+    <li class="hidden-md hidden-lg" id="header_menu_search">
+        
+
+<!-- Sightly global objects declaration
+============================================= -->
+
+<!-- #sightly-global-objects-declaration end -->
+
+<!-- Placeholder Content omitted since search will be on header.
+=============================================================== -->         
+<!-- #placeholder-content end -->
+
+<!-- Search UI Content
+======================= -->
+<form action="/searchresults/index.html" role="search" id="searchForm">
+	<div class="input-group search-bar">
+		<input type="search" name="q" id="q" placeholder="Search" class="required form-control"/> 
+		<span class="input-group-addon" id="searchSubmitButton">
+			<i class="glyphicon glyphicon-search"></i>
+		</span>
+	</div>
+</form>
+<!-- #search UI content end -->	            
+    </li>
+    <li id="header_menu_0">
+        <a href="#" class="hidden-md hidden-lg nav-link">IEEE Sites</a>
+        <a class="accordian-iocns accordianClick hidden-md hidden-lg"></a>
+        <div class="dropdown-wrap header_menu_0">
+            <div class="panel-collapse"></div>
+        </div>
+    </li>
+    
+        <li id="header_menu_1">
+            
+            <a href="/about.html" class="nav-link">
+				About
+             </a>
+            <a class="accordian-iocns accordianClick"></a>
+            
+                <div class="dropdown-wrap header_menu_1 col-md-10 col-lg-10 col-xs-12">
+                    <div class="panel-collapse">
+                        
+    <div class="dropdown-left pull-left col-md-4 col-lg-4 col-xs-12">
+        <ul class="arrow-link">
+            <li>
+                
 				
 
-
-<div class="content-panel margin-t5">
-	
-
-
-	
-
-
-<div id="parent-window-message">	
-		<div class="error-panel margin-t10 margin-b10 display-none" >
-			<div class="corner-img"></div>
-			<div id="notification-errors" class="cart-errors parent-window">				
-				
-				
-			</div>
-			<ul id="cartErrorElementsContainer" class="orangelink"></ul>
-		</div>	
-	
-</div>
-	<!-- Start Line items -->
-	
-
-
-<div class="error-panel margin-t10 margin-b10 cart-proceed-validation-msg-container"
-	id="displayCriteriaToProceed" style="display:none">
-	<div class="corner-img"></div>
-	<br />
-		<div class="membership-renewal-message pad-b10" style="display:none">
-			
-
-<h3 class="parent-window">
-You have not completed the
-<a href="https://www.ieee.org/membership-application/public/addservice.html">Membership Application.</a>
-</h3>
-<p class="error-description">
-	In order to checkout, please complete the application or remove membership from the cart.
-</p>
-<h3 class="parent-window">
-If you have any questions, please contact the <a href="https://supportcenter.ieee.org">IEEE Support Center</a>.
-</h3>
-
-		</div>
-		<div class="mdl-promotion-error-message" style="display:none">
-			
-
-<div class="mdl-membership-failure pad-b10" style="display:none">
-	<p class="error-description">
-		Thank you for your interest in the IEEE Member Digital Library. Our records show that you are not currently an IEEE member, which is required to subscribe to the IEEE Member Digital Library.
-	</p>
-	<h3 class="parent-window">
-		Please <a href="https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMIEEE500">add IEEE Membership to your cart.</a>
-	</h3>
-	<h3 class="parent-window" style="margin-top: 10px;">
-		If you have received this message in error or have any questions, please visit the <a href="https://supportcenter.ieee.org" target="_blank">IEEE Support Center</a> Web site for assistance.
-	</h3>
-</div>
-<div class="mdl-trial-failure pad-b10" style="display:none">
-	<p class="error-description">
-		Thank you for your request to try the IEEE Member Digital Library. Our records show you had a subscription or trial to the IEEE Member Digital Library within the past year. If you are interested in subscribing,
-	</p>
-	<h3 class="parent-window">
-		please <a class="add-mdl-product-link" href="#">add the IEEE Member Digital Library to your cart.</a>
-	</h3>
-	<h3 class="parent-window" style="margin-top: 10px;">
-		If you have received this message in error or have any questions, please visit the <a href="https://supportcenter.ieee.org" target="_blank">IEEE Support Center</a> Web site for assistance.
-	</h3>
-</div>
-<div class="trial-failure pad-b10" style="display:none">
-	<h3 class="error-description">
-		Thank you for your request to try the PES Membership. Our records show you either were a PES member or have already tried the PES Membership within the past year. Hence, you are not eligible for another trial at this time. However, if you are interested, you may join PES by clicking <a style=color:-webkit-link href=/membership-catalog/productdetail/showProductDetailPage.html?product=MEMPE031>here</a>. If you have received this message in error or have any questions, please visit the <a href=https://supportcenter.ieee.org>IEEE Support Center</a> Web site for assistance.
-	</h3>
-</div>
-		</div>
-		<div class="edu-products-ineligible" style="display:none">
-			
-
-<h3 class="parent-window">
-	You cannot checkout because some items in the cart can only be purchased with additional products.
-</h3>
-
-		</div>
-		<input type="hidden" name="" value="false" id="itemsInEligible_or_exceedMax"/>
-		
-		
-		
-		
-		<input type="hidden" name="" value="true" id="paymentPrimaryCriteriaMet"/>
-		
-			<div class="cart-proceed-validation-msg-primaryCard primaryCardCriteria" style="display:none">
-				
-
-<h3 class="parent-window">
-An item in your cart requires a saved card in order to complete your purchase. Please <a id="change_payment" class="change-payment-button" href="/cart/checkout/payment/initChange.html">update </a> your payment information accordingly.
-</h3>
-			</div>
-		
-		<div class="cart-proceed-validation-msg-cc-expired ccExpiredCriteria" style="display:none">
-			
-
-<h3 class="parent-window">
-Your credit card has expired. Please <a id="change_payment" class="change-payment-button" href="/cart/checkout/payment/initChange.html">update</a> your credit card information to complete checkout.
-</h3>
-
-		</div>
-		<div class="cart-proceed-validation-msg-cc-expired ccNotverifiedCriteria" style="display:none">
-			
-
-<h3 class="parent-window">
-Your credit card is not verified. Please <a id="change_payment" class="change-payment-button" href="/cart/checkout/payment/initChange.html">update</a> your credit card information to complete checkout.
-</h3>
-
-		</div>
-</div>
-
-	
-		<div>
-			
-
-<div class="container-margin">
-	<!-- cart items start-->
-	<div>
-	   
-		
-			<div>
-				Your cart is empty. Please <a href="http://www.ieee.org/go/shop">browse memberships and subscriptions catalog</a> to add items to your cart.
-			</div>
-		
-		
-		<div class="origin-return">
-			<!-- TODO: Handle return to origin site -->
-			
-			
-				
-				<a href="http://ieeexplore.ieee.org">
-					Return to 
-					IEEE Xplore
+                <a href="/about/vision-mission.html" target="_self">
+					Mission and vision
 				</a>
+            </li>
+        
+            <li>
+                
 				
-			
-			
-		</div>
-	</div>
-</div>
 
-		</div>
-	
+                <a href="/about/ieee-strategic-plan.html" target="_self">
+					IEEE Strategic Plan
+				</a>
+            </li>
+        
+            <li>
+                
+				
 
-	
+                <a href="/about/organization/index.html" target="_self">
+					Organization of IEEE
+				</a>
+            </li>
+        
+            <li>
+                
+				
 
-	
-	
+                <a href="/about/compliance.html" target="_self">
+					Ethics and Compliance
+				</a>
+            </li>
+        
+            <li>
+                
+				
 
+                <a href="/about/ieee-history.html" target="_self">
+					History of IEEE
+				</a>
+            </li>
+        
+            <li>
+                
+				
 
-	
+                <a href="/about/news/index.html" target="_self">
+					Newsroom
+				</a>
+            </li>
+        
+            <li>
+                
+				
 
-	<!-- End Line items -->
-</div>
+                <a href="/about/annual-report.html" target="_self">
+					Annual Report
+				</a>
+            </li>
+        
+            <li>
+                
+				
 
-			<div class="clearit">&nbsp;</div>
-			<!-- template_summary.jsp starts -->
+                <a href="/about/financials.html" target="_self">
+					Financials and statistics
+				</a>
+            </li>
+        
+            <li>
+                
+				
 
+                <a href="/about/volunteers/index.html" target="_self">
+					Volunteer resources
+				</a>
+            </li>
+        
+            <li>
+                
+				
 
+                <a href="/about/technologies.html" target="_self">
+					IEEE Future Directions
+				</a>
+            </li>
+        
+            <li>
+                
+				
 
-<div class="promotional-panel-main">
-	<div class="clearit">&nbsp;</div>
-	<!-- Moved Promotions panel here -->
-	
-    	<!-- add_promotions.jsp starts -->
+                <a href="/about/today/at-a-glance.html" target="_self">
+					IEEE at a glance
+				</a>
+            </li>
+        </ul>
+    </div>
+    <div class="dropdown-right pull-left col-md-8 col-lg-8 col-xs-12">
+        <div class="rte-description font-e hidden-xs hidden-sm">
+            IEEE and its members inspire a global community to innovate for a better tomorrow through highly cited publications, conferences, technology standards, and professional and educational activities. IEEE is the trusted “voice” for engineering, computing, and technology information around the globe.
+        </div>
+        <div class="dropdown-title font-e hidden-xs hidden-sm">
+            What do you want to do?
+        </div>
 
-
-
-<div class="promotional-panel row">
-	
-</div>
-<!-- add_promotions.jsp ends -->
-    
-	<!-- promotional code & subtotal start-->
-	
-	<div class="clearit">&nbsp;</div> <br />
-	<img class="removeHeightImg" alt=" " style="width: 1px; display: none;" src="/cart/assets/images/blank.gif" >
-	<!-- End cart summary totals -->
-</div>
-<!-- template_summary.jsp ends -->
-			<div class="clearit">&nbsp;</div>
-			
-			<div class="clearit">&nbsp;</div>
-		</div>
-	</div>
-
-	
-
-	
-
-	<div class="clearit">&nbsp;</div>
-
-
-<!-- template_content_cart_main.jsp ends -->
-				</div>
-
-				<!--Right Content Start-->
-				<div class="content-r col-xs-12 col-sm-3">
-					<!-- right promo start -->
-					<div class="callout-panel" id="call-out-panel">
-						
-
-
-
-	<div class="callout-panel margin-t5" style="align:center">
 		
-			
-<!-- 
-<div class="header">
-	IEEE Advertisements
-</div>
--->
-<script type="text/javascript">
-//var CUSTOMER_GRADE 		= '';
-var SLOT_ID_1 			= 'Cart_Default_1';
-var SLOT_ID_2 			= 'Cart_Default_2';
-//var MEMBERSHIP_STATUS 	= '';
+        <div class="dropdown-selector">
+            <div class="selector">
+                <a aria-expanded="true" aria-haspopup="true" class="dropdown_title dropdown-toggle" data-toggle="dropdown" href="#" role="button">Select an option</a>
+                <ul class="dropdown-menu">
+					<li>
+                        <i class="fa fa-check selected hidden-xs hidden-sm"></i>
+                        <a href="#">Select an option</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/about/news/index.html?utm_source=mm_wdw&utm_campaign=new&utm_medium=ab&utm_term=news">Get the latest news</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/about/volunteers/index.html?utm_source=%20mm_wdw&utm_campaign=vr&utm_medium=ab&utm_term=volunteer%20resources">Access volunteer resources (Code of Ethics, financial forms, tools and templates, and more) </a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/about/contact.html?utm_source=%20mm_wdw&utm_campaign=contact&utm_medium=ab&utm_term=contact%20locations">Find IEEE locations </a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="https://supportcenter.ieee.org/?utm_source=%20mm_wdw&utm_campaign=support&utm_medium=ab&utm_term=support%20center">Get help from the IEEE Support Center </a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="https://supportcenter.ieee.org/app/answers/detail/a_id/325/kw/recover%20my%20ieee%20username%20and%20password?utm_source=%20mm_wdw&utm_campaign=recover&utm_medium=ab&utm_term=password%20recovery">Recover your IEEE Account username and password</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/about/awards/index.html?utm_source=%20mm_wdw&utm_campaign=iap&utm_medium=ab&utm_term=awards%20program">Learn about the IEEE Awards program and submit nomination</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/about/organization/index.html?utm_source=%20mm_wdw&utm_campaign=ooi&utm_medium=ab&utm_term=organization%2C%20leadership">View IEEE&#39;s organizational structure and leadership</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="https://ieee.taleo.net/careersection/2/jobsearch.ftl?utm_source=%20mm_wdw&utm_campaign=taleo-jobs&utm_medium=ab&utm_term=jobs%20at%20ieee">Apply for jobs at IEEE </a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/about/ieee-history.html?utm_source=%20mm_wdw&utm_campaign=hoi&utm_medium=ab&utm_term=ieee%20history">See the history of IEEE</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <a class="btn-style hidden-xs hidden-sm btn-go" href="#">Go</a>
+        </div>
+        <div class="btns-ieee hidden-xs hidden-sm">
+            
+            
+
+            
+            
+        </div>
+    </div>
+
+                    </div>
+                </div>
+            
+        </li>
+    
+        <li id="header_menu_2">
+            
+            <a href="/membership.html" class="nav-link">
+				Membership
+             </a>
+            <a class="accordian-iocns accordianClick"></a>
+            
+                <div class="dropdown-wrap header_menu_2 col-md-10 col-lg-10 col-xs-12">
+                    <div class="panel-collapse">
+                        
+    <div class="dropdown-left pull-left col-md-4 col-lg-4 col-xs-12">
+        <ul class="arrow-link">
+            <li>
+                
+				
+
+                <a href="/membership/join/index.html" target="_self">
+					Join IEEE
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="https://www.ieee.org/membership-catalog/societies.html?N=4294925302" target="_self">
+					Join an IEEE Society
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/membership/renew.html" target="_self">
+					Renew IEEE membership
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/membership/benefits/index.html" target="_self">
+					Member benefits
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/membership/contact-center.html" target="_self">
+					IEEE Contact Center
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/membership/geographic-activities.html" target="_self">
+					Connect locally
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="http://collabratec.ieee.org/?utm_source=mm_link&utm_campaign=coll&utm_medium=ms&utm_term=collabratec" target="_self">
+					IEEE Collabratec™
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="https://www.ieee.org/membership-catalog/index.html?N=0?utm_source=mm_link&utm_campaign=shop&utm_medium=ms&utm_term=memberships%20and%20subs%20shop" target="_self">
+					Memberships and Subscriptions Catalog
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/membership/discounts/index.html" target="_self">
+					Member insurance and discounts
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/membership/grade-elevation.html" target="_self">
+					Member Grade Elevation
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/membership/societies/about-technical-councils.html" target="_self">
+					Technical Councils
+				</a>
+            </li>
+        </ul>
+    </div>
+    <div class="dropdown-right pull-left col-md-8 col-lg-8 col-xs-12">
+        <div class="rte-description font-e hidden-xs hidden-sm">
+            IEEE membership offers access to technical innovation, cutting-edge information, networking opportunities, and exclusive member benefits. Members support IEEE's mission to advance technology for humanity and the profession, while memberships build a platform to introduce careers in technology to students around the world.<br />
+        </div>
+        <div class="dropdown-title font-e hidden-xs hidden-sm">
+            What do you want to do?
+        </div>
+
+		
+        <div class="dropdown-selector">
+            <div class="selector">
+                <a aria-expanded="true" aria-haspopup="true" class="dropdown_title dropdown-toggle" data-toggle="dropdown" href="#" role="button">Select an option</a>
+                <ul class="dropdown-menu">
+					<li>
+                        <i class="fa fa-check selected hidden-xs hidden-sm"></i>
+                        <a href="#">Select an option</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/membership/my-ieee.html?utm_source=mm_wdw&utm_campaign=my_ieee-aya&utm_medium=ms&utm_term=account%20access">Access your Account</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/membership/join/dues.html?utm_source=mm_wdw&utm_campaign=join_dues&utm_medium=ms&utm_term=membership%20dues">Learn about membership dues</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/membership/women/index.html?utm_source=mm_wdw&utm_campaign=wie&utm_medium=ms&utm_term=wie">Learn about Women in Engineering (WIE)</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="http://eleccomm.ieee.org/?utm_source=mm_wdw&utm_campaign=eleccomm&utm_medium=ms&utm_term=member%20email">Access IEEE member email</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/membership/fellows/index.html?utm_source=mm_wdw&utm_campaign=fellows&utm_medium=ms&utm_term=fellows">Find information on IEEE Fellows</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/membership/my-ieee.html?utm_source=mm_wdw&utm_campaign=my_ieee-directory&utm_medium=ms&utm_term=my_ieee-member%20directory">Access the IEEE member directory</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="http://www.ieee.org/membership_services/membership/join/mgm.html?utm_source=mm_wdw&utm_campaign=mgm&utm_medium=ms&utm_term=mgm%2C%20member-get-a-member">Learn about the Member-Get-a-Member program</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/membership/students/potentials.html?utm_source=mm_wdw&utm_campaign=potentials&utm_medium=ms&utm_term=potentials">Learn about IEEE Potentials magazine</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/membership/students/index.html?utm_source=mm_wdw&utm_campaign=student&utm_medium=ms&utm_term=student%20membership">Learn about Student membership</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <a class="btn-style hidden-xs hidden-sm btn-go" href="#">Go</a>
+        </div>
+        <div class="btns-ieee hidden-xs hidden-sm">
+            
+            <a class="btn-style" href="/membership/join/index.html" target="_self">Join IEEE </a>
+
+            
+            <a class="btn-style" href="https://www.ieee.org/membership-catalog/societies.html?N=4294925302" target="_self">Join an IEEE Society</a>
+        </div>
+    </div>
+
+                    </div>
+                </div>
+            
+        </li>
+    
+        <li id="header_menu_3">
+            
+            <a href="/communities.html" class="nav-link">
+				Communities
+             </a>
+            <a class="accordian-iocns accordianClick"></a>
+            
+                <div class="dropdown-wrap header_menu_3 col-md-10 col-lg-10 col-xs-12">
+                    <div class="panel-collapse">
+                        
+    <div class="dropdown-left pull-left col-md-4 col-lg-4 col-xs-12">
+        <ul class="arrow-link">
+            <li>
+                
+				
+
+                <a href="/communities/societies/index.html" target="_self">
+					IEEE Societies
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/communities/societies/about-technical-councils.html" target="_self">
+					Technical Councils
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/communities/societies/about-technical-communities.html" target="_self">
+					IEEE Technical Communities
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/communities/geographic-activities.html" target="_self">
+					Geographic Activities
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="http://grouper.ieee.org/groups/index.html?utm_source=mm_link&amp;utm_campaign=swg&amp;utm_medium=com&amp;utm_term=working%20groups" target="_self">
+					Working groups
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/communities/regional-world-map.html" target="_self">
+					IEEE Regions
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/communities/index.html" target="_self">
+					Affinity groups
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="http://collabratec.ieee.org/?utm_source=mm_link&utm_campaign=coll&utm_medium=ms&utm_term=collabratec" target="_self">
+					IEEE Collabratec™
+				</a>
+            </li>
+        </ul>
+    </div>
+    <div class="dropdown-right pull-left col-md-8 col-lg-8 col-xs-12">
+        <div class="rte-description font-e hidden-xs hidden-sm">
+            As the world's largest technical professional organization, IEEE offers a number of ways to get involved with technical and local communities. These communities are active participants in research and authorship, conferences, and important conversations about today's most relevant technical topics locally and globally.<br />
+<br />
+ 
+        </div>
+        <div class="dropdown-title font-e hidden-xs hidden-sm">
+            What do you want to do?
+        </div>
+
+		
+        <div class="dropdown-selector">
+            <div class="selector">
+                <a aria-expanded="true" aria-haspopup="true" class="dropdown_title dropdown-toggle" data-toggle="dropdown" href="#" role="button">Select an option</a>
+                <ul class="dropdown-menu">
+					<li>
+                        <i class="fa fa-check selected hidden-xs hidden-sm"></i>
+                        <a href="#">Select an option</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="https://www.ieee.org/membership-catalog/societies.html?N=4294925302&utm_source=wdw&utm_campaign=join-soc&utm_medium=com&utm_term=join%20society">Join an IEEE Society</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="https://mga.ieee.org/board-committees/operations-manual">See IEEE Unit Treasurer responsibilities</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/communities/regional-world-map.html?utm_source=wdw&utm_campaign=region_map&utm_medium=com&utm_term=regions%20map">See the IEEE Regions</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="http://www.ieee.org/societies_communities/geo_activities/operations_manual/index.html?utm_source=wdw&utm_campaign=mga_ops_man&utm_medium=com&utm_term=MGA%20ops%20manual">View the MGA Operations Manual</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/about/volunteers/tab/home/index.html">Find information on IEEE Technical Activities</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="http://www.ieee.org/societies_communities/geo_activities/chapters/index.html?utm_source=wdw&utm_campaign=chapters&utm_medium=com&utm_term=chapter%20resources">Get IEEE Chapter resources</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/communities/geographic-activities.html?utm_source=wdw&utm_campaign=geo_act&utm_medium=com&utm_term=geographic%20activities">Find IEEE Sections, Chapters, Student Branches, and other communities</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/about/volunteers/tab/creating-a-chapter.html?utm_source=wdw&utm_campaign=create_chapter&utm_medium=com&utm_term=creating%20a%20chapter">Learn how to create an IEEE Student Chapter</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <a class="btn-style hidden-xs hidden-sm btn-go" href="#">Go</a>
+        </div>
+        <div class="btns-ieee hidden-xs hidden-sm">
+            
+            
+
+            
+            
+        </div>
+    </div>
+
+                    </div>
+                </div>
+            
+        </li>
+    
+        <li id="header_menu_4">
+            
+            <a href="/conferences.html" class="nav-link">
+				Conferences
+             </a>
+            <a class="accordian-iocns accordianClick"></a>
+            
+                <div class="dropdown-wrap header_menu_4 col-md-10 col-lg-10 col-xs-12">
+                    <div class="panel-collapse">
+                        
+    <div class="dropdown-left pull-left col-md-4 col-lg-4 col-xs-12">
+        <ul class="arrow-link">
+            <li>
+                
+				
+
+                <a href="https://conferences.ieee.org/conferences_events/conferences/search?q=*&subsequent_q=&date=all&from=2018-03-15&to=2018-08-31&region=all&country=all&pos=0&sortorder=asc&sponsor=&sponsor_type=all&state=all&field_of_interest=all&sortfield=dates" target="_self">
+					Upcoming conferences
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="http://ieeemce.org" target="_self">
+					IEEE Meetings, Conferences &amp; Events (MCE)
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/conferences/organizers/organizers-index.html" target="_self">
+					Conference Organizer Portal
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/conferences/organizers/conf-app.html" target="_self">
+					IEEE Conference Application
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/conferences/organizers/conference-organizer-education.html" target="_self">
+					IEEE Conference Organizer Education Program
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/publications/authors/publishing-benefits/index.html" target="_self">
+					See benefits of authoring a conference paper
+				</a>
+            </li>
+        </ul>
+    </div>
+    <div class="dropdown-right pull-left col-md-8 col-lg-8 col-xs-12">
+        <div class="rte-description font-e hidden-xs hidden-sm">
+            IEEE sponsors more than 1,800 annual conferences and events worldwide, curating cutting-edge content for all of the technical fields of interest within IEEE. Use the IEEE conference search to find the right conference for you to share and discuss innovation and interact with your community.<br />
+<br />
+<br />
+
+        </div>
+        <div class="dropdown-title font-e hidden-xs hidden-sm">
+            What do you want to do?
+        </div>
+
+		
+        <div class="dropdown-selector">
+            <div class="selector">
+                <a aria-expanded="true" aria-haspopup="true" class="dropdown_title dropdown-toggle" data-toggle="dropdown" href="#" role="button">Select an option</a>
+                <ul class="dropdown-menu">
+					<li>
+                        <i class="fa fa-check selected hidden-xs hidden-sm"></i>
+                        <a href="#">Select an option</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="https://conferences.ieee.org/conferences_events/conferences/search?q=*&subsequent_q=&date=all&from=2018-01-01&to=2018-12-31&region=all&country=all&pos=0&sortorder=asc&sponsor=&sponsor_type=all&state=all&field_of_interest=all&sortfield=dates">Search for 2018 conferences</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="https://conferences.ieee.org/conferences_events/conferences/search?q=*&subsequent_q=&date=all&from=2019-01-01&to=2019-12-31&region=all&country=all&pos=0&sortorder=asc&sponsor=&sponsor_type=all&state=all&field_of_interest=all&sortfield=dates">Search for 2019 conferences</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/conferences/organizers/organizers-index.html?utm_source=mm_wdw&utm_campaign=org_resources&utm_medium=conf&utm_term=organizer%20resources">Find conference organizer resources</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/conferences/application-form.html?utm_source=mm_wdw&utm_campaign=register_conf&utm_medium=conf&utm_term=register%20a%20conference">Register a conference</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/conferences/organizers/publishing-conference-papers.html?utm_source=mm_wdw&utm_campaign=conf_pap&utm_medium=conf&utm_term=publish%20conference%20papers">Publish conference papers</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/conferences/organizers/managing-conference-finances.html?utm_source=mm_wdw&utm_campaign=conf_fin&utm_medium=conf&utm_term=conference%20finances">Manage conference finances</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="http://www.ieeemce.org?utm_source=mm_wdw&utm_campaign=ben_pub&utm_medium=conf&utm_term=benefits_publishing">Learn about IEEE Meetings, Conferences &amp; Events (MCE)</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <a class="btn-style hidden-xs hidden-sm btn-go" href="#">Go</a>
+        </div>
+        <div class="btns-ieee hidden-xs hidden-sm">
+            
+            
+
+            
+            
+        </div>
+    </div>
+
+                    </div>
+                </div>
+            
+        </li>
+    
+        <li id="header_menu_5">
+            
+            <a href="/standards.html" class="nav-link">
+				Standards
+             </a>
+            <a class="accordian-iocns accordianClick"></a>
+            
+                <div class="dropdown-wrap header_menu_5 col-md-10 col-lg-10 col-xs-12">
+                    <div class="panel-collapse">
+                        
+    <div class="dropdown-left pull-left col-md-4 col-lg-4 col-xs-12">
+        <ul class="arrow-link">
+            <li>
+                
+				
+
+                <a href="http://standards.ieee.org/findstds/index.html?utm_source=mm_link&utm_campaign=find&utm_medium=std&utm_term=find%20standards" target="_self">
+					Find standards
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="http://standards.ieee.org/develop/index.html?utm_source=mm_link&utm_campaign=faw&utm_medium=std&utm_term=develop%20standards%2C%20find%20working%20group" target="_self">
+					Develop standards
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="http://standards.ieee.org/getinvolved/index.html?utm_source=mm_link&utm_campaign=giw&utm_medium=std&utm_term=get%20involved%20with%20standards" target="_self">
+					Get involved with standards
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="http://standards.ieee.org/news/index.html?utm_source=mm_link&utm_campaign=news&utm_medium=std&utm_term=standards%20news" target="_self">
+					Standards news and events
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="http://standards.ieee.org/about/index.html?utm_source=mm_link&utm_campaign=about&utm_medium=std&utm_term=about%20standards" target="_self">
+					About the IEEE Standards Association
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="http://www.techstreet.com/ieee?utm_source=mm_link&utm_campaign=techstreet&utm_medium=std&utm_term=buy%20standards%2C%20techstreet" target="_self">
+					Buy standards
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="https://development.standards.ieee.org/my-site?utm_source=mm_link&utm_campaign=etools&utm_medium=std&utm_term=etools" target="_self">
+					Standards Association eTools
+				</a>
+            </li>
+        </ul>
+    </div>
+    <div class="dropdown-right pull-left col-md-8 col-lg-8 col-xs-12">
+        <div class="rte-description font-e hidden-xs hidden-sm">
+            With an active portfolio of nearly 1,300 standards and projects under development, IEEE is a leading developer of industry standards in a broad range of technologies that drive the functionality, capabilities, and interoperability of a wide range of products and services, transforming how people live, work, and communicate.<br />
+<br />
+<br />
+
+        </div>
+        <div class="dropdown-title font-e hidden-xs hidden-sm">
+            What do you want to do?
+        </div>
+
+		
+        <div class="dropdown-selector">
+            <div class="selector">
+                <a aria-expanded="true" aria-haspopup="true" class="dropdown_title dropdown-toggle" data-toggle="dropdown" href="#" role="button">Select an option</a>
+                <ul class="dropdown-menu">
+					<li>
+                        <i class="fa fa-check selected hidden-xs hidden-sm"></i>
+                        <a href="#">Select an option</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="http://standards.ieee.org/about/get/802/802.11.html?utm_source=mm_wdw&utm_campaign=80211&utm_medium=std&utm_term=80211">Find information on IEEE 802.11™</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="http://standards.ieee.org/about/nesc/index.html?utm_source=mm_wdw&utm_campaign=nesc&utm_medium=std&utm_term=nesc">Access the National Electrical Safety Code® (NESC®)</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="http://standards.ieee.org/develop/regauth/oui/index.html?utm_source=mm_wdw&utm_campaign=regauth&utm_medium=std&utm_term=regauth">Find MAC, OUI, and Ethernet addresses from Registration Authority (regauth)</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="http://standards.ieee.org/develop/wg/IoT_Architecture.html?utm_source=mm_wdw&utm_campaign=iot&utm_medium=std&utm_term=iot">Find the Internet of Things architecture standard</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="http://standards.ieee.org/about/get/index.html?utm_source=mm_wdw&utm_campaign=free_std&utm_medium=std&utm_term=free%20standards">Get free IEEE standards</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="http://standards.ieee.org/about/index.html?utm_source=mm_wdw&utm_campaign=std_info&utm_medium=std&utm_term=standards%20association%20info">Learn more about the IEEE Standards Association</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="http://standards.ieee.org/findstds/standard/software_and_systems_engineering.html?utm_source=mm_wdw&utm_campaign=soft_eng&utm_medium=std&utm_term=software%20engineering">View Software and Systems Engineering Standards</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <a class="btn-style hidden-xs hidden-sm btn-go" href="#">Go</a>
+        </div>
+        <div class="btns-ieee hidden-xs hidden-sm">
+            
+            
+
+            
+            
+        </div>
+    </div>
+
+                    </div>
+                </div>
+            
+        </li>
+    
+        <li id="header_menu_6">
+            
+            <a href="/publications.html" class="nav-link">
+				Publications
+             </a>
+            <a class="accordian-iocns accordianClick"></a>
+            
+                <div class="dropdown-wrap header_menu_6 col-md-10 col-lg-10 col-xs-12">
+                    <div class="panel-collapse">
+                        
+    <div class="dropdown-left pull-left col-md-4 col-lg-4 col-xs-12">
+        <ul class="arrow-link">
+            <li>
+                
+				
+
+                <a href="http://ieeexplore.ieee.org/Xplore/guesthome.jsp?utm_source=mm_link&utm_campaign=vix&utm_medium=pubs&utm_term=Xplore%20guest" target="_self">
+					IEEE Xplore® Digital Library
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="http://innovate.ieee.org/?utm_source=mm_link&utm_campaign=lp&utm_medium=pubs&utm_term=innovate%20subscription%20options" target="_self">
+					Subscription options
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="http://spectrum.ieee.org/?utm_source=mm_link&utm_campaign=sp&utm_medium=pubs&utm_term=spectrum%20home" target="_self">
+					IEEE Spectrum
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="http://www.theinstitute.ieee.org/?utm_source=mm_link&utm_campaign=inst&utm_medium=pubs&utm_term=institute%20home" target="_self">
+					The Institute
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="http://proceedingsoftheieee.ieee.org" target="_self">
+					Proceedings of the IEEE
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="http://ieeeaccess.ieee.org" target="_self">
+					IEEE Access®
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="http://ieeeauthorcenter.ieee.org/" target="_self">
+					Author resources
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="http://collabratec.ieee.org/?utm_source=mm_link&utm_campaign=coll&utm_medium=ms&utm_term=collabratec" target="_self">
+					IEEE Collabratec™
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/publications/books/index.html" target="_self">
+					Book Publication at IEEE
+				</a>
+            </li>
+        </ul>
+    </div>
+    <div class="dropdown-right pull-left col-md-8 col-lg-8 col-xs-12">
+        <div class="rte-description font-e hidden-xs hidden-sm">
+            IEEE provides a wide range of quality publications that make the exchange of technical knowledge and information possible among technology professionals. This essential content, categorized below, is delivered through the IEEE <i>Xplore</i><sup>®</sup> Digital Library.<br />
+<br />
+<br />
+
+        </div>
+        <div class="dropdown-title font-e hidden-xs hidden-sm">
+            What do you want to do?
+        </div>
+
+		
+        <div class="dropdown-selector">
+            <div class="selector">
+                <a aria-expanded="true" aria-haspopup="true" class="dropdown_title dropdown-toggle" data-toggle="dropdown" href="#" role="button">Select an option</a>
+                <ul class="dropdown-menu">
+					<li>
+                        <i class="fa fa-check selected hidden-xs hidden-sm"></i>
+                        <a href="#">Select an option</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/publications/subscriptions/products/mdl/free-trial.html?utm_source=mm_wdw&utm_campaign=xtrial&utm_medium=pubs&utm_term=Xplore%20trial">Get an IEEE Xplore Digital Library trial for IEEE members</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/publications/journmag/journalcitations.html?utm_source=mm_wdw&utm_campaign=impact&utm_medium=pubs&utm_term=impact%20factor">Review impact factors of IEEE journals</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/content/dam/ieee-org/ieee/web/org/pubs/taxonomy_v101.pdf">Download the IEEE thesaurus and taxonomy (PDF, 319 KB)</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/publications/rights/copyright-main.html">Access the IEEE copyright form (PDF, 193 KB)</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="http://www.ieee.org/publications_standards/publications/authors/author_templates.html?utm_source=mm_wdw&utm_campaign=templates&utm_medium=pubs&utm_term=author%20templates">Find article templates in Word and LATEX formats</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="http://www.ieee.org/publications_standards/publications/authors/author_education?utm_source=mm_wdw&utm_campaign=author_ed&utm_medium=pubs&utm_term=author%20education">Get author education resources</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="http://ieeexplore.ieee.org/?utm_source=mm_wdw&utm_campaign=xplore&utm_medium=pubs&utm_term=xplore">Visit the IEEE Xplore Digital Library</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="http://ieeeauthorcenter.ieee.org/?utm_source=mm_wdw&utm_campaign=author_tools&utm_medium=pubs&utm_term=author%2520digital%2520tools">Find Author Digital Tools for IEEE paper submission</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/publications/rights/plagiarism/index.html?utm_source=mm_wdw&utm_campaign=plagiarism&utm_medium=pubs&utm_term=plagiarism%20policy">Review the IEEE plagiarism policy</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="http://ieeeauthorcenter.ieee.org/">Get information about all stages of publishing with IEEE</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <a class="btn-style hidden-xs hidden-sm btn-go" href="#">Go</a>
+        </div>
+        <div class="btns-ieee hidden-xs hidden-sm">
+            
+            
+
+            
+            
+        </div>
+    </div>
+
+                    </div>
+                </div>
+            
+        </li>
+    
+        <li id="header_menu_7">
+            
+            <a href="/education.html" class="nav-link">
+				Education
+             </a>
+            <a class="accordian-iocns accordianClick"></a>
+            
+                <div class="dropdown-wrap header_menu_7 col-md-10 col-lg-10 col-xs-12">
+                    <div class="panel-collapse">
+                        
+    <div class="dropdown-left pull-left col-md-4 col-lg-4 col-xs-12">
+        <ul class="arrow-link">
+            <li>
+                
+				
+
+                <a href="/education/elearning-library.html" target="_self">
+					IEEE eLearning Library
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="http://www.standardsuniversity.org/?utm_source=mm_link&utm_campaign=std_univ&utm_medium=ec&utm_term=standards%20university" target="_self">
+					Standards University
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/education/certificates/index.html" target="_self">
+					IEEE Certificates Program
+				</a>
+            </li>
+        
+            <li>
+                
+				
+
+                <a href="/education/hkn-index.html" target="_self">
+					IEEE-Eta Kappa Nu
+				</a>
+            </li>
+        </ul>
+    </div>
+    <div class="dropdown-right pull-left col-md-8 col-lg-8 col-xs-12">
+        <div class="rte-description font-e hidden-xs hidden-sm">
+            IEEE offers a wide range of learning and career enhancement opportunities within the engineering sciences, research, and other technology areas. The goal of these programs is to ensure the growth of skill and knowledge among professionals and to foster individual commitment to continuing education among IEEE members, the engineering and scientific community, and the general public.<br />
+<br />
+<br />
+
+        </div>
+        <div class="dropdown-title font-e hidden-xs hidden-sm">
+            What do you want to do?
+        </div>
+
+		
+        <div class="dropdown-selector">
+            <div class="selector">
+                <a aria-expanded="true" aria-haspopup="true" class="dropdown_title dropdown-toggle" data-toggle="dropdown" href="#" role="button">Select an option</a>
+                <ul class="dropdown-menu">
+					<li>
+                        <i class="fa fa-check selected hidden-xs hidden-sm"></i>
+                        <a href="#">Select an option</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/education/hkn-index.html?utm_source=mm_wdw&utm_campaign=hkn&utm_medium=ec&utm_term=hkn">Find IEEE-HKN information</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/education/preuniversity/tryengineering.html?utm_source=mm_wdw&utm_campaign=tryeng&utm_medium=ec&utm_term=Try%20Engineering">Access the TryEngineering.org portal</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/education/elearning-library.html?WT.mc_id=mm_ec_iell&utm_source=mm_wdw&utm_campaign=iell&utm_medium=ec&utm_term=e-learning">Access IEEE elearning courses</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/education/certificates/index.html?utm_source=mm_wdw&utm_campaign=certificates&utm_medium=ec&utm_term=e-learning">Learn about available IEEE certificates</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/about/ieee-projects.html">Get resources for final-year engineering projects</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/education/university-programs.html?utm_source=mm_wdw&utm_campaign=univ_prog&utm_medium=ec&utm_term=university%20programs">See university program resources</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/education/preuniversity/index.html?utm_source=mm_wdw&utm_campaign=pre_univ&utm_medium=ec&utm_term=pre-university%20programs">See pre-university program resources</a>
+                    </li>
+                    
+                	
+                    <li>
+                        <i class="fa fa-check hidden-xs hidden-sm"></i>
+                        <a href="/education/employers-job-seekers.html?utm_source=mm_wdw&utm_campaign=career_res&utm_medium=ec&utm_term=career%2520resources%2522">Find career resources</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <a class="btn-style hidden-xs hidden-sm btn-go" href="#">Go</a>
+        </div>
+        <div class="btns-ieee hidden-xs hidden-sm">
+            
+            
+
+            
+            
+        </div>
+    </div>
+
+                    </div>
+                </div>
+            
+        </li>
+    
+</ul>
+
+<!-- #site navigation-content end -->
+
+                <div class="pull-right hidden-xs hidden-sm">
+              		
 
 
-</script>
 
 
 
@@ -509,93 +1894,888 @@ var SLOT_ID_2 			= 'Cart_Default_2';
 
 
 
-<div class="content-promotional-ads">
-	
-	<script id="ieee-promotional-ads-include" type="text/javascript"
-		src='/ieee-mashup/js/promoads/ieee-promotional-ads-include.js?ver=20180410_111105'>
-	</script>
-	
-	<script>
-	try{
-		if (typeof(pa_initPromotionalAds) != "undefined") {
-			var json1 =  '{"IFRAME_ID":"frame1",' +
-					'"SLOT_ID":"'+ SLOT_ID_1 +','+ SLOT_ID_2 +'",' +
-					'"CUSTOMER_GRADE":"",' +
-					'"MEMBERSHIP_STATUS":"",' +
-					'"ACTIVE_ASSETS":"",' +
-					'"TECH_FOCUS":""' +
-					'}';
+
+<a class="btn-blue" href="/membership/join/index.html?WT.mc_id=hc_join" target="_self">JOIN IEEE</a>
+<!-- #cta-button-content end -->
+
+          		</div>
+          		<div class="btns-tab-mob hidden-md hidden-md hidden-lg">
+                    
+                    
+                    
 					
-			//var json1 = '{"SLOT_ID":"Cart_Default_1,Cart_Default_2","IFRAME_ID":"frame1"}';
-			pa_initPromotionalAds(json1);
-		} else {
-			if (window['console'] != undefined) {
-				//console.log('pa_initPromotionalAds is undeclared or undefined');
-			}
-		}
-	} catch(e) {
-		if (window['console'] != undefined) {
-			//console.log('caught exception in pa_initPromotionalAds()');
-		}
-	}
-	</script>
+                    
+                </div>
+   			</div>
+        </div>
+    </div>
 </div>
+<div class="clearfix"></div>
+<!-- End Page header Block component -->
 
+    
 
-
-
-
-
-
-		
-		
-<div class="header">
-	Questions?
 </div>
-<div class="content">
-	<p>
-		<a href="https://supportcenter.ieee.org" target="_blank">Please direct your inquiries to the IEEE Support Center</a>
-	</p>
-	<p class="textAlign">
-		
-		
-	</p>
+        
+    
+
+
+</header>
+<!-- #header ends -->
+
+	    
+
+<!-- Page Container
+============================================= -->
+<div id="page-container">
+    <div class="container">
+        <div>
+<!-- Service Alert Banner content
+============================================= -->
+
+
+<!-- service-alert-banner-end --></div>
+        <div class="row hidden-sm hidden-xs">
+            <div class="col-sm-12">
+                
+
+
+
+
+<!-- Start BreadCrumb component
+============================================= -->
+
+<div class="bread-crumb font-e separator-arrow text-left">
+
+    <ul>
+        
+        <li>
+            
+                <a href="/">
+                        Home
+                </a>
+            
+            
+        </li>
+    </ul>
+    
 </div>
+<!-- End Breadcrumb component -->
 
-		<!-- call_to_donation.jsp starts -->
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-9 col-xs-12">
+                
+
+    
+    
+    
+    <div class="introduction-container"><!-- Sightly global objects declaration
+============================================= -->
 
 
+<!-- #sightly-global-objects-declaration end -->
 
-<!-- call_to_donation.jsp ends -->
+<!-- Placeholder Content
+============================================= -->
+<!-- #placeholder-content end -->
+
+<!-- Vertical Navigation content started
+================================================= -->
+
+<!-- #vertical-navigation-content end -->
+
+<div class="vertical-section">
+    <div class="col-sm-12 left-right-space-none-sm">
+        
+            <div class="sub-nav-title">
+                
+
+<!--Title component content
+============================================= -->
+
+
+<div class="pagetitle font-c">
+	<div>
+		<span>IEEE Privacy Policy</span>
+		
 	</div>
+</div>
+
+<!-- Enable subscribe overlay modal -->
+
+<!-- End Title component -->
+
+            </div>
+        
+        
+        
+    </div>
+    <div class="col-sm-12 left-right-space-none sect-main clearfix" style="position:relative;">
+        
+        
+        <div class="rte-section">
+            
+
+    
+    
+    
+    <div class="rte text parbase">
+
+<link rel="stylesheet" href="/etc/clientlibs/wcm/foundation/accessibility.min.88a3d843f21a0205759dac3c500977cd.css" type="text/css">
 
 
-					</div>
-					<!-- right promo end -->
-				</div>
-				<!--Right Content end-->
-			</div>
-			<!--Gray Background end-->
-		</div>
-		
+    At IEEE, we respect your privacy. We want to ensure that you get the information, content, and experiences that matter most to you. IEEE is committed to protecting the privacy of its members, customers, volunteers, and other contacts.
+</div>
+
+
+
+        </div>
+        
+            <div class="jump-link-section hidden-xs">
+                
 
 
 
 
 
+         
 
 
+
+<!-- Jump Links Container Content
+============================================= -->
+<div class="jump-links hidden-xs">
 	
+    <div class="jump-links-header font-c">On this page:</div>
+    <ul class="link-list">
+        <li>
+            <a href="#scope" target="">
+                <span class="arrow-right">
+            		<i aria-hidden="true" class="fa fa-angle-right"></i>
+            	</span>Scope
+            </a>
+        </li>
+    
+        <li>
+            <a href="#information-collected" target="">
+                <span class="arrow-right">
+            		<i aria-hidden="true" class="fa fa-angle-right"></i>
+            	</span>Information collected
+            </a>
+        </li>
+    
+        <li>
+            <a href="#tech-reg-info" target="">
+                <span class="arrow-right">
+            		<i aria-hidden="true" class="fa fa-angle-right"></i>
+            	</span>Technical and regulatory information
+            </a>
+        </li>
+    </ul>
+</div>
+<!-- #jump-links-container-content end -->
+
+            </div>
+        
+    </div>
+</div>
+<div class="clearfix"></div></div>
+
+
+    
+    
+    
+    <div class="dropdown-selector">
 
 
 
-		
+
+
+
+
+
+
+<!--Dropdown Selector component content
+============================================= -->
+
+<div class="clearfix"></div>
+<!-- #Dropdown-Selector-component end -->
+</div>
+
+
+    
+    
+    
+    <div class="top-of-page">
+
+<!-- Top Of Page Content
+============================================= -->
+
+<div class="top-of-page-link hidden-xs text-right no-margin hidden">
+    <a class="arrow-color-blue" href="#top">
+        <img class="svg top-arrow-link" src="/etc/designs/ieee-core/clientlibs/images/top-arrow.svg"/>
+        <span class="title-label">top of page</span>
+    </a>
+</div>
+<!-- Enable bottom spacing between the content section -->
+<div style="margin-bottom: ;">
+</div>
+<!-- #top-of-page-content end -->
+</div>
+
+
+    
+    
+    
+    <div class="section-header-container">
+
+
+
+
+
+<!-- Section Header Container Content
+============================================= -->
+
+    
+
+    <div id="scope" class="section-header-orange font-c" style="background-color: rgba(178,178,178,1); 
+    		color: rgb(0,0,0)">
+    	<div>Scope</div>
+    </div>
+
+    
+
+    
+    
+    
+    <div class="rte text parbase">
+
+
+
+    This privacy policy applies to all personal data processed by full-time and part-time employees, volunteers when acting on behalf of IEEE, contractors and partners doing business on behalf of IEEE, as well as all legal entities, all operating locations in all countries, and all business processes conducted by IEEE.
+</div>
+
+
+    
+    
+    
+    <div class="link-list-container">
+
+
+
+
+
+         
+
+
+
+<!-- Link List Container Content
+============================================= -->
+
+<!-- #link-list-container-content end -->
+</div>
+
+
+
+
+    
+
+<!-- Top Of Page Content
+============================================= -->
+
+<div class="top-of-page-link hidden-xs text-right no-margin hidden">
+    <a class="arrow-color-blue" href="#top">
+        <img class="svg top-arrow-link" src="/etc/designs/ieee-core/clientlibs/images/top-arrow.svg"/>
+        <span class="title-label">top of page</span>
+    </a>
+</div>
+<!-- Enable bottom spacing between the content section -->
+<div style="margin-bottom: ;">
+</div>
+<!-- #top-of-page-content end -->
+
+
+<!-- #section-header-container-content end --></div>
+
+
+    
+    
+    
+    <div class="section-header-container">
+
+
+
+
+
+<!-- Section Header Container Content
+============================================= -->
+
+    
+
+    <div id="information-collected" class="section-header-orange font-c" style="background-color: rgba(178,178,178,1); 
+    		color: rgb(0,0,0)">
+    	<div>Information collected</div>
+    </div>
+
+    
+
+    
+    
+    
+    <div class="rte text parbase">
+
+
+
+    <p style="font-size: 16.0px;"><b><br />
+ What information do we collect?</b></p>
+<p>IEEE collects the following personal data in line with the use purposes explained in a subsequent section:</p>
+<p>- Your name and contact details<br />
+- Date of birth<br />
+- Online profile data/usage<br />
+- Emergency contact information<br />
+- Social media profile information<br />
+- Copies of identification documents<br />
+- Education and professional information<br />
+- Communication information including IEEE Online Support and Contact Center communications<br />
+- Purchasing and payment information<br />
+- Registration and participation in IEEE events and activities<br />
+- Subscription preferences<br />
+- Information about the device(s) you use<br />
+- Information about service usage<br />
+- Cookies<br />
+- Authentication data<br />
+- Location information<br />
+- Author and peer review information<br />
+- Other information you upload or provide to us</p>
+<p> </p>
+<p style="font-size: 16.0px;"><b>How do we use your information?</b></p>
+<p>IEEE uses (and, where specified, shares) your personal information for the following purposes:<br />
+<br />
+<b>To process transactions. </b>IEEE uses personal information such as name, physical address, telephone number, email address, and company/institution to engage in interactions with you, including contacting you about your order, donation, subscription, event participation, or membership. We use financial/credit card and payment information to process your order and may need to share some of this information with delivery services, credit card clearing houses, and other third parties to complete the transaction.<br />
+<br />
+<b>To provide support or other services.</b> IEEE may use your personal information to provide you with support or other services that you have ordered or requested. IEEE may also use your personal information to respond directly to your requests for information, including registrations for newsletters, webinars, or other specific requests, or pass your contact information to the appropriate IEEE distributor or reseller for further follow-up related to your interests.</p>
+<p><b>To provide information based on your needs and respond to your requests. </b>IEEE may use your personal information to provide you with notices of new product releases and service developments.</p>
+<p><b>To provide online forums and social networks. </b>Some services available on the websites permit you to participate in interactive discussions, post comments, opportunities, or other content to a bulletin board or exchange, or otherwise engage in networking activities. Some of these services are moderated; all may be accessed for technical reasons (for example, for improvements or fixes). IEEE does not control the content that users post to these forums or social networks. You should carefully consider whether you wish to submit personal information to these forums or social networks and tailor any content you submit appropriately and in accordance with the relevant terms of use. You should also review any additional terms and conditions that may govern your use of these services, including terms related to sharing your personal information and receiving communications.<br />
+<br />
+<b>To administer products. </b>IEEE may contact you if you purchase products to confirm certain information about your order (for example, that you did not experience problems in the download process). We may also use this information to confirm compliance with licensing and other terms of use and may share it with your company/institution.<br />
+<b><br />
+ To select content, improve quality, and facilitate use of the websites. </b>IEEE may use your personal information, including the information gathered as a result of site navigation and electronic protocols and cookies (including third-party cookies), to help create and personalize website content, improve website quality, track marketing campaign responsiveness, evaluate page response rates, conduct usability testing, and facilitate your use of the websites (for example, to facilitate navigation and the login process, avoid duplicate data entry, enhance security, keep track of shopping cart additions, and preserve order information between sessions).<br />
+<br />
+<b>To serve personalized advertising to you. </b>We don't share your information with advertisers without your consent. We allow advertisers to choose the characteristics of users who will see their advertisements, and we may use any of the non-personally-identifiable attributes we have collected to select the appropriate audience for those advertisements. When you click on or otherwise interact with an advertisement, there is a possibility that the advertiser may place a cookie in your browser and that your attributes meet the criteria the advertiser selected.</p>
+<p><b>To assess usage of IEEE products and services. </b>IEEE may track your usage of IEEE products and services (e.g., IEEE Xplore) to determine your level of usage, and those usage statistics may be made available to IEEE’s content licensors and your company/institution.<br />
+<br />
+<b>To communicate with you about a meeting, conference, or event. </b>We may communicate with you about a meeting, conference, or event hosted or co-sponsored by IEEE or one of our business associates. This may include information about the event's content, event logistics, payment, updates, and additional information related to the event. Information you provide when registering for or participating in a conference managed or co-sponsored by parties, other than or in addition to IEEE may be shared with those parties, and the treatment of such information is further subject to the privacy policies of those parties. IEEE and its conference co-sponsors may contact you after the event about the event, subsequent iterations of the event and related events. Please note that IEEE conference, meeting or event organizers, co-sponsors, exhibitors, and other third parties may directly request your personal information at their conference booths or presentations. Providing your information to them is optional, and you should review their privacy policies to address your particular needs and concerns about how they will treat your personal information.</p>
+<p><b>To consider you for a higher member grade or an IEEE award. </b>IEEE may use personal information such as your name, education, work history, and volunteer activities to consider you for a higher member grade or for an IEEE award. IEEE may need to share this information with your nominators, references, judges, and others parties involved in evaluating your eligibility.<br />
+<br />
+<b>To include you in IEEE Member Directories. </b>If you are an active member of IEEE, one of its Societies, or IEEE Standards Association, at your request, we may include your information in IEEE Member Directory in IEEE Collabratec, and, if applicable, the Fellows Directory and IEEE Society Directories. We may also enable private member to member messaging (your email address is never shared). Active members can customize their member directories visibility preferences any time in account settings.<br />
+<br />
+<b>To document standards development participation. </b>If you are a participant in IEEE standards development, IEEE uses your personal information to comply with policies and procedures, legal and accreditation requirements, and evaluation of patent claims by patent offices. IEEE must capture your personal data for these purposes, and provides information about activities related to standards development groups in which you participate. IEEE standards development participation is documented through various methods, e.g., rosters, submission documents, email reflectors, records of meeting attendance, responses to ballots, publicly available participation lists, and declaration of affiliations.<br />
+<br />
+<b>To assist in your participation in IEEE activities. </b>IEEE will communicate with you, if you are participating in certain IEEE activities such as IEEE conferences, authoring or reviewing an IEEE periodical article, or IEEE humanitarian activities. IEEE may send you information such as newsletters related to those activities.</p>
+<p><b>To update you on relevant IEEE benefits, programs, and opportunities.</b> IEEE may communicate with you regarding relevant IEEE benefits, programs, and opportunities available to you, through your membership(s) with IEEE.</p>
+<p><b>To engage with third parties.</b> IEEE may share your personal data with third parties in connection with services that these individuals or entities perform for or with IEEE. These third parties are restricted from using this data in any way other than to provide services for IEEE or for the collaboration in which they and IEEE are contractually engaged (for example, hosting an IEEE database or engaging in data processing on IEEE’s behalf, or mailing you information that you requested). These third parties are carefully selected by IEEE and obligated to keep your data secure. From time to time, we may also share your information with third parties whom we think might provide content, products, or services of interest to you.<br />
+<br />
+<b>To protect IEEE content and services. </b>We may use your information to prevent potentially illegal activities and to enforce our terms and conditions. We also use a variety of technological systems to detect and address anomalous activity and to screen content to prevent abuse, such as spam. These efforts may, on occasion, result in a temporary or permanent suspension or termination of some functions for some users</p>
+<p><b>To get feedback or input from you. </b>In order to deliver products and services of most interest to our customers, from time to time, we may ask members, customers, volunteers, and website visitors to provide us input and feedback (for example through surveys, usability studies, focus groups).</p>
+<p><b>To protect IEEE information assets as well as your own personal data. </b>The IEEE Information Security Program protects the confidentiality, integrity, and availability of IEEE information assets by following a risk management approach based on policies, standards, guidelines, and procedures to meet security objectives while supporting business and operational goals.</p>
+<p> </p>
+<p style="font-size: 16.0px;"><b>How can you control your information?</b></p>
+<p>You can control the information we have about you and how we use it in several ways.</p>
+<ul>
+<li>If you are a registered user, you can review, revise, and correct the personal data that you have provided to IEEE via <a href="/about/help/my-account/change-password.html">IEEE Account/MyProfile</a>. </li>
+<li>Use the unsubscribe method provided in our various communications</li>
+</ul>
+<p> </p>
+<p style="font-size: 16.0px;"><b>Personal data about minors and children</b></p>
+<p>IEEE does not knowingly collect data from or about children under 16 without the permission of parent(s)/guardian(s). If we learn that we have collected personal information from a child under 16, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under age 16, please contact us.</p>
+<p> </p>
+<p style="font-size: 16.0px;"><b>How will you know if the Privacy Policy is changed? </b></p>
+<p>IEEE may update its Privacy Policy from time to time. If we make any material changes we will notify you by email if you have an IEEE Account, or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
+
+</div>
+
+
+    
+    
+    
+    <div class="link-list-container">
+
+
+
+
+
+         
+
+
+
+<!-- Link List Container Content
+============================================= -->
+
+<!-- #link-list-container-content end -->
+</div>
+
+
+
+
+    
+
+<!-- Top Of Page Content
+============================================= -->
+
+<div class="top-of-page-link hidden-xs text-right no-margin ">
+    <a class="arrow-color-blue" href="#top">
+        <img class="svg top-arrow-link" src="/etc/designs/ieee-core/clientlibs/images/top-arrow.svg"/>
+        <span class="title-label">top of page</span>
+    </a>
+</div>
+<!-- Enable bottom spacing between the content section -->
+
+<!-- #top-of-page-content end -->
+
+
+<!-- #section-header-container-content end --></div>
+
+
+    
+    
+    
+    <div class="section-header-container">
+
+
+
+
+
+<!-- Section Header Container Content
+============================================= -->
+
+    
+
+    <div id="tech-reg-info" class="section-header-orange font-c" style="background-color: rgba(178,178,178,1); 
+    		color: rgb(0,0,0)">
+    	<div>Technical and regulatory information</div>
+    </div>
+
+    
+
+    
+    
+    
+    <div class="rte text parbase">
+
+
+
+    <p style="font-size: 16.0px;"><b>Logging practices</b></p>
+<p>IEEE automatically records the Internet Protocol (IP) addresses of visitors. The IP address is a unique number assigned to every computer on the internet. Generally, an IP address changes each time you connect to the internet (it is a &quot;dynamic&quot; address). Note, however, that if you have a broadband connection, depending on your individual circumstance, the IP address that we collect may contain information that could be deemed identifiable. This is because, with some broadband connections, your IP address doesn't change (it is &quot;static&quot;) and could be associated with your personal computer.</p>
+<p>As well as recording the IP addresses of users, IEEE may also keep track of sites that users visited immediately prior to visiting IEEE's website and the search terms they used to find it. We keep track of the pages visited on IEEE's website, the amount of time spent on those pages and the types of searches done on them. Your searches remain confidential and anonymous. IEEE uses this information only for statistical purposes to find out which pages users find most useful and to improve the website.</p>
+<p>IEEE also captures and stores information that you transmit. This may include:</p>
+<ul>
+<li>Browser/Device type/version</li>
+<li>Operating system used</li>
+<li>Media Access Control (MAC) address</li>
+<li>Date and time of the server request</li>
+<li>Volume of data transferred</li>
+</ul>
+<p> </p>
+<p style="font-size: 16.0px;"><b>External links behavior</b></p>
+<p>Some of IEEE's websites link to other sites created and maintained by other public- and/or private-sector organizations. IEEE provides these links solely for your information and convenience. When you transfer to an outside website, you are leaving the IEEE domain, and IEEE's information management policies no longer apply. IEEE encourages you to read the privacy statement of each external website that you visit before you provide any personal data.</p>
+<p> </p>
+<p style="font-size: 16.0px;"><b>Cookies and web beacons</b></p>
+<p>Cookies and web beacons are electronic placeholders that are placed on your device by websites to track your individual movements on that website over time. IEEE uses both session-based cookies (which last only for the duration of the user's session) and persistent cookies (which remain on your device and provides information about the session you are in and waits for the next time you use that site again). </p>
+<p>These cookies and web beacons provide useful information to IEEE, enabling us to recognize repeat users, facilitate the user's access to and use of our sites, allows us to track usage behavior, and to balance the usage of our websites on all IEEE web servers. </p>
+<p>Tracking cookies, third-party cookies, and other technologies such as web beacons may be used to process additional information, enable non-core functionalities on the IEEE website and enable third-party functions (such as a social media &quot;share&quot; link). We may also include web beacons and other similar technology in promotional email messages to determine whether the messages have been opened. </p>
+<p> </p>
+<p style="font-size: 16.0px;"><b>Do Not Track (DNT)</b></p>
+<p>The online advertising industry has self-regulatory initiatives designed to provide consumers a choice in the types of ads they may see online and to conveniently opt-out from online behavioral ads served by some or all of the companies participating in these programs. Our websites do not respond to DNT consumer browser settings.</p>
+<p> </p>
+<p style="font-size: 16.0px;"><b>Collaboration with authorities</b></p>
+<p>IEEE has appointed and mandated a <a href="mailto:privacy@ieee.org">privacy officer</a> who represents the regulatory authorities inside the IEEE organization, and in return represents the IEEE organization to regulatory authorities.</p>
+<p>The IEEE privacy officer will ensure proper communication with the relevant regulatory authority for privacy. The privacy officer will lead investigative action, complaint handling and data breach notification. The privacy officer will also monitor regulatory changes and consult the regulatory authority where implementation of a regulatory or technological change leads to doubt. </p>
+<p> </p>
+<p style="font-size: 16.0px;"><b>Transfer of information to other countries </b></p>
+<p>As a global organization, IEEE engages in a number of international activities.  In connection with the management of those activities, IEEE may transfer information to other countries. By submitting your information to IEEE via the websites, or in connection with your interactions with IEEE offline, you consent to such transfers and to the processing of this information in other countries.</p>
+<p> </p>
+<p style="font-size: 16.0px;"><b>Responses to legal requests</b></p>
+<p>IEEE reserves the right to share your information to respond to duly authorized information requests of governmental authorities or where required by law. </p>
+<p>In the event of bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this privacy policy will apply to your information as transferred to the new entity.</p>
+<p> </p>
+<p style="font-size: 16.0px;"><b>Your European Union privacy rights</b></p>
+<p>Under the General Data Protection Regulation (Regulation EU 2016/679) (also known as GDPR), if you are an individual protected by the GDPR you may have certain rights as a data subject.  To request information about or avail yourself of those rights, please send an email to privacy@ieee.org with &quot;GDPR Request&quot; in the subject line. In the email please describe, with specificity, the GDPR right you are requesting assistance with.  Please note additional information may be requested prior to initiation of a request and that IEEE reserves the right to charge a fee with respect to certain requests.  Upon IEEE’s completion of its review you will be notified if your request has been granted, denied, or exemptions apply.</p>
+<p> </p>
+<p style="font-size: 16.0px;"><b>Your California privacy rights</b></p>
+<p>Under California Civil Code Section 1798.83 (also known as S.B. 27), if you are a California resident and your business relationship with IEEE is primarily for personal, family, or household purposes, you may request certain data regarding IEEE’s disclosure, if any, of personal information to third parties for the third-parties’ direct marketing purposes. To make such a request, please send an email to privacy@ieee.org with &quot;Request for California Privacy Information&quot; in the subject line. You may make such a request up to once per calendar year. If applicable, we will provide you, by email, a list of the categories of personal information disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the third parties' names and addresses. Please note that not all personal information sharing is covered by S.B. 27's requirements.</p>
+<p> </p>
+<p style="font-size: 16.0px;"><b>How do I contact you if there is an issue?</b></p>
+<p>If you have any questions or concerns about this Privacy Policy or about the use of your personal information, please feel free to contact us by email at <a href="mailto:privacy@ieee.org">privacy@ieee.org</a>. </p>
+<p> </p>
+<p><b>Date</b><br />
+<b>23 April 2018 <br />
+ Ver 2.0</b></p>
+<p> </p>
+<p><b>Contact Information:</b><br />
+<a href="mailto:privacy@ieee.org">privacy@ieee.org</a><br />
+IEEE<br />
+445 Hoes Lane<br />
+Piscataway, NJ 08854 USA<br />
+<br />
+</p>
+
+</div>
+
+
+
+
+    
+
+<!-- Top Of Page Content
+============================================= -->
+
+<div class="top-of-page-link hidden-xs text-right no-margin ">
+    <a class="arrow-color-blue" href="#top">
+        <img class="svg top-arrow-link" src="/etc/designs/ieee-core/clientlibs/images/top-arrow.svg"/>
+        <span class="title-label">top of page</span>
+    </a>
+</div>
+<!-- Enable bottom spacing between the content section -->
+
+<!-- #top-of-page-content end -->
+
+
+<!-- #section-header-container-content end --></div>
+
+
+
+            </div>
+            <div class="col-sm-3 col-xs-12">
+                <div class="right-column-section">
+                    
+
+    
+    
+    
+    <div class="reference parbase"><div class="cq-dd-paragraph"><div class="DF_IEEE_MIG_GRT_77381_7 right-column-module">
+
+
+
+
+
+<!-- Section Header Content
+============================================= -->
+
+    
+    <div class="column-module" style="border-color:rgba(0,102,153,1);">
+        <div class="column-module-header font-c"> Business Policies &amp; Information </div>
+        
+
+    
+    
+    
+    <div class="link-list-container">
+
+
+
+
+
+         
+
+
+
+<!-- Link List Container Content
+============================================= -->
+
+    
+    <ul class="link-list">
+        
+
+
+
+
+
+         
+
+
+
+<!-- Link Content
+============================================= -->
+
+    <li>
+        <a href="/about/help-pricing.html" target="_self">
+            <span class="arrow-right"><i class="fa fa-angle-right" aria-hidden="true"></i></span>Pricing Policy
+        </a>
+    </li>
+
+<!-- #link-content end -->
+
+    
+        
+
+
+
+
+
+         
+
+
+
+<!-- Link Content
+============================================= -->
+
+    <li>
+        <a href="/about/help/browser-policy.html" target="_self">
+            <span class="arrow-right"><i class="fa fa-angle-right" aria-hidden="true"></i></span>Browser Policy
+        </a>
+    </li>
+
+<!-- #link-content end -->
+
+    
+        
+
+
+
+
+
+         
+
+
+
+<!-- Link Content
+============================================= -->
+
+    <li>
+        <a href="/about/help/export.html" target="_self">
+            <span class="arrow-right"><i class="fa fa-angle-right" aria-hidden="true"></i></span>Export Restrictions
+        </a>
+    </li>
+
+<!-- #link-content end -->
+
+    
+        
+
+
+
+
+
+         
+
+
+
+<!-- Link Content
+============================================= -->
+
+    <li>
+        <a href="/about/help/business-policies/payment.html" target="_self">
+            <span class="arrow-right"><i class="fa fa-angle-right" aria-hidden="true"></i></span>Payment &amp; Order Methods
+        </a>
+    </li>
+
+<!-- #link-content end -->
+
+    
+        
+
+
+
+
+
+         
+
+
+
+<!-- Link Content
+============================================= -->
+
+    <li>
+        <a href="/about/help/business-policies/returns.html" target="_self">
+            <span class="arrow-right"><i class="fa fa-angle-right" aria-hidden="true"></i></span>Returns Policy
+        </a>
+    </li>
+
+<!-- #link-content end -->
+
+    
+        
+
+
+
+
+
+         
+
+
+
+<!-- Link Content
+============================================= -->
+
+    <li>
+        <a href="/about/help/business-policies/business-policies-shipping.html" target="_self">
+            <span class="arrow-right"><i class="fa fa-angle-right" aria-hidden="true"></i></span>Shipping Information
+        </a>
+    </li>
+
+<!-- #link-content end -->
+
+    
+        
+
+
+
+
+
+         
+
+
+
+<!-- Link Content
+============================================= -->
+
+    <li>
+        <a href="/about/help/business-policies/tax-corporate-info.html" target="_self">
+            <span class="arrow-right"><i class="fa fa-angle-right" aria-hidden="true"></i></span>Tax Information
+        </a>
+    </li>
+
+<!-- #link-content end -->
+
+    
+        
+
+
+
+
+
+         
+
+
+
+<!-- Link Content
+============================================= -->
+
+    <li>
+        <a href="/about/help/site-terms-conditions.html" target="_self">
+            <span class="arrow-right"><i class="fa fa-angle-right" aria-hidden="true"></i></span>Terms &amp; Conditions
+        </a>
+    </li>
+
+<!-- #link-content end -->
+
+    
+        
+
+
+
+
+
+         
+
+
+
+<!-- Link Content
+============================================= -->
+
+    <li>
+        <a href="/about/corporate/governance/p9-26.html" target="_self">
+            <span class="arrow-right"><i class="fa fa-angle-right" aria-hidden="true"></i></span>Nondiscrimination Policy
+        </a>
+    </li>
+
+<!-- #link-content end -->
+
+    
+        
+
+
+
+
+
+         
+
+
+
+<!-- Link Content
+============================================= -->
+
+    <li>
+        <a href="/security-privacy.html" target="_self">
+            <span class="arrow-right"><i class="fa fa-angle-right" aria-hidden="true"></i></span>Privacy Policy
+        </a>
+    </li>
+
+<!-- #link-content end -->
+
+    
+        
+
+
+
+
+
+         
+
+
+
+<!-- Link Content
+============================================= -->
+
+    <li>
+        <a href="/about/compliance/conflict-of-interest/index.html" target="_self">
+            <span class="arrow-right"><i class="fa fa-angle-right" aria-hidden="true"></i></span>Principles of Business Conduct and Conflict of Interest
+        </a>
+    </li>
+
+<!-- #link-content end -->
+
+    </ul>
+
+<!-- #link-list-container-content end -->
+</div>
+
+
+
+    </div>
+
+<!-- #section-header-content end -->
+</div>
+</div>
+</div>
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- #page-container ends -->
+	    
+
+<!-- Footer
+============================================= -->
+<footer id="page-footer">
+    
 
     
         
         
+        <div class="new section">
+
+</div>
         
-        <div class="footer-container">
+    
+        
+        
+        <div class="iparys_inherited">
+
+    
+    
+    
+    
+        
+        
+        
+        
 
 <!-- Footer Content
 ============================================= -->
@@ -617,7 +2797,6 @@ var SLOT_ID_2 			= 'Cart_Default_2';
         <div class="inside-space font-f">
             <div class="rte-text">
 
-<link rel="stylesheet" href="/etc/clientlibs/wcm/foundation/accessibility.min.88a3d843f21a0205759dac3c500977cd.css" type="text/css">
 
 
     IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.<br />
@@ -1443,13 +3622,12 @@ var SLOT_ID_2 			= 'Cart_Default_2';
     </div>
 </div>
 <!-- #footer-content end -->
-</div>
 
     
         
         
         
-        <div class="global-footer-container">
+        
 
 <!-- Global Footer Content
 ============================================= -->
@@ -1472,7 +3650,7 @@ var SLOT_ID_2 			= 'Cart_Default_2';
 <!-- Utility Links Content
 ============================================= -->
 
-    <ul id="AOENOEZWUIMMGMUDNS" class=" utilitylinks separator-pipe">
+    <ul id="XZBGCKZXHERFPMMSVR" class=" utilitylinks separator-pipe">
         <li class="utilitylinks-default-color" style="color:">
             
                 <div style="min-width:30px">
@@ -1569,23 +3747,7 @@ for the benefit of humanity.<br />
         </div>
     </div>
 </div>
-<!-- #global-footer-content end --></div>
-
-    
-        
-        
-        <div class="new section">
-
-</div>
-        
-    
-        
-        
-        <div class="iparys_inherited">
-
-    
-    
-    
+<!-- #global-footer-content end -->
     
 
 </div>
@@ -1593,118 +3755,59 @@ for the benefit of humanity.<br />
     
 
 
+</footer>
+<!-- #footer ends -->
 
-
-<script type="text/javascript">
-$(document).ready(function() {
-	// Append the current page url as FromPage to the feedback link.
-	var currentPageURL = document.URL;
-	var feedbackURL = $("#footer-feedback-link").attr("href");
-	$("#footer-feedback-link").attr("href", feedbackURL + "?FromPage=" + currentPageURL);
-});
-</script>
-
-<script type="text/javascript">
-//<![CDATA[
-var _tag=new WebTrends();
-//]]>
-</script>
-
-<script type="text/javascript">
-//<![CDATA[
-_tag.dcsCustom=function(){
-// Add custom parameters here.
-//_tag.DCSext.param_name=param_value;
-}
-_tag.dcsCollect();
-//]]>
-</script>
-
-<noscript>
-<!-- <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//statse.webtrendslive.com/dcs4rfa8y3dv0hcdr72ukbmq3_2j5k/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;DCS.dcscfg=1&amp;WT.tv=9.4.0&amp;dcssip=www.soadav03.ieee.org"/></div> -->
-
-
-
-
-<div>
-<img alt="DCSIMG" id="DCSIMG" width="1" height="1" src='statse.webtrendslive.com/dcs4ngrek5bv0hom6jkdvedkz_2n9s/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;DCS.dcscfg=1&amp;WT.tv=9.4.0&amp;dcssip=https://www.ieee.org'/>
-</div>
-
-
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
-
-<!-- BEGIN: Unica Page Tag -->
-<!-- Copyright 2004-2006 Unica Corporation.  All rights reserved. -->
-<script language ="JavaScript">
-	var userInfoId = null;
-	if(typeof mc_getUserInfoId != "undefined"){
-		userInfoId = mc_getUserInfoId();
-	}
+	</div>
 	
-	var NTPT_IMAGE_LOCATION = 'https://origin.www.ieee.org/';
-	var NTPT_PGEXTRA= "ip=" + '140.98.93.78';
-	if(userInfoId != null && userInfoId != "" && userInfoId != "null" ){
-		NTPT_PGEXTRA = NTPT_PGEXTRA + "&un=" + userInfoId + "&un3=" + userInfoId;
-	}
-</script>
-<script type="text/javascript" src='https://www.ieee.org/ieee-mashup/js/netnsight/ntpagetag.js'></script>
-<!-- END: Unica Page Tag -->
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
-<!-- Google Analytics start-->
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-4930232-1']);
-  _gaq.push(['_setDomainName', 'ieee.org']);
-  _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-<!-- Google Analytics End -->
+    
+<script type="text/javascript" src="/etc/clientlibs/axis41-core/base.min.0fff28e514bed6def3d25fff59d5fd46.js"></script>
 
-<!-- Browser Sniffer Start -->
-<script type="text/javascript">
-	var brUnSuppHeading = "You are using an unsupported browser.";
-	var brUnSupptext = "You may continue, but new features may not work properly. Please update your browser to a more current version from one of the options below:";
+
+
+
+    
+<script type="text/javascript" src="/etc/clientlibs/axis41-core/apps_components.min.3971721b41b9c408a91f63b57a557c6d.js"></script>
+
+
+
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+
+    
+<script type="text/javascript" src="/etc/designs/ieee-core/clientlibs/base.min.dbf5d667a3596a34fdb272ea9ebecfe4.js"></script>
+
+
+
+
+    
+<script type="text/javascript" src="/etc/designs/ieee-core/clientlibs/apps_components.min.d41d8cd98f00b204e9800998ecf8427e.js"></script>
+
+
+
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+
+    
+<script type="text/javascript" src="/etc/designs/ieee-org/clientlibs/base.min.5cfa4f0b360aa866e2fd6648dbdf7496.js"></script>
+
+
+
+
+    
+<script type="text/javascript" src="/etc/designs/ieee-org/clientlibs/apps_components.min.27df075dd6ee6dde109af48df1c06807.js"></script>
+
+
+
+
+
 	
-	var ieVer = 8.0;
-	var ffVer = 11.0;
-	var safariVer = 4.0;
-	var chromeVer = 8.0;
-</script>
+	
 
-<script type="text/javascript" src="/cart/assets/js/browser.min.js?ver=20180410_111105"></script>
-<script type="text/javascript" src="/cart/assets/js/browser.sniffer.js?ver=20180410_111105"></script>
-<!-- Browser Sniffer End -->
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-67729806-4', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
-
-<!-- Google Tag Manager -->
-<noscript>
-	<iframe src="//www.googletagmanager.com/ns.html?id=GTM-P24WBM"
-		height="0" width="0" style="display: none; visibility: hidden"></iframe>
-</noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-P24WBM');</script>
-<!-- End Google Tag Manager -->
-
-		<!--Page Container end-->
-	</body>
+</body>
+</body>
 </html>

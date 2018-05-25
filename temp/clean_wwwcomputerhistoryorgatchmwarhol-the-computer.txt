@@ -190,7 +190,7 @@ Hours and Admission
 
 
 
-                    30070                
+                    30190                
 
                     Follow Us
                 
@@ -202,7 +202,7 @@ Hours and Admission
 
 
 
-                    63614                
+                    64245                
 
                     Watch Us
                 
@@ -214,7 +214,7 @@ Hours and Admission
 
 
 
-                    3703                
+                    3734                
 
                     Follow Us
                 
@@ -305,8 +305,8 @@ October 05, 2012
 
 
 
-The Middleton Family at the New York World’s Fair, 1939
-March 13, 2013
+Simon’s J’s
+September 26, 2012
  3
 
 
@@ -321,49 +321,35 @@ March 13, 2013
 
 
 
+The Eudora™ Email Client Source Code
+2 days ago
+ 0
+
+
+
+
+
+
+
+
+
+
+
+Museum’s Oral Histories Tell Story of Japanese Hard Disk Drive Industry
+May 17, 2018
+ 0
+
+
+
+
+
+
+
+
+
+
+
 2018 CHM Fellow Awards
-1 day ago
- 0
-
-
-
-
-
-
-
-
-
-
-
-Building the Cathedral of Technology: The Fellow Awards at the Computer History Museum
-6 days ago
- 0
-
-
-
-
-
-
-
-
-
-
-
-2018 Museum Fellow Dov Frohman-Bentchkowsky: Silicon, Science, Memory & Survival
-2 weeks ago
- 0
-
-
-
-
-
-
-
-
-
-
-
-2018 Museum Fellow Dame Stephanie Shirley
 3 weeks ago
  0
 
@@ -377,8 +363,22 @@ Building the Cathedral of Technology: The Fellow Awards at the Computer History 
 
 
 
-2018 Museum Fellow Guido van Rossum, Python Creator & Benevolent Dictator for Life
+Building the Cathedral of Technology: The Fellow Awards at the Computer History Museum
 4 weeks ago
+ 0
+
+
+
+
+
+
+
+
+
+
+
+2018 Museum Fellow Dov Frohman-Bentchkowsky: Silicon, Science, Memory & Survival
+April 18, 2018
  0
 
 
@@ -559,7 +559,7 @@ Categories
  
 						From the Collection 
 					
-(52)
+(54)
 
 
 View More
@@ -568,7 +568,7 @@ View More
 Archives
  
 
-                    May 2018                    (1)
+                    May 2018                    (3)
 
 
 
@@ -1078,6 +1078,32 @@ RELATED ARTICLES
 
 
 
+The Eudora™ Email Client Source Code
+May 22, 2018
+
+
+
+
+
+
+
+
+
+
+
+Museum’s Oral Histories Tell Story of Japanese Hard Disk Drive Industry
+May 17, 2018
+
+
+
+
+
+
+
+
+
+
+
 The Shocking Truth Behind Arnold Nordsieck’s Differential Analyzer
 January 18, 2018
 
@@ -1093,32 +1119,6 @@ January 18, 2018
 
 In the Holiday Spirit: Festive Music by Computer!
 December 21, 2017
-
-
-
-
-
-
-
-
-
-
-
-Into the Archives: A Look Back with “Robotic Artist” Harold Cohen
-October 20, 2017
-
-
-
-
-
-
-
-
-
-
-
-Seymour Cray: The Man Who Brought Style to Supercomputers
-September 14, 2017
 
 
 

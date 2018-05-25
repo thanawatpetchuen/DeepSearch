@@ -144,16 +144,6 @@ googletag.enableServices();
             f.parentNode.insertBefore(j, f);
         })(window, document, 'script', 'dataLayer', 'GTM-B92N');
 
-
-(function (d) {
-    var apc = d.createElement('script'), fs;
-    apc.type = 'text/javascript';
-    apc.charset = 'UTF-8';
-    apc.async = true;
-    apc.src = 'https://a248.e.akamai.net/swordfishinc.download.akamai.com/145199/live/p/696/3b4ad0c4.js';
-    fs = d.getElementsByTagName('script')[0];
-    fs.parentNode.insertBefore(apc, fs);
-})(document);
 .layout { float: left;}aside#bottombar .ns-slider { padding: 10px 0; }.article-index #page_navigation { display: none;}@media (min-width: 530px) { /*========== When the latest news does not appear on the barrier==========*/ .barrier-menu.sticky-drop-down { top: 45px !important; }}@media screen and ( max-width: 1100px ) { /*#inarticle_wrapper_div { display: none !important; }*/ #ns-slider-ns_slider_headline_widget-112233 { display: none !important; }} 
 
         var ajaxurl = 'https://www.newscientist.com/wp-admin/admin-ajax.php';
@@ -318,24 +308,24 @@ Learn something new every day |  Subscribe and treat yourself to a FREE gift
 
 
 
-Identity crisis: When is a dinosaur not a dinosaur?
- As though extinction weren't enough, dinosaurs have also had to deal with doubts over their very existence, and the legitimacy of some of our favourite species
+Nine curious colours that shaped the history of art
+ From purple sea snail milk to arsenic green and a yellow made from urine, we’ve gone to bizarre lengths in our millennia-long quest to create the most vibrant shades
 
 
 
 
 
 
-The real palm oil problem: it's not just in your food
- Soaring demand for palm oil is being driven by its use as biofuel, which is increasing carbon emissions as well as destroying forests and biodiversity
+Minimally conscious people woken with brain zap by their family
+ Some people, who have been minimally conscious for years, could respond to questions from their loved ones for the first time after treatment with electricity
 
 
 
 
 
 
-The fake burger test: Could meat made of plants ever fool you?
- If you like meat, but don’t want a side of animal cruelty and environmental destruction, there’s something new on the menu – and it tastes surprisingly good
+There’s a new kind of superfood – and it’s not what you think
+ GM foods like good-gluten bread are going on sale, with a range of health benefits to tempt consumers. Will doubters be won over at last?
 
 
 
@@ -350,8 +340,8 @@ RECOMMENDED
                   Daily news              
 
 
-Alan Turing inspired a faster way to make seawater drinkable
-Computer pioneer Alan Turing’s only chemistry paper has inspired a new material that can remove salt from seawater five times faster than traditional filters
+Asteroid that killed the dinosaurs caused massive global warming
+The asteroid that struck Earth 66 million years ago caused dramatic climate change, which could mean we are underestimating how much the planet will warm in the coming centuries
 
 
  
@@ -362,8 +352,8 @@ Computer pioneer Alan Turing’s only chemistry paper has inspired a new materia
                   Daily news              
 
 
-Your bones contain crystals shaped like fingers and hands
-A blurry brown picture is the most detailed 3D image of bone ever produced. The model gives unique insight into the crystals inside our bones
+Uber self-driving car 'saw woman but didn't brake before crash'
+An autonomous Uber car spotted Elaine Herzberg about six seconds before fatally hitting her but did not stop because the emergency brakes were disabled, US federal investigators said today
 
 
  
@@ -374,8 +364,8 @@ A blurry brown picture is the most detailed 3D image of bone ever produced. The 
                   Daily news              
 
 
-People adapted to the cold and got more migraines as a result
-A gene variant that helps humans cope with colder climates also seems to have put people living in northerly regions at a higher risk of migraine
+Bulletproof batteries could make body armour for combat
+The US Air Force is developing bulletproof batteries to replace traditional armour. They are loaded with silica nanoparticles that become rigid upon impact
 
 
  
@@ -386,8 +376,8 @@ A gene variant that helps humans cope with colder climates also seems to have pu
                   Daily news              
 
 
-Stars from outside the Milky Way seen zooming through the galaxy
-We’ve seen two runaway stars hurtling through the galaxy at more than 700 kilometres per second, and dozens more going so fast they could escape the Milky Way
+Chimp evolution was shaped by sex with their bonobo relatives
+Some chimpanzee populations gained useful DNA from interbreeding with bonobos, and one may even have become more gentle and “bonobo-like” in its brain structure and behaviour
 
 
  
@@ -398,8 +388,8 @@ We’ve seen two runaway stars hurtling through the galaxy at more than 700 kil
                   Daily news              
 
 
-Flying beetle cyborgs guided with tiny battery-powered backpacks
-Beetles have been turned into autonomous flying robots. They could one day swarm through disaster zones on search and rescue missions
+Mystery ozone-destroying gases linked to badly recycled fridges
+Last week we learned a chemical that harms the ozone layer is being emitted in Asia – and now it seems sloppy recycling might be partly to blame
 
 
  
@@ -407,11 +397,11 @@ Beetles have been turned into autonomous flying robots. They could one day swarm
 
 
 
-                  Daily news              
+                  Comment              
 
 
-Mistletoe's cells are broken at a fundamental level
-All complex organisms rely on tiny nodules called mitochondria to supply their cells with energy – but mistletoe’s mitochondria don’t work and yet it survives
+How a change in tactics could help autism research
+For some, symptoms of autism can hamper their daily lives, but drugs to mitigate these have floundered during trials. Shafali Jeste has an idea of why
 
 
  
@@ -421,215 +411,215 @@ LATEST CHOICE
 
 
 
+                  Feature              
+
+
+Fixing planet plastic: How we'll really solve our waste problem
+From bag bans to bacterial mulchers, many solutions are touted for the plastic waste crisis. Find out which work – and which don't – in our definitive guide
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Brain implant for OCD surprisingly helps alleviate diabetes too
+A person who has a brain implant for OCD has had an unexpected side-effect: better blood sugar control. The finding reveals the brain has a role in diabetes
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Clouds of plasma let us zoom in on weird flashes from space
+Space plasma magnifies the light from a distant pulsar, letting us zoom in on features so small it’s like measuring the width of a hair on the surface of Mars
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Seafood-lovers have more sex and take less time to get pregnant
+Couples who eat seafood more than twice a week have more sex and get pregnant quicker, a study of 1000 people has found, although the reason why remains unclear
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+We may have got the evolution of our big brains entirely wrong
+Many scientists think that our big brains evolved to help us cope with the complexities of social living, but a model suggests it was more to do with finding food and lighting fires
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Men more likely to get diabetes if they have overweight wives
+In heterosexual relationships, only men are more likely to get diabetes when their partner has a high BMI – perhaps because of gender roles in the home
+
+
+ 
+ 
+
+
+
+                  Feature              
+
+
+Pink pineapples and healthy fries: The new GM foods made for you
+From health benefits to increased flavour and longer shelf-life, discover the new generation of GM foods designed with the consumer in mind
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Think you're fully alert? You can't always tell if you're tired
+How safe is it to drive when you haven’t had much sleep? Just like drinking alcohol, it turns out we’re not always a good judge of how mentally impaired we are
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+World's most-spoken languages may have arisen in ancient Iran
+About 3 billion people speak Indo-European languages like English and Hindustani, and it seems the first such tongue was spoken south of the Caucasus mountains
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Watch a badminton robot practice its game-winning trick shots
+A badminton robot could be the perfect sparring partner for pros. It has superhuman wrist speeds and has even mastered the tricky spin net shot
+
+
+ 
+ 
+
+
+
+                  Insight              
+
+
+Those GDPR emails should stop soon, but our data nightmare won't
+Your inbox is full of pleading emails because the EU’s new data rules come into force this week – but they might not actually do anything to improve your life
+
+
+ 
+ 
+
+
+
+                  Feature              
+
+
+How tech bugs could be killing thousands in our hospitals
+From falsely calculated drug doses to data-entry error, the true toll of medical IT glitches is only just becoming apparent – but there are obvious fixes
+
+
+ 
+ 
+
+
+
+                  Feature              
+
+
+Upend atom! We've found a whole new way of doing chemistry
+We thought we knew how molecules worked – but the discovery of an entirely unknown class of reactions has forced us to rethink the basics
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Changes in your sperm reveal if you’ve had a difficult life
+Men carry chemical clues to childhood traumas in their sperm, and these might be passed down to their sons – but we don’t know what effects these have yet
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Quantum stopwatch could be the best in the universe
+Storing time from a quantum stopwatch with qubits – instead of losing accuracy by stopping and starting it – could give us the ultimate precision in timekeeping
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+‘Impossible’ EM drive doesn’t seem to work after all
+A rocket engine propelled by electromagnetic waves grabbed headlines, but new tests find the EM drive may actually be driven by Earth’s magnetic field
+
+
+ 
+ 
+
+
+
+                  Daily news              
+
+
+Ape ‘midwives’ spotted helping female bonobos give birth
+When female bonobos went into labour, other females gathered around to keep them safe, swatting away flies and even seemingly trying to catch the baby as it emerged
+
+
+ 
+ 
+
+
+
                   Analysis              
 
 
-The UK's plan to build a rival GPS is a bonkers Brexit scheme
-Now the UK is excluded from contracts to build Europe’s Galileo satellites, it wants to talk up building its own system to keep aerospace firms from leaving
-
-
- 
- 
-
-
-
-                  Daily news              
-
-
-Smart people literally have bigger brain cells than the rest
-For the first time, IQ has been linked to neuron size and performance. The breakthrough could lead to new ways to enhance human intelligence
-
-
- 
- 
-
-
-
-                  Daily news              
-
-
-Magical regrowth: Kew Gardens opens revamped Temperate House
-Restoring the world’s largest Victorian glasshouse to its former architectural glory at the UK’s famous gardens has also reinvented it for the 21st century
-
-
- 
- 
-
-
-
-                  Daily news              
-
-
-Our understanding of the universe's expansion is really wrong
-Last week, the Gaia spacecraft released the best 3D map of our galaxy, which revealed scars in the Milky Way and deepened confusion about how fast the cosmos is expanding
-
-
- 
- 
-
-
-
-                  Comment              
-
-
-Why breast screening error stories are getting death stats wrong
-Headlines claim up to 270 women died as a result of missed breast checks due to an IT error. They are unlikely to be correct, says David Spiegelhalter
-
-
- 
- 
-
-
-
-                  Daily news              
-
-
-First US death due to romaine lettuce as E. coli outbreak widens
-The contaminated romaine lettuce that has spread illness across 25 states is now responsible for one death, and the source of the E. coli outbreak is still unknown
-
-
- 
- 
-
-
-
-                  Daily news              
-
-
-Cambridge Analytica has shut down amid ongoing data scandal
-Cambridge Analytica, the firm that harvested data from up to 87 million Facebook users without their knowledge, is declaring bankruptcy and closing up shop
-
-
- 
- 
-
-
-
-                  Comment              
-
-
-Are we deluding ourselves when we shop for eco-friendly stuff?
-A highly critical new report questions the worth of the sustainability logos that appear on many products. Are they still a force for good, wonders Fred Pearce
-
-
- 
- 
-
-
-
-                  Daily news              
-
-
-Colossal exoplanet has an enormous comet-like tail of helium
-A huge planet is losing its atmosphere in a stream trailing off its night side, and we’ve seen the first signs of helium on an exoplanet in its comet-like tail
-
-
- 
- 
-
-
-
-                  Daily news              
-
-
-Ancient humans in Philippines may have given rise to ‘hobbits’
-A butchered rhino found on the island of Luzon shows early humans were living in the Philippines 709,000 years ago, which may explain the origins of the diminutive Homo floresiensis
-
-
- 
- 
-
-
-
-                  Daily news              
-
-
-Quantum internet is one step closer thanks to new theory
-Encrypted quantum messages are limited by how far photons can stably pass through optical fibres, but they can now travel the distance between London and Paris
-
-
- 
- 
-
-
-
-                  Daily news              
-
-
-Brexit and Trump votes screwed with our heart rates for months
-A study of nearly 12,000 people wearing health monitoring devices shows how people’s biological rhythms fall out of sync after big political events
-
-
- 
- 
-
-
-
-                  Daily news              
-
-
-Inquiry launched into 450,000 missed breast cancer screenings
-A "colossal" computer error meant 450,000 women missed crucial breast cancer screening appointments, possibly resulting in hundreds of avoidable deaths
-
-
- 
- 
-
-
-
-                  Daily news              
-
-
-AI can predict your personality just by how your eyes move
-Shifty looks or wide pupils, our eyes give away clues to our personality - a discovery that could help robots better understand and interact with humans
-
-
- 
- 
-
-
-
-                  Daily news              
-
-
-Mediterranean diet delays Alzheimer's for three extra years
-Filling your diet with plants, fish and oil and limiting your intake of processed food may slow the build-up of amyloid plaque, delaying the onslaught of Alzheimer's
-
-
- 
- 
-
-
-
-                  Comment              
-
-
-A male pill will be a breakthrough for science but not for women
-Research is closing in on the elusive male contraceptive pill. But will it really lead to men taking more responsibility for birth control, wonders Lara Williams
-
-
- 
- 
-
-
-
-                  Analysis              
-
-
-North Korea's nuclear-free pledge comes with a massive catch
-Last week saw a historic meeting between the leaders of North and South Korea, but the promise of a nuclear-free Korean Peninsula may not be so easy
-
-
- 
- 
-
-
-
-                  Daily news              
-
-
-Giant sea spiders sit and wait for prey to knock themselves out
-Huge sea spiders move excruciatingly slowly, but they can still catch prey animals that move much faster than them – because their prey sometimes crash into the seafloor
+Why the UK’s plan to tackle air pollution is mostly hot air
+A ban on using polluting wet wood isn’t nearly enough to halt the rise in dangerous particulates from trendy wood burners
 
 
 
@@ -641,11 +631,11 @@ EDITOR'S CHOICE
 
 
 
-                  Feature              
+                  Daily news              
 
 
-Origin of our species: Why humans were once so much more diverse
-The idea that all humans evolved from a small population in East Africa turns out to be wrong. Our beginnings were far stranger and more colourful
+We've measured the pressure inside a proton and it's extreme
+The pressure inside a proton is a billion billion billion times the pressure in the Mariana Trench, and 10 times higher than in the core of a neutron star
 
 
 
@@ -658,22 +648,8 @@ The idea that all humans evolved from a small population in East Africa turns ou
                   Daily news              
 
 
-Women who eat more pasta tend to get menopause earlier
-Eating more white pasta and rice has been linked to reaching menopause a year or so earlier than average, while eating oily fish is linked to later menopause
-
-
-
-
-
- 
-
-
-
-                  Daily news              
-
-
-Lightning hit a woman's home and switched off her brain implant
-Doctors are warning that some people should change the way they recharge their brain implants, after a lightning strike shut down a woman’s stimulation device
+Cause of polycystic ovary syndrome discovered at last
+Polycystic ovary syndrome, which affects one in five women, seems to be caused by a hormonal imbalance. An IVF drug may fix this, and will be trialled soon
 
 
 
@@ -686,8 +662,22 @@ Doctors are warning that some people should change the way they recharge their b
                   Feature              
 
 
-The original social justice warrior who smashed stereotypes
-Margaret Mead’s 1920s solo trip to live among people in Samoa was just the start of a boundary-breaking and myth-demolishing career
+The origins of sexism: How men came to rule 12,000 years ago
+Human societies weren’t always male-dominated. The switch came when we became farmers – and that suggests ways to roll back towards a more equal system
+
+
+
+
+
+ 
+
+
+
+                  Classic Experiment              
+
+
+Deluded drivers: The startling discovery that changed psychology
+A 1960s survey of drivers hospitalised after accidents found that they still rated their skills as exceptional – and we all have similar blind spots
 
 
 
@@ -732,15 +722,15 @@ Advertisement
 
 Popular
  
-Horses remember if you smiled or frowned when they last saw you
+Cause of polycystic ovary syndrome discovered at last
 
 
 
-Smart people literally have bigger brain cells than the rest
+Half of life on Earth has vanished since we arrived on the scene
 
 
 
-Laser-sticker contacts could let you shoot beams from your eyes
+How your name shapes what other people think of your personality
 
 
 
@@ -758,7 +748,7 @@ Sponsored by
 
 
 
-The company investing its way to zero emission transport
+How better behaviour is helping to build better businesses
 
 
 
@@ -767,7 +757,7 @@ The company investing its way to zero emission transport
 
 
 
-Why better data laws will change the nature of business
+The hidden powerhouses that drive the UK economy
 
 
 
@@ -785,7 +775,7 @@ The flexible future of green energy
 
 
 
-The hidden powerhouses that drive the UK economy
+The flexible therapy that helps beat workplace stress
 
 
 
@@ -856,7 +846,9 @@ About us
 Who’s who
 Advertise with us
 Advertise jobs with us
-Privacy and terms
+Terms and Conditions
+Privacy Policy
+Cookies Policy
 Write for us
 Science jobs
 Shop
@@ -980,11 +972,7 @@ var addthis_share = {};
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-<<<<<<< HEAD
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=9&cb=112191393';
-=======
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=8&cb=1359108661';
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=8&cb=1774211420';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>

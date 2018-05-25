@@ -22,49 +22,8 @@ import re
 import time
 from operator import itemgetter
 import dill
-
-class Worker(QObject):
-    """
-    Must derive from QObject in order to emit signals, connect slots to other signals, and operate in a QThread.
-    """
-
-    sig_step = pyqtSignal(int, str)  # worker id, step description: emitted every step through work() loop
-    sig_done = pyqtSignal(int)  # worker id: emitted at end of work()
-    sig_msg = pyqtSignal(str)  # message to be shown to user
-
-    def __init__(self, id: int):
-        super().__init__()
-        self.__id = id
-        self.__abort = False
-
-    @pyqtSlot()
-    def work(self):
-        """
-        Pretend this worker method does work that takes a long time. During this time, the thread's
-        event loop is blocked, except if the application's processEvents() is called: this gives every
-        thread (incl. main) a chance to process events, which in this sample means processing signals
-        received from GUI (such as abort).
-        """
-        thread_name = QThread.currentThread().objectName()
-        thread_id = int(QThread.currentThreadId())  # cast to int() is necessary
-        self.sig_msg.emit('Running worker #{} from thread "{}" (#{})'.format(self.__id, thread_name, thread_id))
-
-        for step in range(100):
-            time.sleep(0.1)
-            self.sig_step.emit(self.__id, 'step ' + str(step))
-
-            # check if we need to abort the loop; need to process events to receive signals;
-            app.processEvents()  # this could cause change to self.__abort
-            if self.__abort:
-                # note that "step" value will not necessarily be same for every thread
-                self.sig_msg.emit('Worker #{} aborting work at step {}'.format(self.__id, step))
-                break
-
-        self.sig_done.emit(self.__id)
-
-    def abort(self):
-        self.sig_msg.emit('Worker #{} notified to abort'.format(self.__id))
-        self.__abort = True
+from multiprocessing import Pool
+from threading import Thread, Event
 
 
 class wordCount:
@@ -179,7 +138,7 @@ class Ui_MainWindow(object):
         self.tab_3.setObjectName("tab_3")
         self.gridLayout = QtWidgets.QGridLayout(self.tab_3)
         self.gridLayout.setObjectName("gridLayout")
-        self.log = QtWidgets.QListWidget(self.tab_3)
+        self.log = QTextEdit(self.tab_3)
         self.log.setObjectName("listWidget")
         # form_layout.addWidget(self.log)
         self.gridLayout.addWidget(self.log, 2, 0, 1, 3)
@@ -198,10 +157,14 @@ class Ui_MainWindow(object):
         self.gridLayout.addWidget(self.pushButton_4, 0, 7, 1, 1)
         self.lineEdit = QtWidgets.QLineEdit(self.tab_3)
         self.lineEdit.setObjectName("lineEdit")
-        self.gridLayout.addWidget(self.lineEdit, 0, 1, 1, 1)
+        self.gridLayout.addWidget(self.lineEdit, 0, 0, 1, 1)
         self.lineEdit_2 = QtWidgets.QLineEdit(self.tab_3)
         self.lineEdit_2.setObjectName("lineEdit_2")
         self.gridLayout.addWidget(self.lineEdit_2, 0, 4, 1, 1)
+        self.progessBar = QtWidgets.QProgressBar(self.tab_3)
+        self.progessBar.setProperty('value', 0)
+        self.progessBar.setObjectName("progessBar")
+        self.gridLayout.addWidget(self.progessBar, 3, 0, 1, 1)
         self.tabWidget.addTab(self.tab_3, "")
         self.verticalLayout.addWidget(self.tabWidget)
         MainWindow.setCentralWidget(self.centralwidget)
@@ -222,49 +185,71 @@ class Ui_MainWindow(object):
         self.menuFiles.addAction(self.actionSave)
         self.menubar.addAction(self.menuFiles.menuAction())
 
+
+
         self.retranslateUi(MainWindow)
         self.tabWidget.setCurrentIndex(0)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
-        QThread.currentThread().setObjectName('main')  # threads can be named, useful for log output
-        self.__workers_done = None
-        self.__threads = None
 
     def updateText(self, arg):
-        return self.log.addItems(arg)
+        return self.log.append(arg)
 
     def retranslateUi(self, MainWindow):
-        _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
-        self.pushButton_3.setText(_translate("MainWindow", "Search"))
+        self._translate = QtCore.QCoreApplication.translate
+        MainWindow.setWindowTitle(self._translate("MainWindow", "MainWindow"))
+        self.pushButton_3.setText(self._translate("MainWindow", "Search"))
         self.pushButton_3.clicked.connect(self.Search1)
         # form_layout.addWidget(self.pushButton_3)
-        self.pushButton.setText(_translate("MainWindow", "Pause"))
-        # self.pushButton.clicked.connect(self.abort_workers)
+        self.pushButton.setText(self._translate("MainWindow", "Pause"))
+        self.pushButton.clicked.connect(self.stopThread)
         # self.button_stop_threads.setDisabled(True)
-        self.pushButton_4.setText(_translate("MainWindow", "Search"))
-        self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_3), _translate("MainWindow", "Tab 1"))
-        self.menuFiles.setTitle(_translate("MainWindow", "Files"))
-        self.actionOpen.setText(_translate("MainWindow", "Open"))
-        self.actionSave.setText(_translate("MainWindow", "Save"))
+        self.pushButton_4.setText(self._translate("MainWindow", "Search"))
+        self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_3), self._translate("MainWindow", "Tab 1"))
+        self.menuFiles.setTitle(self._translate("MainWindow", "Files"))
+        self.actionOpen.setText(self._translate("MainWindow", "Open"))
+        self.actionSave.setText(self._translate("MainWindow", "Save"))
         # self.pushButton_3.clicked.connect(self.Search1)
 
 
+    def continueThread(self):
+        self.stop = True
+        if self.stop:
+            try:
+                self.p = Thread(target=self.myFunction, args=(self.veryLastlink, ))
+                self.p.start()
+                # self._event.set()
+                self.pushButton.setText(self._translate("MainWindow", "Pause"))
+                self.pushButton.clicked.disconnect(self.continueThread)
+                self.pushButton.clicked.connect(self.stopThread)
+                print('Started')
+            except:
+                pass
 
     def Search1(self):
-        rawURL = self.lineEdit.text()
-        if rawURL != '':
-            if self.checkURL(rawURL):
+        self.rawURL = str(self.lineEdit.text())
+        print(self.rawURL)
+        if self.rawURL != '':
+            if self.checkURL(self.rawURL):
                 print("Seach1 ------ Activated !")
-                self.search1Activaing(rawURL)
+                self.search1Activaing(self.rawURL)
                 print('https://en.wikipedia.org/wiki/Computer')
             else:
                 print("Wrong URL !!!! ")
 
     def search1Activaing(self, url):
         # QApplication.processEvents()
-        myFunction(url)
-        print('1')
+        self.stop = False
+        self.pool = Pool(5)
+        try:
+            if not self.stop:
+                self.continueThread()
+                self.p = Thread(target=self.getHTML, args=(url,))
+                self.p.start()
+
+        except:
+            pass
+
 
     def checkURL(self,url):
         regex = re.compile(
@@ -277,149 +262,123 @@ class Ui_MainWindow(object):
 
         return re.match(regex, url) is not None  # True
 
-    def start_threads(self):
-        print('1')
-        self.log.append('starting {} threads'.format(self.NUM_THREADS))
-        print('1')
-        self.pushButton_3.setDisabled(True)
-        print('1')
-        self.pushButton.setEnabled(True)
-        print('1')
+    def stopThread(self):
+        self.history = []
+        self.stop = True
+        self.pool.terminate()
+        self.pool.join()
+        self.p.join(timeout=5)
+        self.pushButton.setText(self._translate("MainWindow", "Start"))
+        self.pushButton.clicked.disconnect()
+        self.pushButton.clicked.connect(self.continueThread)
+        # self.pushButton_4.clicked.connect(self.continueThread)
+        print("Stopped")
 
-        self.__workers_done = 0
-        self.__threads = []
-        for idx in range(self.NUM_THREADS):
-            print('1')
-            worker = Worker(idx)
-            thread = QThread()
-            thread.setObjectName('thread_' + str(idx))
-            self.__threads.append((thread, worker))  # need to store worker too otherwise will be gc'd
-            worker.moveToThread(thread)
-            print('2')
+
+    def update_percent(self, temp, p):
+        return (p / int(len(temp))) * 100
+
+    def getHTML(self, arg):
+        self.url = arg
+        # # url = 'https://en.wikipedia.org/wiki/Computer'
+        self.html = htmlparser(self.url, '{}.txt'.format(
+            self.url.split('//')[-1].replace('/', '').replace('.', '').replace('=', '').replace('?', '')))
+        self.html.setup()
+        # print(html)
+        # print(html.setup)
+        # print('1234568')
+        self.html_dict = dict()
+        self.temp = self.html.beauiful_soup()
+        # print('1234568')
+        # print(temp)
+        # print(len(temp))
+        self.temp = self.temp[0:100]
+        self.myFunction(self.temp)
+
+    def myFunction(self, linkList):
+
+        self.tree = Tree()
+        self.links = linkList
+        self.stop = False
+        self.temp3 = self.temp
+        self.currentlyLink = []
+        # temp = temp[0ซ100]
+        print('1234568')
+        self.percent = 0
+        print("Percent: {}%".format(self.update_percent(self.links, self.percent)))
+        print('1234568')
+        self.tree.create_node("Root", "root", data={'related_link': self.links, 'count': self.html.Count2()})
+        # print(tree, 'newdea')
+        # print(html.Count2())
+        for link in self.links:
             try:
-            # get progress messages from worker:
-                worker.sig_step.connect(self.on_worker_step)
-                print('1')
-                worker.sig_done.connect(self.on_worker_done)
-                print('1')
-                worker.sig_msg.connect(self.log.append)
-            except:
-                print("=======FROM Inner Combobox=======")
-                print(sys.exc_info()[0], sys.exc_info()[1])
-                print("=================================")
-
-            # control worker:
-            self.sig_abort_workers.connect(worker.abort)
-            # get read to start worker:
-            # self.sig_start.connect(worker.work)  # needed due to PyCharm debugger bug (!); comment out next line
-            thread.started.connect(worker.work)
-            thread.start()  # this will emit 'started' and start thread's event loop
-
-            # self.sig_start.emit()  # needed due to PyCharm debugger bug (!)
-
-    @pyqtSlot(int, str)
-    def on_worker_step(self, worker_id: int, data: str):
-        self.log.append('Worker #{}: {}'.format(worker_id, data))
-        self.progress.append('{}: {}'.format(worker_id, data))
-
-    @pyqtSlot(int)
-    def on_worker_done(self, worker_id):
-        self.log.append('worker #{} done'.format(worker_id))
-        self.progress.append('-- Worker {} DONE'.format(worker_id))
-        self.__workers_done += 1
-        if self.__workers_done == self.NUM_THREADS:
-            self.log.append('No more workers active')
-            self.button_start_threads.setEnabled(True)
-            self.button_stop_threads.setDisabled(True)
-            # self.__threads = None
-
-    @pyqtSlot()
-    def abort_workers(self):
-        self.sig_abort_workers.emit()
-        self.log.append('Asking each worker to abort')
-        for thread, worker in self.__threads:  # note nice unpacking by Python, avoids indexing
-            thread.quit()  # this will quit **as soon as thread event loop unblocks**
-            thread.wait()  # <- so you need to wait for it to *actually* quit
-
-        # even though threads have exited, there may still be messages on the main thread's
-        # queue (messages that threads emitted before the abort):
-        self.log.append('All threads exited')
-
-def update_percent(temp, p):
-    return (p/int(len(temp)))*100
-
-def myFunction(arg):
-    url = arg
-    # url = 'https://en.wikipedia.org/wiki/Computer'
-    html = htmlparser(url, '{}.txt'.format(
-        url.split('//')[-1].replace('/', '').replace('.', '').replace('=', '').replace('?', '')))
-    html.setup()
-    html_dict = dict()
-    temp = html.beauiful_soup()
-    tree = Tree()
-
-    # print(len(temp))
-    temp = temp[0:5]
-    temp = temp[0:50]
-    percent = 0
-    print("Percent: {}%".format(update_percent(temp, percent)))
-
-    tree.create_node("Root", "root", data={'related_link': temp, 'count': html.Count2()})
-    print(tree, 'newdea')
-    # print(html.Count2())
-    MW = QtWidgets.QMainWindow()
-    ui = Ui_MainWindow(MainWindow)
-    for link in temp:
-        try:
-            QApplication.processEvents()
-            time.sleep(1)
-            print(link)
-            ui.updateText(str(link))
-            html_temp = htmlparser(link, '{}.txt'.format(
-                link.split('//')[-1].replace('/', '').replace('.', '').replace('=', '').replace('?', '')))
-            html_temp.setup()
-            bs_html = html_temp.beauiful_soup()
-            html_dict[link] = [bs_html, html_temp.Count2()]
-            tree.create_node(link, link, parent='root', data={'related_link': bs_html, 'count': html_temp.Count2()})
-            if len(bs_html) > 0:
-                for link2 in bs_html:
-                    html_temp2 = htmlparser(link2, '{}.txt'.format(
+                if not self.stop:
+                    self.currentlyLink.append(link)
+                    # QApplication.processEvents()
+                    # time.sleep(1)
+                    # print(link)
+                    self.updateText(link)
+                    print(link)
+                    html_temp = htmlparser(link, '{}.txt'.format(
                         link.split('//')[-1].replace('/', '').replace('.', '').replace('=', '').replace('?', '')))
-                    html_temp2.setup()
-                    bs_html2 = html_temp2.beauiful_soup()
-                    tree.create_node(link2, link2, parent=link,
-                                     data={'related_link': bs_html2, 'count': html_temp2.Count2()})
-            # print(bs_html)
+                    print(link)
+                    html_temp.setup()
+                    bs_html = html_temp.beauiful_soup()
+                    self.html_dict[link] = [bs_html, html_temp.Count2()]
+                    self.tree.create_node(link, link, parent='root', data={'related_link': bs_html, 'count': html_temp.Count2()})
+                    if len(bs_html) > 0:
+                        for link2 in bs_html:
+                            html_temp2 = htmlparser(link2, '{}.txt'.format(
+                                link.split('//')[-1].replace('/', '').replace('.', '').replace('=', '').replace('?', '')))
+                            html_temp2.setup()
+                            bs_html2 = html_temp2.beauiful_soup()
+                            self.tree.create_node(link2, link2, parent=link,
+                                             data={'related_link': bs_html2, 'count': html_temp2.Count2()})
+                    print(bs_html)
 
-            percent += 1
-            print("Percent: {}%".format(update_percent(temp, percent)))
-            tree.show()
-        except:
-            percent += 1
-            print("Percent: {}%".format(update_percent(temp, percent)))
-            print(sys.exc_info())
+                    self.percent += 1
+                    self.pB = self.update_percent(self.links, self.percent)
+                    print("Percent: {}%".format(self.pB))
+                    self.progessBar.setValue(self.pB)
+                    self.tree.show()
 
-    f = open('final.txt', 'w+', encoding='utf-8')
-    f.write(str(html_dict))
-    f.close()
-    # print(html_dict)
-    print(tree.to_json(with_data=True))
-    tree.show()
+            except:
+                self.percent += 1
+                self.pB = self.update_percent(self.links, self.percent)
+                print("Percent: {}%".format(self.pB))
+                self.progessBar.setValue(self.pB)
+                print(sys.exc_info())
 
-    start = time.time()
-    temp_tree = [{'link': tree[node].tag, 'count': tree[node].data['count']['computer']} for node in
-                 tree.expand_tree(mode=tree.ZIGZAG)
-                 if (tree[node].data is not None)]
-    stop = time.time()
-    print(tree['root'].data)
-    print(temp_tree)
-    newlist = sorted(temp_tree, key=itemgetter('count'), reverse=True)
-    print("Total time: {}s".format(stop - start))
-    print(newlist)
-    with open('result/tree.json', 'w+') as fs:
-        fs.write(tree.to_json(with_data=True))
-    tree.save2file('result/tree.txt')
-    print("SUCCESS, Percent: {}%".format(update_percent(temp, percent)))
+        print(self.currentlyLink)
+        self.veryLastlink = [elem for elem in self.temp3 if elem not in self.currentlyLink]
+        print(self.veryLastlink)
+        self.history.append(self.tree)
+
+        # self.lastLink()
+
+    def writeFile(self):
+        f = open('final.txt', 'w+', encoding='utf-8')
+        f.write(str(self.html_dict))
+        f.close()
+        # print(html_dict)
+        print(self.tree.to_json(with_data=True))
+        self.tree.show()
+
+        start = time.time()
+        temp_tree = [{'link': self.tree[node].tag, 'count': self.tree[node].data['count']['computer']} for node in
+                     self.tree.expand_tree(mode=self.tree.ZIGZAG)
+                     if (tree[node].data is not None)]
+        stop = time.time()
+        print(self.tree['root'].data)
+        print(temp_tree)
+        newlist = sorted(temp_tree, key=itemgetter('count'), reverse=True)
+        print("Total time: {}s".format(stop - start))
+        print(newlist)
+        with open('result/tree.json', 'w+') as fs:
+            fs.write(self.tree.to_json(with_data=True))
+        self.tree.save2file('result/tree.txt')
+        print("SUCCESS, Percent: {}%".format(self.update_percent(self.temp, self.percent)))
+
 
 if __name__ == "__main__":
     import sys

@@ -93,7 +93,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="msapplication-TileImage" content="https://cdn.prod.internetsociety.org/wp-content/uploads/2017/09/cropped-ISOC-Symbol-Ground-navy-690px-1-270x270.jpg" />
 
 </head>
-<body class="archive post-type-archive post-type-archive-events events-isocplenipot-2018">
+<body class="archive post-type-archive post-type-archive-events events-tnc18-intelligent-networks-cool-edges">
 	
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5LKZWMW"
@@ -176,7 +176,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="sub-menu-wrapper"><div class="sub-menu-inner"><ul class="sub-menu menu-depth-1">
 	<li id="menu-item-3108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3108"><a href="https://www.internetsociety.org/news/">News</a>
 	<ul class="sub-menu menu-depth-2">
-		<li id="menu-item-30393" class="menu-item menu-item-type-taxonomy menu-item-object-news_type menu-item-30393"><a href="https://www.internetsociety.org/news/press-releases/">Press Releases</a></li>		<li id="menu-item-30394" class="menu-item menu-item-type-taxonomy menu-item-object-news_type menu-item-30394"><a href="https://www.internetsociety.org/news/in-the-news/">Internet Society in the news</a></li>		<li id="menu-item-2152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2152"><a href="/blog">Blog</a></li>		<li id="menu-item-60721" class="menu-item menu-item-type-taxonomy menu-item-object-news_type menu-item-60721"><a href="https://www.internetsociety.org/news/statements/">Statements</a></li>		<li id="menu-item-60720" class="menu-item menu-item-type-taxonomy menu-item-object-news_type menu-item-60720"><a href="https://www.internetsociety.org/news/speeches/">Speeches</a></li>	</ul>
+		<li id="menu-item-30393" class="menu-item menu-item-type-taxonomy menu-item-object-news_type menu-item-30393"><a href="https://www.internetsociety.org/news/press-releases/">Press Releases</a></li>		<li id="menu-item-30394" class="menu-item menu-item-type-taxonomy menu-item-object-news_type menu-item-30394"><a href="https://www.internetsociety.org/news/in-the-news/">Internet Society in the news</a></li>		<li id="menu-item-2152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2152"><a href="/blog/">Blog</a></li>		<li id="menu-item-60721" class="menu-item menu-item-type-taxonomy menu-item-object-news_type menu-item-60721"><a href="https://www.internetsociety.org/news/statements/">Statements</a></li>		<li id="menu-item-60720" class="menu-item menu-item-type-taxonomy menu-item-object-news_type menu-item-60720"><a href="https://www.internetsociety.org/news/speeches/">Speeches</a></li>	</ul>
 </li>	<li id="menu-item-9105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9105"><a href="/news/">For journalists:</a>
 	<ul class="sub-menu menu-depth-2">
 		<li id="menu-item-2807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2807"><a href="https://www.internetsociety.org/media-resources/">Media center</a></li>	</ul>
@@ -264,11 +264,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<li class="featured-item">
 							<div class="item-inner">
 																	<div class="image-wrapper">
-										<a href="https://www.internetsociety.org/events/africa-internet-summit/2018/"><img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/03/logowebsite.png" title="logowebsite" alt="logowebsite" /><span class="sr-only">Africa Internet Summit (AIS) 2018</span></a>
+										<a href="https://www.internetsociety.org/events/tf-csirt-2018/"><img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/05/logo-1.png" title="GEANT logo" alt="GEANT logo" /><span class="sr-only">TF-CSIRT 2018: Task Force on Computer Security Incident Response Teams</span></a>
 									</div>
 																<div class="feature-item-info row-text-black align-left">
-	                                <span class="eyebrow">Dakar, Senegal</span>
-									<span class="eyebrow eyebrow-regular">Sunday 29 April 2018</span>									<p class="small-text"><a href="https://www.internetsociety.org/events/africa-internet-summit/2018/">Africa Internet Summit (AIS) 2018</a></p>
+	                                <span class="eyebrow">Poland</span>
+									<span class="eyebrow eyebrow-regular">Thursday 24 May 2018</span>									<p class="small-text"><a href="https://www.internetsociety.org/events/tf-csirt-2018/">TF-CSIRT 2018: Task Force on Computer Security Incident Response Teams</a></p>
+								</div>
+							</div>
+						</li>
+										<li class="featured-item">
+							<div class="item-inner">
+																	<div class="image-wrapper">
+										<a href="https://www.internetsociety.org/events/eurodig-2018/"><img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/05/Tbilisi_quer_EuroDIG_2018_title.jpg" title="Tbilisi_quer_EuroDIG_2018_title" alt="Tbilisi_quer_EuroDIG_2018_title" /><span class="sr-only">EuroDIG 2018</span></a>
+									</div>
+																<div class="feature-item-info row-text-black align-left">
+	                                <span class="eyebrow">Tbilisi, Georgia</span>
+									<span class="eyebrow eyebrow-regular">Tuesday 05 June 2018</span>									<p class="small-text"><a href="https://www.internetsociety.org/events/eurodig-2018/">EuroDIG 2018</a></p>
 								</div>
 							</div>
 						</li>
@@ -340,142 +351,115 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="feed loadable" data-taxonomy="region_news_regions" data-post-parent="0" data-region="" data-order="ASC" data-orderby="meta_value" data-search="" data-meta="" data-post-count="12" data-cat-exclude="" data-this-post="" data-category="" data-post-type="events" data-author="" data-post-parent="" data-event-time="future">
             <div class="grid-sizer"></div>
             <div class="gutter-sizer"></div>
-                                            <div class="feed-item load-item" data-max-pages="1" data-post-id="76021">
-                    <a class="feed-link" href="https://www.internetsociety.org/events/africa-internet-summit/2018/">Africa Internet Summit (AIS) 2018</a>
+                                            <div class="feed-item load-item" data-max-pages="2" data-post-id="78980">
+                    <a class="feed-link" href="https://www.internetsociety.org/events/tf-csirt-2018/">TF-CSIRT 2018: Task Force on Computer Security Incident Response Teams</a>
                     <div class="feed-item-info row-text-black align-left">
                             <div class="feed-date">
                                                                     <div class="feed-date-inner">
-                                        <span>29</span>
-                                        April                                    </div>
-                                                            </div>
-                        
-                            <div class="feed-content">
-                                <div class="date-location">
-                                    <span class="eyebrow">Dakar, Senegal</span>                                                                            <span class="eyebrow eyebrow-regular">Sunday 29 April 2018 &ndash; Friday 11 May 2018</span>
-                                                                    </div>
-                                <div class="feed-logo mobile">
-                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/03/logowebsite.png" title="logowebsite" title="logowebsite" />
-                                </div>
-                                <div class="title-excerpt">
-                                    <h3 class="headline5">Africa Internet Summit (AIS) 2018</h3>
-                                    <p class="small-text">The Africa Internet Summit (AIS) is an annual, regional, multistakeholder ICT conference.</p>
-                                </div>
-
-                            </div>
-                            <div class="feed-logo desktop">
-                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/03/logowebsite.png" alt="logowebsite" title="logowebsite" />
-                            </div>
-                    </div>
-                </div>
-                                            <div class="feed-item load-item" data-max-pages="1" data-post-id="76619">
-                    <a class="feed-link" href="https://www.internetsociety.org/events/lacnic-29/">LACNIC 29</a>
-                    <div class="feed-item-info row-text-black align-left">
-                            <div class="feed-date">
-                                                                    <div class="feed-date-inner">
-                                        <span>30</span>
-                                        April                                    </div>
-                                                            </div>
-                        
-                            <div class="feed-content">
-                                <div class="date-location">
-                                    <span class="eyebrow">Panama</span>                                                                            <span class="eyebrow eyebrow-regular">Monday 30 April 2018 &ndash; Friday 04 May 2018</span>
-                                                                    </div>
-                                <div class="feed-logo mobile">
-                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/03/logo.png" title="logo" title="logo" />
-                                </div>
-                                <div class="title-excerpt">
-                                    <h3 class="headline5">LACNIC 29</h3>
-                                    <p class="small-text">LACNIC 29 is one of the most important Internet events in Latin America and the Caribbean that brings together experts...</p>
-                                </div>
-
-                            </div>
-                            <div class="feed-logo desktop">
-                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/03/logo.png" alt="logo" title="logo" />
-                            </div>
-                    </div>
-                </div>
-                                            <div class="feed-item load-item" data-max-pages="1" data-post-id="78150">
-                    <a class="feed-link" href="https://www.internetsociety.org/events/ripe-76/">RIPE 76</a>
-                    <div class="feed-item-info row-text-black align-left">
-                            <div class="feed-date">
-                                                                    <div class="feed-date-inner">
-                                        <span>14</span>
+                                        <span>24</span>
                                         May                                    </div>
                                                             </div>
                         
                             <div class="feed-content">
                                 <div class="date-location">
-                                    <span class="eyebrow">Marseille, France</span>                                                                            <span class="eyebrow eyebrow-regular">Monday 14 May 2018 &ndash; Friday 18 May 2018</span>
+                                    <span class="eyebrow">Poland</span>                                                                            <span class="eyebrow eyebrow-regular">Thursday 24 May 2018 &ndash; Friday 25 May 2018</span>
                                                                     </div>
                                 <div class="feed-logo mobile">
-                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/04/RIPE-76.png" title="RIPE-76" title="RIPE-76" />
+                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/05/logo-1.png" title="GEANT logo" title="GEANT logo" />
                                 </div>
                                 <div class="title-excerpt">
-                                    <h3 class="headline5">RIPE 76</h3>
-                                    <p class="small-text">RIPE 76 will take place at Palais du Pharo in Marseille, France from 14-18 May, 2018.</p>
+                                    <h3 class="headline5">TF-CSIRT 2018: Task Force on Computer Security Incident Response Teams</h3>
+                                    <p class="small-text">Routing security is vital to the future and stability of the Internet, and the global MANRS initiative implements the crucial...</p>
                                 </div>
 
                             </div>
                             <div class="feed-logo desktop">
-                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/04/RIPE-76.png" alt="RIPE-76" title="RIPE-76" />
+                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/05/logo-1.png" alt="GEANT logo" title="GEANT logo" />
                             </div>
                     </div>
                 </div>
-                                            <div class="feed-item load-item" data-max-pages="1" data-post-id="78157">
-                    <a class="feed-link" href="https://www.internetsociety.org/events/9th-annual-iot-european-summit/">9th Annual IoT European Summit</a>
+                                            <div class="feed-item load-item" data-max-pages="2" data-post-id="78985">
+                    <a class="feed-link" href="https://www.internetsociety.org/events/eurodig-2018/">EuroDIG 2018</a>
                     <div class="feed-item-info row-text-black align-left">
                             <div class="feed-date">
                                                                     <div class="feed-date-inner">
-                                        <span>15</span>
-                                        May                                    </div>
+                                        <span>05</span>
+                                        June                                    </div>
                                                             </div>
                         
                             <div class="feed-content">
                                 <div class="date-location">
-                                    <span class="eyebrow">Brussels, Belgium</span>                                                                            <span class="eyebrow eyebrow-regular">Tuesday 15 May 2018 &ndash; Wednesday 16 May 2018</span>
+                                    <span class="eyebrow">Tbilisi, Georgia</span>                                                                            <span class="eyebrow eyebrow-regular">Tuesday 05 June 2018 &ndash; Wednesday 06 June 2018</span>
                                                                     </div>
                                 <div class="feed-logo mobile">
-                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/04/iotEU.jpg" title="iotEU" title="iotEU" />
+                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/05/Tbilisi_quer_EuroDIG_2018_title.jpg" title="Tbilisi_quer_EuroDIG_2018_title" title="Tbilisi_quer_EuroDIG_2018_title" />
                                 </div>
                                 <div class="title-excerpt">
-                                    <h3 class="headline5">9th Annual IoT European Summit</h3>
-                                    <p class="small-text">The Internet of Things European Summit is the leading event focusing on the current policy and industry developments affecting the...</p>
+                                    <h3 class="headline5">EuroDIG 2018</h3>
+                                    <p class="small-text">The next EuroDIG will take place on 5 – 6 June 2018 (plus day zero) in Tbilisi in Georgia, in Rooms Hotel. It...</p>
                                 </div>
 
                             </div>
                             <div class="feed-logo desktop">
-                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/04/iotEU.jpg" alt="iotEU" title="iotEU" />
+                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/05/Tbilisi_quer_EuroDIG_2018_title.jpg" alt="Tbilisi_quer_EuroDIG_2018_title" title="Tbilisi_quer_EuroDIG_2018_title" />
                             </div>
                     </div>
                 </div>
-                                            <div class="feed-item load-item" data-max-pages="1" data-post-id="76708">
-                    <a class="feed-link" href="https://www.internetsociety.org/events/rightscon-toronto/">RightsCon Toronto</a>
+                                            <div class="feed-item load-item" data-max-pages="2" data-post-id="79685">
+                    <a class="feed-link" href="https://www.internetsociety.org/events/g7-summit/">2018 G7 Summit</a>
                     <div class="feed-item-info row-text-black align-left">
                             <div class="feed-date">
                                                                     <div class="feed-date-inner">
-                                        <span>16</span>
-                                        May                                    </div>
+                                        <span>08</span>
+                                        June                                    </div>
                                                             </div>
                         
                             <div class="feed-content">
                                 <div class="date-location">
-                                    <span class="eyebrow">Toronto, Canada</span>                                                                            <span class="eyebrow eyebrow-regular">Wednesday 16 May 2018 &ndash; Friday 18 May 2018</span>
+                                    <span class="eyebrow">Quebec, Canada</span>                                                                            <span class="eyebrow eyebrow-regular">Friday 08 June 2018 &ndash; Saturday 09 June 2018</span>
                                                                     </div>
                                 <div class="feed-logo mobile">
-                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/03/rightscon.logo_.jpg" title="rightscon.logo" title="rightscon.logo" />
+                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/05/2018_G7_Logo_CYMK.jpg" title="2018_G7_Logo_CYMK" title="2018_G7_Logo_CYMK" />
                                 </div>
                                 <div class="title-excerpt">
-                                    <h3 class="headline5">RightsCon Toronto</h3>
-                                    <p class="small-text">The seventh edition of RightsCon, the world’s leading event on human rights in the digital age, will take place from 16-18...</p>
+                                    <h3 class="headline5">2018 G7 Summit</h3>
+                                    <p class="small-text">The 2018 G7 Summit is being hosted by Canada in Charlevoix, Quebec, from June 8-9.</p>
                                 </div>
 
                             </div>
                             <div class="feed-logo desktop">
-                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/03/rightscon.logo_.jpg" alt="rightscon.logo" title="rightscon.logo" />
+                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/05/2018_G7_Logo_CYMK.jpg" alt="2018_G7_Logo_CYMK" title="2018_G7_Logo_CYMK" />
                             </div>
                     </div>
                 </div>
-                                            <div class="feed-item load-item" data-max-pages="1" data-post-id="76804">
+                                            <div class="feed-item load-item" data-max-pages="2" data-post-id="79700">
+                    <a class="feed-link" href="https://www.internetsociety.org/events/tnc18/">TNC18 &#8211; Intelligent networks, cool edges?</a>
+                    <div class="feed-item-info row-text-black align-left">
+                            <div class="feed-date">
+                                                                    <div class="feed-date-inner">
+                                        <span>10</span>
+                                        June                                    </div>
+                                                            </div>
+                        
+                            <div class="feed-content">
+                                <div class="date-location">
+                                    <span class="eyebrow">Trondheim, Norway</span>                                                                            <span class="eyebrow eyebrow-regular">Sunday 10 June 2018 &ndash; Thursday 14 June 2018</span>
+                                                                    </div>
+                                <div class="feed-logo mobile">
+                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/05/tnc18.jpg" title="tnc18" title="tnc18" />
+                                </div>
+                                <div class="title-excerpt">
+                                    <h3 class="headline5">TNC18 &#8211; Intelligent networks, cool edges?</h3>
+                                    <p class="small-text">Routing security is vital to the future and stability of the Internet, and the global MANRS initiative implements the crucial...</p>
+                                </div>
+
+                            </div>
+                            <div class="feed-logo desktop">
+                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/05/tnc18.jpg" alt="tnc18" title="tnc18" />
+                            </div>
+                    </div>
+                </div>
+                                            <div class="feed-item load-item" data-max-pages="2" data-post-id="76804">
                     <a class="feed-link" href="https://www.internetsociety.org/events/2018-african-chapters-advocacy-meeting/">2018 African Chapters&#8217; Advocacy Meeting</a>
                     <div class="feed-item-info row-text-black align-left">
                             <div class="feed-date">
@@ -502,7 +486,88 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                     </div>
                 </div>
-                                            <div class="feed-item load-item" data-max-pages="1" data-post-id="77554">
+                                            <div class="feed-item load-item" data-max-pages="2" data-post-id="79277">
+                    <a class="feed-link" href="https://www.internetsociety.org/events/internet-society-open-board-forum/">Internet Society Open Board Forum</a>
+                    <div class="feed-item-info row-text-black align-left">
+                            <div class="feed-date">
+                                                                    <div class="feed-date-inner">
+                                        <span>20</span>
+                                        June                                    </div>
+                                                            </div>
+                        
+                            <div class="feed-content">
+                                <div class="date-location">
+                                    <span class="eyebrow">Online meeting</span>                                                                            <span class="eyebrow eyebrow-regular">Wednesday 20 June 2018</span>
+                                                                    </div>
+                                <div class="feed-logo mobile">
+                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2017/08/ISOC-Dark-RGB_Logo_2016-08-01_EN_FINAL_v01-e1526025835735.png" title="ISOC-Dark-RGB_Logo_2016-08-01_EN_FINAL_v01" title="ISOC-Dark-RGB_Logo_2016-08-01_EN_FINAL_v01" />
+                                </div>
+                                <div class="title-excerpt">
+                                    <h3 class="headline5">Internet Society Open Board Forum</h3>
+                                    <p class="small-text">The Open Board Forum is a virtual meeting between the ISOC community and the ISOC Trustees which serves as an...</p>
+                                </div>
+
+                            </div>
+                            <div class="feed-logo desktop">
+                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2017/08/ISOC-Dark-RGB_Logo_2016-08-01_EN_FINAL_v01-e1526025835735.png" alt="ISOC-Dark-RGB_Logo_2016-08-01_EN_FINAL_v01" title="ISOC-Dark-RGB_Logo_2016-08-01_EN_FINAL_v01" />
+                            </div>
+                    </div>
+                </div>
+                                            <div class="feed-item load-item" data-max-pages="2" data-post-id="79311">
+                    <a class="feed-link" href="https://www.internetsociety.org/events/icann-62/">ICANN 62</a>
+                    <div class="feed-item-info row-text-black align-left">
+                            <div class="feed-date">
+                                                                    <div class="feed-date-inner">
+                                        <span>25</span>
+                                        June                                    </div>
+                                                            </div>
+                        
+                            <div class="feed-content">
+                                <div class="date-location">
+                                    <span class="eyebrow">Panama City, Panama</span>                                                                            <span class="eyebrow eyebrow-regular">Monday 25 June 2018 &ndash; Thursday 28 June 2018</span>
+                                                                    </div>
+                                <div class="feed-logo mobile">
+                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/05/25fd75b25c8ca06ad7e038ce9d807350-300x179.png" title="25fd75b25c8ca06ad7e038ce9d807350-300x179" title="25fd75b25c8ca06ad7e038ce9d807350-300x179" />
+                                </div>
+                                <div class="title-excerpt">
+                                    <h3 class="headline5">ICANN 62</h3>
+                                    <p class="small-text">ICANN62 Policy Forum is four-day meeting is focused on current policy development work, outreach, and daily opportunities to network with...</p>
+                                </div>
+
+                            </div>
+                            <div class="feed-logo desktop">
+                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/05/25fd75b25c8ca06ad7e038ce9d807350-300x179.png" alt="25fd75b25c8ca06ad7e038ce9d807350-300x179" title="25fd75b25c8ca06ad7e038ce9d807350-300x179" />
+                            </div>
+                    </div>
+                </div>
+                                            <div class="feed-item load-item" data-max-pages="2" data-post-id="79297">
+                    <a class="feed-link" href="https://www.internetsociety.org/events/ietf/ietf-102/">IETF 102</a>
+                    <div class="feed-item-info row-text-black align-left">
+                            <div class="feed-date">
+                                                                    <div class="feed-date-inner">
+                                        <span>14</span>
+                                        July                                    </div>
+                                                            </div>
+                        
+                            <div class="feed-content">
+                                <div class="date-location">
+                                    <span class="eyebrow">Montreal, Canada</span>                                                                            <span class="eyebrow eyebrow-regular">Saturday 14 July 2018 &ndash; Friday 20 July 2018</span>
+                                                                    </div>
+                                <div class="feed-logo mobile">
+                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2017/12/ietf-logo-250x143-1.jpg" title="ietf-logo-250x143 (1)" title="ietf-logo-250x143 (1)" />
+                                </div>
+                                <div class="title-excerpt">
+                                    <h3 class="headline5">IETF 102</h3>
+                                    <p class="small-text">IETF 102 starts Saturday 14 July and runs through Friday afternoon, 20 July.</p>
+                                </div>
+
+                            </div>
+                            <div class="feed-logo desktop">
+                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2017/12/ietf-logo-250x143-1.jpg" alt="ietf-logo-250x143 (1)" title="ietf-logo-250x143 (1)" />
+                            </div>
+                    </div>
+                </div>
+                                            <div class="feed-item load-item" data-max-pages="2" data-post-id="77554">
                     <a class="feed-link" href="https://www.internetsociety.org/events/AfPIF/2018/">AfPIF2018@iWeek</a>
                     <div class="feed-item-info row-text-black align-left">
                             <div class="feed-date">
@@ -529,36 +594,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                     </div>
                 </div>
-                                            <div class="feed-item load-item" data-max-pages="1" data-post-id="77559">
-                    <a class="feed-link" href="https://www.internetsociety.org/events/un/plenipot-2018/">ITU Plenipotentiary Conference 2018</a>
-                    <div class="feed-item-info row-text-black align-left">
-                            <div class="feed-date">
-                                                                    <div class="feed-date-inner">
-                                        <span>29</span>
-                                        October                                    </div>
-                                                            </div>
-                        
-                            <div class="feed-content">
-                                <div class="date-location">
-                                    <span class="eyebrow">Dubai, United Arab Emirates</span>                                                                            <span class="eyebrow eyebrow-regular">Monday 29 October 2018 &ndash; Friday 16 November 2018</span>
-                                                                    </div>
-                                <div class="feed-logo mobile">
-                                    <img src="" title="" title="" />
-                                </div>
-                                <div class="title-excerpt">
-                                    <h3 class="headline5">ITU Plenipotentiary Conference 2018</h3>
-                                    <p class="small-text">The 2018 ITU Plenipotentiary Conference will be held 29 October – 16 November in Dubai, United Arab Emirates.</p>
-                                </div>
-
-                            </div>
-                            <div class="feed-logo desktop">
-                                <img src="" alt="" title="" />
-                            </div>
-                    </div>
-                </div>
                                                
         </div>
         <div class="align-center padding-top-small">
+                            <span class="button component loadMore" data-component-name="LoadMore" id="loadMore">Load more</span>
                     </div>
     </div>
 </section>
@@ -776,6 +815,141 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <h2 class="headline2 align-center padding-bottom-small">Past events</h2>                        <div class="feed loadable" data-taxonomy="region_news_regions" data-post-parent="0" data-region="" data-order="DESC" data-orderby="meta_value" data-search="" data-meta="" data-post-count="12" data-cat-exclude="" data-this-post="" data-category="" data-post-type="events" data-author="" data-post-parent="" data-event-time="past">
             <div class="grid-sizer"></div>
             <div class="gutter-sizer"></div>
+                                            <div class="feed-item load-item" data-max-pages="10" data-post-id="76708">
+                    <a class="feed-link" href="https://www.internetsociety.org/events/rightscon-toronto/">RightsCon Toronto</a>
+                    <div class="feed-item-info row-text-black align-left">
+                            <div class="feed-date">
+                                                                    <div class="feed-date-inner">
+                                        <span>16</span>
+                                        May                                    </div>
+                                                            </div>
+                        
+                            <div class="feed-content">
+                                <div class="date-location">
+                                    <span class="eyebrow">Toronto, Canada</span>                                                                            <span class="eyebrow eyebrow-regular">Wednesday 16 May 2018 &ndash; Friday 18 May 2018</span>
+                                                                    </div>
+                                <div class="feed-logo mobile">
+                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/03/rightscon.logo_.jpg" title="rightscon.logo" title="rightscon.logo" />
+                                </div>
+                                <div class="title-excerpt">
+                                    <h3 class="headline5">RightsCon Toronto</h3>
+                                    <p class="small-text">Help us switch on the Internet, community by community.</p>
+                                </div>
+
+                            </div>
+                            <div class="feed-logo desktop">
+                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/03/rightscon.logo_.jpg" alt="rightscon.logo" title="rightscon.logo" />
+                            </div>
+                    </div>
+                </div>
+                                            <div class="feed-item load-item" data-max-pages="10" data-post-id="78157">
+                    <a class="feed-link" href="https://www.internetsociety.org/events/9th-annual-iot-european-summit/">9th Annual IoT European Summit</a>
+                    <div class="feed-item-info row-text-black align-left">
+                            <div class="feed-date">
+                                                                    <div class="feed-date-inner">
+                                        <span>15</span>
+                                        May                                    </div>
+                                                            </div>
+                        
+                            <div class="feed-content">
+                                <div class="date-location">
+                                    <span class="eyebrow">Brussels, Belgium</span>                                                                            <span class="eyebrow eyebrow-regular">Tuesday 15 May 2018 &ndash; Wednesday 16 May 2018</span>
+                                                                    </div>
+                                <div class="feed-logo mobile">
+                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/04/iotEU.jpg" title="iotEU" title="iotEU" />
+                                </div>
+                                <div class="title-excerpt">
+                                    <h3 class="headline5">9th Annual IoT European Summit</h3>
+                                    <p class="small-text">The Internet of Things European Summit is the leading event focusing on the current policy and industry developments affecting the...</p>
+                                </div>
+
+                            </div>
+                            <div class="feed-logo desktop">
+                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/04/iotEU.jpg" alt="iotEU" title="iotEU" />
+                            </div>
+                    </div>
+                </div>
+                                            <div class="feed-item load-item" data-max-pages="10" data-post-id="79502">
+                    <a class="feed-link" href="https://www.internetsociety.org/events/g20-consumer-summit-2018/">G20 Consumer Summit 2018</a>
+                    <div class="feed-item-info row-text-black align-left">
+                            <div class="feed-date">
+                                                                    <div class="feed-date-inner">
+                                        <span>15</span>
+                                        May                                    </div>
+                                                            </div>
+                        
+                            <div class="feed-content">
+                                <div class="date-location">
+                                    <span class="eyebrow">Buenos Aires, Argentina</span>                                                                            <span class="eyebrow eyebrow-regular">Tuesday 15 May 2018 &ndash; Wednesday 16 May 2018</span>
+                                                                    </div>
+                                <div class="feed-logo mobile">
+                                    <img src="" title="" title="" />
+                                </div>
+                                <div class="title-excerpt">
+                                    <h3 class="headline5">G20 Consumer Summit 2018</h3>
+                                    <p class="small-text">On May 15th and 16th, Consumers International will be co-hosting, along with the Argentinian National Directorate for Consumer Protection, the second...</p>
+                                </div>
+
+                            </div>
+                            <div class="feed-logo desktop">
+                                <img src="" alt="" title="" />
+                            </div>
+                    </div>
+                </div>
+                                            <div class="feed-item load-item" data-max-pages="10" data-post-id="78150">
+                    <a class="feed-link" href="https://www.internetsociety.org/events/ripe-76/">RIPE 76</a>
+                    <div class="feed-item-info row-text-black align-left">
+                            <div class="feed-date">
+                                                                    <div class="feed-date-inner">
+                                        <span>14</span>
+                                        May                                    </div>
+                                                            </div>
+                        
+                            <div class="feed-content">
+                                <div class="date-location">
+                                    <span class="eyebrow">Marseille, France</span>                                                                            <span class="eyebrow eyebrow-regular">Monday 14 May 2018 &ndash; Friday 18 May 2018</span>
+                                                                    </div>
+                                <div class="feed-logo mobile">
+                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/04/RIPE-76.png" title="RIPE-76" title="RIPE-76" />
+                                </div>
+                                <div class="title-excerpt">
+                                    <h3 class="headline5">RIPE 76</h3>
+                                    <p class="small-text">RIPE 76 will take place at Palais du Pharo in Marseille, France from 14-18 May, 2018.</p>
+                                </div>
+
+                            </div>
+                            <div class="feed-logo desktop">
+                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/04/RIPE-76.png" alt="RIPE-76" title="RIPE-76" />
+                            </div>
+                    </div>
+                </div>
+                                            <div class="feed-item load-item" data-max-pages="10" data-post-id="78959">
+                    <a class="feed-link" href="https://www.internetsociety.org/events/workshop-on-promoting-multi-stakeholder-ig/">Workshop on Promoting Multi-stakeholder IG – Enhancing Internet of Things (IoT) Security</a>
+                    <div class="feed-item-info row-text-black align-left">
+                            <div class="feed-date">
+                                                                    <div class="feed-date-inner">
+                                        <span>11</span>
+                                        May                                    </div>
+                                                            </div>
+                        
+                            <div class="feed-content">
+                                <div class="date-location">
+                                    <span class="eyebrow">Dakar, Senegal</span>                                                                            <span class="eyebrow eyebrow-regular">Friday 11 May 2018</span>
+                                                                    </div>
+                                <div class="feed-logo mobile">
+                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/05/Senegal_Logo-Dark-Purple-RGB-EN.png" title="Senegal_Logo-Dark-Purple-RGB-EN" title="Senegal_Logo-Dark-Purple-RGB-EN" />
+                                </div>
+                                <div class="title-excerpt">
+                                    <h3 class="headline5">Workshop on Promoting Multi-stakeholder IG – Enhancing Internet of Things (IoT) Security</h3>
+                                    <p class="small-text">Organized in collaboration with ISOC Senegal Chapter, the half day workshop will aim to instigate dialogue on Internet related policy...</p>
+                                </div>
+
+                            </div>
+                            <div class="feed-logo desktop">
+                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/05/Senegal_Logo-Dark-Purple-RGB-EN.png" alt="Senegal_Logo-Dark-Purple-RGB-EN" title="Senegal_Logo-Dark-Purple-RGB-EN" />
+                            </div>
+                    </div>
+                </div>
                                             <div class="feed-item load-item" data-max-pages="10" data-post-id="76619">
                     <a class="feed-link" href="https://www.internetsociety.org/events/lacnic-29/">LACNIC 29</a>
                     <div class="feed-item-info row-text-black align-left">
@@ -848,7 +1022,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                                 <div class="title-excerpt">
                                     <h3 class="headline5">Africa Internet Summit (AIS) 2018</h3>
-                                    <p class="small-text">The Africa Internet Summit (AIS) is an annual, regional, multistakeholder ICT conference.</p>
+                                    <p class="small-text">We're All Better When Your Voice Counts </p>
                                 </div>
 
                             </div>
@@ -881,141 +1055,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                             <div class="feed-logo desktop">
                                 <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2017/09/Logo_BNet_260.png" alt="Logo_BNet_260" title="Logo_BNet_260" />
-                            </div>
-                    </div>
-                </div>
-                                            <div class="feed-item load-item" data-max-pages="10" data-post-id="72540">
-                    <a class="feed-link" href="https://www.internetsociety.org/events/rsa-conference-2018/">RSA Conference 2018</a>
-                    <div class="feed-item-info row-text-black align-left">
-                            <div class="feed-date">
-                                                                    <div class="feed-date-inner">
-                                        <span>16</span>
-                                        April                                    </div>
-                                                            </div>
-                        
-                            <div class="feed-content">
-                                <div class="date-location">
-                                    <span class="eyebrow">San Francisco, CA, USA</span>                                                                            <span class="eyebrow eyebrow-regular">Monday 16 April 2018 &ndash; Friday 20 April 2018</span>
-                                                                    </div>
-                                <div class="feed-logo mobile">
-                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/01/rsaconference.jpg" title="rsaconference" title="rsaconference" />
-                                </div>
-                                <div class="title-excerpt">
-                                    <h3 class="headline5">RSA Conference 2018</h3>
-                                    <p class="small-text">RSA Conference conducts information security events around the globe that connect you to industry leaders and highly relevant information.</p>
-                                </div>
-
-                            </div>
-                            <div class="feed-logo desktop">
-                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/01/rsaconference.jpg" alt="rsaconference" title="rsaconference" />
-                            </div>
-                    </div>
-                </div>
-                                            <div class="feed-item load-item" data-max-pages="10" data-post-id="76425">
-                    <a class="feed-link" href="https://www.internetsociety.org/events/euro-ix-forum/">Euro-IX Forum</a>
-                    <div class="feed-item-info row-text-black align-left">
-                            <div class="feed-date">
-                                                                    <div class="feed-date-inner">
-                                        <span>15</span>
-                                        April                                    </div>
-                                                            </div>
-                        
-                            <div class="feed-content">
-                                <div class="date-location">
-                                    <span class="eyebrow">Galway, Ireland</span>                                                                            <span class="eyebrow eyebrow-regular">Sunday 15 April 2018 &ndash; Tuesday 17 April 2018</span>
-                                                                    </div>
-                                <div class="feed-logo mobile">
-                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/03/logo.132b1317c927.png" title="EURO-IX" title="EURO-IX" />
-                                </div>
-                                <div class="title-excerpt">
-                                    <h3 class="headline5">Euro-IX Forum</h3>
-                                    <p class="small-text">The European Internet Exchange Association (Euro-IX) gathers 83 IXPs from around the world.</p>
-                                </div>
-
-                            </div>
-                            <div class="feed-logo desktop">
-                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/03/logo.132b1317c927.png" alt="EURO-IX" title="EURO-IX" />
-                            </div>
-                    </div>
-                </div>
-                                            <div class="feed-item load-item" data-max-pages="10" data-post-id="76396">
-                    <a class="feed-link" href="https://www.internetsociety.org/events/canadian-multistakeholder-process-enhancing-iot-security/">Canadian Multistakeholder Process: Enhancing IoT Security</a>
-                    <div class="feed-item-info row-text-black align-left">
-                            <div class="feed-date">
-                                                                    <div class="feed-date-inner">
-                                        <span>04</span>
-                                        April                                    </div>
-                                                            </div>
-                        
-                            <div class="feed-content">
-                                <div class="date-location">
-                                    <span class="eyebrow">Ottawa, Canada</span>                                                                            <span class="eyebrow eyebrow-regular">Wednesday 04 April 2018</span>
-                                                                    </div>
-                                <div class="feed-logo mobile">
-                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/03/iot.canada.jpg" title="iot.canada" title="iot.canada" />
-                                </div>
-                                <div class="title-excerpt">
-                                    <h3 class="headline5">Canadian Multistakeholder Process: Enhancing IoT Security</h3>
-                                    <p class="small-text">The Internet Society has partnered with Innovation, Science and Economic Development, the Canadian Internet Registration Authority, CANARIE, and CIPPIC to...</p>
-                                </div>
-
-                            </div>
-                            <div class="feed-logo desktop">
-                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/03/iot.canada.jpg" alt="iot.canada" title="iot.canada" />
-                            </div>
-                    </div>
-                </div>
-                                            <div class="feed-item load-item" data-max-pages="10" data-post-id="75460">
-                    <a class="feed-link" href="https://www.internetsociety.org/events/g7-ministerial-meeting-preparing-jobs-future/">G7 Ministerial Meeting: Preparing for jobs of the future</a>
-                    <div class="feed-item-info row-text-black align-left">
-                            <div class="feed-date">
-                                                                    <div class="feed-date-inner">
-                                        <span>27</span>
-                                        March                                    </div>
-                                                            </div>
-                        
-                            <div class="feed-content">
-                                <div class="date-location">
-                                    <span class="eyebrow">Montreal, Quebec</span>                                                                            <span class="eyebrow eyebrow-regular">Tuesday 27 March 2018 &ndash; Wednesday 28 March 2018</span>
-                                                                    </div>
-                                <div class="feed-logo mobile">
-                                    <img src="" title="" title="" />
-                                </div>
-                                <div class="title-excerpt">
-                                    <h3 class="headline5">G7 Ministerial Meeting: Preparing for jobs of the future</h3>
-                                    <p class="small-text">G7 Employment and Innovation Ministers will meet on the theme of Preparing for jobs of the future from March 27-28, in Montreal, Quebec....</p>
-                                </div>
-
-                            </div>
-                            <div class="feed-logo desktop">
-                                <img src="" alt="" title="" />
-                            </div>
-                    </div>
-                </div>
-                                            <div class="feed-item load-item" data-max-pages="10" data-post-id="72533">
-                    <a class="feed-link" href="https://www.internetsociety.org/events/apan-45/">APAN 45</a>
-                    <div class="feed-item-info row-text-black align-left">
-                            <div class="feed-date">
-                                                                    <div class="feed-date-inner">
-                                        <span>25</span>
-                                        March                                    </div>
-                                                            </div>
-                        
-                            <div class="feed-content">
-                                <div class="date-location">
-                                    <span class="eyebrow">Singapore</span>                                                                            <span class="eyebrow eyebrow-regular">Sunday 25 March 2018 &ndash; Thursday 29 March 2018</span>
-                                                                    </div>
-                                <div class="feed-logo mobile">
-                                    <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/01/APAN45.banner.jpg" title="APAN45.banner" title="APAN45.banner" />
-                                </div>
-                                <div class="title-excerpt">
-                                    <h3 class="headline5">APAN 45</h3>
-                                    <p class="small-text">The APAN45 Meeting is an excellent platform for leading network staff, academics and scientists in the Asia Pacific region to...</p>
-                                </div>
-
-                            </div>
-                            <div class="feed-logo desktop">
-                                <img src="https://cdn.prod.internetsociety.org/wp-content/uploads/2018/01/APAN45.banner.jpg" alt="APAN45.banner" title="APAN45.banner" />
                             </div>
                     </div>
                 </div>
@@ -1070,13 +1109,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<strong>USA</strong><br />
 							1775 Wiehle Avenue <br />
 Reston, VA 20190<br />
-							+&#49;&#45;&#55;0&#51;-&#52;&#51;&#57;&#45;2&#49;20<br />
+							&#43;1-&#55;03&#45;&#52;3&#57;&#45;&#50;1&#50;0<br />
 						</address>
 											<address>
 							<strong>Switzerland</strong><br />
 							Galerie Jean-Malbuisson 15 <br />
 CH-1204 Geneva, Switzerland<br />
-							+&#52;1&#32;&#50;2&#32;&#56;&#48;&#55;&#32;&#49;&#52;4&#52;<br />
+							+&#52;1 &#50;2 &#56;&#48;7 &#49;444<br />
 						</address>
 									</div>
 				
@@ -1095,16 +1134,16 @@ CH-1204 Geneva, Switzerland<br />
 			</div>
 			<div class="component-row-standard pure-g">
 				<div class="pure-u-lg-24-24 pure-u-md-24-24 pure-u-sm-24-24">
-					<small>Copyright &copy; 2018 Internet Society | <a href="iso&#99;&#64;&#105;so&#99;.&#111;&#114;g">&#105;&#115;&#111;&#99;&#64;&#105;so&#99;&#46;&#111;r&#103;</a></small>
+					<small>Copyright &copy; 2018 Internet Society | <a href="is&#111;c&#64;i&#115;o&#99;&#46;o&#114;&#103;">iso&#99;&#64;i&#115;&#111;c.or&#103;</a></small>
 				</div>
 			</div>
 		</div>
 	</footer>
 
-	<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201818'></script>
+	<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201821'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var afp_vars = {"afp_nonce":"d1cf3bac9e","afp_ajax_url":"https:\/\/www.internetsociety.org\/wp-admin\/admin-ajax.php"};
+var afp_vars = {"afp_nonce":"cc4ce964ad","afp_ajax_url":"https:\/\/www.internetsociety.org\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
 
@@ -1116,8 +1155,8 @@ var afp_vars = {"afp_nonce":"d1cf3bac9e","afp_ajax_url":"https:\/\/www.internets
 <script type="text/javascript" defer src="https://cdn.prod.internetsociety.org/wp-content/cache/autoptimize/js/autoptimize_a80f4d8874540f72f52e93ef8c25610b.js"></script></body>
 </html>
 
-<!-- Dynamic page generated in 13.739 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2018-05-03 15:18:45 -->
+<!-- Dynamic page generated in 5.159 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2018-05-24 11:49:46 -->
 
 <!-- Compression = gzip -->
 <!-- super cache -->

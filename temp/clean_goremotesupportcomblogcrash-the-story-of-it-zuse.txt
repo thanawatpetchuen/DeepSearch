@@ -2,30 +2,22 @@
 
 
 
-Log in to the Internet Archive
+window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app19.us.archive.org';v.server_ms=1476;archive_analytics.send_pageview({});});
 
-window.archive_setup=[]
+__wbhack.init('https://web.archive.org/web');
 
 
 
-      'use strict';
-      if ('archive_analytics' in window) {
-                  archive_analytics.service = "ao_2";
-        
-        archive_analytics.send_pageview_on_load({
-                  });
-      }
-    
 
 
 
 
 
+Crash! The story of IT: Zuse – Goremotesupport.com Tech Blog
 
 
 
 
-Skip to main content
 
 
 
@@ -34,18 +26,22 @@ Skip to main content
 
 
 
-                        Search the history of over 327 billion                        web pages on the Internet.
-                      
 
+			window._wpemojiSettings = {"baseUrl":"https:\/\/web.archive.org\/web\/20160918203643\/https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/web.archive.org\/web\/20160918203643\/https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/web.archive.org\/web\/20160918203643\/https:\/\/goremotesupport.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}
 
 
 
 
 
 
-search Search the Wayback Machine
 
 
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
 
 
 
@@ -54,318 +50,390 @@ search Search the Wayback Machine
 
 
 
-Featured
-texts All Texts
-latest This Just In
-Smithsonian Libraries FEDLINK (US) Genealogy Lincoln Collection Additional Collections 
 
 
 
- 
 
 
-eBooks & Texts 
+{"@context":"https:\/\/web.archive.org\/web\/20160918203643\/http:\/\/schema.org\/","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/web.archive.org\/web\/20160918203643\/https:\/\/goremotesupport.com\/blog\/crash-the-story-of-it-zuse\/"},"url":"https:\/\/web.archive.org\/web\/20160918203643\/https:\/\/goremotesupport.com\/blog\/crash-the-story-of-it-zuse\/","author":{"@type":"Person","name":"Matthew","url":"https:\/\/web.archive.org\/web\/20160918203643\/https:\/\/goremotesupport.com\/blog\/author\/admin\/"},"headline":"Crash! The story of IT: Zuse","datePublished":"2016-07-09T23:02:05+00:00","dateModified":"2016-07-09T23:02:05+00:00","image":{"@type":"ImageObject","url":"https:\/\/web.archive.org\/web\/20160918203643\/https:\/\/i2.wp.com\/goremotesupport.com\/blog\/wp-content\/uploads\/2016\/07\/Z3.jpg?fit=1600%2C1200&ssl=1","width":1600,"height":1200},"ArticleSection":"IT","publisher":{"@type":"Organization","name":"goremotesupport.com","logo":{"@type":"ImageObject","url":"","width":600,"height":60}},"description":"Zuse 1930s Berlin IBM specialized in selling tabulating machinery to help businesses and governments manage their data processing. All they did was count punched cards. The problems of automating the mathematics that Babbage had been attacking a century before had still not been cracked. That did not mean that","commentCount":"3","comment":[{"@type":"Comment","dateCreated":"2016-09-05 06:35:05","description":"I was suggested this website by way of my cousin. I'm not certain whether or not this submit is written by way of him as nobody else understand such particular approximately my problem.\r\nYou're wonderful! Thank you!","author":{"@type":"Person","name":"Tina Coon","url":""}},{"@type":"Comment","dateCreated":"2016-09-04 19:45:50","description":"I am really impressed with your writing skills and also \r\nwith the layout on your blog. Is this a paid theme or did you modify it yourself?\r\nAnyway keep up the excellent quality writing, it's rare to see \r\na great blog like this one today.","author":{"@type":"Person","name":"Henry Embley","url":""}},{"@type":"Comment","dateCreated":"2016-08-30 00:24:11","description":"Very good website you have here but I was curious if you knew of any discussion boards that cover the same topics talked about \r\nin this article? I'd really love to be a part of online community where I can get suggestions from other knowledgeable individuals that share the same \r\ninterest. If you have any suggestions, please let me know.\r\nBless you!","author":{"@type":"Person","name":"Alycia Wheeler","url":""}}]}
 
 
 
-Top
-American Libraries Canadian Libraries Universal Library Community Texts Project Gutenberg Biodiversity Heritage Library Children's Library 
 
+img#wpstats{display:none} .recentcomments a{display:inline!important;padding:0!important;margin:0!important;}
 
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://web.archive.org/web/20160918203643/https://www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-83418609-1', 'auto');
+  ga('send', 'pageview');
 
-Open Library
 
 
 
 
-Public Lab Books to Borrow 
 
 
 
-
-
-Featured
-movies All Video
-latest This Just In
-Prelinger Archives Democracy Now! Occupy Wall Street TV NSA Clip Library 
-
-
-
- 
-
-
-TV News 
-
-
-
-Top
-Animation & Cartoons Arts & Music Community Video Computers & Technology Cultural & Academic Films Ephemeral Films Movies 
-
-
-
- 
-
-
-Understanding 9/11 
-
-
-
-News & Public Affairs Spirituality & Religion Sports Videos Television Videogame Videos Vlogs Youth Media 
-
-
-
-
-
-Featured
-audio All Audio
-latest This Just In
-Grateful Dead Netlabels Old Time Radio 78 RPMs and Cylinder Recordings 
-
-
-
- 
-
-
-Live Music Archive 
-
-
-
-Top
-Audio Books & Poetry Community Audio Computers & Technology Music, Arts & Culture News & Public Affairs Non-English Audio Podcasts 
-
-
-
- 
-
-
-Librivox Free Audiobook 
-
-
-
-Radio Programs Spirituality & Religion 
-
-
-
-
-
-Featured
-software All Software
-latest This Just In
-Old School Emulation MS-DOS Games Historical Software Classic PC Games Software Library 
-
-
-
- 
-
-
-Internet Arcade 
-
-
-
-Top
-Community Software APK MS-DOS CD-ROM Software IPA Software Software Sites Tucows Software Library 
-
-
-
- 
-
-
-Console Living Room 
-
-
-
-Shareware CD-ROMs CD-ROM Images ZX Spectrum Vintage Software DOOM Level CD ZX Spectrum Library: Games CD-ROM Software Library 
-
-
-
-
-
-Featured
-image All Image
-latest This Just In
-Flickr Commons Occupy Wall Street Flickr Cover Art USGS Maps 
-
-
-
- 
-
-
-Metropolitan Museum 
-
-
-
-Top
-NASA Images Solar System Collection Ames Research Center 
-
-
-
- 
-
-
-Brooklyn Museum 
-
-
-
-
-
-
-
-
-
-
-
-web
-
-
-texts
-
-
-movies
-
-
-audio
-
-
-software
-
-
-image
-
-logo
-
-
-
-
-Toggle navigation
-
-
-
-
-
-
-ABOUT
-CONTACT
-BLOG
-PROJECTS
-HELP
-DONATE
-JOBS
-VOLUNTEER
-PEOPLE
-
-
-
-
-
-
-search
-
-
-
-
-
-
-
-Search metadata
-
-
-
-Search text contents
-
-
-
-Search TV news captions
-
-
-
-Search archived web sites
-
-
-Advanced Search
-
-AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"05/04/2018"}
-
-
-
-
-
-upload
-
-
-personSIGN IN
-
-
-
-ABOUT
-CONTACT
-BLOG
-PROJECTS
-HELP
-DONATE
-JOBS
-VOLUNTEER
-PEOPLE
-
-
-
-
-
-
-
-
-
-
-
-Log In
-
-
-Email address
-
-
-
-Password
-
-
-
-
-Remember me
-
-
-
-
-
-
-
-Forgot your password?
-
-
-      Don't have a virtual library card? Register for free!
-    
-
-
-
-
-
-
-if (window.archive_analytics) {
-  var vs = window.archive_analytics.get_data_packets();
-  for (var i in vs) {
-    vs[i]['cache_bust']=Math.random();
-<<<<<<< HEAD
-    vs[i]['server_ms']=75;
-    vs[i]['server_name']="www30.us.archive.org";
-=======
-    vs[i]['server_ms']=31;
-    vs[i]['server_name']="www28.us.archive.org";
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-      }
-
-  if ($(".more_search").size()>0) {
-    window.archive_analytics.send_scroll_fetch_base_event();
-  }
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
 }
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
 
+
+
+
+
+
+
+
+
+
+success
+fail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aug
+SEP
+Sep
+
+
+
+
+18
+
+
+
+
+2015
+2016
+2017
+
+
+
+
+
+
+
+
+5 captures
+28 Aug 2016 - 16 Sep 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+ About this capture
+
+
+
+COLLECTED BY
+
+
+
+		Organization: Internet Archive
+
+
+	  These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to.   That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.  
+
+Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.
+
+The goal is to fix all broken links on the web. 
+
+Crawls of supported "No More 404" sites.
+	
+
+
+
+Collection: Wikipedia Near Real Time (from IRC)
+
+
+	  This is a collection of web page captures from links added to, or changed on, Wikipedia pages. The idea is to bring a reliability to Wikipedia outlinks so that if the pages referenced by Wikipedia articles are changed, or go away, a reader can permanently find what was originally referred to.
+
+
+This is part of the Internet Archive's attempt to rid the web of broken links.
+	
+
+
+TIMESTAMPS
+
+
+
+
+
+__wm.bt(575,27,25,2,"web","https://goremotesupport.com/blog/crash-the-story-of-it-zuse/","2016-09-18",1996);
+
+
+
+
+
+
+
+
+
+
+Goremotesupport.com Tech Blog
+
+Tech Support Blog For Anyone
+
+
+
+
+
+
+
+
+
+Home
+Apple
+Windows
+Our Repair Site
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+IT 
+
+
+Crash! The story of IT: Zuse 
+
+
+ July 9, 2016
+Matthew
+ 3 Comments
+
+
+Zuse
+1930s Berlin
+IBM specialized in selling tabulating machinery to help businesses and governments manage their data processing. All they did was count punched cards. The problems of automating the mathematics that Babbage had been attacking a century before had still not been cracked. That did not mean that the problems had gone away. In fact if anything they had become worse. In the early 1930s, a young German called Konrad Zuse was studying to become a civil engineer at a technical university in Berlin and was fed up plowing though endless simultaneous equations for his stress calculations. He resolved to develop a device to help with those calculations and started work developing the machine in his parents’ living room. By 1938, his first machine, known as the Z1, finally worked – sort of. The machine could generally be coaxed, one way or another, to produce the required answer but reliable it was not. It was a pure mechanical computer like that proposed by Babbage – unlike Babbage’s, it was based on the binary system which kept the mechanisms relatively simple. It should be said that Zuse was not aware of the work of Babbage or indeed anyone else in the field. He came up with the ideas on his own in order to save him doing boring repetitive calculations.
+Image Cite (http://www.bnv-gz.de)
+The ‘success’ of the Z1 spurred Zuse on to replace the less reliable parts of his design with alternative solutions but in 1939, war was declared and Zuse was called up to the German military. He was sent to the infantry but was later re-assigned as a stress analyst on flying bomb development which left him some spare time to continue with his work on calculating machines. Working when he could, he completed the Z3 with the help of similarly-minded friends and in 1941 the Z3, the first functioning program-controlled calculating machine, was demonstrated to the aircraft construction authorities. They were impressed but simultaneously underwhelmed: this device was not going to win the war. There was no obvious point in improving it or replicating it for pure military reasons. Nevertheless, the Z3 was used by the German Aircraft Research Institute in solving a number of problems, most notably that of ‘wing flutter’, but the research institute was not a high enough priority to allow Zuse to be released from his day job of stress analysis.
+The Z3 he demonstrated was an ‘electro-mechanical’ device based on relays. Relays are similar, in a sense, to a domestic door-bell where a plunger is moved by an electro-magnet to hit a chime. In a relay the electrical contacts are used to move a switch. A single relay on its own is an extremely dumb device. In order to make a machine that can perform a complex task, many relays have to be wired together so that they can interact. The Z3 contained around 2600 interconnected relays, each wired to make decisions based on the settings of others.
+Image Cite (Wikipedia)
+The drawback of using relays in calculating machines is that they are restricted by Newton’s laws of motion. It takes time for the contacts to move between ‘on’ and ‘off’ states and performing one calculation involves many, many such electro-mechanical decisions. Users of relay based computers had better have a good book to hand and be prepared to wait. The Z3 could only perform 3 additions per second or one multiplication every 5 seconds.
+In 1942, work started on the Z4, an improved Z3. Work was hampered by the lack of resources due to war. High quality paper was in short supply so the program input tapes were made from used 35 mm celluloid film, presumably from movies no-one wanted to watch. In the closing weeks of the war, as the allies closed on Berlin, the incomplete machine was loaded onto a railway truck and began an Odyssey to safety in the south. Tension was high when the British and Americans finally sought out the then mysterious ‘V4’ (V stood for experimental). They were concerned that this was the big brother to the unmanned ‘Vengeance’ flying bombs, the V1 and V2, that caused devastation as they rained down on London during the late stages of the war. There was universal relief when they discovered it was nothing but a seemingly useless mass of electrical components.
+ 
+Share this:Click to share on Twitter (Opens in new window)Click to share on Facebook (Opens in new window)Click to share on Google+ (Opens in new window)Click to share on Pinterest (Opens in new window)
+
+Related
+ 
+
+
+
+
+← Mac VS Windows
+Airlander 10 →
+
+
+
+3 thoughts on “Crash! The story of IT: Zuse” 
+
+
+
+
+Alycia WheelerAugust 30, 2016 at 12:24 amPermalink 
+
+Very good website you have here but I was curious if you knew of any discussion boards that cover the same topics talked about
+in this article? I’d really love to be a part of online community where I can get suggestions from other knowledgeable individuals that share the same
+interest. If you have any suggestions, please let me know.
+Bless you!
+Reply 
+
+
+
+
+
+Henry EmbleySeptember 4, 2016 at 7:45 pmPermalink 
+
+I am really impressed with your writing skills and also
+with the layout on your blog. Is this a paid theme or did you modify it yourself?
+Anyway keep up the excellent quality writing, it’s rare to see
+a great blog like this one today.
+Reply 
+
+
+
+
+
+Tina CoonSeptember 5, 2016 at 6:35 amPermalink 
+
+I was suggested this website by way of my cousin. I’m not certain whether or not this submit is written by way of him as nobody else understand such particular approximately my problem.
+You’re wonderful! Thank you!
+Reply 
+
+
+
+
+Leave a Reply Cancel reply 
+Your email address will not be published. Required fields are marked *Comment Name * 
+Email * 
+Website 
+ 
+
+ Notify me of follow-up comments by email. Notify me of new posts by email. 
+
+
+
+
+Blog Post 
+August 2016
+July 2016
+June 2016
+
+
+
+
+
+
+
+
+
+
+
+SocialView goremotesupport’s profile on FacebookView goremotesuppor1’s profile on TwitterView goremotesupport’s profile on InstagramView goremotesupport’s profile on Pinterest 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Copyright © 2016 Goremotesupport.com Tech Blog. All rights reserved.Theme: ColorMag by ThemeGrill. Powered by WordPress. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		window.WPCOM_sharing_counts = {"https:\/\/web.archive.org\/web\/20160918203643\/https:\/\/goremotesupport.com\/blog\/crash-the-story-of-it-zuse\/":103};
+	
+
+		var windowOpen;
+		jQuery(document.body).on('click', 'a.share-twitter', function() {
+			if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+				windowOpen.close();
+			}
+			windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+			return false;
+		});
+		
+
+		var windowOpen;
+		jQuery(document.body).on('click', 'a.share-facebook', function() {
+			if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+				windowOpen.close();
+			}
+			windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+			return false;
+		});
+		
+
+		var windowOpen;
+		jQuery(document.body).on('click', 'a.share-google-plus-1', function() {
+			if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+				windowOpen.close();
+			}
+			windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+			return false;
+		});
+		
+
+
+
+
+
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+
+
+
+
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.2.2',blog:'113314228',post:'103',tz:'-4',srv:'goremotesupport.com'} ]);
+	_stq.push([ 'clickTrackerInit', '113314228', '103' ]);
 
 
 

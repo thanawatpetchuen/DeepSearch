@@ -35,6 +35,8 @@ Digital Marketing Agency - Content Marketing - Hampshire
 
 
 
+{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/dgtl.agency\/","name":"DGTL - Digital Marketing Agency - Hampshire","potentialAction":{"@type":"SearchAction","target":"https:\/\/dgtl.agency\/?s={search_term_string}","query-input":"required name=search_term_string"}}
+{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/dgtl.agency\/","sameAs":["https:\/\/www.facebook.com\/dgtluk","https:\/\/www.instagram.com\/dgtluk","https:\/\/plus.google.com\/+DGTLnet","https:\/\/twitter.com\/dgtluk"],"@id":"https:\/\/dgtl.agency\/#organization","name":"Dgtl Ltd","logo":"https:\/\/dgtl.agency\/wp-content\/uploads\/2016\/03\/dgtl.png"}
 
 
 
@@ -45,42 +47,20 @@ Digital Marketing Agency - Content Marketing - Hampshire
 
 
 
+			(function() {
+				var f = document.createElement('link');
+				
+				f.type 	= 'text/css';
+				f.rel 	= 'stylesheet';
+				f.href 	= '//fonts.googleapis.com/css?family=Terminal+Dosis';
+				f.id 	= 'avia-google-webfont';
+				
+				document.getElementsByTagName('head')[0].appendChild(f);
+			})();
+			
+			
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/dgtl.agency\/","name":"DGTL - Digital Marketing Agency - Hampshire","potentialAction":{"@type":"SearchAction","target":"https:\/\/dgtl.agency\/?s={search_term_string}","query-input":"required name=search_term_string"}}
-{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/dgtl.agency\/","sameAs":["https:\/\/www.facebook.com\/dgtluk","https:\/\/www.instagram.com\/dgtluk","https:\/\/plus.google.com\/+DGTLnet","https:\/\/twitter.com\/dgtluk"],"@id":"#organization","name":"Dgtl Ltd","logo":"https:\/\/dgtl.agency\/wp-content\/uploads\/2016\/03\/dgtl.png"}
-
-
-
-
-
-
-
-
-
-
-
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/dgtl.agency\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.5"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/dgtl.agency\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
 		
 
@@ -105,17 +85,9 @@ img.emoji {
 
 
 
-
-
-
-
-
-
-
 /* <![CDATA[ */
 var slide_in = {"demo_dir":"https:\/\/dgtl.agency\/wp-content\/plugins\/convertplug\/modules\/slide_in\/assets\/demos"};
 /* ]]> */
-
 
 
 
@@ -167,16 +139,18 @@ drift.load('by6xz2ucnm22')
 
 
 
+'use strict';var avia_is_mobile=!1;if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)&&'ontouchstart' in document.documentElement){avia_is_mobile=!0;document.documentElement.className+=' avia_mobile '}
+else{document.documentElement.className+=' avia_desktop '};document.documentElement.className+=' js_active ';(function(){var e=['-webkit-','-moz-','-ms-',''],n='';for(var t in e){if(e[t]+'transform' in document.documentElement.style){document.documentElement.className+=' avia_transform ';n=e[t]+'transform'};if(e[t]+'perspective' in document.documentElement.style)document.documentElement.className+=' avia_transform3d '};if(typeof document.getElementsByClassName=='function'&&typeof document.documentElement.getBoundingClientRect=='function'&&avia_is_mobile==!1){if(n&&window.innerHeight>0){setTimeout(function(){var e=0,o={},a=0,t=document.getElementsByClassName('av-parallax'),i=window.pageYOffset||document.documentElement.scrollTop;for(e=0;e<t.length;e++){t[e].style.top='0px';o=t[e].getBoundingClientRect();a=Math.ceil((window.innerHeight+i-o.top)*0.3);t[e].style[n]='translate(0px, '+a+'px)';t[e].style.top='auto';t[e].className+=' enabled-parallax '}},50)}}})();
 
 
 
 
 @font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal;
-src: url('https://dgtl.agency/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3');
-src: url('https://dgtl.agency/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3#iefix') format('embedded-opentype'), 
-url('https://dgtl.agency/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=3') format('woff'), 
-url('https://dgtl.agency/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?v=3') format('truetype'), 
-url('https://dgtl.agency/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=3#entypo-fontello') format('svg');
+src: url('https://dgtl.agency/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot');
+src: url('https://dgtl.agency/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype'), 
+url('https://dgtl.agency/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff') format('woff'), 
+url('https://dgtl.agency/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf') format('truetype'), 
+url('https://dgtl.agency/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg');
 } #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
 
 @font-face {font-family: 'drupal'; font-weight: normal; font-style: normal;
@@ -186,17 +160,6 @@ url('https://dgtl.agency/wp-content/uploads/avia_fonts/drupal/drupal.woff') form
 url('https://dgtl.agency/wp-content/uploads/avia_fonts/drupal/drupal.ttf') format('truetype'), 
 url('https://dgtl.agency/wp-content/uploads/avia_fonts/drupal/drupal.svg#drupal') format('svg');
 } #top .avia-font-drupal, body .avia-font-drupal, html body [data-av_iconfont='drupal']:before{ font-family: 'drupal'; }
-
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-12691438-1', 'auto');
-  ga('send', 'pageview');
-
-
-
 
 
 
@@ -219,6 +182,13 @@ Contact
 
 
 
+
+
+Menu
+
+
+
+ 
 
 
 
@@ -323,7 +293,7 @@ DGTL
 
 https://dgtl.agency/wp-content/uploads/2014/09/d-logo.png
 
-DGTL2016-03-30 14:48:432017-01-06 14:17:03The Power of Images and the Rise of Visual Marketing
+DGTL2016-03-30 14:48:432018-05-10 15:13:22The Power of Images and the Rise of Visual Marketing
  How can Content Marketing Boost ‘Boring’ Businesses?			 March 9, 2016/0 Comments/in Content Marketing, Digital Marketing /by DGTLFirst things first, we’re firm believers that there is no such thing as a ‘boring’ business. Every industry is interesting to someone, with plenty of opportunities to create informative, relevant content…
 Read more
 
@@ -348,11 +318,7 @@ Kevin Murrell – Trustee – The National Museum of Computing
 Elaine Pearce – Senior Project Manager – Yahoo!
 
 
-<<<<<<< HEAD
-Mazda Mums Website Design & DevelopmentMazda came to Yahoo! looking to raise awareness of the new Mazda5 with young families. Yahoo! put forward a proposal for extending…September 8, 2014/by DGTLYahoo Barclays Premier League Rich Media AdvertisingA massive campaign working on Yahoo!'s 'Your Goals' campaign featuring; Rich media advertising, Video production, LED perimeter advertising…September 4, 2014/by DGTLRich Media Advertising – Web design Farnborough, Web design HampshireRich media advertising design & flash development for a Yahoo! homepage event. Lionsgate, makers of the The Hunger games, one…August 30, 2014/by DGTLDulux Rich Media Advertising – Web Design FarnboroughAnother great opportunity designing & developing a Yahoo! homepage takeover. Dulux needed an eye catching homepage event planned…August 25, 2014/by DGTLGreece – Mobile Advertising on ShazamWe have just launched our first Shazam mobile advertising campaign. It was a pleasure to work with these guys on a beautiful set…October 9, 2014/by DGTLNorwich Union Rich Media AdvertisingYahoo contents calculator for Norwich Union. Who ever thought insurance could be so exciting?! From boring data entry to a playful,…April 10, 2014/by DGTLBilla voucher purchase – responsive web design from FarnboroughBILLA Voucher is an innovative online service that allows for fast and convenient sending of funds to Bulgaria in the form of…September 11, 2014/by DGTLDavid Beckham Interview Website Development & LocalisationA huge campaign - The world interviews David Beckham, via Yahoo. Their biggest interview ever - It doesn't get any bigger than…September 7, 2014/by DGTLMeerkat animations for ITV – Simples – AdvertisingSimples! Some wonderful Flash development content for Compare the Market (.com), one of the leading insurance comparison websites,…September 1, 2014/by DGTLGlobal Radio Media PlayersA flash development project of (skin-able) media players to be used across Global Radio's network. They allow each radio station…September 5, 2014/by DGTLJolly Horn Website Development – Web Design HampshireHere we have a web design project working with the awesome design team at Jolly Horn. They translate brands into a unique and engaging…August 5, 2014/by DGTLBumps, Babies & Beyond Rich Media Advertising – Web Design FarnboroughAs one of Yahoo's 'go to guys' for homepage takeovers, here's another one. Mylene Klass’s  parenthood series needed planning,…August 27, 2014/by DGTL
-=======
-Greece – Rich Media Advertising- Web Design FarnboroughAn exciting project working with 'Visit Greece' in association with Yahoo! featuring; Web design, Rich media advertising design,…September 6, 2014/by DGTLSwatch You Automatic – Rich Media Advertising – Web Design Farnborough, Web Design HampshireAnother great media advertising design & flash development opportunity working for our friends over at Yahoo! Unique homepage…August 10, 2014/by DGTLRich Media Advertising – Web design Farnborough, Web design HampshireRich media advertising design & flash development for a Yahoo! homepage event. Lionsgate, makers of the The Hunger games, one…August 30, 2014/by DGTLYahoo Barclays Premier League Rich Media AdvertisingA massive campaign working on Yahoo!'s 'Your Goals' campaign featuring; Rich media advertising, Video production, LED perimeter advertising…September 4, 2014/by DGTLMeerkat animations for ITV – Simples – AdvertisingSimples! Some wonderful Flash development content for Compare the Market (.com), one of the leading insurance comparison websites,…September 1, 2014/by DGTLThe National Museum of Computing –  Website Design & DevelopmentOne of our first experience's designing a website for a museum. In this case, the National Museum of Computing. The museum is home…September 8, 2014/by DGTLBilla voucher purchase – responsive web design from FarnboroughBILLA Voucher is an innovative online service that allows for fast and convenient sending of funds to Bulgaria in the form of…September 11, 2014/by DGTLThe Royal Game of Ur User Experience DesignThe Royal Game of Ur is the oldest game in the world! Originally excavated from ancient ruins in Mesopotamia - "A fun strategy game…September 1, 2014/by DGTLSaw VII 3D Rich Media Advertising – Web Design FarnboroughAnother great media advertising design & flash development opportunity working for our friends over at Yahoo! Unique takeover…August 28, 2014/by DGTLBumps, Babies & Beyond Rich Media Advertising – Web Design FarnboroughAs one of Yahoo's 'go to guys' for homepage takeovers, here's another one. Mylene Klass’s  parenthood series needed planning,…August 27, 2014/by DGTLGlobal Radio Media PlayersA flash development project of (skin-able) media players to be used across Global Radio's network. They allow each radio station…September 5, 2014/by DGTLGreece – Mobile Advertising on ShazamWe have just launched our first Shazam mobile advertising campaign. It was a pleasure to work with these guys on a beautiful set…October 9, 2014/by DGTL
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
+Dulux Rich Media Advertising – Web Design FarnboroughAnother great opportunity designing & developing a Yahoo! homepage takeover. Dulux needed an eye catching homepage event planned…August 25, 2014/by DGTLRich Media Advertising – Web design Farnborough, Web design HampshireRich media advertising design & flash development for a Yahoo! homepage event. Lionsgate, makers of the The Hunger games, one…August 30, 2014/by DGTLGreece – Rich Media Advertising- Web Design FarnboroughAn exciting project working with 'Visit Greece' in association with Yahoo! featuring; Web design, Rich media advertising design,…September 6, 2014/by DGTLGlobal Radio Media PlayersA flash development project of (skin-able) media players to be used across Global Radio's network. They allow each radio station…September 5, 2014/by DGTLMazda Mums Website Design & DevelopmentMazda came to Yahoo! looking to raise awareness of the new Mazda5 with young families. Yahoo! put forward a proposal for extending…September 8, 2014/by DGTLBumps, Babies & Beyond Rich Media Advertising – Web Design FarnboroughAs one of Yahoo's 'go to guys' for homepage takeovers, here's another one. Mylene Klass’s  parenthood series needed planning,…August 27, 2014/by DGTLThe National Museum of Computing –  Website Design & DevelopmentOne of our first experience's designing a website for a museum. In this case, the National Museum of Computing. The museum is home…September 8, 2014/by DGTLBilla voucher purchase – responsive web design from FarnboroughBILLA Voucher is an innovative online service that allows for fast and convenient sending of funds to Bulgaria in the form of…September 11, 2014/by DGTLThe Royal Game of Ur User Experience DesignThe Royal Game of Ur is the oldest game in the world! Originally excavated from ancient ruins in Mesopotamia - "A fun strategy game…September 1, 2014/by DGTLDavid Beckham Interview Website Development & LocalisationA huge campaign - The world interviews David Beckham, via Yahoo. Their biggest interview ever - It doesn't get any bigger than…September 7, 2014/by DGTLGreece – Mobile Advertising on ShazamWe have just launched our first Shazam mobile advertising campaign. It was a pleasure to work with these guys on a beautiful set…October 9, 2014/by DGTLYahoo Barclays Premier League Rich Media AdvertisingA massive campaign working on Yahoo!'s 'Your Goals' campaign featuring; Rich media advertising, Video production, LED perimeter advertising…September 4, 2014/by DGTL
 
        
      
@@ -399,37 +365,42 @@ News and views from DGTL
 
 
 
+Scroll to top
 
-				jQuery(window).on( 'load', function(){
-					startclock();
-				});
-				function stopclock (){
-				  if(timerRunning) clearTimeout(timerID);
-				  timerRunning = false;
-				  document.cookie="time=0";
-				}
-				function showtime () {
-				  var now = new Date();
-				  var my = now.getTime() ;
-				  now = new Date(my-diffms) ;
-				  document.cookie="time="+now.toLocaleString();
-				  timerID = setTimeout('showtime()',10000);
-				  timerRunning = true;
-				}
-				function startclock () {
-				  stopclock();
-				  showtime();
-				}
-				var timerID = null;
-				var timerRunning = false;
-				var x = new Date() ;
-				var now = x.getTime() ;
-<<<<<<< HEAD
-				var gmt = 1525409316 * 1000 ;
-=======
-				var gmt = 1525401724 * 1000 ;
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-				var diffms = (now - gmt) ;
+
+
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+Privacy Policy
+OK
+
+
+
+					jQuery(window).on( 'load', function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						document.cookie="time=0";
+					}
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1527184643 * 1000 ;
+					var diffms = (now - gmt) ;
 				
  
 
@@ -452,14 +423,13 @@ Send us your details and we’ll be in touch
 
 
 
-<<<<<<< HEAD
-.content-5aebe624881d9 .cp-form-container label:not(.cp-label) {    display:none;}.content-5aebe624881d9 .cp-form-container label {    color: rgb(153, 153, 153);   font-size: 15px;	font-family:; 	text-align: left;} .content-5aebe624881d9 .cp-form-container .cp-form-field select {    text-align-last: left;   direction: ltr;}.content-5aebe624881d9 .cp-form-container input:focus:not([type='radio']):not([type='checkbox']):not([type='range']), .content-5aebe624881d9 .cp-form-container textarea:focus, .content-5aebe624881d9 .cp-form-container .cp-form-field button, .content-5aebe624881d9 .cp-form-container .cp-form-field input, .content-5aebe624881d9 .cp-form-container .cp-form-field select, .content-5aebe624881d9 .cp-form-container .cp-form-field textarea { 	text-align: left; 	font-size: 15px; 	font-family: Georgia; 	color: rgb(153, 153, 153); 	background-color: rgb(255, 255, 255); 	border-color: rgb(191, 190, 190); 	padding-top: 10px; 	padding-bottom: 10px; 	padding-left: 15px; 	padding-right: 15px; 	border-radius: px;}.content-5aebe624881d9 .cp-form-container .cp-form-field  .cp-label {  	text-align: left; 	font-size: 15px; 	font-family: Georgia; 	color: rgb(153, 153, 153); 	padding-top: 10px; 	padding-bottom: 10px; 	border-radius: px;}.content-5aebe624881d9 .cp-form-container .cp-submit {  	padding-top: 10px; 	padding-bottom: 10px; 	padding-left: 15px; 	padding-right: 15px;}.content-5aebe624881d9 .cp-form-container .cp-submit.cp-btn-flat {  	background: #ff0066!important;border-radius:4px;}.content-5aebe624881d9 .cp-form-container .cp-submit.cp-btn-flat:hover {  	background: #f20059!important;}.content-5aebe624881d9 .cp-form-field.cp-enable-box-shadow > div { border-radius: px;}
-=======
-.content-5aebc87ce0ced .cp-form-container label:not(.cp-label) {    display:none;}.content-5aebc87ce0ced .cp-form-container label {    color: rgb(153, 153, 153);   font-size: 15px;	font-family:; 	text-align: left;} .content-5aebc87ce0ced .cp-form-container .cp-form-field select {    text-align-last: left;   direction: ltr;}.content-5aebc87ce0ced .cp-form-container input:focus:not([type='radio']):not([type='checkbox']):not([type='range']), .content-5aebc87ce0ced .cp-form-container textarea:focus, .content-5aebc87ce0ced .cp-form-container .cp-form-field button, .content-5aebc87ce0ced .cp-form-container .cp-form-field input, .content-5aebc87ce0ced .cp-form-container .cp-form-field select, .content-5aebc87ce0ced .cp-form-container .cp-form-field textarea { 	text-align: left; 	font-size: 15px; 	font-family: Georgia; 	color: rgb(153, 153, 153); 	background-color: rgb(255, 255, 255); 	border-color: rgb(191, 190, 190); 	padding-top: 10px; 	padding-bottom: 10px; 	padding-left: 15px; 	padding-right: 15px; 	border-radius: px;}.content-5aebc87ce0ced .cp-form-container .cp-form-field  .cp-label {  	text-align: left; 	font-size: 15px; 	font-family: Georgia; 	color: rgb(153, 153, 153); 	padding-top: 10px; 	padding-bottom: 10px; 	border-radius: px;}.content-5aebc87ce0ced .cp-form-container .cp-submit {  	padding-top: 10px; 	padding-bottom: 10px; 	padding-left: 15px; 	padding-right: 15px;}.content-5aebc87ce0ced .cp-form-container .cp-submit.cp-btn-flat {  	background: #ff0066!important;border-radius:4px;}.content-5aebc87ce0ced .cp-form-container .cp-submit.cp-btn-flat:hover {  	background: #f20059!important;}.content-5aebc87ce0ced .cp-form-field.cp-enable-box-shadow > div { border-radius: px;}
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
+.content-5b06fd03b7fd2 .cp-form-container label:not(.cp-label) {    display:none;}.content-5b06fd03b7fd2 .cp-form-container label {    color: rgb(153, 153, 153);   font-size: 15px;	font-family:; 	text-align: left;} .content-5b06fd03b7fd2 .cp-form-container .cp-form-field select {    text-align-last: left;   direction: ltr;}.content-5b06fd03b7fd2 .cp-form-container input:focus:not([type='radio']):not([type='checkbox']):not([type='range']), .content-5b06fd03b7fd2 .cp-form-container textarea:focus, .content-5b06fd03b7fd2 .cp-form-container .cp-form-field button, .content-5b06fd03b7fd2 .cp-form-container .cp-form-field input, .content-5b06fd03b7fd2 .cp-form-container .cp-form-field select, .content-5b06fd03b7fd2 .cp-form-container .cp-form-field textarea { 	text-align: left; 	font-size: 15px; 	font-family: Georgia; 	color: rgb(153, 153, 153); 	background-color: rgb(255, 255, 255); 	border-color: rgb(191, 190, 190); 	padding-top: 10px; 	padding-bottom: 10px; 	padding-left: 15px; 	padding-right: 15px; 	border-radius: px;}.content-5b06fd03b7fd2 .cp-form-container .cp-form-field  .cp-label {  	text-align: left; 	font-size: 15px; 	font-family: Georgia; 	color: rgb(153, 153, 153); 	padding-top: 10px; 	padding-bottom: 10px; 	border-radius: px;}.content-5b06fd03b7fd2 .cp-form-container .cp-submit {  	padding-top: 10px; 	padding-bottom: 10px; 	padding-left: 15px; 	padding-right: 15px;}.content-5b06fd03b7fd2 .cp-form-container .cp-submit.cp-btn-flat {  	background: #ff0066!important;border-radius:4px;}.content-5b06fd03b7fd2 .cp-form-container .cp-submit.cp-btn-flat:hover {  	background: #f20059!important;}.content-5b06fd03b7fd2 .cp-form-field.cp-enable-box-shadow > div { border-radius: px;}
 
 
- 
+
+
+
+
 
 
 
@@ -492,7 +462,7 @@ Call me between 09:00-11:00Call me between 11:00-13:00Call me between 13:00-15:0
 
 
 
-					                Send request					        
+								Send request							
 
 
 
@@ -528,71 +498,67 @@ Call me between 09:00-11:00Call me between 11:00-13:00Call me between 13:00-15:0
 
 
 
-				jQuery(window).on( 'load', function(){
-					startclock();
-				});
-				function stopclock (){
-				  if(timerRunning) clearTimeout(timerID);
-				  timerRunning = false;
-				  document.cookie="time=0";
-				}
-				function showtime () {
-				  var now = new Date();
-				  var my = now.getTime() ;
-				  now = new Date(my-diffms) ;
-				  document.cookie="time="+now.toLocaleString();
-				  timerID = setTimeout('showtime()',10000);
-				  timerRunning = true;
-				}
-				function startclock () {
-				  stopclock();
-				  showtime();
-				}
-				var timerID = null;
-				var timerRunning = false;
-				var x = new Date() ;
-				var now = x.getTime() ;
-<<<<<<< HEAD
-				var gmt = 1525409317 * 1000 ;
-=======
-				var gmt = 1525401725 * 1000 ;
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-				var diffms = (now - gmt) ;
+					jQuery(window).on( 'load', function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						document.cookie="time=0";
+					}
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1527184644 * 1000 ;
+					var diffms = (now - gmt) ;
 				
 
-				jQuery(window).on( 'load', function(){
-					startclock();
-				});
-				function stopclock (){
-				  if(timerRunning) clearTimeout(timerID);
-				  timerRunning = false;
-				  document.cookie="time=0";
-				}
+					jQuery(window).on( 'load', function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						document.cookie="time=0";
+					}
 
-				function showtime () {
-				  var now = new Date();
-				  var my = now.getTime() ;
-				  now = new Date(my-diffms) ;
-				  document.cookie="time="+now.toLocaleString();
-				  timerID = setTimeout('showtime()',10000);
-				  timerRunning = true;
-				}
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
 
-				function startclock () {
-				  stopclock();
-				  showtime();
-				}
-				var timerID = null;
-				var timerRunning = false;
-				var x = new Date() ;
-				var now = x.getTime() ;
-<<<<<<< HEAD
-				var gmt = 1525409317 * 1000 ;
-=======
-				var gmt = 1525401725 * 1000 ;
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-				var diffms = (now - gmt) ;
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1527184644 * 1000 ;
+					var diffms = (now - gmt) ;
 				
+
+
+var sbiajaxurl = "https://dgtl.agency/wp-admin/admin-ajax.php";
+
 
 		jQuery(window).load(function(){
 			jQuery('a').removeAttr('title');
@@ -602,26 +568,26 @@ Call me between 09:00-11:00Call me between 11:00-13:00Call me between 13:00-15:0
 
  /* <![CDATA[ */  
 var avia_framework_globals = avia_framework_globals || {};
+	avia_framework_globals.gmap_api = 'AIzaSyBKS1zoeaOhJzW_p5rgkPSTCFmQr-SsROw';
+	avia_framework_globals.gmap_maps_loaded = 'https://maps.googleapis.com/maps/api/js?v=3.30&key=AIzaSyBKS1zoeaOhJzW_p5rgkPSTCFmQr-SsROw&callback=aviaOnGoogleMapsLoaded';
+	avia_framework_globals.gmap_builder_maps_loaded = 'https://maps.googleapis.com/maps/api/js?v=3.30&key=AIzaSyBKS1zoeaOhJzW_p5rgkPSTCFmQr-SsROw&callback=av_builder_maps_loaded';
+	avia_framework_globals.gmap_backend_maps_loaded = 'https://maps.googleapis.com/maps/api/js?v=3.30&callback=av_backend_maps_loaded';
+	avia_framework_globals.gmap_source = 'https://maps.googleapis.com/maps/api/js?v=3.30&key=AIzaSyBKS1zoeaOhJzW_p5rgkPSTCFmQr-SsROw';
+/* ]]> */ 
+
+
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
     avia_framework_globals.frameworkUrl = 'https://dgtl.agency/wp-content/themes/enfold/framework/';
     avia_framework_globals.installedAt = 'https://dgtl.agency/wp-content/themes/enfold/';
     avia_framework_globals.ajaxurl = 'https://dgtl.agency/wp-admin/admin-ajax.php';
 /* ]]> */ 
 
 
- /* <![CDATA[ */  
-var avia_framework_globals = avia_framework_globals || {};
-	avia_framework_globals.gmap_api = 'AIzaSyBKS1zoeaOhJzW_p5rgkPSTCFmQr-SsROw';
-/* ]]> */ 
-
-
 
 /* <![CDATA[ */
-var sb_instagram_js_options = {"sb_instagram_at":"3023140386.1654d0c.8aa93e794b2b4e519e2909f30689424c"};
+var sb_instagram_js_options = {"sb_instagram_at":"3023140386.MTY1NGQwYw==.OGFhOTNlNzk0YjJi.NGU1MTllMjkwOWYzMDY4OTQyNGM=","font_method":"svg"};
 /* ]]> */
-
-
-
-
 
 
 
@@ -633,7 +599,15 @@ var smile_ajax = {"url":"https:\/\/dgtl.agency\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 
 
-Scroll to top
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-12691438-1', 'auto');
+  ga('send', 'pageview');
 
 
 

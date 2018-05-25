@@ -344,17 +344,22 @@ class Ui_MainWindow(object):
 def update_percent(temp, p):
     return (p/int(len(temp)))*100
 
-def myFunction(arg):
+def getHTML():
     url = arg
     # url = 'https://en.wikipedia.org/wiki/Computer'
     html = htmlparser(url, '{}.txt'.format(
         url.split('//')[-1].replace('/', '').replace('.', '').replace('=', '').replace('?', '')))
     html.setup()
     html_dict = dict()
-    temp = html.beauiful_soup()
     tree = Tree()
+    return  html
 
+
+def myFunction(arg):
+    getHTML()
     # print(len(temp))
+    print(11)
+    temp = getHTML().beauiful_soup()
     temp = temp[0:5]
     temp = temp[0:50]
     percent = 0

@@ -13,7 +13,11 @@ Home - Learning Resources
 
 
 
+
+
+
 {"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/learning-resources.sciencemuseum.org.uk\/","name":"Learning Resources","potentialAction":{"@type":"SearchAction","target":"https:\/\/learning-resources.sciencemuseum.org.uk\/?s={search_term_string}","query-input":"required name=search_term_string"}}
+{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/learning-resources.sciencemuseum.org.uk\/","sameAs":[],"@id":"#organization","name":"Science Museum Group Learning Resources","logo":""}
 
 
 
@@ -98,8 +102,8 @@ Learning ResourcesThis site brings together resources from our Museums, includin
 
 
 
-
-Featured resourcesVideoks1, ks2, ks3, ks4, ks5, early-yearsSee Link Wonder: a discussion tool for teachersHow do you bring objects to life? This short animation introduces a tool to spark discussion and train students' observational skills.PDFks3, ks4Build a DomeUse straws and strong shapes to make a self-supporting dome.PDFks3No PressureSee what would happen to marshmallows, and yourself, in the low-pressure environment of space.Gameks2, ks3LaunchballSpring your way through 30 obstacle-filled levels and create your own levels to play and share with friends.
+function getWR360PopupSkin(){return 'light_clean';} 
+Featured resourcesGameks1, ks2, ks3, early-yearsTreasure Hunters appTurn your museum visit into a giant interactive game with our free downloadable app.Videoks1, ks2, ks3Locomotion: an introduction for teachersThis video will help you prepare for a visit to the Locomotion Museum, Shildon.Videoks1, ks2, ks3, ks4Power Hall: an introduction for teachersThis video will help you prepare for a visit to the Power Hall at the Museum of Science and Industry, Manchester.Videoks1, ks2, ks3, ks4, ks5, early-yearsSee Link Wonder: a discussion tool for teachersHow do you bring objects to life? This short animation introduces a tool to spark discussion and train students' observational skills.
 Plan a school visit to one of our museums
 
 

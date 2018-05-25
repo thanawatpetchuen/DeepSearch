@@ -238,11 +238,22 @@ Featured events
 
 
 
-Africa Internet Summit (AIS) 2018
+TF-CSIRT 2018: Task Force on Computer Security Incident Response Teams
 
 
-Dakar, Senegal
-Sunday 29 April 2018 Africa Internet Summit (AIS) 2018
+Poland
+Thursday 24 May 2018 TF-CSIRT 2018: Task Force on Computer Security Incident Response Teams
+
+
+
+
+
+
+EuroDIG 2018
+
+
+Tbilisi, Georgia
+Tuesday 05 June 2018 EuroDIG 2018
 
 
 
@@ -311,98 +322,23 @@ All regions
 
 
 
-Africa Internet Summit (AIS) 2018
+TF-CSIRT 2018: Task Force on Computer Security Incident Response Teams
 
 
 
-29
-                                        April                                    
-
-
-
-Dakar, Senegal Sunday 29 April 2018 – Friday 11 May 2018
-
-
-
-
-
-Africa Internet Summit (AIS) 2018
-The Africa Internet Summit (AIS) is an annual, regional, multistakeholder ICT conference.
-
-
-
-
-
-
-
-
-LACNIC 29
-
-
-
-30
-                                        April                                    
-
-
-
-Panama Monday 30 April 2018 – Friday 04 May 2018
-
-
-
-
-
-LACNIC 29
-LACNIC 29 is one of the most important Internet events in Latin America and the Caribbean that brings together experts...
-
-
-
-
-
-
-
-
-RIPE 76
-
-
-
-14
+24
                                         May                                    
 
 
 
-Marseille, France Monday 14 May 2018 – Friday 18 May 2018
+Poland Thursday 24 May 2018 – Friday 25 May 2018
 
 
 
 
 
-RIPE 76
-RIPE 76 will take place at Palais du Pharo in Marseille, France from 14-18 May, 2018.
-
-
-
-
-
-
-
-
-9th Annual IoT European Summit
-
-
-
-15
-                                        May                                    
-
-
-
-Brussels, Belgium Tuesday 15 May 2018 – Wednesday 16 May 2018
-
-
-
-
-
-9th Annual IoT European Summit
-The Internet of Things European Summit is the leading event focusing on the current policy and industry developments affecting the...
+TF-CSIRT 2018: Task Force on Computer Security Incident Response Teams
+Routing security is vital to the future and stability of the Internet, and the global MANRS initiative implements the crucial...
 
 
 
@@ -411,23 +347,73 @@ The Internet of Things European Summit is the leading event focusing on the curr
 
 
 
-RightsCon Toronto
+EuroDIG 2018
 
 
 
-16
-                                        May                                    
+05
+                                        June                                    
 
 
 
-Toronto, Canada Wednesday 16 May 2018 – Friday 18 May 2018
+Tbilisi, Georgia Tuesday 05 June 2018 – Wednesday 06 June 2018
 
 
 
 
 
-RightsCon Toronto
-The seventh edition of RightsCon, the world’s leading event on human rights in the digital age, will take place from 16-18...
+EuroDIG 2018
+The next EuroDIG will take place on 5 – 6 June 2018 (plus day zero) in Tbilisi in Georgia, in Rooms Hotel. It...
+
+
+
+
+
+
+
+
+2018 G7 Summit
+
+
+
+08
+                                        June                                    
+
+
+
+Quebec, Canada Friday 08 June 2018 – Saturday 09 June 2018
+
+
+
+
+
+2018 G7 Summit
+The 2018 G7 Summit is being hosted by Canada in Charlevoix, Quebec, from June 8-9.
+
+
+
+
+
+
+
+
+TNC18 – Intelligent networks, cool edges?
+
+
+
+10
+                                        June                                    
+
+
+
+Trondheim, Norway Sunday 10 June 2018 – Thursday 14 June 2018
+
+
+
+
+
+TNC18 – Intelligent networks, cool edges?
+Routing security is vital to the future and stability of the Internet, and the global MANRS initiative implements the crucial...
 
 
 
@@ -461,6 +447,81 @@ Strengthening and mobilizing our chapters to advocate and support innovative way
 
 
 
+Internet Society Open Board Forum
+
+
+
+20
+                                        June                                    
+
+
+
+Online meeting Wednesday 20 June 2018
+
+
+
+
+
+Internet Society Open Board Forum
+The Open Board Forum is a virtual meeting between the ISOC community and the ISOC Trustees which serves as an...
+
+
+
+
+
+
+
+
+ICANN 62
+
+
+
+25
+                                        June                                    
+
+
+
+Panama City, Panama Monday 25 June 2018 – Thursday 28 June 2018
+
+
+
+
+
+ICANN 62
+ICANN62 Policy Forum is four-day meeting is focused on current policy development work, outreach, and daily opportunities to network with...
+
+
+
+
+
+
+
+
+IETF 102
+
+
+
+14
+                                        July                                    
+
+
+
+Montreal, Canada Saturday 14 July 2018 – Friday 20 July 2018
+
+
+
+
+
+IETF 102
+IETF 102 starts Saturday 14 July and runs through Friday afternoon, 20 July.
+
+
+
+
+
+
+
+
 AfPIF2018@iWeek
 
 
@@ -486,32 +547,8 @@ The 9th African Peering and Interconnection Forum (AfPIF) will be held over a 3-
 
 
 
-ITU Plenipotentiary Conference 2018
 
-
-
-29
-                                        October                                    
-
-
-
-Dubai, United Arab Emirates Monday 29 October 2018 – Friday 16 November 2018
-
-
-
-
-
-ITU Plenipotentiary Conference 2018
-The 2018 ITU Plenipotentiary Conference will be held 29 October – 16 November in Dubai, United Arab Emirates.
-
-
-
-
-
-
-
-
-
+Load more
 
 
 
@@ -700,6 +737,131 @@ Past events
 
 
 
+RightsCon Toronto
+
+
+
+16
+                                        May                                    
+
+
+
+Toronto, Canada Wednesday 16 May 2018 – Friday 18 May 2018
+
+
+
+
+
+RightsCon Toronto
+Help us switch on the Internet, community by community.
+
+
+
+
+
+
+
+
+9th Annual IoT European Summit
+
+
+
+15
+                                        May                                    
+
+
+
+Brussels, Belgium Tuesday 15 May 2018 – Wednesday 16 May 2018
+
+
+
+
+
+9th Annual IoT European Summit
+The Internet of Things European Summit is the leading event focusing on the current policy and industry developments affecting the...
+
+
+
+
+
+
+
+
+G20 Consumer Summit 2018
+
+
+
+15
+                                        May                                    
+
+
+
+Buenos Aires, Argentina Tuesday 15 May 2018 – Wednesday 16 May 2018
+
+
+
+
+
+G20 Consumer Summit 2018
+On May 15th and 16th, Consumers International will be co-hosting, along with the Argentinian National Directorate for Consumer Protection, the second...
+
+
+
+
+
+
+
+
+RIPE 76
+
+
+
+14
+                                        May                                    
+
+
+
+Marseille, France Monday 14 May 2018 – Friday 18 May 2018
+
+
+
+
+
+RIPE 76
+RIPE 76 will take place at Palais du Pharo in Marseille, France from 14-18 May, 2018.
+
+
+
+
+
+
+
+
+Workshop on Promoting Multi-stakeholder IG – Enhancing Internet of Things (IoT) Security
+
+
+
+11
+                                        May                                    
+
+
+
+Dakar, Senegal Friday 11 May 2018
+
+
+
+
+
+Workshop on Promoting Multi-stakeholder IG – Enhancing Internet of Things (IoT) Security
+Organized in collaboration with ISOC Senegal Chapter, the half day workshop will aim to instigate dialogue on Internet related policy...
+
+
+
+
+
+
+
+
 LACNIC 29
 
 
@@ -766,7 +928,7 @@ Dakar, Senegal Sunday 29 April 2018 – Friday 11 May 2018
 
 
 Africa Internet Summit (AIS) 2018
-The Africa Internet Summit (AIS) is an annual, regional, multistakeholder ICT conference.
+We're All Better When Your Voice Counts 
 
 
 
@@ -792,131 +954,6 @@ Tuesday 17 April 2018
 
 Fund your idea: Beyond the Net – Information Session
 Got a great idea to empower your community? You can make the change.
-
-
-
-
-
-
-
-
-RSA Conference 2018
-
-
-
-16
-                                        April                                    
-
-
-
-San Francisco, CA, USA Monday 16 April 2018 – Friday 20 April 2018
-
-
-
-
-
-RSA Conference 2018
-RSA Conference conducts information security events around the globe that connect you to industry leaders and highly relevant information.
-
-
-
-
-
-
-
-
-Euro-IX Forum
-
-
-
-15
-                                        April                                    
-
-
-
-Galway, Ireland Sunday 15 April 2018 – Tuesday 17 April 2018
-
-
-
-
-
-Euro-IX Forum
-The European Internet Exchange Association (Euro-IX) gathers 83 IXPs from around the world.
-
-
-
-
-
-
-
-
-Canadian Multistakeholder Process: Enhancing IoT Security
-
-
-
-04
-                                        April                                    
-
-
-
-Ottawa, Canada Wednesday 04 April 2018
-
-
-
-
-
-Canadian Multistakeholder Process: Enhancing IoT Security
-The Internet Society has partnered with Innovation, Science and Economic Development, the Canadian Internet Registration Authority, CANARIE, and CIPPIC to...
-
-
-
-
-
-
-
-
-G7 Ministerial Meeting: Preparing for jobs of the future
-
-
-
-27
-                                        March                                    
-
-
-
-Montreal, Quebec Tuesday 27 March 2018 – Wednesday 28 March 2018
-
-
-
-
-
-G7 Ministerial Meeting: Preparing for jobs of the future
-G7 Employment and Innovation Ministers will meet on the theme of Preparing for jobs of the future from March 27-28, in Montreal, Quebec....
-
-
-
-
-
-
-
-
-APAN 45
-
-
-
-25
-                                        March                                    
-
-
-
-Singapore Sunday 25 March 2018 – Thursday 29 March 2018
-
-
-
-
-
-APAN 45
-The APAN45 Meeting is an excellent platform for leading network staff, academics and scientists in the Asia Pacific region to...
 
 
 
@@ -1005,7 +1042,7 @@ Copyright © 2018 Internet Society | isoc@isoc.org
 
 
 /* <![CDATA[ */
-var afp_vars = {"afp_nonce":"d1cf3bac9e","afp_ajax_url":"https:\/\/www.internetsociety.org\/wp-admin\/admin-ajax.php"};
+var afp_vars = {"afp_nonce":"cc4ce964ad","afp_ajax_url":"https:\/\/www.internetsociety.org\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 
 

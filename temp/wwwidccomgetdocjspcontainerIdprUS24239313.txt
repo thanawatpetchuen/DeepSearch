@@ -1,628 +1,1386 @@
-<!DOCTYPE html>
-<html lang="en">
-<!-- __ _ _ _ __| |_ (_)__ _____
-    / _` | '_/ _| ' \| |\ V / -_)
-    \__,_|_| \__|_||_|_| \_/\___| -->
-  <head>
-    <title>Log in to the Internet Archive</title>
 
-          <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <script>window.archive_setup=[]</script>
-        <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
-            <script src="//archive.org/includes/analytics.js?v=ef2507c" type="text/javascript"></script>
 
-    <script>
-      'use strict';
-      if ('archive_analytics' in window) {
-                  archive_analytics.service = "ao_2";
-        
-        archive_analytics.send_pageview_on_load({
-                  });
-      }
-    </script>
-        <script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
-    <script src="//archive.org/includes/polyfill.min.js?v=ef2507c" type="text/javascript"></script>
-    <script src="https://archive.org/includes/node_modules/react/dist/react.min.js?v15.1.0" type="text/javascript"></script>
-    <script src="https://archive.org/includes/node_modules/react-dom/dist/react-dom.min.js?v15.1.0" type="text/javascript"></script>
-    <script src="https://archive.org/includes/archive.min.js?v=ef2507c" type="text/javascript"></script>
-    <link href="//archive.org/includes/archive.min.css?v=ef2507c" rel="stylesheet" type="text/css"/>
-    <link rel="SHORTCUT ICON" href="https://archive.org/images/glogo.jpg"/>
-      </head>
-  <body class="navia ">
-    <a href="#maincontent" class="hidden-for-screen-readers">Skip to main content</a>
 
-    <!-- Wraps all page content -->
-    <div id="wrap"
+
+
+
+
+
+
+<!DOCTYPE html><html>
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app23.us.archive.org';v.server_ms=1827;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1526379016.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1526379016.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1526379016.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+
+    <meta property="og:title" content="Growth Accelerates in the Worldwide Mobile Phone and Smartphone Markets in the Second Quarter, According to IDC"/><meta property="og:type" content="website"/><meta property="og:site_name" content="www.idc.com"/><meta property="og:image" content="https://web.archive.org/web/20140626022208im_/http://www.idc.com/gfx/default/logo-idc-white.gif"/><meta property="og:url" content="https://web.archive.org/web/20140626022208/http://www.idc.com/getdoc.jsp?containerId=prUS24239313"/>
+
+<title>Growth Accelerates in the Worldwide Mobile Phone and Smartphone Markets in the Second Quarter, According to IDC - prUS24239313</title>
+
+<!--This is where the JavaScript in the head goes-->
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_goToURL() { //v3.0
+  var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+  for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+//-->
+</script>
+
+
+
+<link rel="stylesheet" href="/web/20140626022208cs_/http://www.idc.com/styles/idcBaseStyles.css" type="text/css">
+<link rel="stylesheet" href="/web/20140626022208cs_/http://www.idc.com/css/getdoc.css" type="text/css">
+</head>
+
+<body text="#000000" vlink="990099" alink="0000FF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1526379016.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1526379016.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1526379016.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1526379016.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('http://www.idc.com/getdoc.jsp?containerId=prUS24239313', '20140626022208')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
           >
-              
-
-        <div id="navwrap1">
-          <div id="navwrap2">
-
-            <div id="nav-tophat" class="collapse">
-                                                                <div class="row toprow web" style="max-width:1000px;margin:auto;">
-                    <div class="col-xs-12">
-                      <div class="wayback-txt">
-                        Search the history of over 327 billion                        <a style="display:inline"
-                          href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/"
-                          >web pages</a> on the Internet.
-                      </div>
-                      <div class="roundbox7 wayback-main">
-                        <div class="row">
-                          <div class="col-sm-6" style="padding-left:0; padding-right:0;">
-                            <a style="padding-bottom:0" href="https://archive.org/web/"
-                              ><img src="https://archive.org/images/WaybackLogoSmall.png" alt="Wayback Machine"/></a>
-                          </div>
-                          <div class="col-sm-6" style="padding-top:13px;">
-                            <form style="position:relative;">
-                              <span class="iconochive-search"  aria-hidden="true"></span><span class="sr-only">search</span>                              <label for="nav-wb-url" class="sr-only">Search the Wayback Machine</label>
-                              <input id="nav-wb-url" class="form-control input-sm roundbox20" type="text"
-                                placeholder="enter URL or keywords" name="url" autocomplete="off"
-                                onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()"/>
-                            </form>
-                          </div>
-                        </div><!--/.row-->
-                      </div><!--/.wayback-main-->
-                    </div>
-                  </div><!--./row-->
-
-                                                                                <div class="row toprow fivecolumns texts">
-
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
-                                                  <div class="linx">
-                            <h5>Featured</h5>
-                            <a href="https://archive.org/details/texts"><span class="iconochive-texts"  aria-hidden="true"></span><span class="sr-only">texts</span> All Texts</a>
-                            <a href="https://archive.org/search.php?query=mediatype:texts&sort=-publicdate"
-                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
-                                                          <a href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a>                                                          <a href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a>                                                          <a href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a>                                                          <a href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a>                                                          <a href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a>                                                      </div>
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
-                                                  <div class="widgets">
-                            <center class="items_list">        <div class="items_list_img">
-          <a
-            href="https://archive.org/details/texts"
-            style="background-image: url('https://archive.org/services/img/texts');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/texts">eBooks &amp; Texts</a></center>                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
-                                                  <div class="linx ">
-                                                          <h5>Top</h5>
-                                                                                      <a href="https://archive.org/details/americana" title="American Libraries">American Libraries</a>                                                          <a href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a>                                                          <a href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a>                                                          <a href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a>                                                          <a href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a>                                                          <a href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a>                                                          <a href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a>                                                      </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
-                                                  <div class="widgets">
-                            <center>
-<a href="https://openlibrary.org"><img class="img-responsive" style="margin-bottom:15px" src="https://archive.org/images/widgetOL.png"/><b>Open Library</b></a></center>
-                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7">
-                                                  <div class="linx linx-topped">
-                                                                                      <a href="https://archive.org/details/publiclab_org" title="Public Lab Collection">Public Lab</a>                                                          <a href="https://archive.org/details/inlibrary" title="Books to Borrow">Books to Borrow</a>                                                      </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                    
-                  </div><!--/.row-->
-                                                                                <div class="row toprow fivecolumns movies">
-
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
-                                                  <div class="linx">
-                            <h5>Featured</h5>
-                            <a href="https://archive.org/details/movies"><span class="iconochive-movies"  aria-hidden="true"></span><span class="sr-only">movies</span> All Video</a>
-                            <a href="https://archive.org/search.php?query=mediatype:movies&sort=-publicdate"
-                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
-                                                          <a href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a>                                                          <a href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a>                                                          <a href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a>                                                          <a href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a>                                                      </div>
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
-                                                  <div class="widgets">
-                            <center class="items_list">        <div class="items_list_img">
-          <a
-            href="https://archive.org/details/tv"
-            style="background-image: url('https://archive.org/services/img/tv');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/tv">TV News</a></center>                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
-                                                  <div class="linx ">
-                                                          <h5>Top</h5>
-                                                                                      <a href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation & Cartoons</a>                                                          <a href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts & Music</a>                                                          <a href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a>                                                          <a href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers & Technology</a>                                                          <a href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural & Academic Films</a>                                                          <a href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a>                                                          <a href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a>                                                      </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
-                                                  <div class="widgets">
-                            <center class="items_list">        <div class="items_list_img">
-          <a
-            href="https://archive.org/details/911"
-            style="background-image: url('https://archive.org/services/img/911');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/911">Understanding 9/11</a></center>                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7">
-                                                  <div class="linx linx-topped">
-                                                                                      <a href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News & Public Affairs</a>                                                          <a href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                                                          <a href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a>                                                          <a href="https://archive.org/details/television" title="Television">Television</a>                                                          <a href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a>                                                          <a href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a>                                                          <a href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a>                                                      </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                    
-                  </div><!--/.row-->
-                                                                                <div class="row toprow fivecolumns audio">
-
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
-                                                  <div class="linx">
-                            <h5>Featured</h5>
-                            <a href="https://archive.org/details/audio"><span class="iconochive-audio"  aria-hidden="true"></span><span class="sr-only">audio</span> All Audio</a>
-                            <a href="https://archive.org/search.php?query=mediatype:audio&sort=-publicdate"
-                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
-                                                          <a href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a>                                                          <a href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a>                                                          <a href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a>                                                          <a href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a>                                                      </div>
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
-                                                  <div class="widgets">
-                            <center class="items_list">        <div class="items_list_img">
-          <a
-            href="https://archive.org/details/etree"
-            style="background-image: url('https://archive.org/services/img/etree');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/etree">Live Music Archive</a></center>                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
-                                                  <div class="linx ">
-                                                          <h5>Top</h5>
-                                                                                      <a href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books & Poetry</a>                                                          <a href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a>                                                          <a href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers & Technology</a>                                                          <a href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts & Culture</a>                                                          <a href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News & Public Affairs</a>                                                          <a href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a>                                                          <a href="https://archive.org/details/audio_podcast" title="Podcasts">Podcasts</a>                                                      </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
-                                                  <div class="widgets">
-                            <center class="items_list">        <div class="items_list_img">
-          <a
-            href="https://archive.org/details/librivoxaudio"
-            style="background-image: url('https://archive.org/services/img/librivoxaudio');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center>                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7">
-                                                  <div class="linx linx-topped">
-                                                                                      <a href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a>                                                          <a href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                                                      </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                    
-                  </div><!--/.row-->
-                                                                                <div class="row toprow fivecolumns software">
-
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
-                                                  <div class="linx">
-                            <h5>Featured</h5>
-                            <a href="https://archive.org/details/software"><span class="iconochive-software"  aria-hidden="true"></span><span class="sr-only">software</span> All Software</a>
-                            <a href="https://archive.org/search.php?query=mediatype:software&sort=-publicdate"
-                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
-                                                          <a href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a>                                                          <a href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a>                                                          <a href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a>                                                          <a href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a>                                                          <a href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a>                                                      </div>
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
-                                                  <div class="widgets">
-                            <center class="items_list">        <div class="items_list_img">
-          <a
-            href="https://archive.org/details/internetarcade"
-            style="background-image: url('https://archive.org/services/img/internetarcade');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center>                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
-                                                  <div class="linx ">
-                                                          <h5>Top</h5>
-                                                                                      <a href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a>                                                          <a href="https://archive.org/details/apkarchive" title="APK">APK</a>                                                          <a href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a>                                                          <a href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a>                                                          <a href="https://archive.org/details/ipaarchive" title="IPA Software">IPA Software</a>                                                          <a href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a>                                                          <a href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a>                                                      </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
-                                                  <div class="widgets">
-                            <center class="items_list">        <div class="items_list_img">
-          <a
-            href="https://archive.org/details/consolelivingroom"
-            style="background-image: url('https://archive.org/services/img/consolelivingroom');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center>                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7">
-                                                  <div class="linx linx-topped">
-                                                                                      <a href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a>                                                          <a href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a>                                                          <a href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a>                                                          <a href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a>                                                          <a href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a>                                                          <a href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a>                                                          <a href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a>                                                      </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                    
-                  </div><!--/.row-->
-                                                                                <div class="row toprow fivecolumns image">
-
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
-                                                  <div class="linx">
-                            <h5>Featured</h5>
-                            <a href="https://archive.org/details/image"><span class="iconochive-image"  aria-hidden="true"></span><span class="sr-only">image</span> All Image</a>
-                            <a href="https://archive.org/search.php?query=mediatype:image&sort=-publicdate"
-                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
-                                                          <a href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a>                                                          <a href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a>                                                          <a href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a>                                                          <a href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a>                                                      </div>
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
-                                                  <div class="widgets">
-                            <center class="items_list">        <div class="items_list_img">
-          <a
-            href="https://archive.org/details/metropolitanmuseumofart-gallery"
-            style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center>                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
-                                                  <div class="linx ">
-                                                          <h5>Top</h5>
-                                                                                      <a href="https://archive.org/details/nasa">NASA Images</a>                                                          <a href="https://archive.org/details/solarsystemcollection">Solar System Collection</a>                                                          <a href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a>                                                      </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
-                                                  <div class="widgets">
-                            <center class="items_list">        <div class="items_list_img">
-          <a
-            href="https://archive.org/details/brooklynmuseum"
-            style="background-image: url('https://archive.org/services/img/brooklynmuseum');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center>                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7">
-                                                  <div class="linx linx-topped">
-                                                                                  </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                    
-                  </div><!--/.row-->
-                                          </div><!--/#nav-tophat-->
-
-
-
-            <div class="navbar navbar-inverse navbar-static-top" role="navigation">
-              <div id="nav-tophat-helper" class="hidden-xs"></div>
-              <ul class="nav navbar-nav navbar-main">
-                                                    <li class="dropdown dropdown-ia pull-left">
-                    <a title="Web" class="navia-link web" data-top-kind="web"
-                      href="https://archive.org/web/" data-toggle="tooltip"
-                      target="_top" data-placement="bottom"><span class="iconochive-web"  aria-hidden="true"></span><span class="sr-only">web</span></a>
-                  </li>
-                                                    <li class="dropdown dropdown-ia pull-left">
-                    <a title="Texts" class="navia-link texts" data-top-kind="texts"
-                      href="https://archive.org/details/texts" data-toggle="tooltip"
-                      target="_top" data-placement="bottom"><span class="iconochive-texts"  aria-hidden="true"></span><span class="sr-only">texts</span></a>
-                  </li>
-                                                    <li class="dropdown dropdown-ia pull-left">
-                    <a title="Video" class="navia-link movies" data-top-kind="movies"
-                      href="https://archive.org/details/movies" data-toggle="tooltip"
-                      target="_top" data-placement="bottom"><span class="iconochive-movies"  aria-hidden="true"></span><span class="sr-only">movies</span></a>
-                  </li>
-                                                    <li class="dropdown dropdown-ia pull-left">
-                    <a title="Audio" class="navia-link audio" data-top-kind="audio"
-                      href="https://archive.org/details/audio" data-toggle="tooltip"
-                      target="_top" data-placement="bottom"><span class="iconochive-audio"  aria-hidden="true"></span><span class="sr-only">audio</span></a>
-                  </li>
-                                                    <li class="dropdown dropdown-ia pull-left">
-                    <a title="Software" class="navia-link software" data-top-kind="software"
-                      href="https://archive.org/details/software" data-toggle="tooltip"
-                      target="_top" data-placement="bottom"><span class="iconochive-software"  aria-hidden="true"></span><span class="sr-only">software</span></a>
-                  </li>
-                                                    <li class="dropdown dropdown-ia pull-left rightmost">
-                    <a title="Image" class="navia-link image" data-top-kind="image"
-                      href="https://archive.org/details/image" data-toggle="tooltip"
-                      target="_top" data-placement="bottom"><span class="iconochive-image"  aria-hidden="true"></span><span class="sr-only">image</span></a>
-                  </li>
-                
-                <li class="navbar-brand-li"><a class="navbar-brand" href="https://archive.org/"
-                  target="_top"><span class="iconochive-logo"  aria-hidden="true"></span><span class="sr-only">logo</span></a></li>
-
-                <li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
-                  <div class="container-fluid">
-                    <div class="navbar-header">
-                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-                              data-target="#nav-hamburger-menu" aria-expanded="false">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                      </button>
-                      <div class="navbar-collapse collapse" id="nav-hamburger-menu" aria-expanded="false">
-                            <ul id="" class="nav navbar-nav">
-      <li><a target="_top" data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/">ABOUT</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php">CONTACT</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org">BLOG</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects">PROJECTS</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php">HELP</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate">DONATE</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php">JOBS</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php">PEOPLE</a></li>
-    </ul>
-                          </div><!-- /.navbar-collapse -->
-                    </div>
-                  </div><!-- /.container-fluid -->
-                </li>
-
-
-
-
-                                  <li id="nav-search" class="dropdown dropdown-ia pull-right">
-                    <a href="https://archive.org/search.php"
-                      onclick="$(this).parents('#nav-search').find('form').submit(); return false"
-                      aria-hidden="true"
-                    ><span class="iconochive-search"  aria-hidden="true"></span><span class="sr-only">search</span></a>
-                    <div class="searchbar">
-                      <form
-                        class="search-form js-search-form"
-                        method="get"
-                        role="search"
-                        action="https://archive.org/searchresults.php"
-                        target="_top"
-                        data-event-form-tracking="TopNav|SearchForm"
-                        data-wayback-machine-search-url="https://web.archive.org/web/*/"
-                      >
-                        <input
-                          id="search-bar-2"
-                          class="js-search-bar"
-                          placeholder="Search"
-                          type="text"
-                          name="search"
-                          value=""
-                          aria-controls="navbar_search_options"
-                          aria-label="Search the Archive. Filters and Advanced Search available below."
-                        >
-
-                            <div
-              id="navbar_search_options"
-            class="search-options js-search-options"
-      aria-expanded="false"
-      aria-label="Search Options"
-      data-keep-open-when-changed="false"
-    >
-      <fieldset>
-                      <label>
-      <input
-        type="radio"
-        name="sin"
-        value=""
-                  checked
-                      >
-      <span>Search metadata</span>
-    </label>
-                          <label>
-      <input
-        type="radio"
-        name="sin"
-        value="TXT"
-                      >
-      <span>Search text contents</span>
-    </label>
-                          <label>
-      <input
-        type="radio"
-        name="sin"
-        value="TV"
-                      >
-      <span>Search TV news captions</span>
-    </label>
-                          <label>
-      <input
-        type="radio"
-        name="sin"
-        value="WEB"
-                      >
-      <span>Search archived web sites</span>
-    </label>
-                  </fieldset>
-
-              <a
-          href="https://archive.org/advancedsearch.php"
-          class="search-options__advanced-search-link"
-          onclick="return AJS.advanced_search(this)"
-        >Advanced Search</a>
-          </div>
-    
-                            <script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"05/04/2018"}</script>
-    
-                        <input type="submit" value="Search"/>
-                      </form>
-                    </div><!--/.searchbar -->
-                  </li>
-                
-                <li class="dropdown dropdown-ia pull-right">
-                  <a href="https://archive.org/create" _target="top" data-toggle="tooltip" data-placement="bottom"
-                     title="Upload"><span class="iconochive-upload"  aria-hidden="true"></span><span class="sr-only">upload</span></a>
-                </li>
-
-
-                <li class="dropdown dropdown-ia pull-right leftmost">
-                                      <a href="https://archive.org/account/login.php" style="padding-right:0" _target="top"
-                      ><span class="iconochive-person"  aria-hidden="true"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
-                                  </li>
-
-                              </ul>
-
-                  <ul id="nav-abouts" class="">
-      <li><a target="_top" data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/">ABOUT</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php">CONTACT</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org">BLOG</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects">PROJECTS</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php">HELP</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate">DONATE</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php">JOBS</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php">PEOPLE</a></li>
-    </ul>
-                </div><!--/.navbar-->
-          </div><!--#navwrap1-->
-        </div><!--#navwrap2-->
-
-        <!-- Begin page content -->
-        <main>
-          <div class="container container-ia">
-            <a name="maincontent" id="maincontent"></a>
-
-              <div class="box row">
-      <div class="iaform col-md-2"></div>
-      <div class="iaform col-md-8">
-
-      <h1 class="">Log In</h1>
-
-      
-      <form class="iaform" method="post">
-
-        <div class="formElement">
-          <label for="username">Email address</label><br/>
-          <input type="email" id="username" name="username" value="" autofocus="autofocus">
-        </div>
-
-        <div class="formElement">
-          <label for="password">Password</label><br/>
-          <input type="password" id="password" name="password" value="">
-        </div>
-
-        <div class="formElement">
-          <input type="checkbox" id="remember" name="remember" value="CHECKED" checked>
-          <label for="remember" class="regular">Remember me</label>
-        </div>
-
-        <div class="formElement">
-          <input name="referer" type="hidden" id="referer" value="">
-          <input name="action" type="hidden" value="login"/>
-          <input class="btn btn-primary" NAME="submit" TYPE="submit" id="submit" VALUE="Log in">
-        </div>
-      </form>
-
-      <a href="/account/login.forgotpw.php">Forgot your password?</a>
-      <br/>
-      <br/>
-      Don't have a virtual library card? <a href="/account/login.createaccount.php">Register for free</a>!
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20140626022208/http://www.idc.com/getdoc.jsp?containerId=prUS24239313', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20140626022208/http://www.idc.com/getdoc.jsp?containerId=prUS24239313&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.idc.com/getdoc.jsp?containerId=prUS24239313" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20140626022208" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20140327174951/http://www.idc.com/getdoc.jsp?containerId=prUS24239313" title="27 Mar 2014"><strong>Mar</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 02:22:08 Jun 26, 2014">JUN</td>
+		  <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20140826192626/http://www.idc.com/getdoc.jsp?containerId=prUS24239313" title="26 Aug 2014"><strong>Aug</strong></a></td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20140327174951/http://www.idc.com/getdoc.jsp?containerId=prUS24239313" title="17:49:51 Mar 27, 2014"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 02:22:08 Jun 26, 2014">26</td>
+		  <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20140826192626/http://www.idc.com/getdoc.jsp?containerId=prUS24239313" title="19:26:26 Aug 26, 2014"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2013</td>
+		  <td class="c" id="displayYearEl" title="You are here: 02:22:08 Jun 26, 2014">2014</td>
+		  <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20150805065952/http://www.idc.com:80/getdoc.jsp?containerId=prUS24239313" title="05 Aug 2015"><strong>2015</strong></a></td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20140626022208*/http://www.idc.com/getdoc.jsp?containerId=prUS24239313" title="See a list of every capture for this URL">50 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">27 Jul 2013 - 05 May 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
     </div>
   </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/webwidecrawl);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/webwidecrawl" target="_new"><span class="wm-title">Internet Archive</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  The Internet Archive discovers and captures web pages through many different web crawls.
 
-        </div><!--/.container-->
-      </main>
-    </div><!--/#wrap-->
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the <a href="http://archive.org/web/web.php">Wayback Machine</a>.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/wide00011)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/wide00011" target="_new"><span class="wm-title">Wide Crawl started June 2014</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Web wide crawl with initial seedlist and crawler configuration from June 2014.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","http://www.idc.com/getdoc.jsp?containerId=prUS24239313","2014-06-26",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <iframe style="display: none;" src="https://web.archive.org/web/20140626022208if_/https://cas.idc.com/sageValidate?site=idc&amp;service=http://www.idc.com/j_spring_cas_security_check?spring-security-redirect=/action/autologin.do"></iframe>
+
+                                     
+
+
+<!--[if lt IE 9]>
+  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="//web.archive.org/web/20140626022208js_/http://www.idc.com/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="//web.archive.org/web/20140626022208js_/http://www.idc.com/js/jquery.timers-1.2.js"></script>
+<script type="text/javascript" src="//web.archive.org/web/20140626022208js_/http://www.idc.com/js/jquery-ui-1.10.2.custom.js"></script>
+<script type="text/javascript" src="//web.archive.org/web/20140626022208js_/http://www.idc.com/js/idc.js"></script>  
+
     
-    <!-- Timing ...
-<<<<<<< HEAD
-     rendered on: www18.us.archive.org
-=======
-     rendered on: www28.us.archive.org
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
- seconds diff sec               message   stack(file:line:function)
-=========================================================
-  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/account/login.php:1:require
-                                             |common/ia:55:require_once
-                                             |setup.php:329:log
-  0.0002   0.0002   begin session_start   var/cache/petabox/petabox/www/sf/account/login.php:46:session_start
-                                             |common/Cookies.inc:61:log
-<<<<<<< HEAD
-  0.0024   0.0023    done session_start   var/cache/petabox/petabox/www/sf/account/login.php:46:session_start
-                                             |common/Cookies.inc:67:log
-  0.0025   0.0001   begin session_start   var/cache/petabox/petabox/www/sf/account/login.php:60:logout
-                                             |common/Cookies.inc:45:session_start
-                                             |Cookies.inc:61:log
-  0.0025   0.0000    done session_start   var/cache/petabox/petabox/www/sf/account/login.php:60:logout
-                                             |common/Cookies.inc:45:session_start
-                                             |Cookies.inc:67:log
-  0.0027   0.0003   begin session_start   var/cache/petabox/petabox/www/sf/account/login.php:64:head
-                                             |common/Nav.inc:67:__construct
-                                             |Nav.inc:135:session_start
-                                             |Cookies.inc:61:log
-  0.0028   0.0001    done session_start   var/cache/petabox/petabox/www/sf/account/login.php:64:head
-                                             |common/Nav.inc:67:__construct
-                                             |Nav.inc:135:session_start
-                                             |Cookies.inc:67:log
-  0.1153   0.1125              bug dump   var/cache/petabox/petabox/www/sf/account/login.php:138:footer
-=======
-  0.0035   0.0033    done session_start   var/cache/petabox/petabox/www/sf/account/login.php:46:session_start
-                                             |common/Cookies.inc:67:log
-  0.0036   0.0001   begin session_start   var/cache/petabox/petabox/www/sf/account/login.php:60:logout
-                                             |common/Cookies.inc:45:session_start
-                                             |Cookies.inc:61:log
-  0.0037   0.0001    done session_start   var/cache/petabox/petabox/www/sf/account/login.php:60:logout
-                                             |common/Cookies.inc:45:session_start
-                                             |Cookies.inc:67:log
-  0.0039   0.0003   begin session_start   var/cache/petabox/petabox/www/sf/account/login.php:64:head
-                                             |common/Nav.inc:67:__construct
-                                             |Nav.inc:135:session_start
-                                             |Cookies.inc:61:log
-  0.0040   0.0001    done session_start   var/cache/petabox/petabox/www/sf/account/login.php:64:head
-                                             |common/Nav.inc:67:__construct
-                                             |Nav.inc:135:session_start
-                                             |Cookies.inc:67:log
-  0.0400   0.0360              bug dump   var/cache/petabox/petabox/www/sf/account/login.php:138:footer
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-                                             |common/setup.php:130:footer
-                                             |Nav.inc:1392:dump
-                                             |Bug.inc:120:log
-    -->
+    <script type="text/javascript" src="//web.archive.org/web/20140626022208js_/http://www.idc.com/js/slideshow.js"></script>
+    
+    
+    <script type="text/javascript" src="//web.archive.org/web/20140626022208js_/http://www.idc.com/dwr/engine.js"></script>
+    <script type="text/javascript" src="//web.archive.org/web/20140626022208js_/http://www.idc.com/dwr/util.js"></script>
+    <script type="text/javascript" src="//web.archive.org/web/20140626022208js_/http://www.idc.com/dwr/interface/DwrHandler.js"></script>
+    <script language="JavaScript" type="text/JavaScript">
+    
+        <!--
+        function MM_jumpMenu(targ, selObj, restore) { //v3.0
+            eval(targ + ".location='" + selObj.options[selObj.selectedIndex].value + "'");
+            if (restore) selObj.selectedIndex = 0;
+        }
+        //-->
+    </script>
+    
     <script type="text/javascript">
-if (window.archive_analytics) {
-  var vs = window.archive_analytics.get_data_packets();
-  for (var i in vs) {
-    vs[i]['cache_bust']=Math.random();
-<<<<<<< HEAD
-    vs[i]['server_ms']=115;
-    vs[i]['server_name']="www18.us.archive.org";
-=======
-    vs[i]['server_ms']=39;
-    vs[i]['server_name']="www28.us.archive.org";
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-      }
+        $(document).ready(function () {
+          $('.navigation li a').click(function () {
+                var title = $(this).attr('title');
+                $('h2').text(title);
+                return false;
+            });           
+        });      
+    </script>       
 
-  if ($(".more_search").size()>0) {
-    window.archive_analytics.send_scroll_fetch_base_event();
-  }
-}
+
+    
+
+
+
+
+
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//web.archive.org/web/20140626022208/http://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-36996480-2', 'idc.com');
+ga('send', 'pageview');
+</script>
+
+
+
+
+  <link rel="stylesheet" type="text/css" href="//web.archive.org/web/20140626022208cs_/http://www.idc.com/css/header.css"/>
+  <link rel="stylesheet" type="text/css" href="//web.archive.org/web/20140626022208cs_/http://www.idc.com/css/social-media.css"/>
+  <link rel="stylesheet" type="text/css" href="//web.archive.org/web/20140626022208cs_/http://www.idc.com/styles/form.css"/>
+
+
+<!-- Container div for sticky footer -->
+<div id="stickyFooter">
+    
+<header id="page-header">
+
+  <nav id="insights">
+    <ul>
+      <li class="idc active"><a href="https://web.archive.org/web/20140626022208/http://www.idc.com/">IDC HOME</a></li>
+      <li class="ei"><a href="//web.archive.org/web/20140626022208/http://www.idc.com/prodserv/insights/energy/index.jsp">ENERGY</a></li>
+      <li class="fi"><a href="//web.archive.org/web/20140626022208/http://www.idc.com/prodserv/insights/financial/index.jsp">FINANCIAL</a></li>
+      <li class="gi"><a href="//web.archive.org/web/20140626022208/http://www.idc.com/prodserv/insights/government/index.jsp">GOVERNMENT</a></li>
+      <li class="hi"><a href="//web.archive.org/web/20140626022208/http://www.idc.com/prodserv/insights/health/index.jsp">HEALTH</a></li>
+      <li class="mi"><a href="//web.archive.org/web/20140626022208/http://www.idc.com/prodserv/insights/manufacturing/index.jsp">MANUFACTURING</a></li>
+      <li class="ri"><a href="//web.archive.org/web/20140626022208/http://www.idc.com/prodserv/insights/retail/index.jsp">RETAIL</a></li>
+    </ul>
+    
+    <p id="cart-help">
+        <a href="//web.archive.org/web/20140626022208/http://www.idc.com/idcstore/cart.jsp" class="cart" title="Shopping Cart">Shopping Cart</a>
+        <a href="//web.archive.org/web/20140626022208/http://www.idc.com/homex/helpindex.jsp" class="help" title="Need Help?">Need Help?</a>
+    </p>       
+  </nav>
+  
+  <div class="idc-header-main">
+  <div id="header-in">
+      <a class="idclogo" href="//web.archive.org/web/20140626022208/http://www.idc.com/" id="logo" title="Go to homepage">IDC</a>
+  
+      <div id="searchInput">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+<form name="basicSearchForm" id="header-search" action="//web.archive.org/web/20140626022208/http://www.idc.com/search/simple/perform.do" autocomplete="off" method="get" onsubmit="sendSearch()">
+    <div class="searchbar">
+        <input name="query" id="query" type="text" maxlength="2000"/>
+        <input type="submit" class="search-btn" type="button"/>
+        <input type="hidden" name="lang"/>
+    </div>
+    <div class="adv-link">
+        <button type="button" onclick="location.href='//web.archive.org/web/20140626022208/http://www.idc.com/search/advanced/form.do'">Advanced Search</button>
+    </div>
+
+    <div class="styled-select">
+        <span id="selectedLanguage">English</span>
+        <ul class="language">
+            <li>Any language</li>
+            
+                <li>Chinese</li>
+            
+                <li>English</li>
+            
+                <li>French</li>
+            
+                <li>German</li>
+            
+                <li>Italian</li>
+            
+                <li>Japanese</li>
+            
+                <li>Korean</li>
+            
+                <li>Portuguese</li>
+            
+                <li>Russian</li>
+            
+                <li>Spanish</li>
+            
+        </ul>
+    </div>
+</form>
+
+<script type="text/javascript" src="//web.archive.org/web/20140626022208js_/http://www.idc.com/js/autocomplete.js"></script>
+<script>
+    function sendSearch() {
+        var selectedLanguage = $('#selectedLanguage').text();
+        if(selectedLanguage == 'Any language'){
+            selectedLanguage = "";
+        }
+        $(".searchbar input[type=hidden]").val(selectedLanguage);
+        document.basicSearchForm.submit();
+    }
+
+    // Search Bar dropdown language selection
+    function DropDown(el) {
+        this.dd = el;
+        this.placeholder = this.dd.children('span');
+        this.opts = this.dd.find('ul.language > li');
+        this.val = '';
+        this.index = -1;
+        this.initEvents();
+    }
+    DropDown.prototype = {
+        initEvents : function() {
+            var obj = this;
+
+            obj.dd.on('click', function(event){
+                $(this).toggleClass('active');
+                return false;
+            });
+
+            obj.opts.on('click',function(){
+                var opt = $(this);
+                obj.val = opt.text();
+                obj.index = opt.index();
+                obj.placeholder.text(obj.val);
+            });
+        },
+        getValue : function() {
+            return this.val;
+        },
+        getIndex : function() {
+            return this.index;
+        }
+    }
+
+    $(function() {
+
+        var dd = new DropDown( $('.styled-select') );
+
+        $(document).click(function() {
+            // all dropdowns
+            $('.styled-select').removeClass('active');
+        });
+
+    });
+</script>
+      </div>  
+        
+      <div id="reg-login">
+        
+
+
+
+
+
+
+
+<p>
+
+    
+    
+        
+        
+        <div class="login-link">
+            <a href="//web.archive.org/web/20140626022208/http://www.idc.com/action/login.do?successUrl=http%3A%2F%2Fwww.idc.com%2Fgetdoc.jsp%3FcontainerId%3DprUS24239313">Login</a>
+        </div>
+        <strong>
+            <a href="//web.archive.org/web/20140626022208/http://www.idc.com/action/register.do">Register</a>
+        </strong>
+
+    
+
+</p>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+
+        $("#loggedUser").click(function() {
+            var X=$(this).attr('id');
+            if(X==1)
+            {
+                $(".loginInfo").hide();
+                $(this).attr('id', '0');
+            }
+            else
+            {
+                $(".loginInfo").show();
+                $(this).attr('id', '1');
+            }
+        });
+
+        //Mouse click on sub menu
+        $(".loginInfo").mouseup(function() {
+            return false
+        });
+
+        //Mouse click on my account link
+        $("#loggedUser").mouseup(function() {
+            return false
+        });
+
+
+        //Document Click
+        $('body').mouseup(function() {
+            $(".loginInfo").hide();
+            $("#loggedUser").attr('id', '');
+        });
+
+        //Document Click for iPad
+        $(document).bind( 'touchstart', function(e){
+            $(".loginInfo").hide();
+            $("#loggedUser").attr('id', '');
+        });
+        $('.loginInfo').on('touchstart', function(e){
+            e.stopPropagation();
+        });
+
+    });
 </script>
       </div>
-  </body>
-</html>
+  </div>
+  
+  
+  <nav id="main-menu" class="clearfix">
+      <ul>
+        <li class="tab active">
+          <a href="//web.archive.org/web/20140626022208/http://www.idc.com/home.jsp" name="&amp;lid=HOME_Header">Home</a>
+        </li>
+        <li class="tab">
+          <a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/about.jsp" name="&amp;lid=About_IDC_Header">About IDC</a>
+          
+
+
+<ul>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/methodology.jsp">Methodology</a></li>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/management.jsp">Management</a></li>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/wwoffices.jsp">Worldwide Offices</a></li>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/careers.jsp">Careers at IDC</a></li>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/press.jsp">IDC Media Center</a></li>
+</ul>
+        </li>
+        <li class="tab">
+          <a href="//web.archive.org/web/20140626022208/http://www.idc.com/analysts/analysthome.jsp" name="&amp;lid=ANALYSTS_Header">Analysts</a>
+          
+
+
+<ul>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/analysts/appearrequest.jsp">Request Appearance</a></li>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/analysts/viewanalystteams.jsp">Analyst Teams</a></li>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/analysts/twitter/twitter.jsp">Analysts on Twitter</a></li>
+</ul>
+        </li>
+        <li class="tab">
+          <a href="//web.archive.org/web/20140626022208/http://www.idc.com/prodserv/prodserv.jsp" name="&amp;lid=PRODUCT_SERVICES_Header">Products + Services</a>
+          
+
+
+<ul>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/search/simple/perform.do?sortBy=DATE&amp;lpr=3M&amp;lp=1&amp;cg=5_1805&amp;cg=5_1282&amp;cg=5_1290&amp;cg=5_1286&amp;cg=5_1287&amp;cg=5_1284&amp;cg=5_1285&amp;cg=5_1291&amp;cg=5_1294&amp;cg=5_1293&amp;cg=5_1288&amp;cg=5_1289&amp;cg=5_1804">New Research</a></li>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/prodserv/subservices.jsp">Subscription Services</a></li>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/contact_repsales.jsp">Contact Sales</a></li>
+</ul>
+        </li>
+        <li class="tab">
+          <a href="//web.archive.org/web/20140626022208/http://www.idc.com/events/eventshome.jsp" name="&amp;lid=EVENTS_Header">Events</a>
+          
+
+
+<ul>
+  <li><a href="https://web.archive.org/web/20140626022208/http://www.ap.idc.asia/events/" target="_blank">Asia/Pacific</a></li>
+  <li><a href="https://web.archive.org/web/20140626022208/http://idc-cema.com/eng/events/overview" target="_blank">CEMA</a></li>
+  <li><a href="https://web.archive.org/web/20140626022208/http://www.idclatin.com/events/" target="_blank">Latin America</a></li>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/events/eventsbrowseres.jsp?selEventType=&amp;selEventRegion=North+America&amp;selEventCountry=&amp;sortSource=Date&amp;numPerPage=5&amp;x=49&amp;y=12">North America</a></li>
+  <li><a href="https://web.archive.org/web/20140626022208/http://uk.idc.com/western-europe-events/eventshome.jsp" target="_blank">Western Europe</a></li>
+</ul>
+        </li>
+        <li class="tab">
+          <a href="//web.archive.org/web/20140626022208/http://www.idc.com/contact/contactidc.jsp" name="&amp;lid=CONTACT_Header">Contact Us</a>
+        </li>      
+        <li class="myidc">
+          <a href="//web.archive.org/web/20140626022208/http://www.idc.com/myidc/myproducts.jsp" name="&amp;lid=MyIDC_Header">My IDC</a>
+          
+
+
+
+
+
+<ul>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/myidc/myproducts.jsp">My Products</a></li>
+  
     
+      <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/myidc/myalerts.jsp">My Alerts</a></li>
+    
+  
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/myidc/bookcase.jsp">My Bookcase</a></li>
+  
+    
+      <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/myidc/editpreferences.jsp">My Preferences</a></li>
+    
+  
+  
+  
+  
+</ul>
+        </li>
+        <div class="localsites-drop"> 
+  <a class="ls-link">Local Sites</a>
+  <ul id="localsites"> 
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com.sg/" name="&amp;lid=CS_Asia/Pacific">Asia/Pacific</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com.au/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Australia</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com.cn/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;China</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com.sg/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hong Kong</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idcindia.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;India</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com.my/indonesia">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indonesia</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idckorea.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Korea</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com.my/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Malaysia</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idcresearch.co.nz/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New Zealand</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com.my/philippines">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Philippines</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com.sg/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com.tw/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Taiwan</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.co.th/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thailand</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com.sg/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vietnam</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.ca/">Canada</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc-cema.com/">Central &amp; Eastern Europe</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idcukraine.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Belarus</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc-cema.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bulgaria</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc-adriatics.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Croatia</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc-czech.cz/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Czech Republic</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc-cema.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greece</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idchungary.hu/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hungary</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com/kazakhstan">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kazakhstan</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idcpoland.pl/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Poland</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc-cema.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Romania</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com/russia">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Russia</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc-adriatics.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Serbia</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc-czech.cz/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Slovakia</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc-adriatics.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Slovenia</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idcukraine.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ukraine</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idcjapan.co.jp/">Japan</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idclatin.com/">Latin America</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idclatin.com/argentina">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Argentina</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idclatin.com/brasil">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brazil</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idclatin.com/chile">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chile</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idccolombia.com.co/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Colombia</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idclatin.com/mexico">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mexico</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idclatin.com/peru/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Peru</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idclatin.com/venezuela">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Venezuela</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc-cema.com/">Middle East and Africa</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc-cema.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gulf States/UAE</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.co.il/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Israel</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc-cema.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;South Africa</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc-cema.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Turkey</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com/home.jsp">United States</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com/home.jsp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IDC Corporate USA</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com/home.jsp">Western Europe</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc-austria.at/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Austria</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idcbenelux.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Benelux</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com/nordic/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Denmark</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com/nordic/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finland</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com/france/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;France</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.de/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Germany</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com/italy/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Italy</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com/nordic/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Norway</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com/portugal/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portugal</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com/spain/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spain</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://www.idc.com/nordic/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sweden</a></li>
+    <li><a href="https://web.archive.org/web/20140626022208/http://uk.idc.com/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;United Kingdom</a></li>
+  </ul>
+</div>  
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+  $(".ls-link").click(function() {
+    var X=$(this).attr('id');
+    if(X==1)
+    {
+      $("#localsites").hide();
+      $(this).attr('id', '0'); 
+    }
+    else
+    {
+      $("#localsites").show();
+      $(this).attr('id', '1');
+    }
+  });
+
+  //Mouse click on sub menu
+  $("#localsites").mouseup(function() {
+    return false
+  });
+
+  //Mouse click on my account link
+  $(".ls-link").mouseup(function() {
+    return false
+  });
+
+
+  //Document Click
+  $(document).mouseup(function() {
+    $("#localsites").hide();
+    $(".ls-link").attr('id', '');
+  });
+  
+  //Document Click for iPad
+  $(document).bind( 'touchstart', function(e){
+    $("#localsites").hide();
+    $(".ls-link").attr('id', '');
+  });
+  $('#localsites').on('touchstart', function(e){ 
+    e.stopPropagation();
+  });
+  
+}); 
+</script> 
+      </ul>
+  </nav>
+    
+    <div id="idc-message" class="subnav">
+      <p id="voiceOfIdc"></p>
+      <p id="industryWatch" style="color:red"></p>
+      <div id="subnav-onpage">
+        <div class="">
+          
+
+
+<ul>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/methodology.jsp">Methodology</a></li>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/management.jsp">Management</a></li>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/wwoffices.jsp">Worldwide Offices</a></li>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/careers.jsp">Careers at IDC</a></li>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/press.jsp">IDC Media Center</a></li>
+</ul>
+        </div>
+        <div class="">
+          
+
+
+<ul>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/analysts/appearrequest.jsp">Request Appearance</a></li>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/analysts/viewanalystteams.jsp">Analyst Teams</a></li>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/analysts/twitter/twitter.jsp">Analysts on Twitter</a></li>
+</ul>
+        </div>
+        <div class="">
+          
+
+
+<ul>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/search/simple/perform.do?sortBy=DATE&amp;lpr=3M&amp;lp=1&amp;cg=5_1805&amp;cg=5_1282&amp;cg=5_1290&amp;cg=5_1286&amp;cg=5_1287&amp;cg=5_1284&amp;cg=5_1285&amp;cg=5_1291&amp;cg=5_1294&amp;cg=5_1293&amp;cg=5_1288&amp;cg=5_1289&amp;cg=5_1804">New Research</a></li>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/prodserv/subservices.jsp">Subscription Services</a></li>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/contact_repsales.jsp">Contact Sales</a></li>
+</ul>
+        </div>
+        <div class="">
+          
+
+
+<ul>
+  <li><a href="https://web.archive.org/web/20140626022208/http://www.ap.idc.asia/events/" target="_blank">Asia/Pacific</a></li>
+  <li><a href="https://web.archive.org/web/20140626022208/http://idc-cema.com/eng/events/overview" target="_blank">CEMA</a></li>
+  <li><a href="https://web.archive.org/web/20140626022208/http://www.idclatin.com/events/" target="_blank">Latin America</a></li>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/events/eventsbrowseres.jsp?selEventType=&amp;selEventRegion=North+America&amp;selEventCountry=&amp;sortSource=Date&amp;numPerPage=5&amp;x=49&amp;y=12">North America</a></li>
+  <li><a href="https://web.archive.org/web/20140626022208/http://uk.idc.com/western-europe-events/eventshome.jsp" target="_blank">Western Europe</a></li>
+</ul>
+        </div>
+        <div class="">
+          
+
+
+
+
+
+<ul>
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/myidc/myproducts.jsp">My Products</a></li>
+  
+    
+      <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/myidc/myalerts.jsp">My Alerts</a></li>
+    
+  
+  <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/myidc/bookcase.jsp">My Bookcase</a></li>
+  
+    
+      <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/myidc/editpreferences.jsp">My Preferences</a></li>
+    
+  
+  
+  
+  
+</ul>
+        </div>
+      </div>          
+    </div>  
+  </div>
+  
+</header>
+
+<!-- Main content div -->
+<div id="main">
+
+<div id="getdoc">
+
+  <div class="left-container">
+    
+
+
+
+
+
+
+
+
+
+ 
+ 
+         
+   
+   
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+<span class="newpageTitle">Press Release<br>
+      <img src="https://web.archive.org/web/20140626022208im_/http://cdn.idc.com/images/lines/hdots300px.gif" alt="dotted lines" width="300" height="5"> <br>
+      <br>
+      </span>
+
+
+      <span class="bodybkbd">Growth Accelerates in the Worldwide Mobile Phone and Smartphone Markets in the Second Quarter, According to IDC</span>
+      <br><br>
+      25 Jul 2013
+      <br>
+
+      <!-- BEGIN PRESSRELEASE -->
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+         
+
+         
+
+
+                
+<p><strong>FRAMINGHAM, Mass. July 25, 2013</strong> – The worldwide mobile phone market grew 6.0% year over year in the second quarter of 2013 (2Q13). According to the International Data Corporation (<a href="https://web.archive.org/web/20140626022208/http://www.idc.com/">IDC</a>) <a href="https://web.archive.org/web/20140626022208/http://www.idc.com/tracker/showproductinfo.jsp?prod_id=37">Worldwide Quarterly Mobile Phone Tracker</a>, vendors shipped a total of 432.1 million mobile phones in 2Q13 compared to 407.7 million units in the second quarter of 2012. The 2Q13 total was also slightly higher than the 428.8 million units shipped in the first quarter of 2013. </p> 
+<p>The growth in the mobile phone market was partly driven by vendors from outside the Top 5 who experienced torrid shipment growth that outpaced the overall market. Several vendors, including Alcatel and Huawei, had high double- and triple-digit growth rates in the second quarter for their Android-based offerings shipped to high-growth countries such as China and India. In 2Q13, these vendors from outside the Top 5 accounted for 44.8% of the overall shipment volume, up from 42.2% in the same quarter one year ago. </p> 
+<p>In the worldwide smartphone market, vendors shipped 237.9 million units in 2Q13 compared to the 156.2 million units shipped in 2Q12. This represents 52.3% year-over-year-growth, the highest annual growth rate in five quarters. Second quarter shipments were up 10.0% when compared to the 216.3 million units shipped in 1Q13.</p> 
+<p>"The smartphone market is still a rising tide that's lifting many ships," said <a href="https://web.archive.org/web/20140626022208/http://www.idc.com/analysts/viewanalystprofile.jsp?containerId=PRF000329">Kevin Restivo</a>, Senior Research Analyst with IDC's <a href="https://web.archive.org/web/20140626022208/http://www.idc.com/getdoc.jsp?containerId=IDC_P8397">Worldwide Quarterly Mobile Phone Tracker</a>. "Though Samsung and Apple are the dominant players, the market is as fragmented as ever. There is ample opportunity for smartphone vendors with differentiated offerings." </p> 
+<p>"Market opportunities exist at all levels, including the high end," says <a href="https://web.archive.org/web/20140626022208/http://www.idc.com/getdoc.jsp?containerId=PRF002081">Ramon Llamas</a>, Research Manager with IDC's <a href="https://web.archive.org/web/20140626022208/http://www.idc.com/getdoc.jsp?containerId=IDC_P1600">Mobile Phone</a> team. "While Samsung and Apple accounted for significant share of the overall market, they were not the only vendors active in the high end of the market, and recent device introductions and upcoming launches signal more vendors targeting this space. Comparisons will certainly be made to the flagship Galaxy and iPhone models, but clearly the competition refuses to be shut out altogether.</p> 
+<p>"The opposite end of the spectrum is just as, if not more, interesting," added Llamas. "Lower-priced smartphones continue to gain traction, but the key for vendors will be to keep prices low while still offering premium devices and services. We fully expect to see large-screen smartphones and other flagship devices establish a presence within the lower-priced smartphone segment as well."</p> 
+<p><strong><em>Smartphone Vendor Highlights</em></strong></p> 
+<p><strong>Samsung</strong>, on the heels of its Galaxy S4 launch during the quarter, saw its volumes reach new levels and accounted for nearly a third of the entire smartphone market. Not to be overlooked is the continued success of its Galaxy S III smartphones, which saw renewed interest following discounted prices in advance of the Galaxy S4 launch. By the end of the quarter, Samsung more than doubled the total volumes of the next largest vendor, and shipped more units than the next four vendors combined. </p> 
+<p><strong>Apple</strong> posted its second-lowest year-over-year iPhone growth rate in almost four years as some buyers presumably held off on iPhone purchases in advance of an expected next-generation device launch this fall. Nonetheless, the 31.2 million iPhones Apple shipped last quarter was impressive as its flagship iPhone 5 model, which has been in the market for three quarters, was faced with additional global competition in the form of Samsung's Galaxy S4 and HTC's critically-acclaimed One models. Apple's growth is likely to accelerate globally assuming it launches a lower-cost iPhone and continues to penetrate prepaid markets in the quarters to come.</p> 
+<p><strong>LG </strong>sustained its momentum from the first quarter of 2013 with total shipments more than double the volume from a year ago for the second consecutive quarter and staying slightly ahead of the competition to retain the number 3 position. More importantly, the company realized a profit from its steady diet of Android-powered smartphones, a feat that very few Android vendors have been able to realize. Now that LG has reinvigorated its product portfolio with the Nexus 4 and the Optimus G Pro, the company is aiming to branch out further into the high end with its upcoming G2, and into the mass market with its L-Series II and F-Series smartphones.</p> 
+<p><strong>Lenovo</strong> returned to the smartphone Top 5 after a two-quarter absence, reaching double-digit shipments in the process. Its volume for the quarter was driven in large part by shipments to 3G operators in China where it is based. A variety of its LePhone brand family phones, such as the A728t, were among its popular models last quarter. Lenovo hopes to build on its recent success with international diversification efforts that will lead it to regions like Latin America in coming quarters.</p> 
+<p><strong>ZTE</strong> finished among the smartphone leaders for the fourth straight quarter thanks to its success in the Asia/Pacific region. ZTE hopes to remain a smartphone stalwart, which is why it has set a goal of 50 million smartphone shipments this year. The company is trying to reach its goal in part by selling 11 LTE-enabled smartphones. Also, ZTE is selling higher-cost products in a wider variety of countries including India where it recently launched six new smartphones, such as the Grand X, this month.</p> 
+<br></br> 
+
+              <br><br>
+                
+                    <b>Top Five Smartphone Vendors, Shipments, and Market Share, 2013 Q2 (Units in Millions)                  </b><br> 
+                    
+                <table border="1"> 
+ <tbody> 
+   
+  <tr> 
+   <td width="125" valign="bottom"> <p><strong>Vendor</strong></p> </td> 
+   <td width="96" valign="bottom"> <p align="center"><strong>2Q13 Unit Shipments</strong></p> </td> 
+   <td width="96" valign="bottom"> <p align="center"><strong>2Q13 Market Share</strong></p> </td> 
+   <td width="96" valign="bottom"> <p align="center"><strong>2Q12 Unit Shipments</strong></p> </td> 
+   <td width="96" valign="bottom"> <p align="center"><strong>2Q12 Market Share</strong></p> </td> 
+   <td width="96" valign="bottom"> <p align="center"><strong>Year-over-year Change</strong></p> </td> 
+  </tr> 
+  <tr> 
+   <td width="125" valign="bottom" nowrap="nowrap"> <p>Samsung</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">72.4</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">30.4%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">50.3</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">32.2%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">43.9%</p> </td> 
+  </tr> 
+  <tr> 
+   <td width="125" valign="bottom" nowrap="nowrap"> <p>Apple</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">31.2</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">13.1%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">26.0</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">16.6%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">20.0%</p> </td> 
+  </tr> 
+  <tr> 
+   <td width="125" valign="bottom" nowrap="nowrap"> <p>LG</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">12.1</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">5.1%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">5.8</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">3.7%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">108.6%</p> </td> 
+  </tr> 
+  <tr> 
+   <td width="125" valign="bottom" nowrap="nowrap"> <p>Lenovo</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">11.3</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">4.7%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">4.9</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">3.1%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">130.6%</p> </td> 
+  </tr> 
+  <tr> 
+   <td width="125" valign="bottom" nowrap="nowrap"> <p>ZTE</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">10.1</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">4.2%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">6.4</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">4.1%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">57.8%</p> </td> 
+  </tr> 
+  <tr> 
+   <td width="125" valign="bottom" nowrap="nowrap"> <p>Others</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">100.8</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">42.4%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">62.8</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">40.2%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">60.5%</p> </td> 
+  </tr> 
+  <tr> 
+   <td width="125" valign="bottom" nowrap="nowrap"> <p>Total</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">237.9</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">100.0%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">156.2</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">100.0%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">52.3%</p> </td> 
+  </tr> 
+ </tbody> 
+</table>                
+              <br><br>
+                
+                
+ 
+<p>Source: IDC Worldwide Mobile Phone Tracker, July 25, 2013</p> 
+<p>Note: Data are preliminary and subject to change. Vendor shipments are branded shipments and exclude OEM sales for all vendors.</p> 
+<br></br> 
+<div style="position: relative;">
+ <link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20140626022208cs_/http://accounts.icharts.net/widget/assets/ichartwidget.css"></link> 
+ <iframe width="460" height="429" frameborder="0" src="https://web.archive.org/web/20140626022208if_/http://accounts.icharts.net/icharts/embed/M33SwiNE"></iframe> 
+ <div class="chartdetails" id="chartdetails170991">
+  <span>Chart: Worldwide Smartphone Vendors Market Share, 2013 Q2</span>
+  <span>Description: IDC's Worldwide Quarterly Mobile Phone Tracker provides smart phone and feature phone market data in 60 countries and 8 regions by vendor, device type, air interface, operating systems and platforms, and generation. Over 25 additional technical segmentations are provided. The data are provided four times a year and includes historical and forecast trend analysis. For more information, or to subscribe to the research, please contact Kathy Nagamine at 1-650-350-6423 or knagamine@idc.com. Further detail about this tracker can be found at: http://www.idc.com/tracker/showproductinfo.jsp?prod_id=37</span>
+  <span>Tags: </span>
+  <span>Author: <a href="www.idc.com/iCharts_Tracker/chartsapp.jsp">IDC</a></span>
+  <span><a href="https://web.archive.org/web/20140626022208/http://www.icharts.net/">charts powered by iCharts</a></span>
+ </div> 
+</div> 
+<p>This chart is intended for public use in online news articles and social media. Instructions on how to embed this graphic are available by <a href="https://web.archive.org/web/20140626022208/http://www.icharts.net/how-do-i-add-chart-idc-press-release-my-website-or-blog">clicking here</a>.</p> 
+<br></br> 
+
+              <br><br>
+                
+                    <b>Top Five Total Mobile Phone Vendors, Shipments, and Market Share, 2013 Q2 (Units in Millions)                  </b><br> 
+                    
+                <table border="1"> 
+ <tbody> 
+   
+  <tr> 
+   <td width="125" valign="bottom"> <p><strong>Vendor</strong></p> </td> 
+   <td width="96" valign="bottom"> <p align="center"><strong>2Q13 Unit Shipments</strong></p> </td> 
+   <td width="96" valign="bottom"> <p align="center"><strong>2Q13 Market Share</strong></p> </td> 
+   <td width="96" valign="bottom"> <p align="center"><strong>2Q12 Unit Shipments</strong></p> </td> 
+   <td width="96" valign="bottom"> <p align="center"><strong>2Q12 Market Share</strong></p> </td> 
+   <td width="96" valign="bottom"> <p align="center"><strong>Year-over-year Change</strong></p> </td> 
+  </tr> 
+  <tr> 
+   <td width="125" valign="bottom" nowrap="nowrap"> <p>Samsung</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">113.4</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">26.2%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">97.5</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">23.9%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">16.3%</p> </td> 
+  </tr> 
+  <tr> 
+   <td width="125" valign="bottom" nowrap="nowrap"> <p>Nokia</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">61.1</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">14.1%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">83.7</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">20.5%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">-27.0%</p> </td> 
+  </tr> 
+  <tr> 
+   <td width="125" valign="bottom" nowrap="nowrap"> <p>Apple</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">31.2</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">7.2%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">26.0</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">6.4%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">20.0%</p> </td> 
+  </tr> 
+  <tr> 
+   <td width="125" valign="bottom" nowrap="nowrap"> <p>LG</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">16.2</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">3.7%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">13.1</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">3.2%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">23.7%</p> </td> 
+  </tr> 
+  <tr> 
+   <td width="125" valign="bottom" nowrap="nowrap"> <p>ZTE</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">15.0</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">3.5%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">15.2</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">3.7%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">-1.1%</p> </td> 
+  </tr> 
+  <tr> 
+   <td width="125" valign="bottom" nowrap="nowrap"> <p>Others</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">195.2</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">45.2%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">172.2</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">42.2%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">13.4%</p> </td> 
+  </tr> 
+  <tr> 
+   <td width="125" valign="bottom" nowrap="nowrap"> <p>Total</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">432.1</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">100.0%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">407.7</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">100.0%</p> </td> 
+   <td width="96" valign="bottom" nowrap="nowrap"> <p align="right">6.0%</p> </td> 
+  </tr> 
+ </tbody> 
+</table>                
+              <br><br>
+                
+                
+ 
+<p>Source: IDC Worldwide Mobile Phone Tracker, July 25, 2013</p> 
+<p>Note: Data are preliminary and subject to change. Vendor shipments are branded shipments and exclude OEM sales for all vendors.</p> 
+<br></br> 
+<p><strong>About IDC Trackers</strong></p> 
+<p><a href="https://web.archive.org/web/20140626022208/http://www.idc.com/tracker/showtrackerhome.jsp">IDC Tracker</a> products provide accurate and timely market size, vendor share, and forecasts for hundreds of technology markets from more than 100 countries around the globe. Using proprietary tools and research processes, IDC's Trackers are updated on a semiannual, quarterly, and monthly basis. Tracker results are delivered to clients in user-friendly excel deliverables and on-line query tools. The IDC Tracker Charts app allows users to view data charts from the most recent IDC Tracker products on their <a href="https://web.archive.org/web/20140626022208/http://itunes.apple.com/us/app/idc-tracker-charts-for-iphone/id554894757">iPhone</a> and <a href="https://web.archive.org/web/20140626022208/http://itunes.apple.com/us/app/idc-tracker-charts-for-ipad/id555240756">iPad</a>.</p> 
+<p>For more information about IDC's Worldwide Quarterly Mobile Phone Tracker, please contact Kathy Nagamine at 650-350-6423 or knagamine@idc.com.</p> 
+<p><strong>About IDC</strong></p> 
+<p>IDC is the premier global provider of market intelligence, advisory services, and events for the information technology, telecommunications, and consumer technology markets. IDC helps IT professionals, business executives, and the investment community to make fact-based decisions on technology purchases and business strategy. More than 1,000 IDC analysts provide global, regional, and local expertise on technology and industry opportunities and trends in over 110 countries worldwide. For more than 49 years, IDC has provided strategic insights to help our clients achieve their key business objectives. IDC is a subsidiary of IDG, the world's leading technology media, research, and events company. You can learn more about IDC by visiting <a href="https://web.archive.org/web/20140626022208/http://www.idc.com/">www.idc.com</a>.</p> 
+<br></br>
+            
+        <br><br>
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="taxonomies copyBlock">
+    <!--
+    # of companies: 8
+    # of geographies: 1
+    # of topics: 5
+    # of vertical markets: 0
+    # of subServices: 0
+    -->
+
+    
+
+    
+        <h3>Companies Covered:</h3>
+
+        <p>
+            
+                <a href="/web/20140626022208/http://www.idc.com/search/simple/browse.do?company=ZTE Corporation">ZTE Corporation</a>,
+            
+                <a href="/web/20140626022208/http://www.idc.com/search/simple/browse.do?company= Apple Inc."> Apple Inc.</a>,
+            
+                <a href="/web/20140626022208/http://www.idc.com/search/simple/browse.do?company=Lenovo Group Limited">Lenovo Group Limited</a>,
+            
+                <a href="/web/20140626022208/http://www.idc.com/search/simple/browse.do?company=Huawei Technologies Co., Ltd.">Huawei Technologies Co., Ltd.</a>,
+            
+                <a href="/web/20140626022208/http://www.idc.com/search/simple/browse.do?company=LG Corp.">LG Corp.</a>,
+            
+                <a href="/web/20140626022208/http://www.idc.com/search/simple/browse.do?company=Nokia Corporation">Nokia Corporation</a>,
+            
+                <a href="/web/20140626022208/http://www.idc.com/search/simple/browse.do?company=Alcatel-Lucent">Alcatel-Lucent</a>,
+            
+                <a href="/web/20140626022208/http://www.idc.com/search/simple/browse.do?company=Samsung">Samsung</a>
+            
+        </p>
+    
+
+    
+        <h3>Regions Covered:</h3>
+
+        <p>
+            
+                <a href="/web/20140626022208/http://www.idc.com/search/geography/perform.do?geo=3_184">Worldwide</a>
+            
+        </p>
+    
+
+    
+        <h3>Topics Covered:</h3>
+
+        <p>
+            
+                <a href="/web/20140626022208/http://www.idc.com/search/topic/perform.do?top=4_727">Android</a>, 
+            
+                <a href="/web/20140626022208/http://www.idc.com/search/topic/perform.do?top=4_725">Feature phone</a>, 
+            
+                <a href="/web/20140626022208/http://www.idc.com/search/topic/perform.do?top=4_719">Mobile phone</a>, 
+            
+                <a href="/web/20140626022208/http://www.idc.com/search/topic/perform.do?top=4_726">Smartphone</a>, 
+            
+                <a href="/web/20140626022208/http://www.idc.com/search/topic/perform.do?top=4_701">iPad</a>
+            
+        </p>
+    
+
+    
+</div>
+                        
+
+      <br><br>
+      <p class="bluebar">Contact</p>
+      For more information, contact:<br><br>
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+ 
+         
+
+
+
+
+
+        Kevin Restivo<br>
+        <a href="https://web.archive.org/web/20140626022208/mailto:krestivo@idc.com">krestivo@idc.com</a><br>
+        416-673-2230<br>
+        <br><br>                        
+  	    
+        Ramon Llamas<br>
+        <a href="https://web.archive.org/web/20140626022208/mailto:rllamas@idc.com">rllamas@idc.com</a><br>
+        508-935-4736<br>
+        <br><br>                        
+  	    
+        Michael Shirer<br>
+        <a href="https://web.archive.org/web/20140626022208/mailto:press@idc.com">press@idc.com</a><br>
+        508-935-4200<br>
+        <br><br>                        
+  	    
+
+     
+
+      <!-- END PRESSRELEASE  -->
+
+  </div>
+  <div class="right-container">
+    
+
+
+	
+
+
+
+
+
+
+
+
+
+
+  <div class="blueheader">Related Links</div>
+
+  <div class="targeter">  
+    <a href="/web/20140626022208/http://www.idc.com/about/press_faq.jsp">Press FAQ</span></a>
+    <a href="/web/20140626022208/http://www.idc.com/about/contact_pressrel.jsp">Contact Press Relations</a></div>
+  </div>
+
+
+  </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<td colspan="3">
+
+
+
+
+
+
+
+<script src="//web.archive.org/web/20140626022208js_/http://www.idc.com/js/jquery.cookie.js"></script>
+
+<link rel="stylesheet" type="text/css" href="//web.archive.org/web/20140626022208cs_/http://www.idc.com/css/footer.css"/>
+
+  <!-- Closing div#Main -->
+  </div>
+<!-- Closing div#stickyFooter -->
+</div>
+
+
+<footer id="page-footer">
+    <nav id="footer-menu">
+        <ul>
+            <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/home.jsp" name="&amp;lid=Home_Footer">Home</a></li>
+            <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/about.jsp" name="&amp;lid=About_IDC_Footer">About IDC</a></li>
+            <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/analysts/analysthome.jsp" name="&amp;lid=Analysts_Footer">Analysts</a></li>
+            <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/prodserv/prodserv.jsp" name="&amp;lid=Product_Services_Footer">Products + Services</a></li>
+            <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/events/eventshome.jsp" name="&amp;lid=Events_Footer">Events</a></li>
+            <li><a href="//web.archive.org/web/20140626022208/http://www.idc.com/myidc/myproducts.jsp" name="&amp;lid=MyIDC_Footer">My IDC</a></li>
+        </ul>
+    </nav>
+    <div id="bottom">
+        <div class="address">
+          <address>
+            <strong>IDC Corporate USA</strong><br>
+            5 Speen Street<br>
+            Framingham, MA 01701<br>
+            <strong">+1.508.872.8200</strong>
+        </address>
+        </div>
+        <div class="center-links">
+            <p>
+                <a href="//web.archive.org/web/20140626022208/http://www.idc.com/contact/contactidc.jsp">Contact IDC</a> &#124;
+                <a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/rss.jsp">RSS/Feeds</a> &#124;
+                <a href="https://web.archive.org/web/20140626022208/http://www.twitter.com/IDC">Follow IDC on Twitter</a>
+                 &#124; 
+                <a id="sitePreferenceDesktop" href="#">Mobile Version</a>
+                    <script type="text/javascript">
+                        $("#sitePreferenceDesktop").attr("href", window.location.href + ( window.location.href.indexOf("?") != -1 ? "&" : "?") + "showSite=mobile");
+                        $("#sitePreferenceDesktop").click(function(event){ga('send','event','Switch_To_Mobile_Version',window.location.href);});
+                    </script>
+                
+            </p>
+
+            <!-- Social Media Share Icons -->
+            <div id="social-media-bar"><script src="//web.archive.org/web/20140626022208js_/http://platform.twitter.com/widgets.js" type="text/javascript"></script><script src="/web/20140626022208js_/http://www.idc.com/js/socialNetwork.js" type="text/javascript"></script><div id="btn"></div><div id="icons"><div class="share-Twitter"><a id="twitterShareUrl" style="display:block; height:24px;" alt="Tweet" target="_blank" onclick="logEventGA('Twitter')" href="#"><img src="/web/20140626022208im_/http://www.idc.com/images/socialNetworks/twitter24.png" border="0" alt="Tweet"/></a></div><div class="share-LinkedIn"><a id="linkedInShareUrl" style="display:block; height:24px;" alt="LinkedIn" target="_blank" onclick="logEventGA('LinkedIn')" href="#"><img src="/web/20140626022208im_/http://www.idc.com/images/socialNetworks/linkedin24.png" border="0" alt="LinkedIn"/></a></div><div class="share-fb"><a id="facebookShareUrl" style="display:block; height:24px;" alt="Facebook" target="_blank" onclick="logEventGA('Facebook')" href="#"><img src="/web/20140626022208im_/http://www.idc.com/images/socialNetworks/facebook24.png" border="0" alt="Facebook"/></a></div><div class="share-Google+"><a id="googlePlusShareUrl" style="display:block; height:24px;" alt="Google+" target="_blank" onclick="logEventGA('GooglePlus')" href="#"><img src="/web/20140626022208im_/http://www.idc.com/images/socialNetworks/googleplus24.png" border="0" alt="Google+"/></a></div><div class="addthis_toolbox addthis_32x32_style" style="height:24px; background-image: url('/web/20140626022208im_/http://www.idc.com/images/socialNetworks/more24.png');"><a class="addthis_button_compact"></a></div><script type="text/javascript">var addthis_config = {   'services_exclude': 'facebook,twitter,linkedin,google_plusone_share',   'ui_hover_direction': -1};$(document).ready(function() {   $.getScript('//web.archive.org/web/20140626022208/http://s7.addthis.com/js/300/addthis_widget.js', function() {       addthis.addEventListener('addthis.menu.share', function(evt) {logEventGA(evt.data.service);});   });});</script></div></div><div id="dock"></div>           
+            
+            <p>
+                <a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/careers.jsp" id="&amp;lid=Testing_Careers_Footer">Careers</a> &#124;
+                <a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/contact_custserv.jsp">Customer Service</a> &#124;
+                <a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/contact_repsales.jsp">Sales</a> &#124;
+                <a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/wwoffices.jsp">WW Offices</a> &#124;
+                <a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/reprints.jsp">Web Rights &amp; Licensing</a> &#124;
+                <a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/privacy.jsp">Privacy Policy</a> &#124;
+                <a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/termsofuse.jsp">Terms of Use</a> &#124;
+                <a href="//web.archive.org/web/20140626022208/http://www.idc.com/about/trademarks.jsp">Trademarks</a>
+            </p>
+        </div>
+        <div class="copyright">
+            Copyright 2014 IDC.<br/>
+            All rights reserved.
+    </div>
+
+</footer>
+
+
+<!-- iPad Popup -->
+
+
+
+
+<!-- search promo -->
+<script>
+    (function ($) {
+        $.fn.list_ticker = function (options) {
+
+            var defaults = {
+                speed: 4000,
+                effect: 'slide'
+            };
+
+            var options = $.extend(defaults, options);
+
+            return this.each(function () {
+
+                var obj = $(this);
+                var list = obj.children();
+                list.not(':first').hide();
+
+                setInterval(function () {
+
+                    list = obj.children();
+                    list.not(':first').hide();
+
+                    var first_li = list.eq(0)
+                    var second_li = list.eq(1)
+
+                    if (options.effect == 'slide') {
+                        first_li.slideUp();
+                        second_li.slideDown(function () {
+                            first_li.remove().appendTo(obj);
+                        });
+                    } else if (options.effect == 'fade') {
+                        first_li.fadeOut(function () {
+                            second_li.fadeIn();
+                            first_li.remove().appendTo(obj);
+                        });
+                    }
+                }, options.speed)
+            });
+        };
+    })(jQuery);
+
+    $(document).ready(function () {
+        $('#slide').list_ticker({
+            speed: 4000,
+            effect: 'slide'
+        });
+    })
+
+</script>
+
+<!-- search promo end -->
+
+
+<!--footer END-->
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+<!-- SiteCatalyst code version: H.24.3.
+Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="//web.archive.org/web/20140626022208js_/http://www.idc.com/js/sitecatalist.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+ the next lines. */
+s.pageName = ""
+s.server = ""
+s.channel = ""
+s.pageType = ""
+s.prop1 = ""
+s.prop2 = ""
+s.prop3 = ""
+s.prop4 = ""
+s.prop5 = ""
+/* Conversion Variables */
+s.campaign = ""
+s.state = ""
+s.zip = ""
+s.events = ""
+s.products = ""
+s.purchaseID = ""
+s.eVar1 = ""
+s.eVar2 = ""
+s.eVar3 = ""
+s.eVar4 = ""
+s.eVar5 = ""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code = s.t();
+if (s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if (navigator.appVersion.indexOf('MSIE') >= 0)document.write(unescape('%3C') + '\!-' + '-')
+//--></script>
+<noscript><img src="https://web.archive.org/web/20140626022208im_/https://idc.d2.sc.omtrdc.net/b/ss/idcdev/1/H.24.3--NS/0" height="1" width="1" border="0" alt=""/></noscript>
+<!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.24.3. -->
+
+      
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 02:22:08 Jun 26, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:55:38 May 24, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 471.658 (3)
+  esindex: 0.01
+  captures_list: 798.792
+  CDXLines.iter: 14.625 (3)
+  PetaboxLoader3.datanode: 671.472 (4)
+  exclusion.robots.fetch: 103.909 (4)
+  exclusion.robots: 106.652
+  exclusion.robots.policy: 1.937
+  RedisCDXSource: 197.921
+  PetaboxLoader3.resolve: 565.32 (2)
+  load_resource: 975.548
+-->

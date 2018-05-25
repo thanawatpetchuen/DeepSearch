@@ -4,7 +4,7 @@
 
 Category:Computers - Wikimedia Commons
 document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
-(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":14,"wgPageName":"Category:Computers","wgTitle":"Computers","wgCurRevisionId":297563090,"wgRevisionId":297563090,"wgArticleId":1039,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Interwiki from wikidata","Categories requiring permanent diffusion","Computing","Digital electronic devices","Mathematical tools"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Category:Computers","wgRelevantArticleId":1039,"wgRequestId":"WukgMApAADoAAF0CmNoAAABS","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgULSCurrentAutonym":"English","wgNoticeProject":"commons","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q6061304","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.Long-Image-Names-in-Categories":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.categoryTree.css":"ready","mediawiki.action.view.categoryPage.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.helplink":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready","ext.wikimediaBadges":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":14,"wgPageName":"Category:Computers","wgTitle":"Computers","wgCurRevisionId":297563090,"wgRevisionId":297563090,"wgArticleId":1039,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Interwiki from wikidata","Categories requiring permanent diffusion","Computing","Digital electronic devices","Mathematical tools"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Category:Computers","wgRelevantArticleId":1039,"wgRequestId":"WwZHsgpAAEIAACsQJ@sAAAAX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgULSCurrentAutonym":"English","wgNoticeProject":"commons","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q6061304","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.Long-Image-Names-in-Categories":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"loading","user.options":"ready","user.tokens":"loading","ext.categoryTree.css":"ready","mediawiki.action.view.categoryPage.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.helplink":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready","ext.wikimediaBadges":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.load("/w/load.php?debug=false\u0026lang=en\u0026modules=user\u0026skin=vector\u0026version=0um5hfh");mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });mw.loader.load(["mmv.head","mmv.bootstrap.autostart","ext.categoryTree","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Slideshow","ext.gadget.ZoomViewer","ext.gadget.CollapsibleTemplates","ext.gadget.fastcci","ext.gadget.UploadWizard","ext.gadget.Stockphoto","ext.gadget.WatchlistNotice","ext.gadget.AjaxQuickDelete","ext.gadget.WikiMiniAtlas","ext.gadget.LanguageSelect","ext.gadget.PictureOfTheYearEnhancements","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","skins.vector.js"]);});
 
 
@@ -44,7 +44,9 @@ From Wikimedia Commons, the free media repository
 
 
 
+
 This is a main category requiring frequent diffusion and maybe maintenance. As many pictures and media files as possible should be moved into appropriate subcategories.
+
 
 
  The article Computers on Wikipedia projects: (en) Computer ·
@@ -97,7 +99,7 @@ This category has the following 36 subcategories, out of 36 total.
 ►  Computers by type‎ (33 C)
 
 *
-►  People with computers‎ (8 C,  121 F)
+►  People with computers‎ (8 C,  123 F)
 
 ?
 ►  Unidentified computers‎ (66 F)
@@ -109,7 +111,7 @@ A
 ►  Animals with computers‎ (4 C)
 
 
-►  Computers in art‎ (5 C,  44 F)
+►  Computers in art‎ (5 C,  47 F)
 
 B
 ►  Books about computers‎ (4 C,  22 F)
@@ -130,13 +132,13 @@ D
 ►  Computer diagrams‎ (8 C, 1 P, 239 F)
 
 E
-►  Computer errors‎ (7 C,  19 F)
+►  Computer errors‎ (8 C,  19 F)
 
 F
 ►  Fictional computers‎ (3 C,  7 F)
 
 H
-►  Computer hardware‎ (49 C,  461 F)
+►  Computer hardware‎ (49 C,  473 F)
 
 
 ►  Computer hardware companies‎ (13 C,  4 F)
@@ -145,7 +147,7 @@ H
 ►  Historical computers‎ (35 C, 1 P, 109 F)
 
 I
-►  Information technology‎ (40 C,  394 F)
+►  Information technology‎ (41 C,  390 F)
 
 
 ►  Computer input‎ (5 C,  4 F)
@@ -172,13 +174,13 @@ O
 ►  Computer output‎ (3 C,  3 F)
 
 P
-►  Computer peripherals‎ (36 C, 1 P, 172 F)
+►  Computer peripherals‎ (36 C, 1 P, 171 F)
 
 
 ►  Phototypesetting‎ (34 F)
 
 S
-►  Computer shops‎ (7 C,  7 F)
+►  Computer shops‎ (7 C,  18 F)
 
 
 ►  Single-board computers‎ (31 C, 1 P, 102 F)
@@ -237,34 +239,6 @@ Aaimages.jpg
 
 Abandoned (3130539983).jpg
 2,747 × 2,185; 1.26 MB
-
-
-
-
-
-Abuzar Khan 10.jpg
-2,217 × 2,657; 1,019 KB
-
-
-
-
-
-Abuzar Khan 2.jpg
-1,361 × 1,897; 457 KB
-
-
-
-
-
-Abuzar Khan 3.jpg
-1,232 × 1,613; 165 KB
-
-
-
-
-
-Abuzar Khan.jpg
-749 × 1,016; 145 KB
 
 
 
@@ -391,6 +365,13 @@ Arifnaseem.png
 
 Armputer iitbombay.jpg
 670 × 867; 89 KB
+
+
+
+
+
+Arquitectura ILLIAC IV.png
+1,152 × 665; 141 KB
 
 
 
@@ -788,13 +769,6 @@ Buch NDR Klein Computer.JPG
 
 
 
-Bulldozer-module-diagram.png
-1,337 × 1,553; 165 KB
-
-
-
-
-
 Ca cartseq.gif
 193 × 184; 2 KB
 
@@ -1098,6 +1072,13 @@ COMPUTER GOD.png
 
 Computer in County of Orange offices, 1967.jpg
 1,743 × 1,323; 1,006 KB
+
+
+
+
+
+Computer Knowledge Blog.png
+1,024 × 2,306; 1.13 MB
 
 
 
@@ -1604,6 +1585,27 @@ Ensemble PC.jpg
 1,928 × 3,088; 1.72 MB
 
 
+
+
+
+Epic-Web-Systems.png
+221 × 105; 7 KB
+
+
+
+
+
+Epson QX10 Sep1983.jpg
+1,600 × 1,264; 219 KB
+
+
+
+
+
+Ermile-logo.png
+709 × 709; 172 KB
+
+
 (previous page) (next page)
  
 						Retrieved from "https://commons.wikimedia.org/w/index.php?title=Category:Computers&oldid=297563090"					
@@ -1701,7 +1703,7 @@ What links hereRelated changesSpecial pagesPermanent linkPage informationWikidat
 In Wikipedia
 
 
-АҧсшәаAcèhAfrikaansAlemannischአማርኛAragonésÆngliscالعربيةܐܪܡܝܐمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)‎БългарскиभोजपुरीBislamaবাংলাབོད་ཡིགবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiᨅᨔ ᨕᨘᨁᨗБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoTsetsêhestâheseکوردیQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiडोटेलीΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisFurlanFryskGaeilge贛語GàidhligGalegoAvañe'ẽ𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHausa客家語/Hak-kâ-ngîעבריתहिन्दीFiji HindiHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIgboIñupiakIlokanoIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ/inuktitut日本語PatoisLa .lojban.Basa JawaქართულიQaraqalpaqshaKabɩyɛKongoGĩkũyũҚазақшаភាសាខ្មែរಕನ್ನಡ한국어Къарачай-малкъарकॉशुर / کٲشُرRipoarischKurdîКомиKernowekКыргызчаLatinaLadinoLëtzebuergeschЛезгиLingua Franca NovaLimburgsLumbaartLingálaລາວLietuviųLatviešuमैथिलीMalagasyОлык марийМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorskOccitanLivvinkarjalaOromooଓଡ଼ିଆИронਪੰਜਾਬੀKapampanganPolskiPiemontèisپنجابیΠοντιακάپښتوPortuguêsRuna SimiRomaniRomânăРусскийРусиньскыйसंस्कृतम्Саха тылаSarduSicilianuScotsسنڌيDavvisámegiellaSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSesothoSeelterskBasa SundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeXitsongaТатарча/tatarçaУдмуртئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsWalonWinarayWolof吴语IsiXhosaმარგალურიייִדישYorùbáVahcuengh中文文言Bân-lâm-gú粵語IsiZulu 
+АҧсшәаAcèhAfrikaansAlemannischአማርኛAragonésÆngliscالعربيةܐܪܡܝܐمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)‎БългарскиभोजपुरीBislamaবাংলাབོད་ཡིགবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiᨅᨔ ᨕᨘᨁᨗБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoTsetsêhestâheseکوردیQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiडोटेलीΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiVõroFøroysktFrançaisFurlanFryskGaeilge贛語GàidhligGalegoAvañe'ẽ𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHausa客家語/Hak-kâ-ngîעבריתहिन्दीFiji HindiHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIgboIñupiakIlokanoIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ/inuktitut日本語PatoisLa .lojban.Basa JawaქართულიQaraqalpaqshaKabɩyɛKongoGĩkũyũҚазақшаភាសាខ្មែរಕನ್ನಡ한국어Къарачай-малкъарकॉशुर / کٲشُرRipoarischKurdîКомиKernowekКыргызчаLatinaLadinoLëtzebuergeschЛезгиLingua Franca NovaLimburgsLigureLumbaartLingálaລາວLietuviųLatviešuमैथिलीMalagasyОлык марийМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीनेपाल भाषाNederlandsNorsk nynorskNorskOccitanLivvinkarjalaOromooଓଡ଼ିଆИронਪੰਜਾਬੀKapampanganPolskiPiemontèisپنجابیΠοντιακάپښتوPortuguêsRuna SimiRomaniRomânăРусскийРусиньскыйसंस्कृतम्Саха тылаSarduSicilianuScotsسنڌيDavvisámegiellaSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSesothoSeelterskBasa SundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeXitsongaТатарча/tatarçaУдмуртئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsWalonWinarayWolof吴语IsiXhosaმარგალურიייִדישYorùbáVahcuengh中文文言Bân-lâm-gú粵語IsiZulu 
 Edit links 
 
 
@@ -1727,6 +1729,6 @@ Mobile view
 
 
 
-(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.292","walltime":"0.322","ppvisitednodes":{"value":5283,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":142599,"limit":2097152},"templateargumentsize":{"value":9748,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":582,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  222.561      1 -total"," 34.90%   77.672      1 Template:On_Wikipedia"," 28.79%   64.066      1 Template:Interwiki_from_wikidata"," 18.63%   41.469      1 Template:Translation_table","  9.94%   22.126      1 Template:Categorise","  9.83%   21.878      1 Template:Lan","  8.99%   20.015      1 Template:Autotranslate","  6.34%   14.118      1 Template:CategoryTOC","  5.05%   11.229      1 Template:Categorise/layout","  4.63%   10.298      1 Template:CategoryTOC-en"]},"scribunto":{"limitreport-timeusage":{"value":"0.057","limit":"10.000"},"limitreport-memusage":{"value":1879699,"limit":52428800}},"cachereport":{"origin":"mw1250","timestamp":"20180502005634","ttl":21600,"transientcontent":true}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":405,"wgHostname":"mw1263"});});
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.280","walltime":"0.313","ppvisitednodes":{"value":5234,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":142636,"limit":2097152},"templateargumentsize":{"value":9734,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":582,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  218.644      1 -total"," 37.52%   82.030      1 Template:On_Wikipedia"," 27.38%   59.855      1 Template:Interwiki_from_wikidata"," 19.95%   43.626      1 Template:Translation_table","  9.26%   20.257      1 Template:Lan","  8.28%   18.114      1 Template:Categorise","  7.55%   16.501      1 Template:Autotranslate","  5.71%   12.477      1 Template:CategoryTOC","  4.61%   10.083      1 Template:Categorise/layout","  4.03%    8.812      1 Template:Cmbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.051","limit":"10.000"},"limitreport-memusage":{"value":1877051,"limit":52428800}},"cachereport":{"origin":"mw1241","timestamp":"20180524000043","ttl":21600,"transientcontent":true}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":508,"wgHostname":"mw1271"});});
 
 

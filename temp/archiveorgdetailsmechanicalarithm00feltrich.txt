@@ -11,7 +11,7 @@
         <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
     <link href="/includes/redmond/jquery-ui-1.10.3.min.css" rel="stylesheet" type="text/css"/>
     <script src="/includes/jquery-ui-1.10.3.min.js?v1.10.3" type="text/javascript"></script>
-            <script src="//archive.org/includes/analytics.js?v=ef2507c" type="text/javascript"></script>
+            <script src="//archive.org/includes/analytics.js?v=4e7031f" type="text/javascript"></script>
 
     <script>
       'use strict';
@@ -24,18 +24,18 @@
       }
     </script>
         <script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
-    <script src="//archive.org/includes/polyfill.min.js?v=ef2507c" type="text/javascript"></script>
     <script src="https://archive.org/includes/node_modules/react/dist/react.min.js?v15.1.0" type="text/javascript"></script>
     <script src="https://archive.org/includes/node_modules/react-dom/dist/react-dom.min.js?v15.1.0" type="text/javascript"></script>
     <script src="https://archive.org/includes/node_modules/flot/jquery.flot.js?v1.1" type="text/javascript"></script>
     <script src="https://archive.org/includes/node_modules/flot/jquery.flot.time.js?v1.1" type="text/javascript"></script>
-    <script src="https://archive.org/includes/playset.min.js?v=ef2507c" type="text/javascript"></script>
-    <script src="https://archive.org/includes/archive.min.js?v=ef2507c" type="text/javascript"></script>
+    <script src="https://archive.org/includes/playset.min.js?v=4e7031f" type="text/javascript"></script>
+    <script src="https://archive.org/includes/polyfill.min.js?v=4e7031f" type="text/javascript"></script>
+    <script src="https://archive.org/includes/archive.min.js?v=4e7031f" type="text/javascript"></script>
 
 <meta name="DESCRIPTION" content=" The Internet Archive offers over 15,000,000&nbsp;freely downloadable books and texts. There is also a collection of 550,000 modern eBooks that may be borrowed by anyone with a free archive.org account. Borrow a Book Books on Internet Archive are offered in many formats, including DAISY files..."/>
 
 <link rel="alternate" id="gallery" type="application/rss+xml" title="RSS" href="http://archive.org/services/collection-rss.php?mediatype=texts"/>
-    <link href="//archive.org/includes/archive.min.css?v=ef2507c" rel="stylesheet" type="text/css"/>
+    <link href="//archive.org/includes/archive.min.css?v=4e7031f" rel="stylesheet" type="text/css"/>
     <link rel="SHORTCUT ICON" href="https://archive.org/images/glogo.jpg"/>
       </head>
   <body class="navia ia-module lists showdetails">
@@ -477,7 +477,7 @@
         >Advanced Search</a>
           </div>
     
-                            <script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"05/04/2018"}</script>
+                            <script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"05/24/2018"}</script>
     
                         <input type="submit" value="Search"/>
                       </form>
@@ -513,9 +513,8 @@
         </div><!--#navwrap2-->
 
         <!-- Begin page content -->
-        <main>
+        <main id="maincontent">
           <div class="container container-ia">
-            <a name="maincontent" id="maincontent"></a>
 
           <script> if(typeof AJS!='undefined') AJS.lists_v_tiles_setup('collection'); </script>
 </div><!--/.container-ia-->
@@ -664,7 +663,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
 
         <div class="columns-facets">
       <h3 class="co-top-row">
-        16,036,699        <div class="topinblock micro-label" style="padding-top:2px">
+        16,155,961        <div class="topinblock micro-label" style="padding-top:2px">
           RESULTS        </div>
                   <a class="stealth topinblock ghost80" href="/services/collection-rss.php?mediatype=texts"><div class="iconochive-rss"  aria-hidden="true"></div><span class="sr-only">rss</span></a>
               </h3>
@@ -717,6 +716,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           
       
       
+      
       <button title="Search" type="submit" aria-label="Search">
         <span class="iconochive-search" aria-hidden="true"></span>
       </button>
@@ -731,7 +731,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=mediatype%3A%22collection%22'"/>
                           </div>
             <div class="facell">
-                                            4,840                          </div>
+                                            4,842                          </div>
                           <span class="facell">
                 collections              </span>
                       </div>
@@ -740,7 +740,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=mediatype%3A%22texts%22'"/>
                           </div>
             <div class="facell">
-                                            16,031,854                          </div>
+                                            16,151,114                          </div>
                           <span class="facell">
                 texts              </span>
                       </div>
@@ -780,7 +780,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=loans__status__status%3A%22-1%22'"/>
                           </div>
             <div class="facell">
-                                            15,389,265                          </div>
+                                            15,508,427                          </div>
                           <span class="facell">
                 Always Available              </span>
                       </div>
@@ -789,7 +789,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=loans__status__status%3A%22AVAILABLE%22'"/>
                           </div>
             <div class="facell">
-                                            538,926                          </div>
+                                            517,474                          </div>
                           <span class="facell">
                 Available to Borrow              </span>
                       </div>
@@ -798,7 +798,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=loans__status__status%3A%22UNAVAILABLE%22'"/>
                           </div>
             <div class="facell">
-                                            108,508                          </div>
+                                            130,060                          </div>
                           <span class="facell">
                 Waitlist              </span>
                       </div>
@@ -808,10 +808,19 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
       <div class="fatable facet-year">
                             <div class="farow">
             <div class="facell">
+                              <input type="checkbox"   onclick="window.location='/details/texts?and[]=year%3A%222016%22'"/>
+                          </div>
+            <div class="facell">
+                                            81,776                          </div>
+                          <span class="facell">
+                2016              </span>
+                      </div>
+                            <div class="farow">
+            <div class="facell">
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=year%3A%222015%22'"/>
                           </div>
             <div class="facell">
-                                            262,443                          </div>
+                                            262,623                          </div>
                           <span class="facell">
                 2015              </span>
                       </div>
@@ -820,7 +829,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=year%3A%222014%22'"/>
                           </div>
             <div class="facell">
-                                            140,420                          </div>
+                                            140,537                          </div>
                           <span class="facell">
                 2014              </span>
                       </div>
@@ -829,7 +838,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=year%3A%222013%22'"/>
                           </div>
             <div class="facell">
-                                            151,975                          </div>
+                                            152,124                          </div>
                           <span class="facell">
                 2013              </span>
                       </div>
@@ -838,7 +847,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=year%3A%222012%22'"/>
                           </div>
             <div class="facell">
-                                            201,810                          </div>
+                                            201,894                          </div>
                           <span class="facell">
                 2012              </span>
                       </div>
@@ -847,18 +856,9 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=year%3A%222011%22'"/>
                           </div>
             <div class="facell">
-                                            227,182                          </div>
+                                            227,273                          </div>
                           <span class="facell">
                 2011              </span>
-                      </div>
-                            <div class="farow">
-            <div class="facell">
-                              <input type="checkbox"   onclick="window.location='/details/texts?and[]=year%3A%222010%22'"/>
-                          </div>
-            <div class="facell">
-                                            109,594                          </div>
-                          <span class="facell">
-                2010              </span>
                       </div>
               </div>
                     </div>
@@ -917,7 +917,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=subject%3A%22Diplomacy%22'"/>
                           </div>
             <div class="facell">
-                                            458,694                          </div>
+                                            458,699                          </div>
                           <span class="facell">
                 Diplomacy              </span>
                       </div>
@@ -933,7 +933,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=collection%3A%22americana%22'"/>
                           </div>
             <div class="facell">
-                                            2,799,594                          </div>
+                                            2,807,707                          </div>
                           <span class="facell">
                 <a href='/details/americana' class='collection-facet' data-event-click-tracking='Facets|FacetCollectionLink'>American Libraries</a>              </span>
                       </div>
@@ -942,7 +942,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=collection%3A%22usfederalcourts%22'"/>
                           </div>
             <div class="facell">
-                                            2,769,331                          </div>
+                                            2,778,993                          </div>
                           <span class="facell">
                 <a href='/details/usfederalcourts' class='collection-facet' data-event-click-tracking='Facets|FacetCollectionLink'>RECAP US Federal Court Documents</a>              </span>
                       </div>
@@ -951,7 +951,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=collection%3A%22nationalsecurityarchive%22'"/>
                           </div>
             <div class="facell">
-                                            2,390,280                          </div>
+                                            2,390,289                          </div>
                           <span class="facell">
                 <a href='/details/nationalsecurityarchive' class='collection-facet' data-event-click-tracking='Facets|FacetCollectionLink'>National Security Internet Archive (NSIA)</a>              </span>
                       </div>
@@ -1009,6 +1009,15 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                       </div>
                             <div class="farow">
             <div class="facell">
+                              <input type="checkbox"   onclick="window.location='/details/texts?and[]=creator%3A%22defense+technical+information+center%22'"/>
+                          </div>
+            <div class="facell">
+                                            347,354                          </div>
+                          <span class="facell">
+                defense technical information center              </span>
+                      </div>
+                            <div class="farow">
+            <div class="facell">
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=creator%3A%22eric%22'"/>
                           </div>
             <div class="facell">
@@ -1021,27 +1030,18 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=creator%3A%22central+intelligence+agency%22'"/>
                           </div>
             <div class="facell">
-                                            315,883                          </div>
+                                            315,887                          </div>
                           <span class="facell">
                 central intelligence agency              </span>
                       </div>
                             <div class="farow">
             <div class="facell">
-                              <input type="checkbox"   onclick="window.location='/details/texts?and[]=creator%3A%22defense+technical+information+center%22'"/>
+                              <input type="checkbox"   onclick="window.location='/details/texts?and[]=creator%3A%22nederlandse+overheid%22'"/>
                           </div>
             <div class="facell">
-                                            309,573                          </div>
+                                            260,026                          </div>
                           <span class="facell">
-                defense technical information center              </span>
-                      </div>
-                            <div class="farow">
-            <div class="facell">
-                              <input type="checkbox"   onclick="window.location='/details/texts?and[]=creator%3A%22nasa+technical+reports+server+%28ntrs%29%22'"/>
-                          </div>
-            <div class="facell">
-                                            232,458                          </div>
-                          <span class="facell">
-                nasa technical reports server (ntrs)              </span>
+                nederlandse overheid              </span>
                       </div>
               </div>
                     </div>
@@ -1055,7 +1055,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=languageSorter%3A%22English%22'"/>
                           </div>
             <div class="facell">
-                                            12,588,323                          </div>
+                                            12,653,959                          </div>
                           <span class="facell">
                 English              </span>
                       </div>
@@ -1064,7 +1064,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=languageSorter%3A%22German%22'"/>
                           </div>
             <div class="facell">
-                                            538,678                          </div>
+                                            539,706                          </div>
                           <span class="facell">
                 German              </span>
                       </div>
@@ -1073,7 +1073,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=languageSorter%3A%22French%22'"/>
                           </div>
             <div class="facell">
-                                            489,804                          </div>
+                                            490,418                          </div>
                           <span class="facell">
                 French              </span>
                       </div>
@@ -1082,7 +1082,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=languageSorter%3A%22Dutch%22'"/>
                           </div>
             <div class="facell">
-                                            257,052                          </div>
+                                            296,592                          </div>
                           <span class="facell">
                 Dutch              </span>
                       </div>
@@ -1091,7 +1091,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=languageSorter%3A%22Italian%22'"/>
                           </div>
             <div class="facell">
-                                            189,201                          </div>
+                                            190,207                          </div>
                           <span class="facell">
                 Italian              </span>
                       </div>
@@ -1100,7 +1100,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                               <input type="checkbox"   onclick="window.location='/details/texts?and[]=languageSorter%3A%22Spanish%22'"/>
                           </div>
             <div class="facell">
-                                            184,907                          </div>
+                                            186,560                          </div>
                           <span class="facell">
                 Spanish              </span>
                       </div>
@@ -1195,7 +1195,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  2,807,863                  <div class="micro-label">ITEMS</div>
+                  2,816,293                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   1.4<small>B</small>                  <div class="micro-label">VIEWS</div>
@@ -1257,7 +1257,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  838,196                  <div class="micro-label">ITEMS</div>
+                  845,059                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   1.1<small>B</small>                  <div class="micro-label">VIEWS</div>
@@ -1318,7 +1318,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  9,103,948                  <div class="micro-label">ITEMS</div>
+                  9,199,159                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   516.7<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -1380,7 +1380,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  565,846                  <div class="micro-label">ITEMS</div>
+                  566,969                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   407.3<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -1441,7 +1441,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  185,496                  <div class="micro-label">ITEMS</div>
+                  186,892                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   302.4<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -1565,7 +1565,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  191,920                  <div class="micro-label">ITEMS</div>
+                  191,919                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   197.7<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -1627,7 +1627,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  191,720                  <div class="micro-label">ITEMS</div>
+                  192,701                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   122.9<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -1689,7 +1689,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  626,551                  <div class="micro-label">ITEMS</div>
+                  630,540                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   119<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -1813,7 +1813,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  110,446                  <div class="micro-label">ITEMS</div>
+                  110,444                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   79<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -1875,7 +1875,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  1,465,330                  <div class="micro-label">ITEMS</div>
+                  1,465,331                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   77.3<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -1937,7 +1937,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  158,816                  <div class="micro-label">ITEMS</div>
+                  157,118                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   68.4<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -1999,7 +1999,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  84,280                  <div class="micro-label">ITEMS</div>
+                  84,417                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   65.2<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -2061,7 +2061,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  173,571                  <div class="micro-label">ITEMS</div>
+                  173,572                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   60.5<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -2123,7 +2123,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  2,769,331                  <div class="micro-label">ITEMS</div>
+                  2,778,993                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   59.4<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -2185,7 +2185,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  130,978                  <div class="micro-label">ITEMS</div>
+                  131,489                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   57<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -2247,7 +2247,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  75,934                  <div class="micro-label">ITEMS</div>
+                  75,953                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   56.3<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -2309,7 +2309,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  246,415                  <div class="micro-label">ITEMS</div>
+                  250,426                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   47.7<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -2371,7 +2371,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  53,576                  <div class="micro-label">ITEMS</div>
+                  57,900                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   45.6<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -2495,7 +2495,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  54,114                  <div class="micro-label">ITEMS</div>
+                  54,172                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   37<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -2557,7 +2557,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  92,299                  <div class="micro-label">ITEMS</div>
+                  92,599                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   36.6<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -2619,7 +2619,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  222,410                  <div class="micro-label">ITEMS</div>
+                  223,555                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   36.1<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -2743,7 +2743,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  99,655                  <div class="micro-label">ITEMS</div>
+                  99,796                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   34.3<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -2805,7 +2805,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  84,248                  <div class="micro-label">ITEMS</div>
+                  84,268                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   32.8<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -2867,7 +2867,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  76,805                  <div class="micro-label">ITEMS</div>
+                  76,803                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   32<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -2991,7 +2991,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  2,398,497                  <div class="micro-label">ITEMS</div>
+                  2,398,508                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   29.4<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -3053,7 +3053,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  667,958                  <div class="micro-label">ITEMS</div>
+                  668,166                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   28.8<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -3239,7 +3239,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  664,688                  <div class="micro-label">ITEMS</div>
+                  664,888                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   26.2<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -3301,7 +3301,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  44,661                  <div class="micro-label">ITEMS</div>
+                  44,704                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   24.2<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -3425,7 +3425,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  73,857                  <div class="micro-label">ITEMS</div>
+                  73,986                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   23.6<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -3611,7 +3611,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  15,206                  <div class="micro-label">ITEMS</div>
+                  15,207                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   21.3<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -3673,7 +3673,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  20,400                  <div class="micro-label">ITEMS</div>
+                  20,660                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   21.2<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -3797,7 +3797,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  647,594                  <div class="micro-label">ITEMS</div>
+                  647,557                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   19.6<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -3859,7 +3859,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  45,880                  <div class="micro-label">ITEMS</div>
+                  46,389                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   19.6<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -3983,7 +3983,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  394,213                  <div class="micro-label">ITEMS</div>
+                  395,676                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   17.1<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -4048,7 +4048,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  483,011                  <div class="micro-label">ITEMS</div>
+                  483,224                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   15.3<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -4110,7 +4110,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  182,221                  <div class="micro-label">ITEMS</div>
+                  185,670                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   15.2<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -4172,7 +4172,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  9,361                  <div class="micro-label">ITEMS</div>
+                  9,371                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   15<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -4234,7 +4234,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  84,648                  <div class="micro-label">ITEMS</div>
+                  84,907                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   14.4<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -4361,7 +4361,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  92,975                  <div class="micro-label">ITEMS</div>
+                  93,225                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   14<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -4488,7 +4488,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  143,900                  <div class="micro-label">ITEMS</div>
+                  144,998                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   13.1<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -4614,7 +4614,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  15,521                  <div class="micro-label">ITEMS</div>
+                  15,533                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   11.7<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -4676,7 +4676,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  36,360                  <div class="micro-label">ITEMS</div>
+                  36,411                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   10.9<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -4738,7 +4738,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  288,441                  <div class="micro-label">ITEMS</div>
+                  288,450                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   10.5<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -4800,7 +4800,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  33,909                  <div class="micro-label">ITEMS</div>
+                  33,948                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   10.4<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -4862,7 +4862,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  13,794                  <div class="micro-label">ITEMS</div>
+                  13,797                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   10<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -5048,7 +5048,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  9,663                  <div class="micro-label">ITEMS</div>
+                  9,672                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   9.7<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -5110,7 +5110,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  8,711                  <div class="micro-label">ITEMS</div>
+                  8,825                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   9<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -5234,7 +5234,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  142,281                  <div class="micro-label">ITEMS</div>
+                  146,201                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   8.5<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -5358,7 +5358,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  29,264                  <div class="micro-label">ITEMS</div>
+                  29,465                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   8.4<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -5420,7 +5420,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </a>
               <div class="collection-stats">
                 <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
-                  7,187                  <div class="micro-label">ITEMS</div>
+                  7,889                  <div class="micro-label">ITEMS</div>
                 </div>
                 <div class="num-items hidden-tiles">
                   8.4<small>M</small>                  <div class="micro-label">VIEWS</div>
@@ -6045,22 +6045,40 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
         <div><a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="/details/@brewster">brewster</a><br/><small>Archivist</small></div></div>                    <div class="hr"></div>
           <div class="items_list person">        <div class="items_list_img">
           <a
-            href="/details/@mekarpeles"
-            style="background-image: url('/services/img/@mekarpeles');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <div><a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="/details/@mekarpeles">mekarpeles</a><br/><small>Archivist</small></div></div>                    <div class="hr"></div>
-          <div class="items_list person">        <div class="items_list_img">
-          <a
-            href="/details/@arkiver2"
+            href="/details/@associate-mike-saelee"
             style="background-image: url('/images/person2.png');"
             aria-hidden="true"
             data-event-click-tracking="DetailsPage|CollectionLink"
           ></a>
         </div>
-        <div><a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="/details/@arkiver2">arkiver2</a><br/><small>Archivist</small></div></div>                    <div class="hr"></div>
+        <div><a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="/details/@associate-mike-saelee">associate-mike-saelee</a><br/><small>Archivist</small></div></div>                    <div class="hr"></div>
+          <div class="items_list person">        <div class="items_list_img">
+          <a
+            href="/details/@verifiedjoseph"
+            style="background-image: url('/images/person2.png');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <div><a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="/details/@verifiedjoseph">VerifiedJoseph</a><br/><small>Member</small></div></div>                    <div class="hr"></div>
+          <div class="items_list person">        <div class="items_list_img">
+          <a
+            href="/details/@the_cleveland_museum_of_art"
+            style="background-image: url('/services/img/@the_cleveland_museum_of_art');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <div><a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="/details/@the_cleveland_museum_of_art">Cleveland Museum of Art, Ingalls Library and Museum Archives</a><br/><small>Archivist</small></div></div>                    <div class="hr"></div>
+          <div class="items_list person">        <div class="items_list_img">
+          <a
+            href="/details/@geoclark"
+            style="background-image: url('/images/person2.png');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <div><a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="/details/@geoclark">geoclark</a><br/><small>Archivist</small></div></div>                    <div class="hr"></div>
           <div class="items_list person">        <div class="items_list_img">
           <a
             href="/details/@hubz"
@@ -6087,34 +6105,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
             data-event-click-tracking="DetailsPage|CollectionLink"
           ></a>
         </div>
-        <div><a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="/details/@jason_scott">Jason Scott</a><br/><small>Archivist</small></div></div>                    <div class="hr"></div>
-          <div class="items_list person">        <div class="items_list_img">
-          <a
-            href="/details/@archiver849271"
-            style="background-image: url('/images/person2.png');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <div><a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="/details/@archiver849271">archiver849271</a><br/><small>Archivist</small></div></div>                    <div class="hr"></div>
-          <div class="items_list person">        <div class="items_list_img">
-          <a
-            href="/details/@verifiedjoseph"
-            style="background-image: url('/images/person2.png');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <div><a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="/details/@verifiedjoseph">VerifiedJoseph</a><br/><small>Member</small></div></div>                    <div class="hr"></div>
-          <div class="items_list person">        <div class="items_list_img">
-          <a
-            href="/details/@associate-mike-saelee"
-            style="background-image: url('/images/person2.png');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <div><a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="/details/@associate-mike-saelee">associate-mike-saelee</a><br/><small>Archivist</small></div></div>                  </div>
+        <div><a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="/details/@jason_scott">Jason Scott</a><br/><small>Archivist</small></div></div>                  </div>
         
         <div class="grafs about-box">
           <div class="micro-label">VIEWS</div>
@@ -6124,7 +6115,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
 
         <div class="grafs about-box">
           <div class="micro-label">ITEMS</div>
-          <h1>16,425,992</h1>
+          <h1>16,545,731</h1>
           <div id="grafs2" class="grafs-content" data-id="texts"></div>
         </div>
 
@@ -6160,8 +6151,179 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                   </tr>
                   <tr valign="top" class="eve forumRow">
         <td>
-          <b>          <a href="/post/1090248">Issue persists: epub creation failed</a>
+          <b>          <a href="/post/1091066">DGHFG</a>
           </b>        </td>
+
+                <td>
+          <a href="/iathreads/forum-display.php?poster=garry_dee">garry_dee</a>
+        </td>
+        
+         
+                <td>
+          0        </td>
+        
+        
+                <td>
+          <nobr class="hidden-sm hidden-xs">May 24, 2018 12:09am</nobr>
+          <span class="hidden-md hidden-lg smalldate">May 24, 2018 12:09am</span>
+        </td>
+              </tr>
+          <tr valign="top" class="odd forumRow">
+        <td>
+          <b>          <a href="/post/1091065">HFJGDH</a>
+          </b>        </td>
+
+                <td>
+          <a href="/iathreads/forum-display.php?poster=garry_dee">garry_dee</a>
+        </td>
+        
+         
+                <td>
+          0        </td>
+        
+        
+                <td>
+          <nobr class="hidden-sm hidden-xs">May 24, 2018 12:08am</nobr>
+          <span class="hidden-md hidden-lg smalldate">May 24, 2018 12:08am</span>
+        </td>
+              </tr>
+          <tr valign="top" class="eve forumRow">
+        <td>
+          <b>          <a href="/post/1091064">NMLKHL</a>
+          </b>        </td>
+
+                <td>
+          <a href="/iathreads/forum-display.php?poster=garry_dee">garry_dee</a>
+        </td>
+        
+         
+                <td>
+          0        </td>
+        
+        
+                <td>
+          <nobr class="hidden-sm hidden-xs">May 24, 2018 12:08am</nobr>
+          <span class="hidden-md hidden-lg smalldate">May 24, 2018 12:08am</span>
+        </td>
+              </tr>
+          <tr valign="top" class="odd forumRow">
+        <td>
+          <b>          <a href="/post/1091063">&#51221;&#53685;&#52852;&#51648;&#45432;  don68&#12290;CoM  &#51221;&#53685;&#52852;&#51648;&#45432;</a>
+          </b>        </td>
+
+                <td>
+          <a href="/iathreads/forum-display.php?poster=garry_dee">garry_dee</a>
+        </td>
+        
+         
+                <td>
+          0        </td>
+        
+        
+                <td>
+          <nobr class="hidden-sm hidden-xs">May 24, 2018 12:05am</nobr>
+          <span class="hidden-md hidden-lg smalldate">May 24, 2018 12:05am</span>
+        </td>
+              </tr>
+          <tr valign="top" class="eve forumRow">
+        <td>
+          <b>          <a href="/post/1091061">&#50728;&#46972;&#51064;&#52852;&#51648;&#45432;&#54633;&#48277;[  don68&#12290;CoM ]&#50728;&#46972;&#51064;&#52852;&#51648;&#45432;&#54633;&#48277;</a>
+          </b>        </td>
+
+                <td>
+          <a href="/iathreads/forum-display.php?poster=garry_dee">garry_dee</a>
+        </td>
+        
+         
+                <td>
+          0        </td>
+        
+        
+                <td>
+          <nobr class="hidden-sm hidden-xs">May 23, 2018 11:36pm</nobr>
+          <span class="hidden-md hidden-lg smalldate">May 23, 2018 11:36pm</span>
+        </td>
+              </tr>
+          <tr valign="top" class="odd forumRow">
+        <td>
+          <b>          <a href="/post/1091062">&#53076;&#47532;&#50500;&#52852;&#51648;&#45432;- - -&#65285; don68.CoM - - -&#65285;&#53076;&#47532;&#50500;&#52852;&#51648;&#45432;</a>
+          </b>        </td>
+
+                <td>
+          <a href="/iathreads/forum-display.php?poster=garry_dee">garry_dee</a>
+        </td>
+        
+         
+                <td>
+          0        </td>
+        
+        
+                <td>
+          <nobr class="hidden-sm hidden-xs">May 23, 2018 11:07pm</nobr>
+          <span class="hidden-md hidden-lg smalldate">May 23, 2018 11:07pm</span>
+        </td>
+              </tr>
+          <tr valign="top" class="eve forumRow">
+        <td>
+          <b>          <a href="/post/1091060">&#48660;&#47001;&#51117;&#52852;&#51648;&#45432;-( don68&#12290;CoM )-&#48660;&#47001;&#51117;&#52852;&#51648;&#45432;</a>
+          </b>        </td>
+
+                <td>
+          <a href="/iathreads/forum-display.php?poster=garry_dee">garry_dee</a>
+        </td>
+        
+         
+                <td>
+          0        </td>
+        
+        
+                <td>
+          <nobr class="hidden-sm hidden-xs">May 23, 2018 10:46pm</nobr>
+          <span class="hidden-md hidden-lg smalldate">May 23, 2018 10:46pm</span>
+        </td>
+              </tr>
+          <tr valign="top" class="odd forumRow">
+        <td>
+                    <a href="/post/1090921">chickaDEE Magazines</a>
+                  </td>
+
+                <td>
+          <a href="/iathreads/forum-display.php?poster=bowser%2056">bowser 56</a>
+        </td>
+        
+         
+                <td>
+          0        </td>
+        
+        
+                <td>
+          <nobr class="hidden-sm hidden-xs">May 21, 2018 9:49am</nobr>
+          <span class="hidden-md hidden-lg smalldate">May 21, 2018 9:49am</span>
+        </td>
+              </tr>
+          <tr valign="top" class="eve forumRow">
+        <td>
+                    <a href="/post/1090465">Deleting from My Favorites</a>
+                  </td>
+
+                <td>
+          <a href="/iathreads/forum-display.php?poster=mnu88">mnu88</a>
+        </td>
+        
+         
+                <td>
+          0        </td>
+        
+        
+                <td>
+          <nobr class="hidden-sm hidden-xs">May 9, 2018 5:32pm</nobr>
+          <span class="hidden-md hidden-lg smalldate">May 9, 2018 5:32pm</span>
+        </td>
+              </tr>
+          <tr valign="top" class="odd forumRow">
+        <td>
+                    <a href="/post/1090248">Issue persists: epub creation failed</a>
+                  </td>
 
                 <td>
           <a href="/iathreads/forum-display.php?poster=AncientAxim">AncientAxim</a>
@@ -6177,7 +6339,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">May 3, 2018 4:44pm</span>
         </td>
               </tr>
-          <tr valign="top" class="odd forumRow">
+          <tr valign="top" class="eve forumRow">
         <td>
                     <a href="/post/1090191">"Sorry, epub creation failed"</a>
                   </td>
@@ -6196,7 +6358,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">May 2, 2018 3:37pm</span>
         </td>
               </tr>
-          <tr valign="top" class="eve forumRow">
+          <tr valign="top" class="odd forumRow">
         <td>
           &nbsp;&nbsp;          <a href="/post/1090194">Any file I try same error</a>
                   </td>
@@ -6215,7 +6377,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">May 2, 2018 5:08pm</span>
         </td>
               </tr>
-          <tr valign="top" class="odd forumRow">
+          <tr valign="top" class="eve forumRow">
         <td>
                     <a href="/post/1089965">Delete item request.</a>
                   </td>
@@ -6234,7 +6396,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Apr 28, 2018 3:34am</span>
         </td>
               </tr>
-          <tr valign="top" class="eve forumRow">
+          <tr valign="top" class="odd forumRow">
         <td>
           &nbsp;&nbsp;          <a href="/post/1090094">Re: Delete item request.</a>
                   </td>
@@ -6253,25 +6415,6 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Apr 30, 2018 7:49pm</span>
         </td>
               </tr>
-          <tr valign="top" class="odd forumRow">
-        <td>
-                    <a href="/post/1089857">Get Online Mozilla Firefox Customer Support service for USA</a>
-                  </td>
-
-                <td>
-          <a href="/iathreads/forum-display.php?poster=Online%20customer%20service">Online customer service</a>
-        </td>
-        
-         
-                <td>
-          0        </td>
-        
-        
-                <td>
-          <nobr class="hidden-sm hidden-xs">Apr 25, 2018 12:52am</nobr>
-          <span class="hidden-md hidden-lg smalldate">Apr 25, 2018 12:52am</span>
-        </td>
-              </tr>
           <tr valign="top" class="eve forumRow">
         <td>
                     <a href="/post/1089635">Can't get ePub version</a>
@@ -6283,7 +6426,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
         
          
                 <td>
-          1        </td>
+          2        </td>
         
         
                 <td>
@@ -6312,8 +6455,8 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </tr>
           <tr valign="top" class="eve forumRow">
         <td>
-          &nbsp;&nbsp;&nbsp;&nbsp;<b>          <a href="/post/1090203">Re: Can't get ePub version</a>
-          </b>        </td>
+          &nbsp;&nbsp;&nbsp;&nbsp;          <a href="/post/1090203">Re: Can't get ePub version</a>
+                  </td>
 
                 <td>
           <a href="/iathreads/forum-display.php?poster=Alex%20Bell">Alex Bell</a>
@@ -6327,6 +6470,82 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
                 <td>
           <nobr class="hidden-sm hidden-xs">May 2, 2018 9:24pm</nobr>
           <span class="hidden-md hidden-lg smalldate">May 2, 2018 9:24pm</span>
+        </td>
+              </tr>
+          <tr valign="top" class="odd forumRow">
+        <td>
+          &nbsp;&nbsp;          <a href="/post/1090693">epub prob may be fixed</a>
+                  </td>
+
+                <td>
+          <a href="/iathreads/forum-display.php?poster=AncientAxim">AncientAxim</a>
+        </td>
+        
+         
+                <td>
+          1        </td>
+        
+        
+                <td>
+          <nobr class="hidden-sm hidden-xs">May 15, 2018 5:09pm</nobr>
+          <span class="hidden-md hidden-lg smalldate">May 15, 2018 5:09pm</span>
+        </td>
+              </tr>
+          <tr valign="top" class="eve forumRow">
+        <td>
+          &nbsp;&nbsp;&nbsp;&nbsp;          <a href="/post/1090756">Re: epub prob may be fixed</a>
+                  </td>
+
+                <td>
+          <a href="/iathreads/forum-display.php?poster=Alex%20Bell">Alex Bell</a>
+        </td>
+        
+         
+                <td>
+          1        </td>
+        
+        
+                <td>
+          <nobr class="hidden-sm hidden-xs">May 16, 2018 4:15pm</nobr>
+          <span class="hidden-md hidden-lg smalldate">May 16, 2018 4:15pm</span>
+        </td>
+              </tr>
+          <tr valign="top" class="odd forumRow">
+        <td>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          <a href="/post/1090767">Re: epub prob may be fixed</a>
+                  </td>
+
+                <td>
+          <a href="/iathreads/forum-display.php?poster=Jeff%20Kaplan">Jeff Kaplan</a>
+        </td>
+        
+         
+                <td>
+          1        </td>
+        
+        
+                <td>
+          <nobr class="hidden-sm hidden-xs">May 16, 2018 7:16pm</nobr>
+          <span class="hidden-md hidden-lg smalldate">May 16, 2018 7:16pm</span>
+        </td>
+              </tr>
+          <tr valign="top" class="eve forumRow">
+        <td>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          <a href="/post/1090773">Re: epub prob may be fixed</a>
+                  </td>
+
+                <td>
+          <a href="/iathreads/forum-display.php?poster=Alex%20Bell">Alex Bell</a>
+        </td>
+        
+         
+                <td>
+          0        </td>
+        
+        
+                <td>
+          <nobr class="hidden-sm hidden-xs">May 16, 2018 7:13pm</nobr>
+          <span class="hidden-md hidden-lg smalldate">May 16, 2018 7:13pm</span>
         </td>
               </tr>
           <tr valign="top" class="odd forumRow">
@@ -6350,25 +6569,6 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
               </tr>
           <tr valign="top" class="eve forumRow">
         <td>
-                    <a href="/post/1089350">imarketing</a>
-                  </td>
-
-                <td>
-          <a href="/iathreads/forum-display.php?poster=imarketing">imarketing</a>
-        </td>
-        
-         
-                <td>
-          0        </td>
-        
-        
-                <td>
-          <nobr class="hidden-sm hidden-xs">Apr 5, 2018 12:21am</nobr>
-          <span class="hidden-md hidden-lg smalldate">Apr 5, 2018 12:21am</span>
-        </td>
-              </tr>
-          <tr valign="top" class="odd forumRow">
-        <td>
                     <a href="/post/1089268">There Is No Preview Available For This Item This item is restricted.</a>
                   </td>
 
@@ -6386,7 +6586,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Apr 1, 2018 6:59pm</span>
         </td>
               </tr>
-          <tr valign="top" class="eve forumRow">
+          <tr valign="top" class="odd forumRow">
         <td>
                     <a href="/post/1089131">Regain OST to PST Converter </a>
                   </td>
@@ -6405,7 +6605,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Mar 29, 2018 3:49am</span>
         </td>
               </tr>
-          <tr valign="top" class="odd forumRow">
+          <tr valign="top" class="eve forumRow">
         <td>
                     <a href="/post/1089084">impossible to upload a book from 1865</a>
                   </td>
@@ -6424,7 +6624,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Mar 27, 2018 11:40pm</span>
         </td>
               </tr>
-          <tr valign="top" class="eve forumRow">
+          <tr valign="top" class="odd forumRow">
         <td>
           &nbsp;&nbsp;          <a href="/post/1089124">Re: impossible to upload a book from 1865</a>
                   </td>
@@ -6443,7 +6643,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Mar 28, 2018 10:46pm</span>
         </td>
               </tr>
-          <tr valign="top" class="odd forumRow">
+          <tr valign="top" class="eve forumRow">
         <td>
           &nbsp;&nbsp;&nbsp;&nbsp;          <a href="/post/1089174">Re: impossible to upload a book from 1865</a>
                   </td>
@@ -6462,7 +6662,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Mar 29, 2018 7:12pm</span>
         </td>
               </tr>
-          <tr valign="top" class="eve forumRow">
+          <tr valign="top" class="odd forumRow">
         <td>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          <a href="/post/1089202">Re: impossible to upload a book from 1865</a>
                   </td>
@@ -6481,7 +6681,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Mar 30, 2018 9:30am</span>
         </td>
               </tr>
-          <tr valign="top" class="odd forumRow">
+          <tr valign="top" class="eve forumRow">
         <td>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          <a href="/post/1089269">There Is No Preview Available For This Item This item is restricted.</a>
                   </td>
@@ -6500,7 +6700,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Apr 1, 2018 7:01pm</span>
         </td>
               </tr>
-          <tr valign="top" class="eve forumRow">
+          <tr valign="top" class="odd forumRow">
         <td>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          <a href="/post/1089289">Re: There Is No Preview Available For This Item This item is restricted.</a>
                   </td>
@@ -6519,7 +6719,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Apr 2, 2018 11:25am</span>
         </td>
               </tr>
-          <tr valign="top" class="odd forumRow">
+          <tr valign="top" class="eve forumRow">
         <td>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          <a href="/post/1089275">Classic Uploader did not work</a>
                   </td>
@@ -6538,7 +6738,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Apr 2, 2018 5:06am</span>
         </td>
               </tr>
-          <tr valign="top" class="eve forumRow">
+          <tr valign="top" class="odd forumRow">
         <td>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          <a href="/post/1089282">Re: Classic Uploader did not work</a>
                   </td>
@@ -6557,7 +6757,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Apr 2, 2018 8:14am</span>
         </td>
               </tr>
-          <tr valign="top" class="odd forumRow">
+          <tr valign="top" class="eve forumRow">
         <td>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          <a href="/post/1089445">Re: Classic Uploader did not work</a>
                   </td>
@@ -6576,7 +6776,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Apr 8, 2018 12:20pm</span>
         </td>
               </tr>
-          <tr valign="top" class="eve forumRow">
+          <tr valign="top" class="odd forumRow">
         <td>
                     <a href="/post/1089043">Hi - I need the book in pdf format - Pls help me</a>
                   </td>
@@ -6595,7 +6795,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Mar 27, 2018 5:20am</span>
         </td>
               </tr>
-          <tr valign="top" class="odd forumRow">
+          <tr valign="top" class="eve forumRow">
         <td>
                     <a href="/post/1089041">Instructions to Solve Gmail Password Issues in Account</a>
                   </td>
@@ -6614,7 +6814,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Mar 27, 2018 2:44am</span>
         </td>
               </tr>
-          <tr valign="top" class="eve forumRow">
+          <tr valign="top" class="odd forumRow">
         <td>
                     <a href="/post/1088862">Upload missing</a>
                   </td>
@@ -6633,7 +6833,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Mar 20, 2018 8:39pm</span>
         </td>
               </tr>
-          <tr valign="top" class="odd forumRow">
+          <tr valign="top" class="eve forumRow">
         <td>
           &nbsp;&nbsp;          <a href="/post/1088930">Re: Upload missing</a>
                   </td>
@@ -6652,7 +6852,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Mar 22, 2018 11:15pm</span>
         </td>
               </tr>
-          <tr valign="top" class="eve forumRow">
+          <tr valign="top" class="odd forumRow">
         <td>
                     <a href="/post/1088763">Thanks</a>
                   </td>
@@ -6671,7 +6871,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Mar 17, 2018 11:56am</span>
         </td>
               </tr>
-          <tr valign="top" class="odd forumRow">
+          <tr valign="top" class="eve forumRow">
         <td>
                     <a href="/post/1088762">Thanks</a>
                   </td>
@@ -6690,7 +6890,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Mar 17, 2018 11:56am</span>
         </td>
               </tr>
-          <tr valign="top" class="eve forumRow">
+          <tr valign="top" class="odd forumRow">
         <td>
                     <a href="/post/1088592">sxrtujh</a>
                   </td>
@@ -6709,7 +6909,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Mar 12, 2018 6:26am</span>
         </td>
               </tr>
-          <tr valign="top" class="odd forumRow">
+          <tr valign="top" class="eve forumRow">
         <td>
                     <a href="/post/1088481">Unable to access Wayback Machine</a>
                   </td>
@@ -6728,7 +6928,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Mar 8, 2018 5:50pm</span>
         </td>
               </tr>
-          <tr valign="top" class="eve forumRow">
+          <tr valign="top" class="odd forumRow">
         <td>
           &nbsp;&nbsp;          <a href="/post/1088508">Re: Unable to access Wayback Machine</a>
                   </td>
@@ -6747,7 +6947,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Mar 9, 2018 4:05pm</span>
         </td>
               </tr>
-          <tr valign="top" class="odd forumRow">
+          <tr valign="top" class="eve forumRow">
         <td>
                     <a href="/post/1087783">"yellow" page color</a>
                   </td>
@@ -6766,7 +6966,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Mar 2, 2018 7:24pm</span>
         </td>
               </tr>
-          <tr valign="top" class="eve forumRow">
+          <tr valign="top" class="odd forumRow">
         <td>
           &nbsp;&nbsp;          <a href="/post/1088293">Re: 'yellow' page color</a>
                   </td>
@@ -6785,7 +6985,7 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Mar 2, 2018 9:01pm</span>
         </td>
               </tr>
-          <tr valign="top" class="odd forumRow">
+          <tr valign="top" class="eve forumRow">
         <td>
           &nbsp;&nbsp;&nbsp;&nbsp;          <a href="/post/1088296">Re: 'yellow' page color</a>
                   </td>
@@ -6804,272 +7004,6 @@ Since 2005, the Internet Archive has collaborated and built digital collections 
           <span class="hidden-md hidden-lg smalldate">Mar 2, 2018 10:15pm</span>
         </td>
               </tr>
-          <tr valign="top" class="eve forumRow">
-        <td>
-                    <a href="/post/1088074">Changing the name of some files</a>
-                  </td>
-
-                <td>
-          <a href="/iathreads/forum-display.php?poster=ldw">ldw</a>
-        </td>
-        
-         
-                <td>
-          1        </td>
-        
-        
-                <td>
-          <nobr class="hidden-sm hidden-xs">Feb 23, 2018 1:07pm</nobr>
-          <span class="hidden-md hidden-lg smalldate">Feb 23, 2018 1:07pm</span>
-        </td>
-              </tr>
-          <tr valign="top" class="odd forumRow">
-        <td>
-          &nbsp;&nbsp;          <a href="/post/1088087">Re: Changing the name of some files</a>
-                  </td>
-
-                <td>
-          <a href="/iathreads/forum-display.php?poster=Jeff%20Kaplan">Jeff Kaplan</a>
-        </td>
-        
-         
-                <td>
-          1        </td>
-        
-        
-                <td>
-          <nobr class="hidden-sm hidden-xs">Feb 23, 2018 9:32pm</nobr>
-          <span class="hidden-md hidden-lg smalldate">Feb 23, 2018 9:32pm</span>
-        </td>
-              </tr>
-          <tr valign="top" class="eve forumRow">
-        <td>
-                    <a href="/post/1088058">Could someone delete these files?</a>
-                  </td>
-
-                <td>
-          <a href="/iathreads/forum-display.php?poster=Revista%20Interdanza">Revista Interdanza</a>
-        </td>
-        
-         
-                <td>
-          0        </td>
-        
-        
-                <td>
-          <nobr class="hidden-sm hidden-xs">Feb 23, 2018 5:35am</nobr>
-          <span class="hidden-md hidden-lg smalldate">Feb 23, 2018 5:35am</span>
-        </td>
-              </tr>
-          <tr valign="top" class="odd forumRow">
-        <td>
-                    <a href="/post/1088057">search inside text not working</a>
-                  </td>
-
-                <td>
-          <a href="/iathreads/forum-display.php?poster=ninabrosh">ninabrosh</a>
-        </td>
-        
-         
-                <td>
-          0        </td>
-        
-        
-                <td>
-          <nobr class="hidden-sm hidden-xs">Feb 22, 2018 10:55pm</nobr>
-          <span class="hidden-md hidden-lg smalldate">Feb 22, 2018 10:55pm</span>
-        </td>
-              </tr>
-          <tr valign="top" class="eve forumRow">
-        <td>
-                    <a href="/post/1087830">Could someone please delete a file?</a>
-                  </td>
-
-                <td>
-          <a href="/iathreads/forum-display.php?poster=Adeline_Gasnier">Adeline_Gasnier</a>
-        </td>
-        
-         
-                <td>
-          1        </td>
-        
-        
-                <td>
-          <nobr class="hidden-sm hidden-xs">Feb 19, 2018 4:19am</nobr>
-          <span class="hidden-md hidden-lg smalldate">Feb 19, 2018 4:19am</span>
-        </td>
-              </tr>
-          <tr valign="top" class="odd forumRow">
-        <td>
-          &nbsp;&nbsp;          <a href="/post/1087838">Re: Could someone please delete a file?</a>
-                  </td>
-
-                <td>
-          <a href="/iathreads/forum-display.php?poster=Jeff%20Kaplan">Jeff Kaplan</a>
-        </td>
-        
-         
-                <td>
-          1        </td>
-        
-        
-                <td>
-          <nobr class="hidden-sm hidden-xs">Feb 19, 2018 7:21am</nobr>
-          <span class="hidden-md hidden-lg smalldate">Feb 19, 2018 7:21am</span>
-        </td>
-              </tr>
-          <tr valign="top" class="eve forumRow">
-        <td>
-          &nbsp;&nbsp;&nbsp;&nbsp;          <a href="/post/1087857">Re: Could someone please delete a file?</a>
-                  </td>
-
-                <td>
-          <a href="/iathreads/forum-display.php?poster=Adeline_Gasnier">Adeline_Gasnier</a>
-        </td>
-        
-         
-                <td>
-          0        </td>
-        
-        
-                <td>
-          <nobr class="hidden-sm hidden-xs">Feb 19, 2018 9:54am</nobr>
-          <span class="hidden-md hidden-lg smalldate">Feb 19, 2018 9:54am</span>
-        </td>
-              </tr>
-          <tr valign="top" class="odd forumRow">
-        <td>
-                    <a href="/post/1087807">Could someone please delete the following?</a>
-                  </td>
-
-                <td>
-          <a href="/iathreads/forum-display.php?poster=danielprior1993%40gmail.com">danielprior1993@gmail.com</a>
-        </td>
-        
-         
-                <td>
-          1        </td>
-        
-        
-                <td>
-          <nobr class="hidden-sm hidden-xs">Feb 18, 2018 9:25am</nobr>
-          <span class="hidden-md hidden-lg smalldate">Feb 18, 2018 9:25am</span>
-        </td>
-              </tr>
-          <tr valign="top" class="eve forumRow">
-        <td>
-          &nbsp;&nbsp;          <a href="/post/1087817">Re: Could someone please delete the following?</a>
-                  </td>
-
-                <td>
-          <a href="/iathreads/forum-display.php?poster=Jeff%20Kaplan">Jeff Kaplan</a>
-        </td>
-        
-         
-                <td>
-          0        </td>
-        
-        
-                <td>
-          <nobr class="hidden-sm hidden-xs">Feb 18, 2018 5:05pm</nobr>
-          <span class="hidden-md hidden-lg smalldate">Feb 18, 2018 5:05pm</span>
-        </td>
-              </tr>
-          <tr valign="top" class="odd forumRow">
-        <td>
-                    <a href="/post/1087799">Renewal</a>
-                  </td>
-
-                <td>
-          <a href="/iathreads/forum-display.php?poster=evennow">evennow</a>
-        </td>
-        
-         
-                <td>
-          1        </td>
-        
-        
-                <td>
-          <nobr class="hidden-sm hidden-xs">Feb 18, 2018 3:42am</nobr>
-          <span class="hidden-md hidden-lg smalldate">Feb 18, 2018 3:42am</span>
-        </td>
-              </tr>
-          <tr valign="top" class="eve forumRow">
-        <td>
-          &nbsp;&nbsp;          <a href="/post/1087804">Re: Renewal</a>
-                  </td>
-
-                <td>
-          <a href="/iathreads/forum-display.php?poster=Jeff%20Kaplan">Jeff Kaplan</a>
-        </td>
-        
-         
-                <td>
-          1        </td>
-        
-        
-                <td>
-          <nobr class="hidden-sm hidden-xs">Feb 18, 2018 7:22am</nobr>
-          <span class="hidden-md hidden-lg smalldate">Feb 18, 2018 7:22am</span>
-        </td>
-              </tr>
-          <tr valign="top" class="odd forumRow">
-        <td>
-          &nbsp;&nbsp;&nbsp;&nbsp;          <a href="/post/1087823">Re: Renewal</a>
-                  </td>
-
-                <td>
-          <a href="/iathreads/forum-display.php?poster=evennow">evennow</a>
-        </td>
-        
-         
-                <td>
-          1        </td>
-        
-        
-                <td>
-          <nobr class="hidden-sm hidden-xs">Feb 19, 2018 1:04am</nobr>
-          <span class="hidden-md hidden-lg smalldate">Feb 19, 2018 1:04am</span>
-        </td>
-              </tr>
-          <tr valign="top" class="eve forumRow">
-        <td>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          <a href="/post/1087834">Re: Renewal</a>
-                  </td>
-
-                <td>
-          <a href="/iathreads/forum-display.php?poster=Jeff%20Kaplan">Jeff Kaplan</a>
-        </td>
-        
-         
-                <td>
-          0        </td>
-        
-        
-                <td>
-          <nobr class="hidden-sm hidden-xs">Feb 19, 2018 7:15am</nobr>
-          <span class="hidden-md hidden-lg smalldate">Feb 19, 2018 7:15am</span>
-        </td>
-              </tr>
-          <tr valign="top" class="odd forumRow">
-        <td>
-                    <a href="/post/1087541">It used to work....</a>
-                  </td>
-
-                <td>
-          <a href="/iathreads/forum-display.php?poster=Glenn%20Alperin">Glenn Alperin</a>
-        </td>
-        
-         
-                <td>
-          0        </td>
-        
-        
-                <td>
-          <nobr class="hidden-sm hidden-xs">Feb 9, 2018 10:48am</nobr>
-          <span class="hidden-md hidden-lg smalldate">Feb 9, 2018 10:48am</span>
-        </td>
-              </tr>
           </table>
             <br/><b><a href="/iathreads/forum-display.php?forum=texts&limit=40">View more forum posts</a></b>          </div>
         </div>
@@ -7085,62 +7019,62 @@ archive_setup.push(function() {
     </div><!--/#wrap-->
     
     <!-- Timing ...
-     rendered on: www18.us.archive.org
+     rendered on: www29.us.archive.org
  seconds diff sec               message   stack(file:line:function)
 =========================================================
   0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/details.php:1:require
                                              |common/ia:55:require_once
-                                             |setup.php:329:log
+                                             |setup.php:344:log
   0.0006   0.0006      call get_redis()   var/cache/petabox/petabox/www/sf/details.php:61:getItem
                                              |details.php:182:getItem
                                              |common/Item.inc:77:parseMetadata
                                              |Item.inc:132:get_obj
-                                             |Metadata.inc:371:get_json_obj
-                                             |Metadata.inc:1599:direct
+                                             |Metadata.inc:372:get_json_obj
+                                             |Metadata.inc:1601:direct
                                              |Caching/AbstractReactiveCache.inc:281:do_recompute
                                              |AbstractReactiveCache.inc:392:call_user_func_array
                                              |./unknown:unknown:{closure}
-                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1640:_get_json_obj
-                                             |Metadata.inc:1764:log
-  0.0038   0.0032      redis_read start   var/cache/petabox/petabox/www/sf/details.php:61:getItem
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1642:_get_json_obj
+                                             |Metadata.inc:1766:log
+  0.0039   0.0033      redis_read start   var/cache/petabox/petabox/www/sf/details.php:61:getItem
                                              |details.php:182:getItem
                                              |common/Item.inc:77:parseMetadata
                                              |Item.inc:132:get_obj
-                                             |Metadata.inc:371:get_json_obj
-                                             |Metadata.inc:1599:direct
+                                             |Metadata.inc:372:get_json_obj
+                                             |Metadata.inc:1601:direct
                                              |Caching/AbstractReactiveCache.inc:281:do_recompute
                                              |AbstractReactiveCache.inc:392:call_user_func_array
                                              |./unknown:unknown:{closure}
-                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1640:_get_json_obj
-                                             |Metadata.inc:1872:log
-  0.0172   0.0133     redis_read finish   var/cache/petabox/petabox/www/sf/details.php:61:getItem
-                                             |details.php:182:getItem
-                                             |common/Item.inc:77:parseMetadata
-                                             |Item.inc:132:get_obj
-                                             |Metadata.inc:371:get_json_obj
-                                             |Metadata.inc:1599:direct
-                                             |Caching/AbstractReactiveCache.inc:281:do_recompute
-                                             |AbstractReactiveCache.inc:392:call_user_func_array
-                                             |./unknown:unknown:{closure}
-                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1640:_get_json_obj
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1642:_get_json_obj
                                              |Metadata.inc:1874:log
-  0.0998   0.0826   begin session_start   var/cache/petabox/petabox/www/sf/details.php:61:getItem
+  0.0190   0.0151     redis_read finish   var/cache/petabox/petabox/www/sf/details.php:61:getItem
+                                             |details.php:182:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:372:get_json_obj
+                                             |Metadata.inc:1601:direct
+                                             |Caching/AbstractReactiveCache.inc:281:do_recompute
+                                             |AbstractReactiveCache.inc:392:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1642:_get_json_obj
+                                             |Metadata.inc:1876:log
+  0.0964   0.0774   begin session_start   var/cache/petabox/petabox/www/sf/details.php:61:getItem
                                              |details.php:196:include
                                              |collection.php:194:head
-                                             |common/Nav.inc:67:__construct
-                                             |Nav.inc:135:session_start
+                                             |common/Nav.inc:100:__construct
+                                             |Nav.inc:168:session_start
                                              |Cookies.inc:61:log
-  0.0999   0.0002    done session_start   var/cache/petabox/petabox/www/sf/details.php:61:getItem
+  0.0966   0.0002    done session_start   var/cache/petabox/petabox/www/sf/details.php:61:getItem
                                              |details.php:196:include
                                              |collection.php:194:head
-                                             |common/Nav.inc:67:__construct
-                                             |Nav.inc:135:session_start
+                                             |common/Nav.inc:100:__construct
+                                             |Nav.inc:168:session_start
                                              |Cookies.inc:67:log
-  0.1529   0.0529              bug dump   var/cache/petabox/petabox/www/sf/details.php:61:getItem
+  0.1641   0.0675              bug dump   var/cache/petabox/petabox/www/sf/details.php:61:getItem
                                              |details.php:196:include
                                              |collection.php:249:footer
-                                             |common/setup.php:130:footer
-                                             |Nav.inc:1392:dump
+                                             |common/setup.php:144:footer
+                                             |Nav.inc:1453:dump
                                              |Bug.inc:120:log
     -->
     <script type="text/javascript">
@@ -7148,8 +7082,8 @@ if (window.archive_analytics) {
   var vs = window.archive_analytics.get_data_packets();
   for (var i in vs) {
     vs[i]['cache_bust']=Math.random();
-    vs[i]['server_ms']=152;
-    vs[i]['server_name']="www18.us.archive.org";
+    vs[i]['server_ms']=164;
+    vs[i]['server_name']="www29.us.archive.org";
       }
 
   if ($(".more_search").size()>0) {

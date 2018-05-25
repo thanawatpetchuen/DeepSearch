@@ -225,7 +225,7 @@ jQuery("a.fancybox").fancybox({
             </a>
             <div class="col-sm-9 col-md-9">
                 <span class="counter">
-                    30070                </span>
+                    30190                </span>
                 <span class="description">
                     Follow Us
                 </span>
@@ -238,7 +238,7 @@ jQuery("a.fancybox").fancybox({
             </a>
             <div class="col-sm-9 col-md-9">
                 <span class="counter">
-                    63614                </span>
+                    64245                </span>
                 <span class="description">
                     Watch Us
                 </span>
@@ -251,7 +251,7 @@ jQuery("a.fancybox").fancybox({
             </a>
             <div class="col-sm-9 col-md-9">
                 <span class="counter">
-                    3703                </span>
+                    3734                </span>
                 <span class="description">
                     Follow Us
                 </span>
@@ -354,16 +354,16 @@ jQuery("a.fancybox").fancybox({
                             </div>
 							                        	<div class="post chm-clear">
                             	<figure class="col-md-3 col-sm-3 chm-media-object">
-								                                        <a href="http://www.computerhistory.org/atchm/the-middleton-family-a-the-new-your-worlds-fair-1939/" title="The Middleton Family at the New York World&#8217;s Fair, 1939">
-                                            <img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2012/12/aa1939_ELEKTRO_the_Smoking_Robot_New_York_World_s_Fair.jpg&amp;w=74&amp;h=60&amp;zc=1&amp;q=80" alt="The Middleton Family at the New York World&#8217;s Fair, 1939" />
+								                                        <a href="http://www.computerhistory.org/atchm/simons-js/" title="Simon&#8217;s J&#8217;s">
+                                            <img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2012/09/card_closeup_sm-542x722.jpg&amp;w=74&amp;h=60&amp;zc=1&amp;q=80" alt="Simon&#8217;s J&#8217;s" />
                                         </a>
                                         
                                                                     </figure>
                                 
                                 <div class="col-md-9 col-sm-9">
                                 	<div class="info">
-                                        <a class="title block" href="http://www.computerhistory.org/atchm/the-middleton-family-a-the-new-your-worlds-fair-1939/">The Middleton Family at the New York World&#8217;s Fair, 1939</a>
-                                        <span class="date col-md-8 col-sm-8 pull-left">March 13, 2013</span>
+                                        <a class="title block" href="http://www.computerhistory.org/atchm/simons-js/">Simon&#8217;s J&#8217;s</a>
+                                        <span class="date col-md-8 col-sm-8 pull-left">September 26, 2012</span>
                                         <span class="count col-md-3 col-sm-3 pull-right"><i class="fa fa-comments-o"></i> 3</span>
                                     </div>
                                 </div>                            
@@ -372,6 +372,40 @@ jQuery("a.fancybox").fancybox({
              
                         <div class="tab-pane chm-tab-pane fade chm-clear" id="atchm-sidebar-recent">
                         	                        	<div class="post chm-clear">
+                            	<figure class="col-md-3 col-sm-3 chm-media-object">
+								                                        <a href="http://www.computerhistory.org/_static/atchm/the-eudora-email-client-source-code/" title="The Eudora™ Email Client Source Code">
+                                            <img  class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2018/04/Eudora_splash.jpg&amp;w=74&amp;h=60&amp;zc=1&amp;q=80" alt="The Eudora™ Email Client Source Code" />
+                                        </a>
+                                        
+                                                                    </figure>
+                                
+                                
+                                <div class="col-md-9 col-sm-9">
+                                	<div class="info">
+                                        <a class="title block" href="http://www.computerhistory.org/_static/atchm/the-eudora-email-client-source-code/">The Eudora™ Email Client Source Code</a>
+                                        <span class="date col-md-8 col-sm-8 pull-left">2 days ago</span>
+                                        <span class="count col-md-3 col-sm-3 pull-right"><i class="fa fa-comments-o"></i> 0</span>
+                                    </div>
+                                </div>                            
+                            </div>
+							                        	<div class="post chm-clear">
+                            	<figure class="col-md-3 col-sm-3 chm-media-object">
+								                                        <a href="http://www.computerhistory.org/atchm/oral-histories-tell-the-story-of-japan-the-hard-disk-drive-industry/" title="Museum&#8217;s Oral Histories Tell Story of Japanese Hard Disk Drive Industry">
+                                            <img  class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2018/05/l2009.1.1p-03-07-542x655.jpg&amp;w=74&amp;h=60&amp;zc=1&amp;q=80" alt="Museum&#8217;s Oral Histories Tell Story of Japanese Hard Disk Drive Industry" />
+                                        </a>
+                                        
+                                                                    </figure>
+                                
+                                
+                                <div class="col-md-9 col-sm-9">
+                                	<div class="info">
+                                        <a class="title block" href="http://www.computerhistory.org/atchm/oral-histories-tell-the-story-of-japan-the-hard-disk-drive-industry/">Museum&#8217;s Oral Histories Tell Story of Japanese Hard Disk Drive Industry</a>
+                                        <span class="date col-md-8 col-sm-8 pull-left">May 17, 2018</span>
+                                        <span class="count col-md-3 col-sm-3 pull-right"><i class="fa fa-comments-o"></i> 0</span>
+                                    </div>
+                                </div>                            
+                            </div>
+							                        	<div class="post chm-clear">
                             	<figure class="col-md-3 col-sm-3 chm-media-object">
 								                                        <a href="http://www.computerhistory.org/atchm/2018-chm-fellow-awards/" title="2018 CHM Fellow Awards">
                                             <img  class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2018/05/MBC_CHMFellows18_WEB-1447-542x361.jpg&amp;w=74&amp;h=60&amp;zc=1&amp;q=80" alt="2018 CHM Fellow Awards" />
@@ -383,7 +417,7 @@ jQuery("a.fancybox").fancybox({
                                 <div class="col-md-9 col-sm-9">
                                 	<div class="info">
                                         <a class="title block" href="http://www.computerhistory.org/atchm/2018-chm-fellow-awards/">2018 CHM Fellow Awards</a>
-                                        <span class="date col-md-8 col-sm-8 pull-left">1 day ago</span>
+                                        <span class="date col-md-8 col-sm-8 pull-left">3 weeks ago</span>
                                         <span class="count col-md-3 col-sm-3 pull-right"><i class="fa fa-comments-o"></i> 0</span>
                                     </div>
                                 </div>                            
@@ -400,7 +434,7 @@ jQuery("a.fancybox").fancybox({
                                 <div class="col-md-9 col-sm-9">
                                 	<div class="info">
                                         <a class="title block" href="http://www.computerhistory.org/atchm/building-the-cathedral-of-technology-the-fellow-awards-at-the-computer-history-museum/">Building the Cathedral of Technology: The Fellow Awards at the Computer History Museum</a>
-                                        <span class="date col-md-8 col-sm-8 pull-left">6 days ago</span>
+                                        <span class="date col-md-8 col-sm-8 pull-left">4 weeks ago</span>
                                         <span class="count col-md-3 col-sm-3 pull-right"><i class="fa fa-comments-o"></i> 0</span>
                                     </div>
                                 </div>                            
@@ -417,41 +451,7 @@ jQuery("a.fancybox").fancybox({
                                 <div class="col-md-9 col-sm-9">
                                 	<div class="info">
                                         <a class="title block" href="http://www.computerhistory.org/atchm/2018-museum-fellow-dov-frohman-bentchkowsky-silicon-science-memory-survival/">2018 Museum Fellow Dov Frohman-Bentchkowsky: Silicon, Science, Memory &#038; Survival</a>
-                                        <span class="date col-md-8 col-sm-8 pull-left">2 weeks ago</span>
-                                        <span class="count col-md-3 col-sm-3 pull-right"><i class="fa fa-comments-o"></i> 0</span>
-                                    </div>
-                                </div>                            
-                            </div>
-							                        	<div class="post chm-clear">
-                            	<figure class="col-md-3 col-sm-3 chm-media-object">
-								                                        <a href="http://www.computerhistory.org/atchm/2018-chm-fellow-dame-stephanie-shirley/" title="2018 Museum Fellow Dame Stephanie Shirley">
-                                            <img  class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2018/04/p01gqpm2-542x304.jpg&amp;w=74&amp;h=60&amp;zc=1&amp;q=80" alt="2018 Museum Fellow Dame Stephanie Shirley" />
-                                        </a>
-                                        
-                                                                    </figure>
-                                
-                                
-                                <div class="col-md-9 col-sm-9">
-                                	<div class="info">
-                                        <a class="title block" href="http://www.computerhistory.org/atchm/2018-chm-fellow-dame-stephanie-shirley/">2018 Museum Fellow Dame Stephanie Shirley</a>
-                                        <span class="date col-md-8 col-sm-8 pull-left">3 weeks ago</span>
-                                        <span class="count col-md-3 col-sm-3 pull-right"><i class="fa fa-comments-o"></i> 0</span>
-                                    </div>
-                                </div>                            
-                            </div>
-							                        	<div class="post chm-clear">
-                            	<figure class="col-md-3 col-sm-3 chm-media-object">
-								                                        <a href="http://www.computerhistory.org/atchm/2018-chm-fellow-guido-van-rossum-python-creator-benevolent-dictator-for-life/" title="2018 Museum Fellow Guido van Rossum, Python Creator &#038; Benevolent Dictator for Life">
-                                            <img  class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2018/04/Guido-portrait-2014-542x361.jpg&amp;w=74&amp;h=60&amp;zc=1&amp;q=80" alt="2018 Museum Fellow Guido van Rossum, Python Creator &#038; Benevolent Dictator for Life" />
-                                        </a>
-                                        
-                                                                    </figure>
-                                
-                                
-                                <div class="col-md-9 col-sm-9">
-                                	<div class="info">
-                                        <a class="title block" href="http://www.computerhistory.org/atchm/2018-chm-fellow-guido-van-rossum-python-creator-benevolent-dictator-for-life/">2018 Museum Fellow Guido van Rossum, Python Creator &#038; Benevolent Dictator for Life</a>
-                                        <span class="date col-md-8 col-sm-8 pull-left">4 weeks ago</span>
+                                        <span class="date col-md-8 col-sm-8 pull-left">April 18, 2018</span>
                                         <span class="count col-md-3 col-sm-3 pull-right"><i class="fa fa-comments-o"></i> 0</span>
                                     </div>
                                 </div>                            
@@ -560,56 +560,56 @@ jQuery("a.fancybox").fancybox({
              
                         <div class="tab-pane chm-tab-pane fade chm-clear" id="atchm-sidebar-tags">
                         	<div class="post tags chm-clear">
-                            	<a href='http://www.computerhistory.org/atchm/tag/anniversary/' class='tag-link-17' title='5 topics' style='font-size: 11.180327868852px;'>Anniversary</a>
-<a href='http://www.computerhistory.org/atchm/tag/apple/' class='tag-link-8' title='22 topics' style='font-size: 14.983606557377px;'>Apple</a>
-<a href='http://www.computerhistory.org/atchm/tag/apple-computer/' class='tag-link-146' title='4 topics' style='font-size: 10.655737704918px;'>Apple Computer</a>
-<a href='http://www.computerhistory.org/atchm/tag/archives/' class='tag-link-42' title='7 topics' style='font-size: 11.967213114754px;'>Archives</a>
-<a href='http://www.computerhistory.org/atchm/tag/arpanet/' class='tag-link-18' title='5 topics' style='font-size: 11.180327868852px;'>Arpanet</a>
-<a href='http://www.computerhistory.org/atchm/tag/artificial-intelligence/' class='tag-link-151' title='4 topics' style='font-size: 10.655737704918px;'>artificial intelligence</a>
-<a href='http://www.computerhistory.org/atchm/tag/center-for-software-history/' class='tag-link-413' title='6 topics' style='font-size: 11.639344262295px;'>Center for Software History</a>
-<a href='http://www.computerhistory.org/atchm/tag/chm/' class='tag-link-326' title='55 topics' style='font-size: 17.540983606557px;'>CHM</a>
-<a href='http://www.computerhistory.org/atchm/tag/chm-live/' class='tag-link-394' title='23 topics' style='font-size: 15.114754098361px;'>CHM Live</a>
-<a href='http://www.computerhistory.org/atchm/tag/cisco/' class='tag-link-292' title='5 topics' style='font-size: 11.180327868852px;'>Cisco</a>
-<a href='http://www.computerhistory.org/atchm/tag/collection/' class='tag-link-581' title='4 topics' style='font-size: 10.655737704918px;'>collection</a>
-<a href='http://www.computerhistory.org/atchm/tag/computer-games/' class='tag-link-73' title='4 topics' style='font-size: 10.655737704918px;'>Computer Games</a>
-<a href='http://www.computerhistory.org/atchm/tag/computer-history-museum/' class='tag-link-272' title='65 topics' style='font-size: 18px;'>Computer History Museum</a>
-<a href='http://www.computerhistory.org/atchm/tag/computing/' class='tag-link-478' title='6 topics' style='font-size: 11.639344262295px;'>computing</a>
-<a href='http://www.computerhistory.org/atchm/tag/dec/' class='tag-link-22' title='4 topics' style='font-size: 10.655737704918px;'>DEC</a>
-<a href='http://www.computerhistory.org/atchm/tag/education-2/' class='tag-link-400' title='8 topics' style='font-size: 12.295081967213px;'>education</a>
-<a href='http://www.computerhistory.org/atchm/tag/eniac/' class='tag-link-123' title='5 topics' style='font-size: 11.180327868852px;'>ENIAC</a>
-<a href='http://www.computerhistory.org/atchm/tag/entrepreneurship/' class='tag-link-534' title='8 topics' style='font-size: 12.295081967213px;'>Entrepreneurship</a>
+                            	<a href='http://www.computerhistory.org/atchm/tag/anniversary/' class='tag-link-17' title='5 topics' style='font-size: 11.170731707317px;'>Anniversary</a>
+<a href='http://www.computerhistory.org/atchm/tag/apple/' class='tag-link-8' title='22 topics' style='font-size: 14.943089430894px;'>Apple</a>
+<a href='http://www.computerhistory.org/atchm/tag/apple-computer/' class='tag-link-146' title='4 topics' style='font-size: 10.650406504065px;'>Apple Computer</a>
+<a href='http://www.computerhistory.org/atchm/tag/archives/' class='tag-link-42' title='7 topics' style='font-size: 11.951219512195px;'>Archives</a>
+<a href='http://www.computerhistory.org/atchm/tag/arpanet/' class='tag-link-18' title='5 topics' style='font-size: 11.170731707317px;'>Arpanet</a>
+<a href='http://www.computerhistory.org/atchm/tag/artificial-intelligence/' class='tag-link-151' title='4 topics' style='font-size: 10.650406504065px;'>artificial intelligence</a>
+<a href='http://www.computerhistory.org/atchm/tag/center-for-software-history/' class='tag-link-413' title='6 topics' style='font-size: 11.626016260163px;'>Center for Software History</a>
+<a href='http://www.computerhistory.org/atchm/tag/chm/' class='tag-link-326' title='56 topics' style='font-size: 17.544715447154px;'>CHM</a>
+<a href='http://www.computerhistory.org/atchm/tag/chm-live/' class='tag-link-394' title='23 topics' style='font-size: 15.073170731707px;'>CHM Live</a>
+<a href='http://www.computerhistory.org/atchm/tag/cisco/' class='tag-link-292' title='5 topics' style='font-size: 11.170731707317px;'>Cisco</a>
+<a href='http://www.computerhistory.org/atchm/tag/collection/' class='tag-link-581' title='5 topics' style='font-size: 11.170731707317px;'>collection</a>
+<a href='http://www.computerhistory.org/atchm/tag/computer-games/' class='tag-link-73' title='4 topics' style='font-size: 10.650406504065px;'>Computer Games</a>
+<a href='http://www.computerhistory.org/atchm/tag/computer-history-museum/' class='tag-link-272' title='67 topics' style='font-size: 18px;'>Computer History Museum</a>
+<a href='http://www.computerhistory.org/atchm/tag/computing/' class='tag-link-478' title='6 topics' style='font-size: 11.626016260163px;'>computing</a>
+<a href='http://www.computerhistory.org/atchm/tag/dec/' class='tag-link-22' title='4 topics' style='font-size: 10.650406504065px;'>DEC</a>
+<a href='http://www.computerhistory.org/atchm/tag/education-2/' class='tag-link-400' title='8 topics' style='font-size: 12.276422764228px;'>education</a>
+<a href='http://www.computerhistory.org/atchm/tag/eniac/' class='tag-link-123' title='5 topics' style='font-size: 11.170731707317px;'>ENIAC</a>
+<a href='http://www.computerhistory.org/atchm/tag/entrepreneurship/' class='tag-link-534' title='8 topics' style='font-size: 12.276422764228px;'>Entrepreneurship</a>
 <a href='http://www.computerhistory.org/atchm/tag/exhibits/' class='tag-link-14' title='3 topics' style='font-size: 10px;'>Exhibits</a>
-<a href='http://www.computerhistory.org/atchm/tag/exponential-center/' class='tag-link-374' title='18 topics' style='font-size: 14.459016393443px;'>Exponential Center</a>
-<a href='http://www.computerhistory.org/atchm/tag/fairchild/' class='tag-link-26' title='10 topics' style='font-size: 12.885245901639px;'>Fairchild</a>
-<a href='http://www.computerhistory.org/atchm/tag/fairchild-semiconductor/' class='tag-link-110' title='4 topics' style='font-size: 10.655737704918px;'>Fairchild Semiconductor</a>
-<a href='http://www.computerhistory.org/atchm/tag/fellow-awards/' class='tag-link-459' title='8 topics' style='font-size: 12.295081967213px;'>Fellow Awards</a>
-<a href='http://www.computerhistory.org/atchm/tag/google/' class='tag-link-12' title='5 topics' style='font-size: 11.180327868852px;'>Google</a>
-<a href='http://www.computerhistory.org/atchm/tag/gordon-moore/' class='tag-link-29' title='6 topics' style='font-size: 11.639344262295px;'>Gordon Moore</a>
-<a href='http://www.computerhistory.org/atchm/tag/history/' class='tag-link-618' title='5 topics' style='font-size: 11.180327868852px;'>history</a>
-<a href='http://www.computerhistory.org/atchm/tag/ibm/' class='tag-link-148' title='6 topics' style='font-size: 11.639344262295px;'>IBM</a>
-<a href='http://www.computerhistory.org/atchm/tag/intel/' class='tag-link-109' title='8 topics' style='font-size: 12.295081967213px;'>Intel</a>
-<a href='http://www.computerhistory.org/atchm/tag/internet/' class='tag-link-246' title='4 topics' style='font-size: 10.655737704918px;'>internet</a>
-<a href='http://www.computerhistory.org/atchm/tag/iphone/' class='tag-link-423' title='8 topics' style='font-size: 12.295081967213px;'>iPhone</a>
-<a href='http://www.computerhistory.org/atchm/tag/iphone-360/' class='tag-link-507' title='4 topics' style='font-size: 10.655737704918px;'>iPhone 360</a>
-<a href='http://www.computerhistory.org/atchm/tag/john-markoff/' class='tag-link-424' title='4 topics' style='font-size: 10.655737704918px;'>John Markoff</a>
-<a href='http://www.computerhistory.org/atchm/tag/macintosh/' class='tag-link-9' title='5 topics' style='font-size: 11.180327868852px;'>Macintosh</a>
+<a href='http://www.computerhistory.org/atchm/tag/exponential-center/' class='tag-link-374' title='18 topics' style='font-size: 14.422764227642px;'>Exponential Center</a>
+<a href='http://www.computerhistory.org/atchm/tag/fairchild/' class='tag-link-26' title='10 topics' style='font-size: 12.861788617886px;'>Fairchild</a>
+<a href='http://www.computerhistory.org/atchm/tag/fairchild-semiconductor/' class='tag-link-110' title='4 topics' style='font-size: 10.650406504065px;'>Fairchild Semiconductor</a>
+<a href='http://www.computerhistory.org/atchm/tag/fellow-awards/' class='tag-link-459' title='8 topics' style='font-size: 12.276422764228px;'>Fellow Awards</a>
+<a href='http://www.computerhistory.org/atchm/tag/google/' class='tag-link-12' title='5 topics' style='font-size: 11.170731707317px;'>Google</a>
+<a href='http://www.computerhistory.org/atchm/tag/gordon-moore/' class='tag-link-29' title='6 topics' style='font-size: 11.626016260163px;'>Gordon Moore</a>
+<a href='http://www.computerhistory.org/atchm/tag/history/' class='tag-link-618' title='5 topics' style='font-size: 11.170731707317px;'>history</a>
+<a href='http://www.computerhistory.org/atchm/tag/ibm/' class='tag-link-148' title='6 topics' style='font-size: 11.626016260163px;'>IBM</a>
+<a href='http://www.computerhistory.org/atchm/tag/intel/' class='tag-link-109' title='8 topics' style='font-size: 12.276422764228px;'>Intel</a>
+<a href='http://www.computerhistory.org/atchm/tag/internet/' class='tag-link-246' title='4 topics' style='font-size: 10.650406504065px;'>internet</a>
+<a href='http://www.computerhistory.org/atchm/tag/iphone/' class='tag-link-423' title='8 topics' style='font-size: 12.276422764228px;'>iPhone</a>
+<a href='http://www.computerhistory.org/atchm/tag/iphone-360/' class='tag-link-507' title='4 topics' style='font-size: 10.650406504065px;'>iPhone 360</a>
+<a href='http://www.computerhistory.org/atchm/tag/john-markoff/' class='tag-link-424' title='4 topics' style='font-size: 10.650406504065px;'>John Markoff</a>
+<a href='http://www.computerhistory.org/atchm/tag/macintosh/' class='tag-link-9' title='5 topics' style='font-size: 11.170731707317px;'>Macintosh</a>
 <a href='http://www.computerhistory.org/atchm/tag/macpaint/' class='tag-link-11' title='3 topics' style='font-size: 10px;'>MacPaint</a>
-<a href='http://www.computerhistory.org/atchm/tag/microsoft/' class='tag-link-207' title='7 topics' style='font-size: 11.967213114754px;'>Microsoft</a>
-<a href='http://www.computerhistory.org/atchm/tag/museums/' class='tag-link-460' title='7 topics' style='font-size: 11.967213114754px;'>Museums</a>
-<a href='http://www.computerhistory.org/atchm/tag/next/' class='tag-link-177' title='4 topics' style='font-size: 10.655737704918px;'>NeXT</a>
-<a href='http://www.computerhistory.org/atchm/tag/programming/' class='tag-link-119' title='12 topics' style='font-size: 13.344262295082px;'>Programming</a>
-<a href='http://www.computerhistory.org/atchm/tag/programming-language/' class='tag-link-50' title='5 topics' style='font-size: 11.180327868852px;'>Programming Language</a>
+<a href='http://www.computerhistory.org/atchm/tag/microsoft/' class='tag-link-207' title='7 topics' style='font-size: 11.951219512195px;'>Microsoft</a>
+<a href='http://www.computerhistory.org/atchm/tag/museums/' class='tag-link-460' title='7 topics' style='font-size: 11.951219512195px;'>Museums</a>
+<a href='http://www.computerhistory.org/atchm/tag/next/' class='tag-link-177' title='4 topics' style='font-size: 10.650406504065px;'>NeXT</a>
+<a href='http://www.computerhistory.org/atchm/tag/programming/' class='tag-link-119' title='12 topics' style='font-size: 13.317073170732px;'>Programming</a>
+<a href='http://www.computerhistory.org/atchm/tag/programming-language/' class='tag-link-50' title='5 topics' style='font-size: 11.170731707317px;'>Programming Language</a>
 <a href='http://www.computerhistory.org/atchm/tag/science-fiction/' class='tag-link-52' title='3 topics' style='font-size: 10px;'>Science Fiction</a>
-<a href='http://www.computerhistory.org/atchm/tag/semiconductors/' class='tag-link-27' title='10 topics' style='font-size: 12.885245901639px;'>Semiconductors</a>
-<a href='http://www.computerhistory.org/atchm/tag/silicon-valley/' class='tag-link-28' title='24 topics' style='font-size: 15.245901639344px;'>Silicon Valley</a>
-<a href='http://www.computerhistory.org/atchm/tag/software/' class='tag-link-209' title='9 topics' style='font-size: 12.622950819672px;'>software</a>
-<a href='http://www.computerhistory.org/atchm/tag/source-code/' class='tag-link-62' title='9 topics' style='font-size: 12.622950819672px;'>Source Code</a>
-<a href='http://www.computerhistory.org/atchm/tag/sri/' class='tag-link-36' title='4 topics' style='font-size: 10.655737704918px;'>SRI</a>
-<a href='http://www.computerhistory.org/atchm/tag/steve-jobs/' class='tag-link-10' title='12 topics' style='font-size: 13.344262295082px;'>Steve Jobs</a>
-<a href='http://www.computerhistory.org/atchm/tag/technology/' class='tag-link-475' title='10 topics' style='font-size: 12.885245901639px;'>technology</a>
-<a href='http://www.computerhistory.org/atchm/tag/web-history/' class='tag-link-13' title='4 topics' style='font-size: 10.655737704918px;'>Web History</a>
-<a href='http://www.computerhistory.org/atchm/tag/william-shockley/' class='tag-link-112' title='6 topics' style='font-size: 11.639344262295px;'>William Shockley</a>
-<a href='http://www.computerhistory.org/atchm/tag/xerox-parc/' class='tag-link-35' title='6 topics' style='font-size: 11.639344262295px;'>Xerox PARC</a>                            </div>
+<a href='http://www.computerhistory.org/atchm/tag/semiconductors/' class='tag-link-27' title='10 topics' style='font-size: 12.861788617886px;'>Semiconductors</a>
+<a href='http://www.computerhistory.org/atchm/tag/silicon-valley/' class='tag-link-28' title='24 topics' style='font-size: 15.20325203252px;'>Silicon Valley</a>
+<a href='http://www.computerhistory.org/atchm/tag/software/' class='tag-link-209' title='9 topics' style='font-size: 12.60162601626px;'>software</a>
+<a href='http://www.computerhistory.org/atchm/tag/source-code/' class='tag-link-62' title='10 topics' style='font-size: 12.861788617886px;'>Source Code</a>
+<a href='http://www.computerhistory.org/atchm/tag/sri/' class='tag-link-36' title='4 topics' style='font-size: 10.650406504065px;'>SRI</a>
+<a href='http://www.computerhistory.org/atchm/tag/steve-jobs/' class='tag-link-10' title='12 topics' style='font-size: 13.317073170732px;'>Steve Jobs</a>
+<a href='http://www.computerhistory.org/atchm/tag/technology/' class='tag-link-475' title='10 topics' style='font-size: 12.861788617886px;'>technology</a>
+<a href='http://www.computerhistory.org/atchm/tag/web-history/' class='tag-link-13' title='4 topics' style='font-size: 10.650406504065px;'>Web History</a>
+<a href='http://www.computerhistory.org/atchm/tag/william-shockley/' class='tag-link-112' title='6 topics' style='font-size: 11.626016260163px;'>William Shockley</a>
+<a href='http://www.computerhistory.org/atchm/tag/xerox-parc/' class='tag-link-35' title='6 topics' style='font-size: 11.626016260163px;'>Xerox PARC</a>                            </div>
                         </div>
                     </div>  
                 </div>
@@ -668,7 +668,7 @@ jQuery("a.fancybox").fancybox({
 					<a href="http://www.computerhistory.org/atchm/category/from-the-collection/" title="View all posts in From the Collection"> 
 						From the Collection 
 					</a>
-                    <span class="counter">(52)</span>
+                    <span class="counter">(54)</span>
 				</li>
 				
 			        </ul>
@@ -681,7 +681,7 @@ jQuery("a.fancybox").fancybox({
         
         <ul id="archives" class="chm-plainlist alternation">             <li>
                 <a href="http://www.computerhistory.org/atchm/2018/05/">
-                    May 2018                    <span class="counter">(1)</span>
+                    May 2018                    <span class="counter">(3)</span>
                 </a>
             </li>
 		            <li>
@@ -1210,6 +1210,36 @@ And Ken jumped up out of his chair and said, “Yes! That’s exactly what I am 
             		
                     <div class="article col-md-6 col-sm-6 chm-clear">
                     	<figure class="col-md-3 col-sm-3 chm-media-object">
+						                        	<a href="http://www.computerhistory.org/_static/atchm/the-eudora-email-client-source-code/" title="The Eudora™ Email Client Source Code">
+                            	<img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2018/04/Eudora_splash.jpg&amp;w=260&amp;h=200&amp;zc=1&amp;q=80" alt="The Eudora™ Email Client Source Code" />
+                            </a>
+                                                </figure>
+                                
+                        <div class="col-md-9 col-sm-9">
+                        	<div class="info atchm-adjust-height chm-clear">
+                                <a class="title block" href="http://www.computerhistory.org/_static/atchm/the-eudora-email-client-source-code/">The Eudora™ Email Client Source Code</a>
+                                <span class="date">May 22, 2018</span>
+                            </div>
+                        </div>
+                	</div>
+				
+                    <div class="article col-md-6 col-sm-6 chm-clear">
+                    	<figure class="col-md-3 col-sm-3 chm-media-object">
+						                        	<a href="http://www.computerhistory.org/atchm/oral-histories-tell-the-story-of-japan-the-hard-disk-drive-industry/" title="Museum&#8217;s Oral Histories Tell Story of Japanese Hard Disk Drive Industry">
+                            	<img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2018/05/l2009.1.1p-03-07-542x655.jpg&amp;w=260&amp;h=200&amp;zc=1&amp;q=80" alt="Museum&#8217;s Oral Histories Tell Story of Japanese Hard Disk Drive Industry" />
+                            </a>
+                                                </figure>
+                                
+                        <div class="col-md-9 col-sm-9">
+                        	<div class="info atchm-adjust-height chm-clear">
+                                <a class="title block" href="http://www.computerhistory.org/atchm/oral-histories-tell-the-story-of-japan-the-hard-disk-drive-industry/">Museum&#8217;s Oral Histories Tell Story of Japanese Hard Disk Drive Industry</a>
+                                <span class="date">May 17, 2018</span>
+                            </div>
+                        </div>
+                	</div>
+				
+                    <div class="article col-md-6 col-sm-6 chm-clear">
+                    	<figure class="col-md-3 col-sm-3 chm-media-object">
 						                        	<a href="http://www.computerhistory.org/atchm/the-shocking-truth-behind-arnold-nordsiecks-differential-analyzer/" title="The Shocking Truth Behind Arnold Nordsieck’s Differential Analyzer">
                             	<img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2018/01/102688183p-03-01-acc-542x349.jpg&amp;w=260&amp;h=200&amp;zc=1&amp;q=80" alt="The Shocking Truth Behind Arnold Nordsieck’s Differential Analyzer" />
                             </a>
@@ -1234,36 +1264,6 @@ And Ken jumped up out of his chair and said, “Yes! That’s exactly what I am 
                         	<div class="info atchm-adjust-height chm-clear">
                                 <a class="title block" href="http://www.computerhistory.org/atchm/in-the-holiday-spirit-festive-music-by-computer/">In the Holiday Spirit: Festive Music by Computer!</a>
                                 <span class="date">December 21, 2017</span>
-                            </div>
-                        </div>
-                	</div>
-				
-                    <div class="article col-md-6 col-sm-6 chm-clear">
-                    	<figure class="col-md-3 col-sm-3 chm-media-object">
-						                        	<a href="http://www.computerhistory.org/atchm/into-the-archives-a-look-back-with-robotic-artist-harold-cohen/" title="Into the Archives: A Look Back with &#8220;Robotic Artist&#8221; Harold Cohen">
-                            	<img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2016/05/IMG_6630-542x406.jpg&amp;w=260&amp;h=200&amp;zc=1&amp;q=80" alt="Into the Archives: A Look Back with &#8220;Robotic Artist&#8221; Harold Cohen" />
-                            </a>
-                                                </figure>
-                                
-                        <div class="col-md-9 col-sm-9">
-                        	<div class="info atchm-adjust-height chm-clear">
-                                <a class="title block" href="http://www.computerhistory.org/atchm/into-the-archives-a-look-back-with-robotic-artist-harold-cohen/">Into the Archives: A Look Back with &#8220;Robotic Artist&#8221; Harold Cohen</a>
-                                <span class="date">October 20, 2017</span>
-                            </div>
-                        </div>
-                	</div>
-				
-                    <div class="article col-md-6 col-sm-6 chm-clear">
-                    	<figure class="col-md-3 col-sm-3 chm-media-object">
-						                        	<a href="http://www.computerhistory.org/atchm/seymour-cray-the-man-who-brought-style-to-supercomputers/" title="Seymour Cray: The Man Who Brought Style to Supercomputers">
-                            	<img class="img-responsive" src="http://www.computerhistory.org/atchm/wp-content/themes/atchm/thumb.php?src=http://www.computerhistory.org/atchm/wp-content/uploads/2017/09/Blue-542x498.jpeg&amp;w=260&amp;h=200&amp;zc=1&amp;q=80" alt="Seymour Cray: The Man Who Brought Style to Supercomputers" />
-                            </a>
-                                                </figure>
-                                
-                        <div class="col-md-9 col-sm-9">
-                        	<div class="info atchm-adjust-height chm-clear">
-                                <a class="title block" href="http://www.computerhistory.org/atchm/seymour-cray-the-man-who-brought-style-to-supercomputers/">Seymour Cray: The Man Who Brought Style to Supercomputers</a>
-                                <span class="date">September 14, 2017</span>
                             </div>
                         </div>
                 	</div>
@@ -1627,4 +1627,4 @@ All of my programs ran 2.5 x faster.</p>
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
- Served from: www.computerhistory.org @ 2018-05-03 21:09:55 by W3 Total Cache -->
+ Served from: www.computerhistory.org @ 2018-05-24 11:02:29 by W3 Total Cache -->

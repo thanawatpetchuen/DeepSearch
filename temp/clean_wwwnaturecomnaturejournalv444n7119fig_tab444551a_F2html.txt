@@ -1,12 +1,12 @@
 
 
 
+High tech from Ancient Greece | Nature
 
 
 
 
 
-<<<<<<< HEAD
     (function(e){var t=e.documentElement,n=e.implementation;t.className='js';if(n&&n.hasFeature('http://www.w3.org/TR/SVG11/feature#Image','1.1')){t.className+=' svg'}})(document)
 
 
@@ -201,20 +201,6 @@ Skip to main content
 
 
 
-We use cookies to improve your experience with our site.
-
-                        Accept and close
-                    
- | More
-                        info.
-
-
-
-
-
-
-
-
 
 
 
@@ -306,6 +292,9 @@ More detail
 Archaeology: High tech from Ancient Greece
 François Charette1
 
+
+
+Subjects
 
 
 
@@ -459,9 +448,6 @@ For Authors
 For Referees
 
 
-Specials & Supplements
-
-
 Podcasts
 
 
@@ -490,31 +476,24 @@ Journals A-Z
 
 
 
-=======
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
 
-<!-- Hide from old browsers 
-var bref;
-bref="http://mts-nature.nature.com";
-var prog_base = 'cgi-bin/main.plex';
-var ajax_capable_browser = 0;
-var image_dir = '/images/';
-var upload_base = 'cgi-bin/upload.plex';
-var sitename = 'mts-naturenaturecom';
-var tmpURL = 'http://mts-nature.nature.com/nature_files/tmp';
-// Unhide -->
 
 Nature
 
 
+Nature Communications
 
 
+Nature Protocols
 
 
+Review journals
 
 
+Scientific Reports
 
 
+View all journals
 
 
 
@@ -527,33 +506,30 @@ Nature
 
 
 
-<!-- Hide from old browsers onclick="hup('url')">
-function hup (txt) {
-	var ftxt;
-	ftxt=bref+"/cgi-bin/main.plex?form_type=do_help&file_nm="+txt;
-var w=window.open(ftxt,'nodocnm','toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=yes,copyhistory=no,width=600,height=200');
-w.focus();
-}
-function setFocus() {
-  document.none.login.focus();
-}
-// Unhide -->
 
+All Subjects
+All Subjects
 
 
 
 
 
+Biological Sciences
 
 
+Earth & Environmental Sciences
 
 
+Health Sciences
 
 
+Physical Sciences
 
 
+Scientific Community & Society
 
 
+View all subjects
 
 
 
@@ -562,39 +538,38 @@ function setFocus() {
 
 
 
-tracking system home
 
-author instructions
 
-reviewer instructions
 
 
-help
 
-tips
+nature.com
+nature.com
 
-journal home
 
-terms of use
 
 
 
+Subscriptions
 
 
+Authors & Referees
 
 
+Librarians
 
 
+Advertisers
 
 
+Press
 
 
+About
 
 
 
- 
 
-Welcome to the Nature online manuscript submission and tracking system. Please be sure that your browser is set to accept cookies, as our tracking system requires them for proper operation.  If you are a first-time user please read our instructions for authors or instructions for referees before logging in. Please note that passwords are case sensitive.  If you experience any problems, please contact the  Platform Support Helpdesk.Please see Nature Research's author and referees' website  for information about and links to policies, services and author benefits.
 
 
 
@@ -602,25 +577,24 @@ Welcome to the Nature online manuscript submission and tracking system. Please b
 
 
 
-Login Name   
 
 
+Search
 
 
-Password   
 
 
 
 
-  Note: Passwords are case sensitive.
 
 
 
+Search nature.com
 
 
 
 
-<<<<<<< HEAD
+
 advanced
 
 
@@ -647,66 +621,247 @@ Nature
 ISSN 1476-4687 (online)
 
 
-=======
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
+
+nature.com sitemap
 
 
-Register for an account
+For authors and referees
 
-
-<<<<<<< HEAD
 Guide to Authors
 Guide to Referees
 Editorial policies
 Language editing
 Scientific editing
 Reprints & permissions
-=======
-
-Forgot my login details
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
-
-
-Compliance with open access mandates and self-archiving Springer Nature's policies are compatible with the vast majority of funders' open access and self-archiving policies.  Please see here for exceptions.Springer Nature encourages the authors of all original research papers to self-archive the final author version (author's accepted version of their manuscript), with a release date of 6 months post-publication. To facilitate self-archiving, Springer Nature deposits manuscripts in PubMed Central and Europe PubMed Central on behalf of authors who opt in to this free service during submission. (This service does not apply to Reviews.) Springer Nature operates under exclusive license to publish agreements with its research authors. Authors retain copyright of their original research papers. More information is available about Springer Nature publishing policies and on the SHERPA/ROMEO website.
 
 
 
+For readers
 
-
-document.title="Nature";
-
-
-
-
-
-
-
-
-
-
-
+Journals A-Z
+Subject Pages
+Protocol Exchange
+Blogs
+Podcasts
+Webcasts
+Subscriptions
+Mobile apps
+RSS
 
 
 
+For librarians
 
- 
-
-
-
-
-
-tracking system home | author instructions | reviewer instructions | help | tips | journal home | terms of use
-
-
-
-
-
-
-
+Account administration
+Site licenses
+Catalogs
+Print subscriptions
+Pay per view
+Open access
+Promotion tools
+Public interfaces
+User guides 
+Library relations
+Publisher collaborations
 
 
 
+Careers and events
 
+Nature conferences
+Nature events
+Nature jobs.com
+
+
+
+Regional websites
+
+Nature asia
+Nature China
+Nature India
+Nature Japan
+Nature Korea
+Nature Middle East
+
+
+
+Nature Research
+
+About us
+Work for us
+Help
+Contact us
+Privacy Policy
+Use of cookies
+Manage cookies
+Legal notice
+Accessibility statement
+Terms & Conditions
+Partners
+
+
+
+For advertisers
+
+Advertising options
+Journal audience
+Event advertising
+Job posts
+Contact representative
+
+
+
+For press
+
+Press site
+Press room
+Contact press office
+
+
+
+
+
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.
+
+
+
+
+
+        var readingCompanionData = {
+  "sections" : [ {
+    "id" : "references",
+    "title" : "References"
+  }, {
+    "id" : "author-information",
+    "title" : "Author information"
+  }, {
+    "id" : "rightslink",
+    "title" : "Rights and permissions"
+  }, {
+    "id" : "article-comments",
+    "title" : "Comments",
+    "extraClass" : "hide"
+  } ],
+  "figures" : [ {
+    "num" : 1,
+    "index" : 1,
+    "imagePaths" : [ "//media.springernature.com/m685/nature-assets/nature/journal/v444/n7119/images/444551a-f1.2.jpg" ],
+    "title" : "Figure 1: Wheels within wheels.",
+    "link" : "/articles/444551a/figures/1",
+    "anchor" : "#f1",
+    "extendedData" : false
+  }, {
+    "num" : 2,
+    "index" : 2,
+    "imagePaths" : [ "//media.springernature.com/m685/nature-assets/nature/journal/v444/n7119/images/444551a-f2.2.jpg" ],
+    "title" : "Figure 2: Islamic descendant.",
+    "link" : "/articles/444551a/figures/2",
+    "anchor" : "#f2",
+    "extendedData" : false
+  } ],
+  "references" : [ {
+    "id" : "1",
+    "title" : "<span><span itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Person\"><span itemprop=\"name\">Freeth, T.</span></span> <i>et al.</i> <i>Nature</i> <b>444</b>, <span>587</span>–<span>591</span> (<span>2006</span>).</span>",
+    "schemaType" : "Article"
+  }, {
+    "id" : "2",
+    "title" : "<span><span itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Person\"><span itemprop=\"name\">Price, D. de S.</span></span> <i>Trans. Am. Phil. Soc.</i> <b>64</b>(<span>7</span>), <span>1</span>–<span>70</span> (<span>1974</span>).</span>",
+    "schemaType" : "Article"
+  }, {
+    "id" : "3",
+    "title" : "<span><span itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Person\"><span itemprop=\"name\">Price, D. de S.</span></span> <i>Science Since Babylon</i> <b>48</b> (Yale Univ. Press, <span>1975</span>).</span>",
+    "schemaType" : "Book"
+  }, {
+    "id" : "4",
+    "title" : "<span><span itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Person\"><span itemprop=\"name\">Wright, M. T.</span></span> in <i>Proc. 2nd Int. Conf. Ancient Greek Technol.</i> (ed. Tassios, Th.) <span>49</span>–<span>60</span> (Technical Chamber of Greece, Athens, <span>2006</span>).</span>",
+    "schemaType" : "Book"
+  }, {
+    "id" : "5",
+    "title" : "<span><span itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Person\"><span itemprop=\"name\">Wright, M.</span></span> &amp; <span itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Person\"><span itemprop=\"name\">Fields, J.</span></span> <i>Ann. Sci.</i> <b>42</b>, <span>87</span>–<span>138</span> (<span>1985</span>).</span>",
+    "schemaType" : "Article"
+  }, {
+    "id" : "6",
+    "title" : "<span><span itemprop=\"author\" itemscope=\"itemscope\" itemtype=\"http://schema.org/Person\"><span itemprop=\"name\">Hill, D.</span></span> <i>Ann. Sci.</i> <b>42</b>, <span>139</span>–<span>163</span> (<span>1985</span>).</span>",
+    "schemaType" : "Article"
+  } ],
+  "hasAccess" : false,
+  "hasNumericReferences" : true
+};
+    
+
+
+
+    var idp = {
+        onProofChanged: function () {
+            location.reload()
+        },
+         institutionalLogin: function (names) {
+             if (names.length && false) {
+                if (document.querySelector('.js-main-column')) {
+                    var accessMessage = document.createElement('div');
+                    accessMessage.innerHTML = '<p style="transform: translateY(-5px)" class="text14 block mb0 pb10 text-center">Access provided by ' + names[0] + '</p>';
+                    document.querySelector('.js-main-column').prepend(accessMessage);
+                }
+            }
+        },
+        hasNatureUserProof: function (hasProof) {
+            if (!hasProof) {
+                document.getElementById("my-account").setAttribute("style", "display: none;");
+                document.getElementById("login-button").setAttribute("style", "");
+            }
+        }
+    }
+
+
+
+
+
+
+
+    var appendExtraFlagsToLinks = function(params) {
+        $('a').filter(function(_, x) {
+            var href = $(x).attr('href');
+            return href && href.startsWith('/');
+        }).each(function(_, x) {
+            var $x = $(x);
+            var url = new URL('http://temp.com' + $x.attr('href'));
+            params.forEach(function(param) {
+                url.searchParams.set(param[0], param[1]);
+            });
+            $x.attr('href', url.pathname + url.search + url.hash);
+        });
+    };
+
+    var transformNatureAssetSourcesToDraft = function() {
+        var regex = /\/nature-assets\//;
+
+        var targets = [['img', 'src'], ['a', 'href']];
+
+        targets.forEach(function(target) {
+            $(target[0]).filter(function(_, x) {
+                return regex.test($(x).attr(target[1]));
+            }).each(function(_, x) {
+                var $x = $(x);
+                $x.attr(target[1], $x.attr(target[1]).replace('nature-assets', 'nature-assets-draft'));
+            });
+        });
+    };
+
+    if (window.URLSearchParams) {
+        var params = new URLSearchParams(location.search.slice(1));
+        var proof = params.get('proof');
+        var platform = params.get('platform');
+        var draft = params.get('draft');
+        if (proof || platform || draft) {
+            appendExtraFlagsToLinks(
+                [['proof', proof], ['platform', platform], ['draft', draft]].filter(function(pair) {
+                    return pair[1];
+                }));
+        }
+        if (proof || draft) {
+            transformNatureAssetSourcesToDraft();
+        }
+    }
 
 
 

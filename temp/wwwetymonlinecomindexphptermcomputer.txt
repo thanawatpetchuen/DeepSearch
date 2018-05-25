@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
     <meta name="twitter:widgets:csp" content="on">
     <title>Share a link on Twitter</title>
-    <link rel="stylesheet" type="text/css" media="screen" href="https://abs.twimg.com/a/1525490568/css/tfw/intents_rosetta.bundle.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://abs.twimg.com/a/1526620510/css/tfw/intents_rosetta.bundle.css">
 
     <style type="text/css">
       html { display:none; }
@@ -48,7 +48,7 @@
   <input name="url" type="hidden" value="https://www.etymonline.com/word/computer">
 
       <input type="hidden" name="repost_after_login" value="/intent/tweet">
-    <input type="hidden" name="authenticity_token" value="7c21985ae0ea0918af99c8fae7c651d0c7d19e7b">
+    <input type="hidden" name="authenticity_token" value="1548766df32e7c121f8915a1257b0030b80276c3">
 
     <label for="status" id="status-label">Tweet Text</label>
   </div>
@@ -134,17 +134,17 @@
 </div>
 
 
-    <script type="text/javascript" charset="utf-8" nonce="zUT9IN7qSDgQGBTcIBuioQ==">
+    <script type="text/javascript" charset="utf-8" nonce="DRSqhZ53mbSUDzWH+2TQCw==">
       var twttr = twttr || {};
-      twttr.form_authenticity_token = '7c21985ae0ea0918af99c8fae7c651d0c7d19e7b';
+      twttr.form_authenticity_token = '1548766df32e7c121f8915a1257b0030b80276c3';
       if (self == top) {
         document.documentElement.style.display = 'block';
       }
     </script>
 
-    <script src="https://abs.twimg.com/a/1525490568/tfw/loadrunner.js" type="text/javascript" data-path="https://abs.twimg.com/a/1525490568/tfw" data-main="tfw/intents/main"></script>
+    <script src="https://abs.twimg.com/a/1526620510/tfw/loadrunner.js" type="text/javascript" data-path="https://abs.twimg.com/a/1526620510/tfw" data-main="tfw/intents/main"></script>
 
-    <script type="text/javascript" charset="utf-8" nonce="zUT9IN7qSDgQGBTcIBuioQ==">
+    <script type="text/javascript" charset="utf-8" nonce="DRSqhZ53mbSUDzWH+2TQCw==">
 
   var twttr = twttr || {};
   twttr.tco = {
@@ -159,7 +159,7 @@
 
 </script>
 
-    <script type="text/javascript" nonce="zUT9IN7qSDgQGBTcIBuioQ==">
+    <script type="text/javascript" nonce="DRSqhZ53mbSUDzWH+2TQCw==">
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 

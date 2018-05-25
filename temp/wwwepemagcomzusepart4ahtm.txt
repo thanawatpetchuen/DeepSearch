@@ -1,17 +1,13 @@
 <html>
 
 <head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<<<<<<< HEAD
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app23.us.archive.org';v.server_ms=615;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1525205731.0" charset="utf-8"></script>
-=======
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app41.us.archive.org';v.server_ms=7593;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1525205731.0" charset="utf-8"></script>
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app16.us.archive.org';v.server_ms=811;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1526379016.0" charset="utf-8"></script>
 
 <script type="text/javascript">
 __wbhack.init('https://web.archive.org/web');
 </script>
-<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1525205731.0" />
-<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1525205731.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1526379016.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1526379016.0" />
 
 <!-- End Wayback Rewrite JS Include -->
 <meta name="description" content="The Life and Work of Konrad Zuse">
@@ -23,10 +19,10 @@ __wbhack.init('https://web.archive.org/web');
 <meta name="Microsoft Theme" content="none, default"><meta name="Microsoft Border" content="none, default"></head>
 
 <body bgcolor="#FFFFFF"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
-<script type="text/javascript" src="/static/js/timestamp.js?v=1525205731.0" charset="utf-8"></script>
-<script type="text/javascript" src="/static/js/graph-calc.js?v=1525205731.0" charset="utf-8"></script>
-<script type="text/javascript" src="/static/js/auto-complete.js?v=1525205731.0" charset="utf-8"></script>
-<script type="text/javascript" src="/static/js/toolbar.js?v=1525205731.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/timestamp.js?v=1526379016.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1526379016.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1526379016.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1526379016.0" charset="utf-8"></script>
 
 <style type="text/css">
 body {
@@ -322,11 +318,7 @@ __wm.bt(575,27,25,2,"web","http://www.epemag.com/zuse/part4a.htm","2008-06-01",1
 </html>
 <!--
      FILE ARCHIVED ON 21:05:41 Jun 01, 2008 AND RETRIEVED FROM THE
-<<<<<<< HEAD
-     INTERNET ARCHIVE ON 04:47:23 May 04, 2018.
-=======
-     INTERNET ARCHIVE ON 02:39:50 May 04, 2018.
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
+     INTERNET ARCHIVE ON 20:22:35 May 24, 2018.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -334,29 +326,15 @@ __wm.bt(575,27,25,2,"web","http://www.epemag.com/zuse/part4a.htm","2008-06-01",1
 -->
 <!--
 playback timings (ms):
-<<<<<<< HEAD
-  LoadShardBlock: 294.578 (3)
-  esindex: 0.008
-  captures_list: 450.003
-  CDXLines.iter: 13.05 (3)
-  PetaboxLoader3.datanode: 156.962 (4)
-  exclusion.robots.fetch: 132.43 (4)
-  exclusion.robots: 133.193
-  exclusion.robots.policy: 0.3
-  RedisCDXSource: 0.756
-  PetaboxLoader3.resolve: 196.597 (2)
-  load_resource: 142.627
-=======
-  LoadShardBlock: 219.713 (3)
-  esindex: 0.007
-  captures_list: 7479.838
-  CDXLines.iter: 11.839 (3)
-  PetaboxLoader3.datanode: 87.064 (4)
-  exclusion.robots.fetch: 7238.737 (4)
-  exclusion.robots: 7239.601
-  exclusion.robots.policy: 0.37
-  RedisCDXSource: 1.877
-  PetaboxLoader3.resolve: 85.652 (2)
-  load_resource: 89.428
->>>>>>> bd781664e5c08bcab595917265a944274d79e106
+  LoadShardBlock: 155.286 (3)
+  esindex: 0.1
+  captures_list: 579.953
+  CDXLines.iter: 11.545 (3)
+  PetaboxLoader3.datanode: 138.464 (4)
+  exclusion.robots.fetch: 399.342 (4)
+  exclusion.robots: 400.444
+  exclusion.robots.policy: 0.587
+  RedisCDXSource: 6.486
+  PetaboxLoader3.resolve: 163.457
+  load_resource: 176.031
 -->
